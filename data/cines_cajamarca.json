@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-05 11:39",
+  "actualizado": "2026-08-05 11:41",
   "fecha_objetivo": "2026-08-05",
   "peliculas": [
     {
@@ -32,38 +32,6 @@
             "17:00",
             "18:20",
             "21:10",
-            "21:45"
-          ]
-        },
-        {
-          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
-          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "15:45",
-                "16:15",
-                "17:45",
-                "18:30",
-                "19:00",
-                "20:30",
-                "21:15",
-                "21:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "15:45",
-            "16:15",
-            "17:45",
-            "18:30",
-            "19:00",
-            "20:30",
-            "21:15",
             "21:45"
           ]
         },
@@ -115,6 +83,38 @@
             "20:30",
             "21:30",
             "22:30"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "15:45",
+                "16:15",
+                "17:45",
+                "18:30",
+                "19:00",
+                "20:30",
+                "21:15",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "15:45",
+            "16:15",
+            "17:45",
+            "18:30",
+            "19:00",
+            "20:30",
+            "21:15",
+            "21:45"
           ]
         }
       ],
@@ -203,24 +203,6 @@
           "horarios": [
             "18:15",
             "21:30"
-          ]
-        },
-        {
-          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
-          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "18:45",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:45",
-            "22:00"
           ]
         },
         {
@@ -347,22 +329,6 @@
           ]
         },
         {
-          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
-          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "17:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:15"
-          ]
-        },
-        {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
           "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
@@ -485,24 +451,6 @@
           ]
         },
         {
-          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
-          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:15",
-                "19:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:15",
-            "19:30"
-          ]
-        },
-        {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
           "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
@@ -591,24 +539,6 @@
       "titulo": "PAW Patrol: La Dino Película",
       "poster": "https://cdn.carteleracine.pe/cine/2026/7/paw-patrol-la-dino-pelicula-47559-0.webp",
       "cines": [
-        {
-          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
-          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "17:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "17:00"
-          ]
-        },
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
@@ -752,109 +682,6 @@
           ]
         }
       ]
-    },
-    {
-      "titulo": "Spiderman: Un Nuevo Dia (Preventa)",
-      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/spider.jpg",
-      "genero": "Accion",
-      "clasificacion": "Todo Espectador",
-      "duracion": "02:30",
-      "sinopsis": "Tras el Día del Juicio Final, Peter Parker Intenta Centrarse en la Universidad y Abandonar a Spider-man. Cuando una Nueva Amenaza Pone en Peligro a Sus Amigos, Debe Romper Su Promesa y Volver Al Traje.",
-      "director": "Destin Daniel Cretton",
-      "actores": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jon Bernthal, Jacob Batalon",
-      "estreno": "",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
-      "fuente_peli": "Cinerama",
-      "cines": [
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "15:45",
-                "16:15",
-                "17:45",
-                "18:30",
-                "19:00",
-                "20:30",
-                "21:15",
-                "21:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "15:45",
-            "16:15",
-            "17:45",
-            "18:30",
-            "19:00",
-            "20:30",
-            "21:15",
-            "21:45"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 969681,
-        "titulo_tmdb": "Spider-Man: Brand New Day",
-        "voto": 8.0,
-        "votos": 965,
-        "url_tmdb": "https://www.themoviedb.org/movie/969681",
-        "imdb_id": "tt22084616",
-        "url_imdb": "https://www.imdb.com/title/tt22084616/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/eScWAsDd9fOjufXQamMr6AS8Mz8.jpg",
-        "director": "Destin Daniel Cretton",
-        "reparto": [
-          {
-            "nombre": "Tom Holland",
-            "personaje": "Peter Parker / Spider-Man"
-          },
-          {
-            "nombre": "Sadie Sink",
-            "personaje": "Jean Grey"
-          },
-          {
-            "nombre": "Tramell Tillman",
-            "personaje": "William 'Bill' Metzger"
-          },
-          {
-            "nombre": "Zendaya",
-            "personaje": "MJ"
-          },
-          {
-            "nombre": "Jon Bernthal",
-            "personaje": "Frank Castle / Punisher"
-          },
-          {
-            "nombre": "Jacob Batalon",
-            "personaje": "Ned Leeds"
-          }
-        ],
-        "generos": [
-          "Ciencia ficción",
-          "Acción",
-          "Aventura"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
-          "embed_id": "o8EccyRIwQQ"
-        },
-        "sinopsis_tmdb": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-        "estreno": "28 jul 2026",
-        "duracion_min": 144,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Spider-Man: Brand New Day"
-      }
     }
   ],
   "cines": [
