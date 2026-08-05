@@ -1,0 +1,818 @@
+{
+  "ciudad": "cajamarca",
+  "titulo": "Cines en Cajamarca",
+  "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
+  "actualizado": "2026-08-05 10:23",
+  "fecha_objetivo": "2026-08-05",
+  "peliculas": [
+    {
+      "titulo": "Spider Man: Un Nuevo Dia",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-1.jpg",
+      "cines": [
+        {
+          "cine": "CAJAMARCA - MOVIE TIME",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "15:30",
+                "16:10",
+                "17:00",
+                "18:20",
+                "21:10",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "16:10",
+            "17:00",
+            "18:20",
+            "21:10",
+            "21:45"
+          ]
+        },
+        {
+          "cine": "CP Cajamarca",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "3D REGULAR DOBLADA",
+              "horarios": [
+                "12:30",
+                "15:30",
+                "18:30",
+                "21:30"
+              ]
+            },
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "13:30",
+                "14:00",
+                "14:30",
+                "16:30",
+                "17:00",
+                "17:30",
+                "19:30",
+                "20:00",
+                "20:30",
+                "22:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "12:30",
+            "13:30",
+            "14:00",
+            "14:30",
+            "15:30",
+            "16:30",
+            "17:00",
+            "17:30",
+            "18:30",
+            "19:30",
+            "20:00",
+            "20:30",
+            "21:30",
+            "22:30"
+          ]
+        }
+      ],
+      "genero": "Ciencia Ficción",
+      "duracion": "145 minutos",
+      "clasificacion": "12 Años",
+      "director": "Destin Daniel Cretton",
+      "actores": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jon Bernthal, Jacob Batalon",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/spider-man-un-nuevo-dia-12132_252",
+      "trailer_url": "https://www.youtube.com/watch?v=xrgNovKS0Co",
+      "sinopsis": "Han pasado cuatro años desde los acontecimientos de Sin regreso a casa, y Peter ahora es un adulto que vive completamente solo, habiéndose borrado voluntariamente de la vida y los recuerdos de sus seres queridos. Combatiendo el crimen en una Nueva York que ya no lo conoce, se ha dedicado por completo a proteger su ciudad —un Spider-Man a tiempo completo—, pero a medida que las exigencias se intens",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 969681,
+        "titulo_tmdb": "Spider-Man: Brand New Day",
+        "voto": 8.0,
+        "votos": 961,
+        "url_tmdb": "https://www.themoviedb.org/movie/969681",
+        "imdb_id": "tt22084616",
+        "url_imdb": "https://www.imdb.com/title/tt22084616/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/eScWAsDd9fOjufXQamMr6AS8Mz8.jpg",
+        "director": "Destin Daniel Cretton",
+        "reparto": [
+          {
+            "nombre": "Tom Holland",
+            "personaje": "Peter Parker / Spider-Man"
+          },
+          {
+            "nombre": "Sadie Sink",
+            "personaje": "Jean Grey"
+          },
+          {
+            "nombre": "Tramell Tillman",
+            "personaje": "William 'Bill' Metzger"
+          },
+          {
+            "nombre": "Zendaya",
+            "personaje": "MJ"
+          },
+          {
+            "nombre": "Jon Bernthal",
+            "personaje": "Frank Castle / Punisher"
+          },
+          {
+            "nombre": "Jacob Batalon",
+            "personaje": "Ned Leeds"
+          }
+        ],
+        "generos": [
+          "Ciencia ficción",
+          "Acción",
+          "Aventura"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
+          "embed_id": "o8EccyRIwQQ"
+        },
+        "sinopsis_tmdb": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+        "estreno": "28 jul 2026",
+        "duracion_min": 144,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Spider-Man: Brand New Day"
+      }
+    },
+    {
+      "titulo": "La Odisea",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/5/la-odisea-47428-0.webp",
+      "cines": [
+        {
+          "cine": "CAJAMARCA - MOVIE TIME",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "18:15",
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:15",
+            "21:30"
+          ]
+        },
+        {
+          "cine": "CP Cajamarca",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "18:10",
+                "21:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:10",
+            "21:40"
+          ]
+        }
+      ],
+      "genero": "Drama",
+      "duracion": "170 minutos",
+      "clasificacion": "12 Años",
+      "director": "Christopher Nolan",
+      "actores": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel, Charlize Theron",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/la-odisea-12131_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=La%20Odisea%20trailer%20espanol",
+      "sinopsis": "-",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1368337,
+        "titulo_tmdb": "La Odisea",
+        "voto": 8.0,
+        "votos": 2215,
+        "url_tmdb": "https://www.themoviedb.org/movie/1368337",
+        "imdb_id": "tt33764258",
+        "url_imdb": "https://www.imdb.com/title/tt33764258/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/eoNiukYRWJRxMlVnTOye0kkUB5k.jpg",
+        "director": "Christopher Nolan",
+        "reparto": [
+          {
+            "nombre": "Matt Damon",
+            "personaje": "Odysseus"
+          },
+          {
+            "nombre": "Tom Holland",
+            "personaje": "Telemachus"
+          },
+          {
+            "nombre": "Anne Hathaway",
+            "personaje": "Penelope"
+          },
+          {
+            "nombre": "Robert Pattinson",
+            "personaje": "Antinous"
+          },
+          {
+            "nombre": "Himesh Patel",
+            "personaje": "Eurylochus"
+          },
+          {
+            "nombre": "Charlize Theron",
+            "personaje": "Calypso"
+          }
+        ],
+        "generos": [
+          "Aventura",
+          "Acción",
+          "Fantasía"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+        "estreno": "15 jul 2026",
+        "duracion_min": 173,
+        "paises": [
+          "Reino Unido",
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "The Odyssey"
+      }
+    },
+    {
+      "titulo": "Moana",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/5/moana-47426-0.webp",
+      "cines": [
+        {
+          "cine": "CAJAMARCA - MOVIE TIME",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00"
+          ]
+        },
+        {
+          "cine": "CP Cajamarca",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:40"
+          ]
+        }
+      ],
+      "genero": "Aventura",
+      "duracion": "115 minutos",
+      "clasificacion": "Todos",
+      "director": "Thomas Kail",
+      "actores": "Catherine Lagaʻaia, Dwayne Johnson, Rena Owen, John Tui, Frankie Adams, Jemaine Clement",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/moana-12129_252",
+      "trailer_url": "https://www.youtube.com/watch?v=XcPZ2jPTJCM",
+      "sinopsis": "Moana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el infame semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devolver la prosperidad a su pueblo.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1108427,
+        "titulo_tmdb": "Vaiana",
+        "voto": 5.8,
+        "votos": 168,
+        "url_tmdb": "https://www.themoviedb.org/movie/1108427",
+        "imdb_id": "tt27419466",
+        "url_imdb": "https://www.imdb.com/title/tt27419466/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/4sFGyfPGrS2uonrWFDGlLXT0nyA.jpg",
+        "director": "Thomas Kail",
+        "reparto": [
+          {
+            "nombre": "Catherine Lagaʻaia",
+            "personaje": "Moana"
+          },
+          {
+            "nombre": "Dwayne Johnson",
+            "personaje": "Maui"
+          },
+          {
+            "nombre": "Rena Owen",
+            "personaje": "Gramma Tala"
+          },
+          {
+            "nombre": "John Tui",
+            "personaje": "Chief Tui"
+          },
+          {
+            "nombre": "Frankie Adams",
+            "personaje": "Sina"
+          },
+          {
+            "nombre": "Jemaine Clement",
+            "personaje": "Tamatoa (voice)"
+          }
+        ],
+        "generos": [
+          "Familia",
+          "Fantasía",
+          "Comedia",
+          "Aventura"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=hAGDSmLpjFM",
+          "embed_id": "hAGDSmLpjFM"
+        },
+        "sinopsis_tmdb": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+        "estreno": "8 jul 2026",
+        "duracion_min": 115,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Moana"
+      }
+    },
+    {
+      "titulo": "Toy Story 5",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/5/toy-story-5-47403-0.webp",
+      "cines": [
+        {
+          "cine": "CAJAMARCA - MOVIE TIME",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "14:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:15"
+          ]
+        }
+      ],
+      "genero": "Animado",
+      "duracion": "102 minutos",
+      "clasificacion": "Todos",
+      "director": "Andrew Stanton",
+      "actores": "Tom Hanks, Tim Allen, Joan Cusack, Greta Lee, Conan O'Brien, Tony Hale, Craig Robinson, Shelby Rabara, Scarlett Spears",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/toy-story-5-12119_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Toy%20Story%205%20trailer%20espanol",
+      "sinopsis": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1084244,
+        "titulo_tmdb": "Toy Story 5",
+        "voto": 7.4,
+        "votos": 762,
+        "url_tmdb": "https://www.themoviedb.org/movie/1084244",
+        "imdb_id": "tt29355505",
+        "url_imdb": "https://www.imdb.com/title/tt29355505/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
+        "director": "Andrew Stanton",
+        "reparto": [
+          {
+            "nombre": "Tom Hanks",
+            "personaje": "Woody (voice)"
+          },
+          {
+            "nombre": "Tim Allen",
+            "personaje": "Buzz Lightyear (voice)"
+          },
+          {
+            "nombre": "Joan Cusack",
+            "personaje": "Jessie (voice)"
+          },
+          {
+            "nombre": "Greta Lee",
+            "personaje": "Lilypad (voice)"
+          },
+          {
+            "nombre": "Conan O'Brien",
+            "personaje": "Smarty Pants (voice)"
+          },
+          {
+            "nombre": "Craig Robinson",
+            "personaje": "Atlas (voice)"
+          }
+        ],
+        "generos": [
+          "Animación",
+          "Familia",
+          "Comedia",
+          "Aventura"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=9_reo5Jl1OM",
+          "embed_id": "9_reo5Jl1OM"
+        },
+        "sinopsis_tmdb": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+        "estreno": "17 jun 2026",
+        "duracion_min": 102,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Toy Story 5"
+      }
+    },
+    {
+      "titulo": "Minions y Monstruos",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002827?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Animación",
+      "clasificacion": "APT",
+      "duracion": "90 min",
+      "director": "",
+      "actores": "",
+      "estreno": "",
+      "sinopsis": "Los Minions emprenden un viaje para encontrar criaturas aterradoras que aparezcan en su película de monstruos.",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://youtu.be/FJn7cwKcc1k",
+      "fuente_peli": "Cineplanet",
+      "cines": [
+        {
+          "cine": "CP Cajamarca",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "12:20",
+                "13:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "12:20",
+            "13:40"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Paw Patrol la dino pelicula",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002955?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Animación",
+      "clasificacion": "APT",
+      "duracion": "90 min",
+      "director": "Cal Brunker",
+      "actores": "Carter Young, Hayden Chamberlen, Mckenna Grace, Rain Janjua, Henry Bolan, Lucien Duncan-Reid",
+      "estreno": "",
+      "sinopsis": "Después de que su barco queda atrapado en una tormenta misteriosa, los cachorros de la PAW Patrol aterrizan de emergencia en una isla tropical inexplorada llena de dinosaurios. Allí conocen a Rex, un cachorro que ha quedado varado en la isla durante años y se ha convertido en un experto en todo lo relacionado con dinos. Cuando el archirrival de la PAW Patrol, el alcalde Humdinger, comienza a excav",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=HYYIY4Ud-LM&t=3s",
+      "fuente_peli": "Cineplanet",
+      "cines": [
+        {
+          "cine": "CP Cajamarca",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "12:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "12:00"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1185806,
+        "titulo_tmdb": "La Patrulla Canina: La dino película",
+        "voto": 7.0,
+        "votos": 8,
+        "url_tmdb": "https://www.themoviedb.org/movie/1185806",
+        "imdb_id": "tt29356163",
+        "url_imdb": "https://www.imdb.com/title/tt29356163/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
+        "director": "Cal Brunker",
+        "reparto": [
+          {
+            "nombre": "Carter Young",
+            "personaje": "Marshall (voice)"
+          },
+          {
+            "nombre": "Hayden Chamberlen",
+            "personaje": "Rex (voice)"
+          },
+          {
+            "nombre": "Mckenna Grace",
+            "personaje": "Skye (voice)"
+          },
+          {
+            "nombre": "Rain Janjua",
+            "personaje": "Chase (voice)"
+          },
+          {
+            "nombre": "Henry Bolan",
+            "personaje": "Ryder (voice)"
+          },
+          {
+            "nombre": "Lucien Duncan-Reid",
+            "personaje": "Rubble (voice)"
+          }
+        ],
+        "generos": [
+          "Aventura",
+          "Animación",
+          "Comedia",
+          "Familia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=N-jJORZ3TF4",
+          "embed_id": "N-jJORZ3TF4"
+        },
+        "sinopsis_tmdb": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
+        "estreno": "23 jul 2026",
+        "duracion_min": 88,
+        "paises": [
+          "Canadá",
+          "Francia",
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "PAW Patrol: The Dino Movie"
+      }
+    }
+  ],
+  "cines": [
+    {
+      "cine": "CAJAMARCA - MOVIE TIME",
+      "cine_slug": "movietime-cajamarca-cajamarca-s448",
+      "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+      "peliculas": [
+        {
+          "titulo": "Spider Man: Un Nuevo Dia",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-1.jpg",
+          "genero": "Ciencia Ficción",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "15:30",
+                "16:10",
+                "17:00",
+                "18:20",
+                "21:10",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "16:10",
+            "17:00",
+            "18:20",
+            "21:10",
+            "21:45"
+          ]
+        },
+        {
+          "titulo": "La Odisea",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/5/la-odisea-47428-0.webp",
+          "genero": "Drama",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "18:15",
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:15",
+            "21:30"
+          ]
+        },
+        {
+          "titulo": "Moana",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/5/moana-47426-0.webp",
+          "genero": "Aventura",
+          "clasificacion": "Todos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00"
+          ]
+        },
+        {
+          "titulo": "Toy Story 5",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/5/toy-story-5-47403-0.webp",
+          "genero": "Animado",
+          "clasificacion": "Todos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "14:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:15"
+          ]
+        }
+      ]
+    },
+    {
+      "cine": "CP Cajamarca",
+      "cine_slug": "cp-cajamarca",
+      "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+      "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+      "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+      "fuente_cine": "Cineplanet",
+      "peliculas": [
+        {
+          "titulo": "La Odisea",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002831?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "18:10",
+                "21:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:10",
+            "21:40"
+          ]
+        },
+        {
+          "titulo": "Minions y Monstruos",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002827?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Animación",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "12:20",
+                "13:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "12:20",
+            "13:40"
+          ]
+        },
+        {
+          "titulo": "Moana",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002918?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Familiar",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:40"
+          ]
+        },
+        {
+          "titulo": "Paw Patrol la dino pelicula",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002955?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Animación",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "12:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "12:00"
+          ]
+        },
+        {
+          "titulo": "Spider Man: Un Nuevo Dia",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002949?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "3D REGULAR DOBLADA",
+              "horarios": [
+                "12:30",
+                "15:30",
+                "18:30",
+                "21:30"
+              ]
+            },
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "13:30",
+                "14:00",
+                "14:30",
+                "16:30",
+                "17:00",
+                "17:30",
+                "19:30",
+                "20:00",
+                "20:30",
+                "22:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "12:30",
+            "13:30",
+            "14:00",
+            "14:30",
+            "15:30",
+            "16:30",
+            "17:00",
+            "17:30",
+            "18:30",
+            "19:30",
+            "20:00",
+            "20:30",
+            "21:30",
+            "22:30"
+          ]
+        }
+      ]
+    },
+    {
+      "cine": "Cajamarca Megaplaza (Cinerama)",
+      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+      "direccion": "",
+      "peliculas": [],
+      "sin_programacion": true,
+      "nota": "La fuente no publica funciones de esta sala hoy."
+    }
+  ],
+  "estado": "ok",
+  "motor": "gemini",
+  "fuentes_extra": [
+    "Cineplanet"
+  ]
+}

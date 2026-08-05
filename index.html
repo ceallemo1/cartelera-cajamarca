@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cartelera de cines · Cajamarca</title>
+<meta name="description" content="Cartelera de hoy de los cines de Cajamarca: peliculas, formatos y horarios.">
+<style>
+  :root{
+    --fondo:#ffffff; --texto:#1c1d1f; --suave:#8a8d91; --linea:#ececec;
+    --tarjeta:#ffffff; --chip:#f4f5f6; --acento:#1c1d1f; --sombra:0 1px 2px rgba(0,0,0,.06);
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --fondo:#16171a; --texto:#f2f3f5; --suave:#9b9ea3; --linea:#2a2c31;
+      --tarjeta:#1d1f23; --chip:#26282d; --acento:#f2f3f5; --sombra:none;
+    }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--fondo);color:var(--texto);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing:antialiased}
+  .env{max-width:900px;margin:0 auto;padding:20px 16px 56px}
+  header h1{font-size:22px;font-weight:650;margin:0 0 4px}
+  .sub{font-size:13px;color:var(--suave);margin-bottom:18px}
+  .tabs{display:flex;gap:8px;margin-bottom:18px}
+  .tab{flex:0 0 auto;padding:8px 15px;border-radius:999px;border:1px solid var(--linea);
+    background:var(--tarjeta);color:var(--texto);font-size:14px;cursor:pointer;font-family:inherit}
+  .tab[aria-selected="true"]{background:var(--acento);color:var(--fondo);border-color:var(--acento)}
+  .tarjeta{background:var(--tarjeta);border:1px solid var(--linea);border-radius:14px;
+    padding:14px;margin-bottom:12px;box-shadow:var(--sombra)}
+  .fila{display:flex;gap:13px}
+  .poster{width:66px;height:99px;flex:0 0 66px;border-radius:8px;object-fit:cover;background:var(--chip)}
+  .tit{font-size:16px;font-weight:600;margin:0 0 3px;line-height:1.25}
+  .meta{font-size:12.5px;color:var(--suave);margin-bottom:8px}
+  .sino{font-size:13px;color:var(--suave);margin:6px 0 0;line-height:1.45}
+  .cine{margin-top:11px;padding-top:10px;border-top:1px solid var(--linea)}
+  .cine:first-of-type{border-top:0;padding-top:0}
+  .cine-n{font-size:13.5px;font-weight:600;margin-bottom:2px}
+  .cine-d{font-size:12px;color:var(--suave);margin-bottom:7px}
+  .fmt{font-size:12px;color:var(--suave);margin:7px 0 5px}
+  .horas{display:flex;flex-wrap:wrap;gap:6px}
+  .hora{background:var(--chip);border-radius:7px;padding:5px 10px;font-size:13px;
+    font-variant-numeric:tabular-nums}
+  .aviso{background:var(--chip);border-radius:10px;padding:11px 13px;font-size:13px;
+    color:var(--suave);margin-top:9px}
+  footer{margin-top:26px;padding-top:14px;border-top:1px solid var(--linea);
+    font-size:11.5px;color:var(--suave);line-height:1.6}
+  footer a{color:inherit}
+  .cargando{color:var(--suave);font-size:14px;padding:26px 0}
+  @media (max-width:420px){ .poster{width:56px;height:84px;flex-basis:56px} }
+</style>
+</head>
+<body>
+<div class="env">
+  <header>
+    <h1>Cartelera de Cajamarca</h1>
+    <div class="sub" id="sub">Cargando…</div>
+  </header>
+
+  <div class="tabs" role="tablist">
+    <button class="tab" id="tab-peli" role="tab" aria-selected="true">Por película</button>
+    <button class="tab" id="tab-cine" role="tab" aria-selected="false">Por cine</button>
+  </div>
+
+  <main id="cuerpo"><div class="cargando">Cargando cartelera…</div></main>
+
+  <footer>
+    Horarios tomados de <a href="https://www.carteleracine.pe" rel="noopener">carteleracine.pe</a>
+    y de la web oficial de Cineplanet. Se actualiza solo, varias veces al día.
+    <br>Antes de salir de casa conviene confirmar la función en la web del cine: un horario puede
+    cambiar después de la última actualización.
+  </footer>
+</div>
+
+<script>
+// Datos: el mismo JSON que usa el tablero, copiado aqui por el cron. Sin dependencias
+// externas a proposito: la pagina tiene que abrir rapido en un celular con mala senal.
+var DATOS = null, VISTA = "peli";
+
+function esc(s){
+  return String(s == null ? "" : s).replace(/[&<>"']/g, function(c){
+    return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];
+  });
+}
+
+function horasHTML(formatos, sueltos){
+  var out = "";
+  if (formatos && formatos.length) {
+    for (var i = 0; i < formatos.length; i++) {
+      var f = formatos[i];
+      if (f.formato) out += '<div class="fmt">' + esc(f.formato) + "</div>";
+      out += '<div class="horas">' + (f.horarios || []).map(function(h){
+        return '<span class="hora">' + esc(h) + "</span>";
+      }).join("") + "</div>";
+    }
+    return out;
+  }
+  return '<div class="horas">' + (sueltos || []).map(function(h){
+    return '<span class="hora">' + esc(h) + "</span>";
+  }).join("") + "</div>";
+}
+
+function vistaPeliculas(d){
+  var pel = d.peliculas || [];
+  if (!pel.length) return '<div class="aviso">Hoy no hay funciones publicadas.</div>';
+  return pel.map(function(p){
+    var meta = [p.genero, p.duracion, p.clasificacion].filter(Boolean).join(" · ");
+    var cines = (p.cines || []).map(function(c){
+      return '<div class="cine"><div class="cine-n">' + esc(c.cine) + "</div>" +
+             horasHTML(c.formatos, c.horarios) + "</div>";
+    }).join("");
+    return '<article class="tarjeta"><div class="fila">' +
+      (p.poster ? '<img class="poster" loading="lazy" alt="" src="' + esc(p.poster) + '">' : '<div class="poster"></div>') +
+      '<div style="flex:1;min-width:0">' +
+        '<h2 class="tit">' + esc(p.titulo) + "</h2>" +
+        (meta ? '<div class="meta">' + esc(meta) + "</div>" : "") +
+        (p.sinopsis ? '<p class="sino">' + esc(p.sinopsis) + "</p>" : "") +
+      "</div></div>" + cines + "</article>";
+  }).join("");
+}
+
+function vistaCines(d){
+  var cines = d.cines || [];
+  if (!cines.length) return '<div class="aviso">No hay cines publicados para esta ciudad.</div>';
+  return cines.map(function(c){
+    // Una sala sin programacion se MUESTRA diciendolo. Omitirla haria pensar que
+    // el cine no existe, que es justo el error que tenia el tablero.
+    if (c.sin_programacion || !(c.peliculas || []).length) {
+      return '<article class="tarjeta"><div class="cine-n">' + esc(c.cine) + "</div>" +
+        (c.direccion ? '<div class="cine-d">' + esc(c.direccion) + "</div>" : "") +
+        '<div class="aviso">' + esc(c.nota || "Sin programación publicada hoy.") + "</div></article>";
+    }
+    var pelis = (c.peliculas || []).map(function(p){
+      return '<div class="cine"><div class="cine-n">' + esc(p.titulo) + "</div>" +
+             horasHTML(p.formatos, p.horarios) + "</div>";
+    }).join("");
+    return '<article class="tarjeta"><div class="cine-n" style="font-size:16px">' + esc(c.cine) + "</div>" +
+      (c.direccion ? '<div class="cine-d">' + esc(c.direccion) + "</div>" : "") +
+      pelis + "</article>";
+  }).join("");
+}
+
+function pintar(){
+  if (!DATOS) return;
+  document.getElementById("cuerpo").innerHTML =
+    VISTA === "peli" ? vistaPeliculas(DATOS) : vistaCines(DATOS);
+  document.getElementById("tab-peli").setAttribute("aria-selected", VISTA === "peli");
+  document.getElementById("tab-cine").setAttribute("aria-selected", VISTA === "cine");
+}
+
+document.getElementById("tab-peli").onclick = function(){ VISTA = "peli"; pintar(); };
+document.getElementById("tab-cine").onclick = function(){ VISTA = "cine"; pintar(); };
+
+// El sufijo de tiempo evita que el navegador sirva la cartelera de ayer desde su cache.
+fetch("data/cines_cajamarca.json?v=" + Date.now())
+  .then(function(r){ if(!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+  .then(function(d){
+    DATOS = d;
+    var n = (d.peliculas || []).length, c = (d.cines || []).length;
+    document.getElementById("sub").textContent =
+      n + (n === 1 ? " película" : " películas") + " · " +
+      c + (c === 1 ? " cine" : " cines") + " · actualizado " + (d.actualizado || "");
+    pintar();
+  })
+  .catch(function(e){
+    document.getElementById("sub").textContent = "";
+    document.getElementById("cuerpo").innerHTML =
+      '<div class="aviso">No se pudo cargar la cartelera (' + esc(e.message) + ").</div>";
+  });
+</script>
+</body>
+</html>
