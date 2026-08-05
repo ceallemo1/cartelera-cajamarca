@@ -84,6 +84,13 @@ function esc(s){
   });
 }
 
+// Cuando el enriquecido no consigue sinopsis deja un guion o una raya. Pintarlo da
+// una linea con un "-" suelto bajo el titulo, que parece un error de la pagina.
+function _hayTexto(s){
+  s = (s == null ? "" : String(s)).trim();
+  return s !== "" && s !== "-" && s !== "—" && s !== "--";
+}
+
 function horasHTML(formatos, sueltos){
   var out = "";
   if (formatos && formatos.length) {
@@ -115,7 +122,7 @@ function vistaPeliculas(d){
       '<div style="flex:1;min-width:0">' +
         '<h2 class="tit">' + esc(p.titulo) + "</h2>" +
         (meta ? '<div class="meta">' + esc(meta) + "</div>" : "") +
-        (p.sinopsis ? '<p class="sino">' + esc(p.sinopsis) + "</p>" : "") +
+        (_hayTexto(p.sinopsis) ? '<p class="sino">' + esc(p.sinopsis) + "</p>" : "") +
       "</div></div>" + cines + "</article>";
   }).join("");
 }
