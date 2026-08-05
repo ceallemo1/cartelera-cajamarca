@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-05 10:39",
+  "actualizado": "2026-08-05 11:00",
   "fecha_objetivo": "2026-08-05",
   "peliculas": [
     {
@@ -94,7 +94,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/spider-man-un-nuevo-dia-12132_252",
       "trailer_url": "https://www.youtube.com/watch?v=xrgNovKS0Co",
-      "sinopsis": "Peter Parker, recién graduado de la universidad, debe equilibrar su vida como estudiante y como Spider-Man mientras enfrenta una nueva amenaza en la ciudad.",
+      "sinopsis": "Han pasado cuatro años desde los acontecimientos de Sin regreso a casa, y Peter ahora es un adulto que vive completamente solo, habiéndose borrado voluntariamente de la vida y los recuerdos de sus seres queridos. Combatiendo el crimen en una Nueva York que ya no lo conoce, se ha dedicado por completo a proteger su ciudad —un Spider-Man a tiempo completo—, pero a medida que las exigencias se intens",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 969681,
@@ -203,7 +203,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-odisea-12131_252",
       "trailer_url": "https://www.youtube.com/results?search_query=La%20Odisea%20trailer%20espanol",
-      "sinopsis": "Una épica adaptación de la clásica obra griega que sigue el viaje del héroe Odiseo para regresar a Ítaca tras la Guerra de Troya.",
+      "sinopsis": "-",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1368337,
@@ -306,7 +306,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/moana-12129_252",
       "trailer_url": "https://www.youtube.com/watch?v=XcPZ2jPTJCM",
-      "sinopsis": "Moana, una valiente joven polinesia, se embarca en una aventura oceánica para devolver el corazón robado a la diosa Te Fiti y salvar a su pueblo.",
+      "sinopsis": "Moana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el infame semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devolver la prosperidad a su pueblo.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1108427,
@@ -393,7 +393,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/toy-story-5-12119_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Toy%20Story%205%20trailer%20espanol",
-      "sinopsis": "Woody, Buzz y el resto de los juguetes se enfrentan a una nueva etapa cuando su dueña crece y los lleva a una tienda de segunda mano, descubriendo nuevos amigos y desafíos.",
+      "sinopsis": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1084244,
@@ -811,7 +811,7 @@
     }
   ],
   "estado": "ok",
-  "motor": "cerebras",
+  "motor": "gemini",
   "fuentes_extra": [
     "Cineplanet"
   ]
