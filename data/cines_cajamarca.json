@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-05 11:41",
+  "actualizado": "2026-08-05 11:43",
   "fecha_objetivo": "2026-08-05",
   "peliculas": [
     {
@@ -770,7 +770,8 @@
             "14:15"
           ]
         }
-      ]
+      ],
+      "cine_original": "CAJAMARCA - MOVIE TIME"
     },
     {
       "cine": "CinePlanet Cajamarca Real Plaza",
@@ -900,7 +901,8 @@
             "22:30"
           ]
         }
-      ]
+      ],
+      "cine_original": "CP Cajamarca"
     },
     {
       "cine": "Cinerama Cajamarca MegaPlaza",
@@ -950,7 +952,7 @@
           ]
         },
         {
-          "titulo": "Paw Patrol la Dino Pelicula",
+          "titulo": "PAW Patrol: La Dino Película",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/paw_patrol_the_dino_movie-877989315-large.jpg",
           "genero": "Animado",
           "clasificacion": "Todo Espectador",
@@ -971,7 +973,7 @@
           ]
         },
         {
-          "titulo": "Spiderman: Un Nuevo Dia (Preventa)",
+          "titulo": "Spider Man: Un Nuevo Dia",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/spider.jpg",
           "genero": "Accion",
           "clasificacion": "Todo Espectador",
