@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-05 11:43",
+  "actualizado": "2026-08-05 17:00",
   "fecha_objetivo": "2026-08-05",
   "peliculas": [
     {
@@ -46,7 +46,6 @@
             {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
-                "12:30",
                 "15:30",
                 "18:30",
                 "21:30"
@@ -55,9 +54,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "13:30",
-                "14:00",
-                "14:30",
                 "16:30",
                 "17:00",
                 "17:30",
@@ -69,10 +65,6 @@
             }
           ],
           "horarios": [
-            "12:30",
-            "13:30",
-            "14:00",
-            "14:30",
             "15:30",
             "16:30",
             "17:00",
@@ -126,13 +118,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/spider-man-un-nuevo-dia-12132_252",
       "trailer_url": "https://www.youtube.com/watch?v=xrgNovKS0Co",
-      "sinopsis": "Han pasado cuatro años desde los acontecimientos de Sin regreso a casa, y Peter ahora es un adulto que vive completamente solo, habiéndose borrado voluntariamente de la vida y los recuerdos de sus seres queridos. Combatiendo el crimen en una Nueva York que ya no lo conoce, se ha dedicado por completo a proteger su ciudad —un Spider-Man a tiempo completo—, pero a medida que las exigencias se intens",
+      "sinopsis": "Peter Parker, ahora en la Universidad de Midtown, debe equilibrar su vida como estudiante y como Spider-Man mientras enfrenta a nuevos villanos en la ciudad.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 969681,
         "titulo_tmdb": "Spider-Man: Brand New Day",
         "voto": 8.0,
-        "votos": 961,
+        "votos": 1005,
         "url_tmdb": "https://www.themoviedb.org/movie/969681",
         "imdb_id": "tt22084616",
         "url_imdb": "https://www.imdb.com/title/tt22084616/",
@@ -253,13 +245,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-odisea-12131_252",
       "trailer_url": "https://www.youtube.com/results?search_query=La%20Odisea%20trailer%20espanol",
-      "sinopsis": "-",
+      "sinopsis": "Una épica adaptación de la obra homónima que sigue el viaje del héroe Odiseo para regresar a Ítaca tras la Guerra de Troya, enfrentando monstruos y dioses.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1368337,
         "titulo_tmdb": "La Odisea",
         "voto": 8.0,
-        "votos": 2215,
+        "votos": 2235,
         "url_tmdb": "https://www.themoviedb.org/movie/1368337",
         "imdb_id": "tt33764258",
         "url_imdb": "https://www.imdb.com/title/tt33764258/",
@@ -329,25 +321,6 @@
           ]
         },
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "15:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:40"
-          ]
-        },
-        {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
           "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
@@ -371,8 +344,8 @@
       "actores": "Catherine Lagaʻaia, Dwayne Johnson, Rena Owen, John Tui, Frankie Adams, Jemaine Clement",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/moana-12129_252",
-      "trailer_url": "https://www.youtube.com/watch?v=XcPZ2jPTJCM",
-      "sinopsis": "Moana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el infame semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devolver la prosperidad a su pueblo.",
+      "trailer_url": "https://www.youtube.com/results?search_query=Moana%20trailer%20espanol",
+      "sinopsis": "Moana, una valiente joven polinesia, se embarca en una aventura oceánica para devolver el corazón robado a la diosa Te Fiti y salvar a su pueblo.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1108427,
@@ -477,13 +450,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/toy-story-5-12119_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Toy%20Story%205%20trailer%20espanol",
-      "sinopsis": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+      "sinopsis": "Woody, Buzz y el resto de la pandilla de juguetes se enfrentan a una nueva amenaza cuando su dueño crece y los lleva a una tienda de segunda mano, poniendo a prueba su amistad.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1084244,
         "titulo_tmdb": "Toy Story 5",
         "voto": 7.4,
-        "votos": 762,
+        "votos": 765,
         "url_tmdb": "https://www.themoviedb.org/movie/1084244",
         "imdb_id": "tt29355505",
         "url_imdb": "https://www.imdb.com/title/tt29355505/",
@@ -536,28 +509,20 @@
       }
     },
     {
-      "titulo": "PAW Patrol: La Dino Película",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/7/paw-patrol-la-dino-pelicula-47559-0.webp",
+      "titulo": "Paw Patrol la Dino Pelicula",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/paw_patrol_the_dino_movie-877989315-large.jpg",
+      "genero": "Animado",
+      "clasificacion": "Todo Espectador",
+      "duracion": "01:30",
+      "sinopsis": "Después de Que Su Barco Quede Atrapado en una Misteriosa Tormenta, los Cachorros de la Patrulla Canina Naufragan en una Isla Tropical Inexplorada Repleta de Dinosaurios. Allí Conocen a Rex, un Cachorro Que Lleva Años Varado en la Isla y Que Se Ha Convertido en un Auténtico Experto en Todo Lo Relacionado Con los Dinos. Cuando el Archienemigo de la Patrulla Canina, el Alcalde Humdinger, Comienza a E",
+      "director": "Cal Brunker",
+      "actores": "Carter Young, Hayden Chamberlen, Mckenna Grace, Rain Janjua, Henry Bolan, Lucien Duncan-Reid",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=N-jJORZ3TF4",
+      "fuente_peli": "Cinerama",
       "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "12:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "12:00"
-          ]
-        },
         {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
@@ -577,16 +542,6 @@
           ]
         }
       ],
-      "genero": "Animado",
-      "duracion": "88 minutos",
-      "clasificacion": "Todos",
-      "director": "Cal Brunker",
-      "actores": "Mckenna Grace, Terry Crews, Snoop Dogg, Paris Hilton y Jameela Jamil",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/paw-patrol-la-dino-pelicula-12180_252",
-      "trailer_url": "https://www.youtube.com/watch?v=HYYIY4Ud-LM&t=3s",
-      "sinopsis": "Después de que su barco queda atrapado en una tormenta misteriosa, los cachorros de la PAW Patrol aterrizan de emergencia en una isla tropical inexplorada llena de dinosaurios. Allí conocen a Rex, un cachorro que ha quedado varado en la isla durante años y se ha convertido en un experto en todo lo relacionado con dinos. Cuando el archirrival de la PAW Patrol, el alcalde Humdinger, comienza a excav",
-      "puntaje": "",
       "tmdb": {
         "tmdb_id": 1185806,
         "titulo_tmdb": "La Patrulla Canina: La dino película",
@@ -644,44 +599,6 @@
         "idioma": "Inglés",
         "titulo_original": "PAW Patrol: The Dino Movie"
       }
-    },
-    {
-      "titulo": "Minions y Monstruos",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002827?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Animación",
-      "clasificacion": "APT",
-      "duracion": "90 min",
-      "director": "",
-      "actores": "",
-      "estreno": "",
-      "sinopsis": "Los Minions emprenden un viaje para encontrar criaturas aterradoras que aparezcan en su película de monstruos.",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://youtu.be/FJn7cwKcc1k",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "12:20",
-                "13:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "12:20",
-            "13:40"
-          ]
-        }
-      ]
     }
   ],
   "cines": [
@@ -801,59 +718,6 @@
           ]
         },
         {
-          "titulo": "Minions y Monstruos",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002827?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Animación",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "12:20",
-                "13:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "12:20",
-            "13:40"
-          ]
-        },
-        {
-          "titulo": "Moana",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002918?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Familiar",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "15:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:40"
-          ]
-        },
-        {
-          "titulo": "PAW Patrol: La Dino Película",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002955?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Animación",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "12:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "12:00"
-          ]
-        },
-        {
           "titulo": "Spider Man: Un Nuevo Dia",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002949?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Acción",
@@ -862,7 +726,6 @@
             {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
-                "12:30",
                 "15:30",
                 "18:30",
                 "21:30"
@@ -871,9 +734,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "13:30",
-                "14:00",
-                "14:30",
                 "16:30",
                 "17:00",
                 "17:30",
@@ -885,10 +745,6 @@
             }
           ],
           "horarios": [
-            "12:30",
-            "13:30",
-            "14:00",
-            "14:30",
             "15:30",
             "16:30",
             "17:00",
@@ -952,7 +808,7 @@
           ]
         },
         {
-          "titulo": "PAW Patrol: La Dino Película",
+          "titulo": "Paw Patrol la Dino Pelicula",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/paw_patrol_the_dino_movie-877989315-large.jpg",
           "genero": "Animado",
           "clasificacion": "Todo Espectador",
@@ -1032,7 +888,7 @@
     }
   ],
   "estado": "ok",
-  "motor": "gemini",
+  "motor": "cerebras",
   "fuentes_extra": [
     "Cineplanet",
     "Cinerama"
