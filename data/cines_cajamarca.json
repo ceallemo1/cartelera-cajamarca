@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-05 11:00",
+  "actualizado": "2026-08-05 11:39",
   "fecha_objetivo": "2026-08-05",
   "peliculas": [
     {
@@ -10,7 +10,7 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-1.jpg",
       "cines": [
         {
-          "cine": "CAJAMARCA - MOVIE TIME",
+          "cine": "Movie Time Cajamarca",
           "cine_slug": "movietime-cajamarca-cajamarca-s448",
           "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
@@ -36,7 +36,39 @@
           ]
         },
         {
-          "cine": "CP Cajamarca",
+          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
+          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "15:45",
+                "16:15",
+                "17:45",
+                "18:30",
+                "19:00",
+                "20:30",
+                "21:15",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "15:45",
+            "16:15",
+            "17:45",
+            "18:30",
+            "19:00",
+            "20:30",
+            "21:15",
+            "21:45"
+          ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
           "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
           "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
@@ -156,7 +188,7 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/5/la-odisea-47428-0.webp",
       "cines": [
         {
-          "cine": "CAJAMARCA - MOVIE TIME",
+          "cine": "Movie Time Cajamarca",
           "cine_slug": "movietime-cajamarca-cajamarca-s448",
           "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
@@ -174,7 +206,25 @@
           ]
         },
         {
-          "cine": "CP Cajamarca",
+          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
+          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "18:45",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:45",
+            "22:00"
+          ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
           "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
           "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
@@ -192,6 +242,24 @@
           "horarios": [
             "18:10",
             "21:40"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "18:45",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:45",
+            "22:00"
           ]
         }
       ],
@@ -263,7 +331,7 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/5/moana-47426-0.webp",
       "cines": [
         {
-          "cine": "CAJAMARCA - MOVIE TIME",
+          "cine": "Movie Time Cajamarca",
           "cine_slug": "movietime-cajamarca-cajamarca-s448",
           "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
@@ -279,7 +347,23 @@
           ]
         },
         {
-          "cine": "CP Cajamarca",
+          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
+          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:15"
+          ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
           "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
           "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
@@ -295,6 +379,22 @@
           ],
           "horarios": [
             "15:40"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:15"
           ]
         }
       ],
@@ -369,7 +469,7 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/5/toy-story-5-47403-0.webp",
       "cines": [
         {
-          "cine": "CAJAMARCA - MOVIE TIME",
+          "cine": "Movie Time Cajamarca",
           "cine_slug": "movietime-cajamarca-cajamarca-s448",
           "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
@@ -382,6 +482,42 @@
           ],
           "horarios": [
             "14:15"
+          ]
+        },
+        {
+          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
+          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:15",
+                "19:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:15",
+            "19:30"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:15",
+                "19:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:15",
+            "19:30"
           ]
         }
       ],
@@ -452,60 +588,29 @@
       }
     },
     {
-      "titulo": "Minions y Monstruos",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002827?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Animación",
-      "clasificacion": "APT",
-      "duracion": "90 min",
-      "director": "",
-      "actores": "",
-      "estreno": "",
-      "sinopsis": "Los Minions emprenden un viaje para encontrar criaturas aterradoras que aparezcan en su película de monstruos.",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://youtu.be/FJn7cwKcc1k",
-      "fuente_peli": "Cineplanet",
+      "titulo": "PAW Patrol: La Dino Película",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/7/paw-patrol-la-dino-pelicula-47559-0.webp",
       "cines": [
         {
-          "cine": "CP Cajamarca",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
+          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
+          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
           "formatos": [
             {
-              "formato": "2D REGULAR DOBLADA",
+              "formato": "",
               "horarios": [
-                "12:20",
-                "13:40"
+                "15:00",
+                "17:00"
               ]
             }
           ],
           "horarios": [
-            "12:20",
-            "13:40"
+            "15:00",
+            "17:00"
           ]
-        }
-      ]
-    },
-    {
-      "titulo": "Paw Patrol la dino pelicula",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002955?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Animación",
-      "clasificacion": "APT",
-      "duracion": "90 min",
-      "director": "Cal Brunker",
-      "actores": "Carter Young, Hayden Chamberlen, Mckenna Grace, Rain Janjua, Henry Bolan, Lucien Duncan-Reid",
-      "estreno": "",
-      "sinopsis": "Después de que su barco queda atrapado en una tormenta misteriosa, los cachorros de la PAW Patrol aterrizan de emergencia en una isla tropical inexplorada llena de dinosaurios. Allí conocen a Rex, un cachorro que ha quedado varado en la isla durante años y se ha convertido en un experto en todo lo relacionado con dinos. Cuando el archirrival de la PAW Patrol, el alcalde Humdinger, comienza a excav",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=HYYIY4Ud-LM&t=3s",
-      "fuente_peli": "Cineplanet",
-      "cines": [
+        },
         {
-          "cine": "CP Cajamarca",
+          "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
           "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
           "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
@@ -522,8 +627,36 @@
           "horarios": [
             "12:00"
           ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "17:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:00"
+          ]
         }
       ],
+      "genero": "Animado",
+      "duracion": "88 minutos",
+      "clasificacion": "Todos",
+      "director": "Cal Brunker",
+      "actores": "Mckenna Grace, Terry Crews, Snoop Dogg, Paris Hilton y Jameela Jamil",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/paw-patrol-la-dino-pelicula-12180_252",
+      "trailer_url": "https://www.youtube.com/watch?v=HYYIY4Ud-LM&t=3s",
+      "sinopsis": "Después de que su barco queda atrapado en una tormenta misteriosa, los cachorros de la PAW Patrol aterrizan de emergencia en una isla tropical inexplorada llena de dinosaurios. Allí conocen a Rex, un cachorro que ha quedado varado en la isla durante años y se ha convertido en un experto en todo lo relacionado con dinos. Cuando el archirrival de la PAW Patrol, el alcalde Humdinger, comienza a excav",
+      "puntaje": "",
       "tmdb": {
         "tmdb_id": 1185806,
         "titulo_tmdb": "La Patrulla Canina: La dino película",
@@ -581,11 +714,152 @@
         "idioma": "Inglés",
         "titulo_original": "PAW Patrol: The Dino Movie"
       }
+    },
+    {
+      "titulo": "Minions y Monstruos",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002827?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Animación",
+      "clasificacion": "APT",
+      "duracion": "90 min",
+      "director": "",
+      "actores": "",
+      "estreno": "",
+      "sinopsis": "Los Minions emprenden un viaje para encontrar criaturas aterradoras que aparezcan en su película de monstruos.",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://youtu.be/FJn7cwKcc1k",
+      "fuente_peli": "Cineplanet",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "12:20",
+                "13:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "12:20",
+            "13:40"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Spiderman: Un Nuevo Dia (Preventa)",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/spider.jpg",
+      "genero": "Accion",
+      "clasificacion": "Todo Espectador",
+      "duracion": "02:30",
+      "sinopsis": "Tras el Día del Juicio Final, Peter Parker Intenta Centrarse en la Universidad y Abandonar a Spider-man. Cuando una Nueva Amenaza Pone en Peligro a Sus Amigos, Debe Romper Su Promesa y Volver Al Traje.",
+      "director": "Destin Daniel Cretton",
+      "actores": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jon Bernthal, Jacob Batalon",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "15:45",
+                "16:15",
+                "17:45",
+                "18:30",
+                "19:00",
+                "20:30",
+                "21:15",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "15:45",
+            "16:15",
+            "17:45",
+            "18:30",
+            "19:00",
+            "20:30",
+            "21:15",
+            "21:45"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 969681,
+        "titulo_tmdb": "Spider-Man: Brand New Day",
+        "voto": 8.0,
+        "votos": 965,
+        "url_tmdb": "https://www.themoviedb.org/movie/969681",
+        "imdb_id": "tt22084616",
+        "url_imdb": "https://www.imdb.com/title/tt22084616/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/eScWAsDd9fOjufXQamMr6AS8Mz8.jpg",
+        "director": "Destin Daniel Cretton",
+        "reparto": [
+          {
+            "nombre": "Tom Holland",
+            "personaje": "Peter Parker / Spider-Man"
+          },
+          {
+            "nombre": "Sadie Sink",
+            "personaje": "Jean Grey"
+          },
+          {
+            "nombre": "Tramell Tillman",
+            "personaje": "William 'Bill' Metzger"
+          },
+          {
+            "nombre": "Zendaya",
+            "personaje": "MJ"
+          },
+          {
+            "nombre": "Jon Bernthal",
+            "personaje": "Frank Castle / Punisher"
+          },
+          {
+            "nombre": "Jacob Batalon",
+            "personaje": "Ned Leeds"
+          }
+        ],
+        "generos": [
+          "Ciencia ficción",
+          "Acción",
+          "Aventura"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
+          "embed_id": "o8EccyRIwQQ"
+        },
+        "sinopsis_tmdb": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+        "estreno": "28 jul 2026",
+        "duracion_min": 144,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Spider-Man: Brand New Day"
+      }
     }
   ],
   "cines": [
     {
-      "cine": "CAJAMARCA - MOVIE TIME",
+      "cine": "Movie Time Cajamarca",
       "cine_slug": "movietime-cajamarca-cajamarca-s448",
       "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
       "peliculas": [
@@ -672,7 +946,7 @@
       ]
     },
     {
-      "cine": "CP Cajamarca",
+      "cine": "CinePlanet Cajamarca Real Plaza",
       "cine_slug": "cp-cajamarca",
       "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
       "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
@@ -735,7 +1009,7 @@
           ]
         },
         {
-          "titulo": "Paw Patrol la dino pelicula",
+          "titulo": "PAW Patrol: La Dino Película",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002955?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Animación",
           "clasificacion": "APT",
@@ -802,17 +1076,136 @@
       ]
     },
     {
-      "cine": "Cajamarca Megaplaza (Cinerama)",
-      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-      "direccion": "",
-      "peliculas": [],
-      "sin_programacion": true,
-      "nota": "La fuente no publica funciones de esta sala hoy."
+      "cine": "Cinerama Cajamarca MegaPlaza",
+      "cine_slug": "cinerama-cajamarca-megaplaza",
+      "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+      "url": "https://www.cinerama.com.pe/cines",
+      "fuente_cine": "Cinerama",
+      "peliculas": [
+        {
+          "titulo": "La Odisea",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/01.jpg",
+          "genero": "Accion",
+          "clasificacion": "Todo Espectador",
+          "duracion": "02:52",
+          "sinopsis": "Tras la Guerra de Troya, el Héroe Griego Odiseo Regresa a Ítaca, Grecia, Enfrentándose a Figuras de la Mitología Griega Como el Cíclope Polifemo, las Sirenas y Calipso.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "18:45",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:45",
+            "22:00"
+          ]
+        },
+        {
+          "titulo": "Moana",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/Moana_%282026_film%29_poster.jpg",
+          "genero": "Animado",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:55",
+          "sinopsis": "Vaiana (Catherine Lagaʻaia) Responde a la Llamada del Océano Y, Por Primera Vez, Viaja Más Allá del Arrecife de Su Isla de Motunui Con el Semidiós Maui (Dwayne Johnson) en un Viaje Inolvidable Para Devolver la Prosperidad a Su Pueblo.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:15"
+          ]
+        },
+        {
+          "titulo": "Paw Patrol la Dino Pelicula",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/paw_patrol_the_dino_movie-877989315-large.jpg",
+          "genero": "Animado",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:30",
+          "sinopsis": "Después de Que Su Barco Quede Atrapado en una Misteriosa Tormenta, los Cachorros de la Patrulla Canina Naufragan en una Isla Tropical Inexplorada Repleta de Dinosaurios. Allí Conocen a Rex, un Cachorro Que Lleva Años Varado en la Isla y Que Se Ha Convertido en un Auténtico Experto en Todo Lo Relacionado Con los Dinos. Cuando el Archienemigo de la Patrulla Canina, el Alcalde Humdinger, Comienza a E",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "17:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:00"
+          ]
+        },
+        {
+          "titulo": "Spiderman: Un Nuevo Dia (Preventa)",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/spider.jpg",
+          "genero": "Accion",
+          "clasificacion": "Todo Espectador",
+          "duracion": "02:30",
+          "sinopsis": "Tras el Día del Juicio Final, Peter Parker Intenta Centrarse en la Universidad y Abandonar a Spider-man. Cuando una Nueva Amenaza Pone en Peligro a Sus Amigos, Debe Romper Su Promesa y Volver Al Traje.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "15:45",
+                "16:15",
+                "17:45",
+                "18:30",
+                "19:00",
+                "20:30",
+                "21:15",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "15:45",
+            "16:15",
+            "17:45",
+            "18:30",
+            "19:00",
+            "20:30",
+            "21:15",
+            "21:45"
+          ]
+        },
+        {
+          "titulo": "Toy Story 5",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/toys.jpg",
+          "genero": "Animado",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:42",
+          "sinopsis": "Los Juguetes Están de Vuelta. Esta Vez, Buzz Lightyear, Woody, Jessie y el Resto de la Pandilla Se Enfrentan a un Nuevo Reto Cuando Conocen a Lilypad, una Nueva Tablet Que Llega Con Sus Propias Ideas Disruptivas Sobre Lo Que Es Mejor Para Bonnie. ¿Volverá a Ser Lo Mismo la Hora de Jugar?",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:15",
+                "19:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:15",
+            "19:30"
+          ]
+        }
+      ]
     }
   ],
   "estado": "ok",
   "motor": "gemini",
   "fuentes_extra": [
-    "Cineplanet"
+    "Cineplanet",
+    "Cinerama"
   ]
 }
