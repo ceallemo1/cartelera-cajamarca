@@ -48,6 +48,11 @@
     font-size:11.5px;color:var(--suave);line-height:1.6}
   footer a{color:inherit}
   .cargando{color:var(--suave);font-size:14px;padding:26px 0}
+  .rancio{background:#fff4e0;border:1px solid #f0dcb4;color:#7a5810;border-radius:12px;
+    padding:12px 14px;font-size:13.5px;line-height:1.55;margin-bottom:16px}
+  @media (prefers-color-scheme: dark){
+    .rancio{background:#3a2f16;border-color:#5c4a1f;color:#f0d9a6}
+  }
   @media (max-width:420px){ .poster{width:56px;height:84px;flex-basis:56px} }
 </style>
 </head>
@@ -62,6 +67,8 @@
     <button class="tab" id="tab-peli" role="tab" aria-selected="true">Por película</button>
     <button class="tab" id="tab-cine" role="tab" aria-selected="false">Por cine</button>
   </div>
+
+  <div id="rancio" class="rancio" hidden></div>
 
   <main id="cuerpo"><div class="cargando">Cargando cartelera…</div></main>
 
@@ -148,6 +155,28 @@ function vistaCines(d){
   }).join("");
 }
 
+/* La pagina la sirve GitHub y no se cae nunca; el que puede faltar es el DATO, que
+   sube la laptop tres veces al dia. Si esa maquina esta apagada, esta pagina seguiria
+   mostrando la cartelera de un dia anterior — con sus horarios— como si fuera la de
+   hoy. Eso es peor que no tener pagina: alguien puede ir al cine a una funcion que ya
+   paso. El JSON trae 'fecha_objetivo' = el dia al que corresponden los horarios; se
+   compara con el dia de QUIEN MIRA y, si no coinciden, se dice antes de la cartelera. */
+function avisarSiEsVieja(d){
+  var caja = document.getElementById("rancio");
+  var suya = d.fecha_objetivo || "";
+  if (!suya) return;
+  var h = new Date();
+  var hoy = h.getFullYear() + "-" +
+            String(h.getMonth() + 1).padStart(2, "0") + "-" +
+            String(h.getDate()).padStart(2, "0");
+  if (suya === hoy) return;
+  var dias = Math.round((new Date(hoy) - new Date(suya)) / 86400000);
+  caja.textContent = dias === 1
+    ? "Ojo: esta es la cartelera de ayer (" + suya + "). Los horarios de hoy pueden ser otros — conviene confirmarlos en la web del cine."
+    : "Ojo: esta cartelera es del " + suya + ", hace " + dias + " días. Los horarios seguramente cambiaron — confírmalos en la web del cine.";
+  caja.hidden = false;
+}
+
 function pintar(){
   if (!DATOS) return;
   document.getElementById("cuerpo").innerHTML =
@@ -168,6 +197,7 @@ fetch("data/cines_cajamarca.json?v=" + Date.now())
     document.getElementById("sub").textContent =
       n + (n === 1 ? " película" : " películas") + " · " +
       c + (c === 1 ? " cine" : " cines") + " · actualizado " + (d.actualizado || "");
+    avisarSiEsVieja(d);
     pintar();
   })
   .catch(function(e){
