@@ -2,12 +2,12 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-05 20:00",
-  "fecha_objetivo": "2026-08-05",
+  "actualizado": "2026-08-06 07:00",
+  "fecha_objetivo": "2026-08-06",
   "peliculas": [
     {
       "titulo": "Spider Man: Un Nuevo Dia",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-1.jpg",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-0.webp",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
@@ -17,56 +17,24 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "15:30",
-                "16:10",
-                "18:20",
-                "19:00",
-                "21:10",
-                "21:45"
+                "11:30",
+                "15:00",
+                "16:00",
+                "17:50",
+                "18:50",
+                "20:40",
+                "21:40"
               ]
             }
           ],
           "horarios": [
-            "15:30",
-            "16:10",
-            "18:20",
-            "19:00",
-            "21:10",
-            "21:45"
-          ]
-        },
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "3D REGULAR DOBLADA",
-              "horarios": [
-                "18:30",
-                "21:30"
-              ]
-            },
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "19:30",
-                "20:00",
-                "20:30",
-                "22:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:30",
-            "19:30",
-            "20:00",
-            "20:30",
-            "21:30",
-            "22:30"
+            "11:30",
+            "15:00",
+            "16:00",
+            "17:50",
+            "18:50",
+            "20:40",
+            "21:40"
           ]
         },
         {
@@ -80,12 +48,15 @@
                 "15:00",
                 "15:45",
                 "16:15",
+                "16:45",
                 "17:45",
                 "18:30",
                 "19:00",
+                "19:30",
                 "20:30",
                 "21:15",
-                "21:45"
+                "21:45",
+                "22:15"
               ]
             }
           ],
@@ -93,12 +64,15 @@
             "15:00",
             "15:45",
             "16:15",
+            "16:45",
             "17:45",
             "18:30",
             "19:00",
+            "19:30",
             "20:30",
             "21:15",
-            "21:45"
+            "21:45",
+            "22:15"
           ]
         }
       ],
@@ -109,14 +83,14 @@
       "actores": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jon Bernthal, Jacob Batalon",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/spider-man-un-nuevo-dia-12132_252",
-      "trailer_url": "https://www.youtube.com/watch?v=xrgNovKS0Co",
-      "sinopsis": "Han pasado cuatro años desde los acontecimientos de Sin regreso a casa, y Peter ahora es un adulto que vive completamente solo, habiéndose borrado voluntariamente de la vida y los recuerdos de sus seres queridos. Combatiendo el crimen en una Nueva York que ya no lo conoce, se ha dedicado por completo a proteger su ciudad —un Spider-Man a tiempo completo—, pero a medida que las exigencias se intens",
+      "trailer_url": "https://www.youtube.com/results?search_query=Spider%20Man%3A%20Un%20Nuevo%20Dia%20trailer%20espanol",
+      "sinopsis": "Peter Parker enfrenta nuevas amenazas mientras intenta equilibrar su vida como estudiante y superhéroe.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 969681,
         "titulo_tmdb": "Spider-Man: Brand New Day",
-        "voto": 8.0,
-        "votos": 1005,
+        "voto": 7.9,
+        "votos": 1051,
         "url_tmdb": "https://www.themoviedb.org/movie/969681",
         "imdb_id": "tt22084616",
         "url_imdb": "https://www.imdb.com/title/tt22084616/",
@@ -179,33 +153,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "18:15",
-                "21:30"
+                "20:20"
               ]
             }
           ],
           "horarios": [
-            "18:15",
-            "21:30"
-          ]
-        },
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "21:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "21:40"
+            "20:20"
           ]
         },
         {
@@ -216,12 +169,14 @@
             {
               "formato": "",
               "horarios": [
+                "15:30",
                 "18:45",
                 "22:00"
               ]
             }
           ],
           "horarios": [
+            "15:30",
             "18:45",
             "22:00"
           ]
@@ -235,13 +190,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-odisea-12131_252",
       "trailer_url": "https://www.youtube.com/results?search_query=La%20Odisea%20trailer%20espanol",
-      "sinopsis": "-",
-      "puntaje": "",
+      "sinopsis": "Una tripulación espacial descubre un monolito misterioso que impulsa la evolución humana y los misterios del cosmos.",
+      "puntaje": "8.3",
       "tmdb": {
         "tmdb_id": 1368337,
         "titulo_tmdb": "La Odisea",
         "voto": 8.0,
-        "votos": 2235,
+        "votos": 2279,
         "url_tmdb": "https://www.themoviedb.org/movie/1368337",
         "imdb_id": "tt33764258",
         "url_imdb": "https://www.imdb.com/title/tt33764258/",
@@ -304,26 +259,17 @@
               "horarios": [
                 "16:00"
               ]
-            }
-          ],
-          "horarios": [
-            "16:00"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
+            },
             {
-              "formato": "",
+              "formato": "Doblada",
               "horarios": [
-                "17:15"
+                "13:45"
               ]
             }
           ],
           "horarios": [
-            "17:15"
+            "13:45",
+            "16:00"
           ]
         }
       ],
@@ -335,13 +281,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/moana-12129_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Moana%20trailer%20espanol",
-      "sinopsis": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-      "puntaje": "",
+      "sinopsis": "Una valiente joven polinesia se embarca en una aventura oceánica para salvar a su isla y descubrir su verdadera identidad.",
+      "puntaje": "7.6",
       "tmdb": {
         "tmdb_id": 1108427,
         "titulo_tmdb": "Vaiana",
-        "voto": 5.8,
-        "votos": 168,
+        "voto": 5.9,
+        "votos": 171,
         "url_tmdb": "https://www.themoviedb.org/movie/1108427",
         "imdb_id": "tt27419466",
         "url_imdb": "https://www.imdb.com/title/tt27419466/",
@@ -405,30 +351,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "14:15"
+                "18:15"
               ]
             }
           ],
           "horarios": [
-            "14:15"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:15",
-                "19:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:15",
-            "19:30"
+            "18:15"
           ]
         }
       ],
@@ -440,13 +368,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/toy-story-5-12119_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Toy%20Story%205%20trailer%20espanol",
-      "sinopsis": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+      "sinopsis": "Los juguetes de Andy se enfrentan a una nueva etapa de sus vidas cuando una nueva generación de niños entra en escena.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1084244,
         "titulo_tmdb": "Toy Story 5",
         "voto": 7.4,
-        "votos": 765,
+        "votos": 766,
         "url_tmdb": "https://www.themoviedb.org/movie/1084244",
         "imdb_id": "tt29355505",
         "url_imdb": "https://www.imdb.com/title/tt29355505/",
@@ -497,98 +425,6 @@
         "idioma": "Inglés",
         "titulo_original": "Toy Story 5"
       }
-    },
-    {
-      "titulo": "Paw Patrol la Dino Pelicula",
-      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/paw_patrol_the_dino_movie-877989315-large.jpg",
-      "genero": "Animado",
-      "clasificacion": "Todo Espectador",
-      "duracion": "01:30",
-      "sinopsis": "Después de Que Su Barco Quede Atrapado en una Misteriosa Tormenta, los Cachorros de la Patrulla Canina Naufragan en una Isla Tropical Inexplorada Repleta de Dinosaurios. Allí Conocen a Rex, un Cachorro Que Lleva Años Varado en la Isla y Que Se Ha Convertido en un Auténtico Experto en Todo Lo Relacionado Con los Dinos. Cuando el Archienemigo de la Patrulla Canina, el Alcalde Humdinger, Comienza a E",
-      "director": "Cal Brunker",
-      "actores": "Carter Young, Hayden Chamberlen, Mckenna Grace, Rain Janjua, Henry Bolan, Lucien Duncan-Reid",
-      "estreno": "",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=N-jJORZ3TF4",
-      "fuente_peli": "Cinerama",
-      "cines": [
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "17:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "17:00"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1185806,
-        "titulo_tmdb": "La Patrulla Canina: La dino película",
-        "voto": 7.0,
-        "votos": 8,
-        "url_tmdb": "https://www.themoviedb.org/movie/1185806",
-        "imdb_id": "tt29356163",
-        "url_imdb": "https://www.imdb.com/title/tt29356163/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
-        "director": "Cal Brunker",
-        "reparto": [
-          {
-            "nombre": "Carter Young",
-            "personaje": "Marshall (voice)"
-          },
-          {
-            "nombre": "Hayden Chamberlen",
-            "personaje": "Rex (voice)"
-          },
-          {
-            "nombre": "Mckenna Grace",
-            "personaje": "Skye (voice)"
-          },
-          {
-            "nombre": "Rain Janjua",
-            "personaje": "Chase (voice)"
-          },
-          {
-            "nombre": "Henry Bolan",
-            "personaje": "Ryder (voice)"
-          },
-          {
-            "nombre": "Lucien Duncan-Reid",
-            "personaje": "Rubble (voice)"
-          }
-        ],
-        "generos": [
-          "Aventura",
-          "Animación",
-          "Comedia",
-          "Familia"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=N-jJORZ3TF4",
-          "embed_id": "N-jJORZ3TF4"
-        },
-        "sinopsis_tmdb": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
-        "estreno": "23 jul 2026",
-        "duracion_min": 88,
-        "paises": [
-          "Canadá",
-          "Francia",
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "PAW Patrol: The Dino Movie"
-      }
     }
   ],
   "cines": [
@@ -599,29 +435,31 @@
       "peliculas": [
         {
           "titulo": "Spider Man: Un Nuevo Dia",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-1.jpg",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-0.webp",
           "genero": "Ciencia Ficción",
           "clasificacion": "12 Años",
           "formatos": [
             {
               "formato": "Doblada",
               "horarios": [
-                "15:30",
-                "16:10",
-                "18:20",
-                "19:00",
-                "21:10",
-                "21:45"
+                "11:30",
+                "15:00",
+                "16:00",
+                "17:50",
+                "18:50",
+                "20:40",
+                "21:40"
               ]
             }
           ],
           "horarios": [
-            "15:30",
-            "16:10",
-            "18:20",
-            "19:00",
-            "21:10",
-            "21:45"
+            "11:30",
+            "15:00",
+            "16:00",
+            "17:50",
+            "18:50",
+            "20:40",
+            "21:40"
           ]
         },
         {
@@ -633,14 +471,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "18:15",
-                "21:30"
+                "20:20"
               ]
             }
           ],
           "horarios": [
-            "18:15",
-            "21:30"
+            "20:20"
           ]
         },
         {
@@ -654,9 +490,16 @@
               "horarios": [
                 "16:00"
               ]
+            },
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "13:45"
+              ]
             }
           ],
           "horarios": [
+            "13:45",
             "16:00"
           ]
         },
@@ -669,76 +512,24 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "14:15"
+                "18:15"
               ]
             }
           ],
           "horarios": [
-            "14:15"
+            "18:15"
           ]
         }
       ],
       "cine_original": "CAJAMARCA - MOVIE TIME"
     },
     {
-      "cine": "CinePlanet Cajamarca Real Plaza",
-      "cine_slug": "cp-cajamarca",
-      "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-      "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-      "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-      "fuente_cine": "Cineplanet",
-      "peliculas": [
-        {
-          "titulo": "La Odisea",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002831?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Acción",
-          "clasificacion": "+14",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "21:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "21:40"
-          ]
-        },
-        {
-          "titulo": "Spider Man: Un Nuevo Dia",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002949?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Acción",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "3D REGULAR DOBLADA",
-              "horarios": [
-                "18:30",
-                "21:30"
-              ]
-            },
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "19:30",
-                "20:00",
-                "20:30",
-                "22:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:30",
-            "19:30",
-            "20:00",
-            "20:30",
-            "21:30",
-            "22:30"
-          ]
-        }
-      ],
-      "cine_original": "CP Cajamarca"
+      "cine": "Cajamarca (Cineplanet)",
+      "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
+      "direccion": "",
+      "peliculas": [],
+      "sin_programacion": true,
+      "nota": "La fuente no publica funciones de esta sala hoy."
     },
     {
       "cine": "Cinerama Cajamarca MegaPlaza",
@@ -758,54 +549,16 @@
             {
               "formato": "",
               "horarios": [
+                "15:30",
                 "18:45",
                 "22:00"
               ]
             }
           ],
           "horarios": [
+            "15:30",
             "18:45",
             "22:00"
-          ]
-        },
-        {
-          "titulo": "Moana",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/Moana_%282026_film%29_poster.jpg",
-          "genero": "Animado",
-          "clasificacion": "Todo Espectador",
-          "duracion": "01:55",
-          "sinopsis": "Vaiana (Catherine Lagaʻaia) Responde a la Llamada del Océano Y, Por Primera Vez, Viaja Más Allá del Arrecife de Su Isla de Motunui Con el Semidiós Maui (Dwayne Johnson) en un Viaje Inolvidable Para Devolver la Prosperidad a Su Pueblo.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "17:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:15"
-          ]
-        },
-        {
-          "titulo": "Paw Patrol la Dino Pelicula",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/paw_patrol_the_dino_movie-877989315-large.jpg",
-          "genero": "Animado",
-          "clasificacion": "Todo Espectador",
-          "duracion": "01:30",
-          "sinopsis": "Después de Que Su Barco Quede Atrapado en una Misteriosa Tormenta, los Cachorros de la Patrulla Canina Naufragan en una Isla Tropical Inexplorada Repleta de Dinosaurios. Allí Conocen a Rex, un Cachorro Que Lleva Años Varado en la Isla y Que Se Ha Convertido en un Auténtico Experto en Todo Lo Relacionado Con los Dinos. Cuando el Archienemigo de la Patrulla Canina, el Alcalde Humdinger, Comienza a E",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "17:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "17:00"
           ]
         },
         {
@@ -822,12 +575,15 @@
                 "15:00",
                 "15:45",
                 "16:15",
+                "16:45",
                 "17:45",
                 "18:30",
                 "19:00",
+                "19:30",
                 "20:30",
                 "21:15",
-                "21:45"
+                "21:45",
+                "22:15"
               ]
             }
           ],
@@ -835,42 +591,23 @@
             "15:00",
             "15:45",
             "16:15",
+            "16:45",
             "17:45",
             "18:30",
             "19:00",
+            "19:30",
             "20:30",
             "21:15",
-            "21:45"
-          ]
-        },
-        {
-          "titulo": "Toy Story 5",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/toys.jpg",
-          "genero": "Animado",
-          "clasificacion": "Todo Espectador",
-          "duracion": "01:42",
-          "sinopsis": "Los Juguetes Están de Vuelta. Esta Vez, Buzz Lightyear, Woody, Jessie y el Resto de la Pandilla Se Enfrentan a un Nuevo Reto Cuando Conocen a Lilypad, una Nueva Tablet Que Llega Con Sus Propias Ideas Disruptivas Sobre Lo Que Es Mejor Para Bonnie. ¿Volverá a Ser Lo Mismo la Hora de Jugar?",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:15",
-                "19:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:15",
-            "19:30"
+            "21:45",
+            "22:15"
           ]
         }
       ]
     }
   ],
   "estado": "ok",
-  "motor": "gemini",
+  "motor": "cerebras",
   "fuentes_extra": [
-    "Cineplanet",
     "Cinerama"
   ]
 }
