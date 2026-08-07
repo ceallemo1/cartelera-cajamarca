@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-06 17:00",
+  "actualizado": "2026-08-06 20:00",
   "fecha_objetivo": "2026-08-06",
   "peliculas": [
     {
@@ -48,7 +48,6 @@
             {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
                 "18:30",
                 "21:30"
               ]
@@ -56,8 +55,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:30",
-                "17:30",
                 "19:30",
                 "20:30",
                 "22:30"
@@ -65,9 +62,6 @@
             }
           ],
           "horarios": [
-            "15:30",
-            "16:30",
-            "17:30",
             "18:30",
             "19:30",
             "20:30",
@@ -122,7 +116,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/spider-man-un-nuevo-dia-12132_252",
       "trailer_url": "https://www.youtube.com/watch?v=xrgNovKS0Co",
-      "sinopsis": "Han pasado cuatro años desde los acontecimientos de Sin regreso a casa, y Peter ahora es un adulto que vive completamente solo, habiéndose borrado voluntariamente de la vida y los recuerdos de sus seres queridos. Combatiendo el crimen en una Nueva York que ya no lo conoce, se ha dedicado por completo a proteger su ciudad —un Spider-Man a tiempo completo—, pero a medida que las exigencias se intens",
+      "sinopsis": "Peter Parker, recién graduado, debe equilibrar su vida como estudiante y como Spider-Man mientras enfrenta una nueva amenaza en la ciudad.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 969681,
@@ -210,7 +204,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:10",
                 "17:40",
                 "18:40",
                 "21:10",
@@ -219,7 +212,6 @@
             }
           ],
           "horarios": [
-            "15:10",
             "17:40",
             "18:40",
             "21:10",
@@ -255,7 +247,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-odisea-12131_252",
       "trailer_url": "https://www.youtube.com/results?search_query=La%20Odisea%20trailer%20espanol",
-      "sinopsis": "-",
+      "sinopsis": "Una épica adaptación de la obra homónima que sigue el viaje del héroe Odiseo para regresar a Ítaca tras la Guerra de Troya.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1368337,
@@ -346,7 +338,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/moana-12129_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Moana%20trailer%20espanol",
-      "sinopsis": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "sinopsis": "Moana, una valiente joven polinesia, se embarca en una aventura oceánica para devolver el corazón robado a la diosa Te Fiti.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1108427,
@@ -433,13 +425,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/toy-story-5-12119_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Toy%20Story%205%20trailer%20espanol",
-      "sinopsis": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+      "sinopsis": "En la quinta entrega, Woody, Buzz y el resto de los juguetes enfrentan una nueva vida cuando su dueña los lleva a una guardería llena de juguetes inesperados.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1084244,
         "titulo_tmdb": "Toy Story 5",
         "voto": 7.4,
-        "votos": 768,
+        "votos": 773,
         "url_tmdb": "https://www.themoviedb.org/movie/1084244",
         "imdb_id": "tt29355505",
         "url_imdb": "https://www.imdb.com/title/tt29355505/",
@@ -605,7 +597,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:10",
                 "17:40",
                 "18:40",
                 "21:10",
@@ -614,7 +605,6 @@
             }
           ],
           "horarios": [
-            "15:10",
             "17:40",
             "18:40",
             "21:10",
@@ -630,7 +620,6 @@
             {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
                 "18:30",
                 "21:30"
               ]
@@ -638,8 +627,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:30",
-                "17:30",
                 "19:30",
                 "20:30",
                 "22:30"
@@ -647,9 +634,6 @@
             }
           ],
           "horarios": [
-            "15:30",
-            "16:30",
-            "17:30",
             "18:30",
             "19:30",
             "20:30",
@@ -735,7 +719,7 @@
     }
   ],
   "estado": "ok",
-  "motor": "gemini",
+  "motor": "cerebras",
   "fuentes_extra": [
     "Cineplanet",
     "Cinerama"
