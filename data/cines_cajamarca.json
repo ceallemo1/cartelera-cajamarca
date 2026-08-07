@@ -2,56 +2,13 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-07 07:36",
+  "actualizado": "2026-08-07 08:00",
   "fecha_objetivo": "2026-08-07",
   "peliculas": [
     {
       "titulo": "Spider Man: Un Nuevo Dia",
       "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-0.webp",
       "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
-          "formatos": [
-            {
-              "formato": "2D - Doblada",
-              "horarios": [
-                "11:30",
-                "13:30",
-                "14:30",
-                "16:30",
-                "17:30",
-                "19:30",
-                "20:30",
-                "22:30"
-              ]
-            },
-            {
-              "formato": "3D - Doblada",
-              "horarios": [
-                "12:30",
-                "15:30",
-                "18:30",
-                "21:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "11:30",
-            "12:30",
-            "13:30",
-            "14:30",
-            "15:30",
-            "16:30",
-            "17:30",
-            "18:30",
-            "19:30",
-            "20:30",
-            "21:30",
-            "22:30"
-          ]
-        },
         {
           "cine": "Movie Time Cajamarca",
           "cine_slug": "movietime-cajamarca-cajamarca-s448",
@@ -77,6 +34,52 @@
             "20:40",
             "21:40"
           ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "11:30",
+                "13:30",
+                "14:30",
+                "16:30",
+                "17:30",
+                "19:30",
+                "20:30",
+                "22:30"
+              ]
+            },
+            {
+              "formato": "3D REGULAR DOBLADA",
+              "horarios": [
+                "12:30",
+                "15:30",
+                "18:30",
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "11:30",
+            "12:30",
+            "13:30",
+            "14:30",
+            "15:30",
+            "16:30",
+            "17:30",
+            "18:30",
+            "19:30",
+            "20:30",
+            "21:30",
+            "22:30"
+          ]
         }
       ],
       "genero": "Ciencia Ficción",
@@ -86,8 +89,8 @@
       "actores": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jon Bernthal, Jacob Batalon",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/spider-man-un-nuevo-dia-12132_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Spider%20Man%3A%20Un%20Nuevo%20Dia%20trailer%20espanol",
-      "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "trailer_url": "https://www.youtube.com/watch?v=xrgNovKS0Co",
+      "sinopsis": "Han pasado cuatro años desde los acontecimientos de Sin regreso a casa, y Peter ahora es un adulto que vive completamente solo, habiéndose borrado voluntariamente de la vida y los recuerdos de sus seres queridos. Combatiendo el crimen en una Nueva York que ya no lo conoce, se ha dedicado por completo a proteger su ciudad —un Spider-Man a tiempo completo—, pero a medida que las exigencias se intens",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 969681,
@@ -149,12 +152,31 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/5/la-odisea-47428-0.webp",
       "cines": [
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "Doblada",
+              "horarios": [
+                "20:02"
+              ]
+            }
+          ],
+          "horarios": [
+            "20:02"
+          ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "11:40",
                 "14:10",
@@ -175,22 +197,6 @@
             "21:10",
             "22:10"
           ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "20:02"
-              ]
-            }
-          ],
-          "horarios": [
-            "20:02"
-          ]
         }
       ],
       "genero": "Drama",
@@ -201,7 +207,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-odisea-12131_252",
       "trailer_url": "https://www.youtube.com/results?search_query=La%20Odisea%20trailer%20espanol",
-      "sinopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+      "sinopsis": "-",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1368337,
@@ -433,87 +439,6 @@
   ],
   "cines": [
     {
-      "cine": "CinePlanet Cajamarca Real Plaza",
-      "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-      "direccion": "Av. Vía de Evitamiento Norte",
-      "peliculas": [
-        {
-          "titulo": "Spider Man: Un Nuevo Dia",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-0.webp",
-          "genero": "Ciencia Ficción",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "2D - Doblada",
-              "horarios": [
-                "11:30",
-                "13:30",
-                "14:30",
-                "16:30",
-                "17:30",
-                "19:30",
-                "20:30",
-                "22:30"
-              ]
-            },
-            {
-              "formato": "3D - Doblada",
-              "horarios": [
-                "12:30",
-                "15:30",
-                "18:30",
-                "21:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "11:30",
-            "12:30",
-            "13:30",
-            "14:30",
-            "15:30",
-            "16:30",
-            "17:30",
-            "18:30",
-            "19:30",
-            "20:30",
-            "21:30",
-            "22:30"
-          ]
-        },
-        {
-          "titulo": "La Odisea",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/5/la-odisea-47428-0.webp",
-          "genero": "Drama",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "2D - Doblada",
-              "horarios": [
-                "11:40",
-                "14:10",
-                "15:10",
-                "17:40",
-                "18:40",
-                "21:10",
-                "22:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "11:40",
-            "14:10",
-            "15:10",
-            "17:40",
-            "18:40",
-            "21:10",
-            "22:10"
-          ]
-        }
-      ],
-      "cine_original": "CAJAMARCA - CINEPLANET"
-    },
-    {
       "cine": "Movie Time Cajamarca",
       "cine_slug": "movietime-cajamarca-cajamarca-s448",
       "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
@@ -600,6 +525,90 @@
       "cine_original": "CAJAMARCA - MOVIE TIME"
     },
     {
+      "cine": "CinePlanet Cajamarca Real Plaza",
+      "cine_slug": "cp-cajamarca",
+      "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+      "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+      "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+      "fuente_cine": "Cineplanet",
+      "peliculas": [
+        {
+          "titulo": "La Odisea",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002831?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "11:40",
+                "14:10",
+                "15:10",
+                "17:40",
+                "18:40",
+                "21:10",
+                "22:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "11:40",
+            "14:10",
+            "15:10",
+            "17:40",
+            "18:40",
+            "21:10",
+            "22:10"
+          ]
+        },
+        {
+          "titulo": "Spider Man: Un Nuevo Dia",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002949?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "11:30",
+                "13:30",
+                "14:30",
+                "16:30",
+                "17:30",
+                "19:30",
+                "20:30",
+                "22:30"
+              ]
+            },
+            {
+              "formato": "3D REGULAR DOBLADA",
+              "horarios": [
+                "12:30",
+                "15:30",
+                "18:30",
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "11:30",
+            "12:30",
+            "13:30",
+            "14:30",
+            "15:30",
+            "16:30",
+            "17:30",
+            "18:30",
+            "19:30",
+            "20:30",
+            "21:30",
+            "22:30"
+          ]
+        }
+      ],
+      "cine_original": "CP Cajamarca"
+    },
+    {
       "cine": "Cinerama Cajamarca MegaPlaza",
       "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
       "direccion": "",
@@ -611,6 +620,9 @@
   ],
   "estado": "ok",
   "motor": "gemini",
+  "fuentes_extra": [
+    "Cineplanet"
+  ],
   "notas": [
     "Cinerama: HTTPError: HTTP Error 500: Internal Server Error"
   ]
