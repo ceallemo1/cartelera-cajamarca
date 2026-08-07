@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-07 11:00",
+  "actualizado": "2026-08-07 17:00",
   "fecha_objetivo": "2026-08-07",
   "peliculas": [
     {
@@ -44,33 +44,25 @@
           "fuente_cine": "Cineplanet",
           "formatos": [
             {
+              "formato": "3D REGULAR DOBLADA",
+              "horarios": [
+                "15:30",
+                "18:30",
+                "21:30"
+              ]
+            },
+            {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "11:30",
-                "13:30",
-                "14:30",
                 "16:30",
                 "17:30",
                 "19:30",
                 "20:30",
                 "22:30"
               ]
-            },
-            {
-              "formato": "3D REGULAR DOBLADA",
-              "horarios": [
-                "12:30",
-                "15:30",
-                "18:30",
-                "21:30"
-              ]
             }
           ],
           "horarios": [
-            "11:30",
-            "12:30",
-            "13:30",
-            "14:30",
             "15:30",
             "16:30",
             "17:30",
@@ -79,6 +71,44 @@
             "20:30",
             "21:30",
             "22:30"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "15:45",
+                "16:15",
+                "16:45",
+                "17:45",
+                "18:30",
+                "19:00",
+                "19:30",
+                "20:30",
+                "21:15",
+                "21:45",
+                "22:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "15:45",
+            "16:15",
+            "16:45",
+            "17:45",
+            "18:30",
+            "19:00",
+            "19:30",
+            "20:30",
+            "21:15",
+            "21:45",
+            "22:15"
           ]
         }
       ],
@@ -90,17 +120,17 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/spider-man-un-nuevo-dia-12132_252",
       "trailer_url": "https://www.youtube.com/watch?v=xrgNovKS0Co",
-      "sinopsis": "Han pasado cuatro años desde los acontecimientos de Sin regreso a casa, y Peter ahora es un adulto que vive completamente solo, habiéndose borrado voluntariamente de la vida y los recuerdos de sus seres queridos. Combatiendo el crimen en una Nueva York que ya no lo conoce, se ha dedicado por completo a proteger su ciudad —un Spider-Man a tiempo completo—, pero a medida que las exigencias se intens",
+      "sinopsis": "Peter Parker, ahora sin su identidad secreta, debe enfrentar nuevas amenazas mientras protege a sus seres queridos y descubre el verdadero significado de ser un héroe.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 969681,
         "titulo_tmdb": "Spider-Man: Brand New Day",
         "voto": 7.9,
-        "votos": 1142,
+        "votos": 1186,
         "url_tmdb": "https://www.themoviedb.org/movie/969681",
         "imdb_id": "tt22084616",
         "url_imdb": "https://www.imdb.com/title/tt22084616/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/eScWAsDd9fOjufXQamMr6AS8Mz8.jpg",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/1bfaqGFi63AaQWlHuEahhCmxPUU.jpg",
         "director": "Destin Daniel Cretton",
         "reparto": [
           {
@@ -178,8 +208,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "11:40",
-                "14:10",
                 "15:10",
                 "17:40",
                 "18:40",
@@ -189,13 +217,31 @@
             }
           ],
           "horarios": [
-            "11:40",
-            "14:10",
             "15:10",
             "17:40",
             "18:40",
             "21:10",
             "22:10"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30",
+                "18:45",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "18:45",
+            "22:00"
           ]
         }
       ],
@@ -207,13 +253,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-odisea-12131_252",
       "trailer_url": "https://www.youtube.com/results?search_query=La%20Odisea%20trailer%20espanol",
-      "sinopsis": "-",
-      "puntaje": "",
+      "sinopsis": "Una épica odisea espacial que sigue la evolución de la humanidad desde los albores de la civilización hasta un futuro lejano, explorando misterios cósmicos y la búsqueda del conocimiento.",
+      "puntaje": "8.3",
       "tmdb": {
         "tmdb_id": 1368337,
         "titulo_tmdb": "La Odisea",
         "voto": 8.0,
-        "votos": 2324,
+        "votos": 2347,
         "url_tmdb": "https://www.themoviedb.org/movie/1368337",
         "imdb_id": "tt33764258",
         "url_imdb": "https://www.imdb.com/title/tt33764258/",
@@ -291,8 +337,8 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/moana-12129_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Moana%20trailer%20espanol",
-      "sinopsis": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-      "puntaje": "",
+      "sinopsis": "Moana, una valiente joven polinesia, se embarca en una aventura para salvar a su isla, guiada por el semidiós Maui y descubriendo su propio destino.",
+      "puntaje": "7.6",
       "tmdb": {
         "tmdb_id": 1108427,
         "titulo_tmdb": "Vaiana",
@@ -378,13 +424,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/toy-story-5-12119_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Toy%20Story%205%20trailer%20espanol",
-      "sinopsis": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+      "sinopsis": "Woody, Buzz y el resto de los juguetes se enfrentan a una nueva generación de juguetes y a la incertidumbre de la vida después de Andy, mientras descubren lo que realmente significa la amistad y el propósito.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1084244,
         "titulo_tmdb": "Toy Story 5",
         "voto": 7.4,
-        "votos": 776,
+        "votos": 777,
         "url_tmdb": "https://www.themoviedb.org/movie/1084244",
         "imdb_id": "tt29355505",
         "url_imdb": "https://www.imdb.com/title/tt29355505/",
@@ -541,8 +587,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "11:40",
-                "14:10",
                 "15:10",
                 "17:40",
                 "18:40",
@@ -552,8 +596,6 @@
             }
           ],
           "horarios": [
-            "11:40",
-            "14:10",
             "15:10",
             "17:40",
             "18:40",
@@ -568,33 +610,25 @@
           "clasificacion": "APT",
           "formatos": [
             {
+              "formato": "3D REGULAR DOBLADA",
+              "horarios": [
+                "15:30",
+                "18:30",
+                "21:30"
+              ]
+            },
+            {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "11:30",
-                "13:30",
-                "14:30",
                 "16:30",
                 "17:30",
                 "19:30",
                 "20:30",
                 "22:30"
               ]
-            },
-            {
-              "formato": "3D REGULAR DOBLADA",
-              "horarios": [
-                "12:30",
-                "15:30",
-                "18:30",
-                "21:30"
-              ]
             }
           ],
           "horarios": [
-            "11:30",
-            "12:30",
-            "13:30",
-            "14:30",
             "15:30",
             "16:30",
             "17:30",
@@ -610,20 +644,82 @@
     },
     {
       "cine": "Cinerama Cajamarca MegaPlaza",
-      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-      "direccion": "",
-      "peliculas": [],
-      "sin_programacion": true,
-      "nota": "La fuente no publica funciones de esta sala hoy.",
-      "cine_original": "Cajamarca Megaplaza (Cinerama)"
+      "cine_slug": "cinerama-cajamarca-megaplaza",
+      "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+      "url": "https://www.cinerama.com.pe/cines",
+      "fuente_cine": "Cinerama",
+      "peliculas": [
+        {
+          "titulo": "La Odisea",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/01.jpg",
+          "genero": "Accion",
+          "clasificacion": "Todo Espectador",
+          "duracion": "02:52",
+          "sinopsis": "Tras la Guerra de Troya, el Héroe Griego Odiseo Regresa a Ítaca, Grecia, Enfrentándose a Figuras de la Mitología Griega Como el Cíclope Polifemo, las Sirenas y Calipso.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30",
+                "18:45",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "18:45",
+            "22:00"
+          ]
+        },
+        {
+          "titulo": "Spider Man: Un Nuevo Dia",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/spider.jpg",
+          "genero": "Accion",
+          "clasificacion": "Todo Espectador",
+          "duracion": "02:30",
+          "sinopsis": "Tras el Día del Juicio Final, Peter Parker Intenta Centrarse en la Universidad y Abandonar a Spider-man. Cuando una Nueva Amenaza Pone en Peligro a Sus Amigos, Debe Romper Su Promesa y Volver Al Traje.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "15:45",
+                "16:15",
+                "16:45",
+                "17:45",
+                "18:30",
+                "19:00",
+                "19:30",
+                "20:30",
+                "21:15",
+                "21:45",
+                "22:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "15:45",
+            "16:15",
+            "16:45",
+            "17:45",
+            "18:30",
+            "19:00",
+            "19:30",
+            "20:30",
+            "21:15",
+            "21:45",
+            "22:15"
+          ]
+        }
+      ]
     }
   ],
   "estado": "ok",
-  "motor": "gemini",
+  "motor": "cerebras",
   "fuentes_extra": [
-    "Cineplanet"
-  ],
-  "notas": [
-    "Cinerama: HTTPError: HTTP Error 500: Internal Server Error"
+    "Cineplanet",
+    "Cinerama"
   ]
 }
