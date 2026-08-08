@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-07 17:00",
+  "actualizado": "2026-08-07 20:00",
   "fecha_objetivo": "2026-08-07",
   "peliculas": [
     {
@@ -44,27 +44,23 @@
           "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "3D REGULAR DOBLADA",
-              "horarios": [
-                "15:30",
-                "18:30",
-                "21:30"
-              ]
-            },
-            {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:30",
                 "17:30",
                 "19:30",
                 "20:30",
                 "22:30"
               ]
+            },
+            {
+              "formato": "3D REGULAR DOBLADA",
+              "horarios": [
+                "18:30",
+                "21:30"
+              ]
             }
           ],
           "horarios": [
-            "15:30",
-            "16:30",
             "17:30",
             "18:30",
             "19:30",
@@ -120,7 +116,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/spider-man-un-nuevo-dia-12132_252",
       "trailer_url": "https://www.youtube.com/watch?v=xrgNovKS0Co",
-      "sinopsis": "Peter Parker, ahora sin su identidad secreta, debe enfrentar nuevas amenazas mientras protege a sus seres queridos y descubre el verdadero significado de ser un héroe.",
+      "sinopsis": "Peter Parker, ahora sin la ayuda de los Vengadores, debe enfrentar una nueva amenaza mientras protege a la ciudad y su vida personal.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 969681,
@@ -208,7 +204,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:10",
                 "17:40",
                 "18:40",
                 "21:10",
@@ -217,7 +212,6 @@
             }
           ],
           "horarios": [
-            "15:10",
             "17:40",
             "18:40",
             "21:10",
@@ -253,8 +247,8 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-odisea-12131_252",
       "trailer_url": "https://www.youtube.com/results?search_query=La%20Odisea%20trailer%20espanol",
-      "sinopsis": "Una épica odisea espacial que sigue la evolución de la humanidad desde los albores de la civilización hasta un futuro lejano, explorando misterios cósmicos y la búsqueda del conocimiento.",
-      "puntaje": "8.3",
+      "sinopsis": "Una épica aventura espacial que sigue a una tripulación en una misión misteriosa hacia Júpiter, explorando temas de inteligencia artificial y evolución humana.",
+      "puntaje": "",
       "tmdb": {
         "tmdb_id": 1368337,
         "titulo_tmdb": "La Odisea",
@@ -337,8 +331,8 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/moana-12129_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Moana%20trailer%20espanol",
-      "sinopsis": "Moana, una valiente joven polinesia, se embarca en una aventura para salvar a su isla, guiada por el semidiós Maui y descubriendo su propio destino.",
-      "puntaje": "7.6",
+      "sinopsis": "Una valiente joven polinesia se embarca en una travesía oceánica para salvar a su isla, guiada por la diosa del fuego y un semidiós travieso.",
+      "puntaje": "7.4",
       "tmdb": {
         "tmdb_id": 1108427,
         "titulo_tmdb": "Vaiana",
@@ -424,7 +418,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/toy-story-5-12119_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Toy%20Story%205%20trailer%20espanol",
-      "sinopsis": "Woody, Buzz y el resto de los juguetes se enfrentan a una nueva generación de juguetes y a la incertidumbre de la vida después de Andy, mientras descubren lo que realmente significa la amistad y el propósito.",
+      "sinopsis": "Woody, Buzz y el resto de los juguetes se enfrentan a una nueva generación de juguetes y a la incertidumbre de su futuro cuando su dueña crece.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1084244,
@@ -587,7 +581,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:10",
                 "17:40",
                 "18:40",
                 "21:10",
@@ -596,7 +589,6 @@
             }
           ],
           "horarios": [
-            "15:10",
             "17:40",
             "18:40",
             "21:10",
@@ -610,27 +602,23 @@
           "clasificacion": "APT",
           "formatos": [
             {
-              "formato": "3D REGULAR DOBLADA",
-              "horarios": [
-                "15:30",
-                "18:30",
-                "21:30"
-              ]
-            },
-            {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:30",
                 "17:30",
                 "19:30",
                 "20:30",
                 "22:30"
               ]
+            },
+            {
+              "formato": "3D REGULAR DOBLADA",
+              "horarios": [
+                "18:30",
+                "21:30"
+              ]
             }
           ],
           "horarios": [
-            "15:30",
-            "16:30",
             "17:30",
             "18:30",
             "19:30",
