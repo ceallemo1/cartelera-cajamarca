@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-08 11:00",
+  "actualizado": "2026-08-08 17:00",
   "fecha_objetivo": "2026-08-08",
   "peliculas": [
     {
@@ -48,9 +48,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "11:30",
-                "13:30",
-                "14:30",
                 "16:30",
                 "17:30",
                 "19:30",
@@ -61,19 +58,12 @@
             {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
-                "12:30",
-                "15:30",
                 "18:30",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "11:30",
-            "12:30",
-            "13:30",
-            "14:30",
-            "15:30",
             "16:30",
             "17:30",
             "18:30",
@@ -136,7 +126,7 @@
         "tmdb_id": 969681,
         "titulo_tmdb": "Spider-Man: Brand New Day",
         "voto": 7.9,
-        "votos": 1254,
+        "votos": 1298,
         "url_tmdb": "https://www.themoviedb.org/movie/969681",
         "imdb_id": "tt22084616",
         "url_imdb": "https://www.imdb.com/title/tt22084616/",
@@ -218,9 +208,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "11:40",
-                "14:10",
-                "15:10",
                 "17:40",
                 "18:40",
                 "21:10",
@@ -229,9 +216,6 @@
             }
           ],
           "horarios": [
-            "11:40",
-            "14:10",
-            "15:10",
             "17:40",
             "18:40",
             "21:10",
@@ -273,7 +257,7 @@
         "tmdb_id": 1368337,
         "titulo_tmdb": "La Odisea",
         "voto": 8.0,
-        "votos": 2390,
+        "votos": 2418,
         "url_tmdb": "https://www.themoviedb.org/movie/1368337",
         "imdb_id": "tt33764258",
         "url_imdb": "https://www.imdb.com/title/tt33764258/",
@@ -364,7 +348,7 @@
         "tmdb_id": 1108427,
         "titulo_tmdb": "Vaiana",
         "voto": 6.0,
-        "votos": 176,
+        "votos": 180,
         "url_tmdb": "https://www.themoviedb.org/movie/1108427",
         "imdb_id": "tt27419466",
         "url_imdb": "https://www.imdb.com/title/tt27419466/",
@@ -451,7 +435,7 @@
         "tmdb_id": 1084244,
         "titulo_tmdb": "Toy Story 5",
         "voto": 7.4,
-        "votos": 783,
+        "votos": 789,
         "url_tmdb": "https://www.themoviedb.org/movie/1084244",
         "imdb_id": "tt29355505",
         "url_imdb": "https://www.imdb.com/title/tt29355505/",
@@ -617,9 +601,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "11:40",
-                "14:10",
-                "15:10",
                 "17:40",
                 "18:40",
                 "21:10",
@@ -628,9 +609,6 @@
             }
           ],
           "horarios": [
-            "11:40",
-            "14:10",
-            "15:10",
             "17:40",
             "18:40",
             "21:10",
@@ -646,9 +624,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "11:30",
-                "13:30",
-                "14:30",
                 "16:30",
                 "17:30",
                 "19:30",
@@ -659,19 +634,12 @@
             {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
-                "12:30",
-                "15:30",
                 "18:30",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "11:30",
-            "12:30",
-            "13:30",
-            "14:30",
-            "15:30",
             "16:30",
             "17:30",
             "18:30",
