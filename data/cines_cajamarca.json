@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-08 17:00",
+  "actualizado": "2026-08-08 20:00",
   "fecha_objetivo": "2026-08-08",
   "peliculas": [
     {
@@ -48,8 +48,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:30",
-                "17:30",
                 "19:30",
                 "20:30",
                 "22:30"
@@ -58,15 +56,11 @@
             {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
-                "18:30",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "16:30",
-            "17:30",
-            "18:30",
             "19:30",
             "20:30",
             "21:30",
@@ -208,7 +202,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:40",
                 "18:40",
                 "21:10",
                 "22:10"
@@ -216,7 +209,6 @@
             }
           ],
           "horarios": [
-            "17:40",
             "18:40",
             "21:10",
             "22:10"
@@ -601,7 +593,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:40",
                 "18:40",
                 "21:10",
                 "22:10"
@@ -609,7 +600,6 @@
             }
           ],
           "horarios": [
-            "17:40",
             "18:40",
             "21:10",
             "22:10"
@@ -624,8 +614,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:30",
-                "17:30",
                 "19:30",
                 "20:30",
                 "22:30"
@@ -634,15 +622,11 @@
             {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
-                "18:30",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "16:30",
-            "17:30",
-            "18:30",
             "19:30",
             "20:30",
             "21:30",
