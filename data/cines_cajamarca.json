@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-10 08:00",
+  "actualizado": "2026-08-10 11:00",
   "fecha_objetivo": "2026-08-10",
   "peliculas": [
     {
@@ -73,6 +73,44 @@
             "20:30",
             "21:30",
             "22:30"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "15:45",
+                "16:15",
+                "16:45",
+                "17:45",
+                "18:30",
+                "19:00",
+                "19:30",
+                "20:30",
+                "21:15",
+                "21:45",
+                "22:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "15:45",
+            "16:15",
+            "16:45",
+            "17:45",
+            "18:30",
+            "19:00",
+            "19:30",
+            "20:30",
+            "21:15",
+            "21:45",
+            "22:15"
           ]
         }
       ],
@@ -188,6 +226,26 @@
             "18:40",
             "21:10",
             "22:10"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30",
+                "18:45",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "18:45",
+            "22:00"
           ]
         }
       ],
@@ -594,20 +652,82 @@
     },
     {
       "cine": "Cinerama Cajamarca MegaPlaza",
-      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-      "direccion": "",
-      "peliculas": [],
-      "sin_programacion": true,
-      "nota": "La fuente no publica funciones de esta sala hoy.",
-      "cine_original": "Cajamarca Megaplaza (Cinerama)"
+      "cine_slug": "cinerama-cajamarca-megaplaza",
+      "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+      "url": "https://www.cinerama.com.pe/cines",
+      "fuente_cine": "Cinerama",
+      "peliculas": [
+        {
+          "titulo": "La Odisea",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/01.jpg",
+          "genero": "Accion",
+          "clasificacion": "Todo Espectador",
+          "duracion": "02:52",
+          "sinopsis": "Tras la Guerra de Troya, el Héroe Griego Odiseo Regresa a Ítaca, Grecia, Enfrentándose a Figuras de la Mitología Griega Como el Cíclope Polifemo, las Sirenas y Calipso.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30",
+                "18:45",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "18:45",
+            "22:00"
+          ]
+        },
+        {
+          "titulo": "Spider Man: Un Nuevo Dia",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/spider.jpg",
+          "genero": "Accion",
+          "clasificacion": "Todo Espectador",
+          "duracion": "02:30",
+          "sinopsis": "Tras el Día del Juicio Final, Peter Parker Intenta Centrarse en la Universidad y Abandonar a Spider-man. Cuando una Nueva Amenaza Pone en Peligro a Sus Amigos, Debe Romper Su Promesa y Volver Al Traje.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "15:45",
+                "16:15",
+                "16:45",
+                "17:45",
+                "18:30",
+                "19:00",
+                "19:30",
+                "20:30",
+                "21:15",
+                "21:45",
+                "22:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "15:45",
+            "16:15",
+            "16:45",
+            "17:45",
+            "18:30",
+            "19:00",
+            "19:30",
+            "20:30",
+            "21:15",
+            "21:45",
+            "22:15"
+          ]
+        }
+      ]
     }
   ],
   "estado": "ok",
   "motor": "gemini",
   "fuentes_extra": [
-    "Cineplanet"
-  ],
-  "notas": [
-    "Cinerama: HTTPError: HTTP Error 500: Internal Server Error"
+    "Cineplanet",
+    "Cinerama"
   ]
 }
