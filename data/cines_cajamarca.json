@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-10 11:00",
+  "actualizado": "2026-08-10 17:00",
   "fecha_objetivo": "2026-08-10",
   "peliculas": [
     {
@@ -44,27 +44,25 @@
           "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "14:30",
-                "16:30",
-                "17:30",
-                "19:30",
-                "20:30",
-                "22:30"
-              ]
-            },
-            {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
                 "15:30",
                 "18:30",
                 "21:30"
               ]
+            },
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:30",
+                "17:30",
+                "19:30",
+                "20:30",
+                "22:30"
+              ]
             }
           ],
           "horarios": [
-            "14:30",
             "15:30",
             "16:30",
             "17:30",
@@ -128,7 +126,7 @@
         "tmdb_id": 969681,
         "titulo_tmdb": "Spider-Man: Brand New Day",
         "voto": 7.9,
-        "votos": 1448,
+        "votos": 1480,
         "url_tmdb": "https://www.themoviedb.org/movie/969681",
         "imdb_id": "tt22084616",
         "url_imdb": "https://www.imdb.com/title/tt22084616/",
@@ -210,8 +208,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:10",
-                "15:10",
                 "17:40",
                 "18:40",
                 "21:10",
@@ -220,8 +216,6 @@
             }
           ],
           "horarios": [
-            "14:10",
-            "15:10",
             "17:40",
             "18:40",
             "21:10",
@@ -263,7 +257,7 @@
         "tmdb_id": 1368337,
         "titulo_tmdb": "La Odisea",
         "voto": 8.0,
-        "votos": 2531,
+        "votos": 2551,
         "url_tmdb": "https://www.themoviedb.org/movie/1368337",
         "imdb_id": "tt33764258",
         "url_imdb": "https://www.imdb.com/title/tt33764258/",
@@ -347,7 +341,7 @@
         "tmdb_id": 1108427,
         "titulo_tmdb": "Vaiana",
         "voto": 6.0,
-        "votos": 189,
+        "votos": 191,
         "url_tmdb": "https://www.themoviedb.org/movie/1108427",
         "imdb_id": "tt27419466",
         "url_imdb": "https://www.imdb.com/title/tt27419466/",
@@ -434,7 +428,7 @@
         "tmdb_id": 1084244,
         "titulo_tmdb": "Toy Story 5",
         "voto": 7.4,
-        "votos": 797,
+        "votos": 799,
         "url_tmdb": "https://www.themoviedb.org/movie/1084244",
         "imdb_id": "tt29355505",
         "url_imdb": "https://www.imdb.com/title/tt29355505/",
@@ -484,6 +478,95 @@
         ],
         "idioma": "Inglés",
         "titulo_original": "Toy Story 5"
+      }
+    },
+    {
+      "titulo": "La Noche del Demonio : Están Entre Nosotros (Preventa)",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/nocg.jpg",
+      "genero": "Terror",
+      "clasificacion": "Mayores de 18",
+      "duracion": "01:46",
+      "sinopsis": "Amelia Eve Interpreta a Gemma, una Joven Madre Que Cría a Su Hija en la Casa Donde Creció y Descubre Que Puede Viajar Al Más Allá, el Reino Purgatorial de las Almas Perdidas en el Corazón del Universo de Insidious. Cuando Algo Maligno la Persigue, Gemma Descubre una Habilidad Que Lo Cambia Todo: No Solo Puede Entrar Al Más Allá, Sino Que También Puede Traer de Vuelta Al Mundo Real a Quienes Viven ",
+      "director": "Jacob Chase",
+      "actores": "Amelia Eve, Island Austin, Lin Shaye, Sam Spruell, Brandon Perea, Maisie Richardson-Sellers",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:00",
+                "20:00",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:00",
+            "20:00",
+            "22:00"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1291595,
+        "titulo_tmdb": "Insidious: Fuera del más allá",
+        "voto": null,
+        "votos": 0,
+        "url_tmdb": "https://www.themoviedb.org/movie/1291595",
+        "imdb_id": "tt32393988",
+        "url_imdb": "https://www.imdb.com/title/tt32393988/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
+        "director": "Jacob Chase",
+        "reparto": [
+          {
+            "nombre": "Amelia Eve",
+            "personaje": "Gemma"
+          },
+          {
+            "nombre": "Island Austin",
+            "personaje": "Maya"
+          },
+          {
+            "nombre": "Lin Shaye",
+            "personaje": "Elise Rainier"
+          },
+          {
+            "nombre": "Sam Spruell",
+            "personaje": "Cyrus"
+          },
+          {
+            "nombre": "Brandon Perea",
+            "personaje": "Nick"
+          },
+          {
+            "nombre": "Maisie Richardson-Sellers",
+            "personaje": "Clare"
+          }
+        ],
+        "generos": [
+          "Terror",
+          "Suspense"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Sexta entrega de la franquicia \"Insidious\".",
+        "estreno": "19 ago 2026",
+        "duracion_min": 106,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Insidious: Out of the Further"
       }
     }
   ],
@@ -591,8 +674,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:10",
-                "15:10",
                 "17:40",
                 "18:40",
                 "21:10",
@@ -601,8 +682,6 @@
             }
           ],
           "horarios": [
-            "14:10",
-            "15:10",
             "17:40",
             "18:40",
             "21:10",
@@ -616,27 +695,25 @@
           "clasificacion": "APT",
           "formatos": [
             {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "14:30",
-                "16:30",
-                "17:30",
-                "19:30",
-                "20:30",
-                "22:30"
-              ]
-            },
-            {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
                 "15:30",
                 "18:30",
                 "21:30"
               ]
+            },
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:30",
+                "17:30",
+                "19:30",
+                "20:30",
+                "22:30"
+              ]
             }
           ],
           "horarios": [
-            "14:30",
             "15:30",
             "16:30",
             "17:30",
@@ -657,6 +734,31 @@
       "url": "https://www.cinerama.com.pe/cines",
       "fuente_cine": "Cinerama",
       "peliculas": [
+        {
+          "titulo": "La Noche del Demonio : Están Entre Nosotros (Preventa)",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/nocg.jpg",
+          "genero": "Terror",
+          "clasificacion": "Mayores de 18",
+          "duracion": "01:46",
+          "sinopsis": "Amelia Eve Interpreta a Gemma, una Joven Madre Que Cría a Su Hija en la Casa Donde Creció y Descubre Que Puede Viajar Al Más Allá, el Reino Purgatorial de las Almas Perdidas en el Corazón del Universo de Insidious. Cuando Algo Maligno la Persigue, Gemma Descubre una Habilidad Que Lo Cambia Todo: No Solo Puede Entrar Al Más Allá, Sino Que También Puede Traer de Vuelta Al Mundo Real a Quienes Viven ",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:00",
+                "20:00",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:00",
+            "20:00",
+            "22:00"
+          ]
+        },
         {
           "titulo": "La Odisea",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/01.jpg",
