@@ -14,8 +14,9 @@ Regla: el dato FRESCO manda sobre el viejo, salvo que sea peor el mismo dia.
   - la publicada es de un dia ANTERIOR -> se publica (aunque traiga menos cines:
     una cartelera de hoy incompleta sigue siendo mejor que una de ayer completa,
     y la pagina rotula con claridad al cine que no se pudo consultar).
-  - la publicada es de HOY y la nueva trae MENOS cines con funciones -> no se
-    publica: es una regresion, no una actualizacion.
+  - la publicada es de HOY y la nueva trae MENOS cines con funciones, o menos
+    peliculas con poster y sinopsis -> no se publica: es una regresion, no una
+    actualizacion.
 
 Salida: escribe el archivo destino solo si procede. Codigo 0 siempre que no haya
 un fallo real — "no habia nada mejor que publicar" no es un error del workflow.
@@ -29,6 +30,17 @@ import sys
 def _cines_con_funciones(d):
     return sum(1 for c in d.get("cines", [])
                if c.get("peliculas") and not c.get("sin_programacion"))
+
+
+def _enriquecidas(d):
+    """Peliculas que llegaron con poster Y con sinopsis.
+
+    Ese enriquecimiento depende de claves opcionales (TMDb y los motores LLM). Si no
+    estan cargadas como secrets, o si TMDb responde 429, la cartelera sale correcta
+    pero pelada: puros titulos y horarios, sin caratula ni de que va la pelicula. Es
+    una regresion tan visible como perder un cine, asi que se mide igual.
+    """
+    return sum(1 for p in d.get("peliculas", []) if p.get("poster") and p.get("sinopsis"))
 
 
 def main():
@@ -55,10 +67,16 @@ def main():
             print(f"NO se publica: mismo dia y menos cines con funciones "
                   f"({a} < {b}). Se conserva la cartelera publicada.")
             return 0
+        a, b = _enriquecidas(nuevo), _enriquecidas(viejo)
+        if a < b:
+            print(f"NO se publica: mismo dia y menos peliculas con poster y sinopsis "
+                  f"({a} < {b}). Se conserva la cartelera publicada.")
+            return 0
 
     shutil.copyfile(nuevo_path, destino)
     print(f"Publicado: {len(nuevo['peliculas'])} peliculas, "
           f"{_cines_con_funciones(nuevo)} cine(s) con funciones, "
+          f"{_enriquecidas(nuevo)} con poster y sinopsis, "
           f"dia {nuevo.get('fecha_objetivo')}.")
     return 0
 
