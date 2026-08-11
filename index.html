@@ -141,9 +141,15 @@ function vistaCines(d){
     // Una sala sin programacion se MUESTRA diciendolo. Omitirla haria pensar que
     // el cine no existe, que es justo el error que tenia el tablero.
     if (c.sin_programacion || !(c.peliculas || []).length) {
+      // Y hay DOS motivos distintos para que este vacia: que el cine no publicara
+      // funciones, o que no se pudiera consultar su web. Confundirlos hace descartar
+      // un cine que si esta abierto — paso con Cinerama el 2026-08-11. Cuando el fallo
+      // fue nuestro se dice asi y se ofrece su propia cartelera.
+      var ver = (c.no_consultado && c.url)
+        ? ' <a href="' + esc(c.url) + '" target="_blank" rel="noopener">Ver su cartelera</a>' : "";
       return '<article class="tarjeta"><div class="cine-n">' + esc(c.cine) + "</div>" +
         (c.direccion ? '<div class="cine-d">' + esc(c.direccion) + "</div>" : "") +
-        '<div class="aviso">' + esc(c.nota || "Sin programación publicada hoy.") + "</div></article>";
+        '<div class="aviso">' + esc(c.nota || "Sin programación publicada hoy.") + ver + "</div></article>";
     }
     var pelis = (c.peliculas || []).map(function(p){
       return '<div class="cine"><div class="cine-n">' + esc(p.titulo) + "</div>" +
