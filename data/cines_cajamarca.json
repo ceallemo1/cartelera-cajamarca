@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-10 17:00",
+  "actualizado": "2026-08-10 20:00",
   "fecha_objetivo": "2026-08-10",
   "peliculas": [
     {
@@ -46,7 +46,6 @@
             {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
                 "18:30",
                 "21:30"
               ]
@@ -54,8 +53,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:30",
-                "17:30",
                 "19:30",
                 "20:30",
                 "22:30"
@@ -63,9 +60,6 @@
             }
           ],
           "horarios": [
-            "15:30",
-            "16:30",
-            "17:30",
             "18:30",
             "19:30",
             "20:30",
@@ -116,7 +110,7 @@
       "duracion": "145 minutos",
       "clasificacion": "12 Años",
       "director": "Destin Daniel Cretton",
-      "actores": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jon Bernthal, Jacob Batalon",
+      "actores": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon, Sadie Sink",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/spider-man-un-nuevo-dia-12132_252",
       "trailer_url": "https://www.youtube.com/watch?v=xrgNovKS0Co",
@@ -138,16 +132,12 @@
             "personaje": "Peter Parker / Spider-Man"
           },
           {
-            "nombre": "Sadie Sink",
-            "personaje": "Jean Grey"
-          },
-          {
-            "nombre": "Tramell Tillman",
-            "personaje": "William 'Bill' Metzger"
-          },
-          {
             "nombre": "Zendaya",
             "personaje": "MJ"
+          },
+          {
+            "nombre": "Mark Ruffalo",
+            "personaje": "Bruce Banner / Hulk"
           },
           {
             "nombre": "Jon Bernthal",
@@ -156,6 +146,10 @@
           {
             "nombre": "Jacob Batalon",
             "personaje": "Ned Leeds"
+          },
+          {
+            "nombre": "Sadie Sink",
+            "personaje": "Jean Grey"
           }
         ],
         "generos": [
@@ -208,7 +202,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:40",
                 "18:40",
                 "21:10",
                 "22:10"
@@ -216,7 +209,6 @@
             }
           ],
           "horarios": [
-            "17:40",
             "18:40",
             "21:10",
             "22:10"
@@ -257,7 +249,7 @@
         "tmdb_id": 1368337,
         "titulo_tmdb": "La Odisea",
         "voto": 8.0,
-        "votos": 2551,
+        "votos": 2574,
         "url_tmdb": "https://www.themoviedb.org/movie/1368337",
         "imdb_id": "tt33764258",
         "url_imdb": "https://www.imdb.com/title/tt33764258/",
@@ -674,7 +666,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:40",
                 "18:40",
                 "21:10",
                 "22:10"
@@ -682,7 +673,6 @@
             }
           ],
           "horarios": [
-            "17:40",
             "18:40",
             "21:10",
             "22:10"
@@ -697,7 +687,6 @@
             {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
                 "18:30",
                 "21:30"
               ]
@@ -705,8 +694,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:30",
-                "17:30",
                 "19:30",
                 "20:30",
                 "22:30"
@@ -714,9 +701,6 @@
             }
           ],
           "horarios": [
-            "15:30",
-            "16:30",
-            "17:30",
             "18:30",
             "19:30",
             "20:30",
