@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-11 11:00",
+  "actualizado": "2026-08-11 12:25",
   "fecha_objetivo": "2026-08-11",
   "peliculas": [
     {
@@ -74,6 +74,44 @@
             "21:30",
             "22:30"
           ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "15:45",
+                "16:15",
+                "16:45",
+                "17:45",
+                "18:30",
+                "19:00",
+                "19:30",
+                "20:30",
+                "21:15",
+                "21:45",
+                "22:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "15:45",
+            "16:15",
+            "16:45",
+            "17:45",
+            "18:30",
+            "19:00",
+            "19:30",
+            "20:30",
+            "21:15",
+            "21:45",
+            "22:15"
+          ]
         }
       ],
       "genero": "Ciencia Ficción",
@@ -84,7 +122,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/spider-man-un-nuevo-dia-12132_252",
       "trailer_url": "https://www.youtube.com/watch?v=xrgNovKS0Co",
-      "sinopsis": "Peter Parker, recién graduado de la escuela secundaria, debe equilibrar su vida como estudiante y como el nuevo Spider-Man en una ciudad que aún no conoce su verdadera amenaza.",
+      "sinopsis": "Peter Parker, ahora bajo la identidad de Spider-Man, debe equilibrar su vida como estudiante y héroe mientras enfrenta a nuevos villanos en la ciudad de Nueva York.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 969681,
@@ -189,6 +227,26 @@
             "21:10",
             "22:10"
           ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30",
+                "18:45",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "18:45",
+            "22:00"
+          ]
         }
       ],
       "genero": "Drama",
@@ -199,7 +257,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-odisea-12131_252",
       "trailer_url": "https://www.youtube.com/results?search_query=La%20Odisea%20trailer%20espanol",
-      "sinopsis": "Una épica adaptación cinematográfica de la clásica obra de Homero, que narra el viaje del héroe griego Odiseo mientras intenta regresar a Ítaca tras la Guerra de Troya.",
+      "sinopsis": "Una épica adaptación de la clásica obra griega que narra el viaje del héroe Odiseo para regresar a Ítaca tras la Guerra de Troya, enfrentándose a monstruos y dioses.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1368337,
@@ -283,7 +341,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/moana-12129_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Moana%20trailer%20espanol",
-      "sinopsis": "Moana, una valiente joven polinesia, se embarca en una aventura oceánica para devolver el corazón robado a la diosa Te Fiti y salvar a su pueblo.",
+      "sinopsis": "Moana, una valiente joven polinesia, se embarca en una aventura por el océano para devolver el corazón robado a la diosa Te Fiti y salvar a su pueblo.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1108427,
@@ -370,7 +428,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/toy-story-5-12119_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Toy%20Story%205%20trailer%20espanol",
-      "sinopsis": "En la quinta entrega de la saga, Woody, Buzz y el resto de los juguetes enfrentan una nueva vida cuando su dueño crece y los lleva a un inesperado destino lleno de desafíos y descubrimientos.",
+      "sinopsis": "En la quinta entrega de la saga, Woody, Buzz y el resto de los juguetes se enfrentan a una nueva amenaza que los lleva a descubrir qué significa realmente ser un juguete en un mundo cambiante.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1084244,
@@ -426,6 +484,95 @@
         ],
         "idioma": "Inglés",
         "titulo_original": "Toy Story 5"
+      }
+    },
+    {
+      "titulo": "La Noche del Demonio : Están Entre Nosotros (Preventa)",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/nocg.jpg",
+      "genero": "Terror",
+      "clasificacion": "Mayores de 18",
+      "duracion": "01:46",
+      "sinopsis": "Amelia Eve Interpreta a Gemma, una Joven Madre Que Cría a Su Hija en la Casa Donde Creció y Descubre Que Puede Viajar Al Más Allá, el Reino Purgatorial de las Almas Perdidas en el Corazón del Universo de Insidious. Cuando Algo Maligno la Persigue, Gemma Descubre una Habilidad Que Lo Cambia Todo: No Solo Puede Entrar Al Más Allá, Sino Que También Puede Traer de Vuelta Al Mundo Real a Quienes Viven ",
+      "director": "Jacob Chase",
+      "actores": "Amelia Eve, Island Austin, Lin Shaye, Sam Spruell, Brandon Perea, Maisie Richardson-Sellers",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:00",
+                "20:00",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:00",
+            "20:00",
+            "22:00"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1291595,
+        "titulo_tmdb": "Insidious: Fuera del más allá",
+        "voto": null,
+        "votos": 0,
+        "url_tmdb": "https://www.themoviedb.org/movie/1291595",
+        "imdb_id": "tt32393988",
+        "url_imdb": "https://www.imdb.com/title/tt32393988/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
+        "director": "Jacob Chase",
+        "reparto": [
+          {
+            "nombre": "Amelia Eve",
+            "personaje": "Gemma"
+          },
+          {
+            "nombre": "Island Austin",
+            "personaje": "Maya"
+          },
+          {
+            "nombre": "Lin Shaye",
+            "personaje": "Elise Rainier"
+          },
+          {
+            "nombre": "Sam Spruell",
+            "personaje": "Cyrus"
+          },
+          {
+            "nombre": "Brandon Perea",
+            "personaje": "Nick"
+          },
+          {
+            "nombre": "Maisie Richardson-Sellers",
+            "personaje": "Clare"
+          }
+        ],
+        "generos": [
+          "Terror",
+          "Suspense"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Sexta entrega de la franquicia \"Insidious\".",
+        "estreno": "19 ago 2026",
+        "duracion_min": 106,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Insidious: Out of the Further"
       }
     }
   ],
@@ -594,20 +741,107 @@
     },
     {
       "cine": "Cinerama Cajamarca MegaPlaza",
-      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-      "direccion": "",
-      "peliculas": [],
-      "sin_programacion": true,
-      "nota": "La fuente no publica funciones de esta sala hoy.",
-      "cine_original": "Cajamarca Megaplaza (Cinerama)"
+      "cine_slug": "cinerama-cajamarca-megaplaza",
+      "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+      "url": "https://www.cinerama.com.pe/cines",
+      "fuente_cine": "Cinerama",
+      "peliculas": [
+        {
+          "titulo": "La Noche del Demonio : Están Entre Nosotros (Preventa)",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/nocg.jpg",
+          "genero": "Terror",
+          "clasificacion": "Mayores de 18",
+          "duracion": "01:46",
+          "sinopsis": "Amelia Eve Interpreta a Gemma, una Joven Madre Que Cría a Su Hija en la Casa Donde Creció y Descubre Que Puede Viajar Al Más Allá, el Reino Purgatorial de las Almas Perdidas en el Corazón del Universo de Insidious. Cuando Algo Maligno la Persigue, Gemma Descubre una Habilidad Que Lo Cambia Todo: No Solo Puede Entrar Al Más Allá, Sino Que También Puede Traer de Vuelta Al Mundo Real a Quienes Viven ",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:00",
+                "20:00",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:00",
+            "20:00",
+            "22:00"
+          ]
+        },
+        {
+          "titulo": "La Odisea",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/01.jpg",
+          "genero": "Accion",
+          "clasificacion": "Todo Espectador",
+          "duracion": "02:52",
+          "sinopsis": "Tras la Guerra de Troya, el Héroe Griego Odiseo Regresa a Ítaca, Grecia, Enfrentándose a Figuras de la Mitología Griega Como el Cíclope Polifemo, las Sirenas y Calipso.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30",
+                "18:45",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "18:45",
+            "22:00"
+          ]
+        },
+        {
+          "titulo": "Spider Man: Un Nuevo Dia",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/spider.jpg",
+          "genero": "Accion",
+          "clasificacion": "Todo Espectador",
+          "duracion": "02:30",
+          "sinopsis": "Tras el Día del Juicio Final, Peter Parker Intenta Centrarse en la Universidad y Abandonar a Spider-man. Cuando una Nueva Amenaza Pone en Peligro a Sus Amigos, Debe Romper Su Promesa y Volver Al Traje.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "15:45",
+                "16:15",
+                "16:45",
+                "17:45",
+                "18:30",
+                "19:00",
+                "19:30",
+                "20:30",
+                "21:15",
+                "21:45",
+                "22:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "15:45",
+            "16:15",
+            "16:45",
+            "17:45",
+            "18:30",
+            "19:00",
+            "19:30",
+            "20:30",
+            "21:15",
+            "21:45",
+            "22:15"
+          ]
+        }
+      ]
     }
   ],
   "estado": "ok",
   "motor": "cerebras",
   "fuentes_extra": [
-    "Cineplanet"
-  ],
-  "notas": [
-    "Cinerama: HTTPError: HTTP Error 500: Internal Server Error"
+    "Cineplanet",
+    "Cinerama"
   ]
 }
