@@ -23,9 +23,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     env:
-      # El cache va al temporal del runner, FUERA del repo. No es comodidad: hace
-      # imposible que un archivo del cache acabe en un repo publico por descuido.
-      TABLERO_CACHE: ${{ runner.temp }}/cache
+      # El cache va a /tmp, FUERA del repo. No es comodidad: hace imposible que un
+      # archivo del cache acabe en un repo publico por descuido. Ruta literal a
+      # proposito — `runner.temp` NO se puede usar en el `env:` del job (GitHub lo
+      # rechaza al validar el workflow: "Unrecognized named-value: 'runner'").
+      TABLERO_CACHE: /tmp/tablero-cache
       TABLERO_NUBE: "1"
       # Opcionales. Si no estan cargados como secrets del repo, la cartelera sale
       # igual (cines, formatos y horarios) pero sin sinopsis ni resenas.
