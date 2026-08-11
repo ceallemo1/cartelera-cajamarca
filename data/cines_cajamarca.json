@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-11 17:00",
+  "actualizado": "2026-08-11 17:56",
   "fecha_objetivo": "2026-08-11",
   "peliculas": [
     {
@@ -44,14 +44,6 @@
           "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "3D REGULAR DOBLADA",
-              "horarios": [
-                "15:30",
-                "18:30",
-                "21:30"
-              ]
-            },
-            {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "16:30",
@@ -60,10 +52,16 @@
                 "20:30",
                 "22:30"
               ]
+            },
+            {
+              "formato": "3D REGULAR DOBLADA",
+              "horarios": [
+                "18:30",
+                "21:30"
+              ]
             }
           ],
           "horarios": [
-            "15:30",
             "16:30",
             "17:30",
             "18:30",
@@ -120,7 +118,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/spider-man-un-nuevo-dia-12132_252",
       "trailer_url": "https://www.youtube.com/watch?v=xrgNovKS0Co",
-      "sinopsis": "Peter Parker, ahora sin su identidad secreta, debe enfrentar nuevas amenazas mientras equilibra su vida como estudiante y superhéroe.",
+      "sinopsis": "Han pasado cuatro años desde los acontecimientos de Sin regreso a casa, y Peter ahora es un adulto que vive completamente solo, habiéndose borrado voluntariamente de la vida y los recuerdos de sus seres queridos. Combatiendo el crimen en una Nueva York que ya no lo conoce, se ha dedicado por completo a proteger su ciudad —un Spider-Man a tiempo completo—, pero a medida que las exigencias se intens",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 969681,
@@ -251,8 +249,8 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-odisea-12131_252",
       "trailer_url": "https://www.youtube.com/results?search_query=La%20Odisea%20trailer%20espanol",
-      "sinopsis": "Una épica odisea espacial que sigue al Dr. Dave Bowman y su tripulación mientras descubren un misterioso monolito que impulsa la evolución humana.",
-      "puntaje": "8.3",
+      "sinopsis": "-",
+      "puntaje": "",
       "tmdb": {
         "tmdb_id": 1368337,
         "titulo_tmdb": "La Odisea",
@@ -335,8 +333,8 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/moana-12129_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Moana%20trailer%20espanol",
-      "sinopsis": "Una valiente joven polinesia se embarca en una aventura para salvar a su isla, descubriendo su propia identidad y el poder del océano.",
-      "puntaje": "7.6",
+      "sinopsis": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "puntaje": "",
       "tmdb": {
         "tmdb_id": 1108427,
         "titulo_tmdb": "Vaiana",
@@ -422,7 +420,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/toy-story-5-12119_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Toy%20Story%205%20trailer%20espanol",
-      "sinopsis": "Woody, Buzz y el resto del grupo se enfrentan a una nueva amenaza que los lleva a explorar su pasado y a decidir qué significa realmente ser un juguete.",
+      "sinopsis": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1084244,
@@ -695,14 +693,6 @@
           "clasificacion": "APT",
           "formatos": [
             {
-              "formato": "3D REGULAR DOBLADA",
-              "horarios": [
-                "15:30",
-                "18:30",
-                "21:30"
-              ]
-            },
-            {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "16:30",
@@ -711,10 +701,16 @@
                 "20:30",
                 "22:30"
               ]
+            },
+            {
+              "formato": "3D REGULAR DOBLADA",
+              "horarios": [
+                "18:30",
+                "21:30"
+              ]
             }
           ],
           "horarios": [
-            "15:30",
             "16:30",
             "17:30",
             "18:30",
@@ -827,7 +823,6 @@
     }
   ],
   "estado": "ok",
-  "motor": "cerebras",
   "fuentes_extra": [
     "Cineplanet",
     "Cinerama"
