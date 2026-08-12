@@ -2,97 +2,9 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-11 22:27",
-  "fecha_objetivo": "2026-08-11",
+  "actualizado": "2026-08-12 07:18",
+  "fecha_objetivo": "2026-08-12",
   "peliculas": [
-    {
-      "titulo": "La Noche Del Demonio: Están Entre Nosotros",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-noche-del-demonio-estan-entre-nosotros-47638-0.webp",
-      "cines": [
-        {
-          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
-          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:00",
-                "18:00",
-                "20:00",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:00",
-            "20:00",
-            "22:00"
-          ]
-        }
-      ],
-      "genero": "Terror",
-      "duracion": "106 minutos",
-      "clasificacion": "18 Años",
-      "director": "Jacob Chase",
-      "actores": "Sam Spruell, Lin Shaye, Maisie Richardson, Brandon Perea",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/la-noche-del-demonio-estan-entre-nosotros-12203_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=La%20Noche%20Del%20Demonio%3A%20Est%C3%A1n%20Entre%20Nosotros%20trailer%20espanol",
-      "sinopsis": "Sexta entrega de la franquicia \"Insidious\".",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1291595,
-        "titulo_tmdb": "Insidious: Fuera del más allá",
-        "voto": null,
-        "votos": 0,
-        "url_tmdb": "https://www.themoviedb.org/movie/1291595",
-        "imdb_id": "tt32393988",
-        "url_imdb": "https://www.imdb.com/title/tt32393988/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
-        "director": "Jacob Chase",
-        "reparto": [
-          {
-            "nombre": "Amelia Eve",
-            "personaje": "Gemma"
-          },
-          {
-            "nombre": "Island Austin",
-            "personaje": "Maya"
-          },
-          {
-            "nombre": "Lin Shaye",
-            "personaje": "Elise Rainier"
-          },
-          {
-            "nombre": "Sam Spruell",
-            "personaje": "Cyrus"
-          },
-          {
-            "nombre": "Brandon Perea",
-            "personaje": "Nick"
-          },
-          {
-            "nombre": "Maisie Richardson-Sellers",
-            "personaje": "Clare"
-          }
-        ],
-        "generos": [
-          "Terror",
-          "Suspense"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Sexta entrega de la franquicia \"Insidious\".",
-        "estreno": "19 ago 2026",
-        "duracion_min": 106,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Insidious: Out of the Further"
-      }
-    },
     {
       "titulo": "Spider Man: Un Nuevo Dia",
       "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-0.webp",
@@ -107,7 +19,7 @@
               "horarios": [
                 "15:00",
                 "16:00",
-                "17:05",
+                "17:50",
                 "18:50",
                 "20:40",
                 "21:40"
@@ -117,48 +29,10 @@
           "horarios": [
             "15:00",
             "16:00",
-            "17:05",
+            "17:50",
             "18:50",
             "20:40",
             "21:40"
-          ]
-        },
-        {
-          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
-          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "15:45",
-                "16:15",
-                "16:45",
-                "17:45",
-                "18:30",
-                "19:00",
-                "19:30",
-                "20:30",
-                "21:15",
-                "21:45",
-                "22:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "15:45",
-            "16:15",
-            "16:45",
-            "17:45",
-            "18:30",
-            "19:00",
-            "19:30",
-            "20:30",
-            "21:15",
-            "21:45",
-            "22:15"
           ]
         },
         {
@@ -170,19 +44,33 @@
           "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "3D REGULAR DOBLADA",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "21:30"
+                "14:30",
+                "16:30",
+                "17:30",
+                "19:30",
+                "20:30",
+                "22:30"
               ]
             },
             {
-              "formato": "2D REGULAR DOBLADA",
+              "formato": "3D REGULAR DOBLADA",
               "horarios": [
-                "22:30"
+                "15:30",
+                "18:30",
+                "21:30"
               ]
             }
           ],
           "horarios": [
+            "14:30",
+            "15:30",
+            "16:30",
+            "17:30",
+            "18:30",
+            "19:30",
+            "20:30",
             "21:30",
             "22:30"
           ]
@@ -202,7 +90,7 @@
         "tmdb_id": 969681,
         "titulo_tmdb": "Spider-Man: Brand New Day",
         "voto": 7.9,
-        "votos": 1537,
+        "votos": 1571,
         "url_tmdb": "https://www.themoviedb.org/movie/969681",
         "imdb_id": "tt22084616",
         "url_imdb": "https://www.imdb.com/title/tt22084616/",
@@ -274,26 +162,6 @@
           ]
         },
         {
-          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
-          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30",
-                "18:45",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30",
-            "18:45",
-            "22:00"
-          ]
-        },
-        {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
           "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
@@ -304,11 +172,21 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "14:10",
+                "15:10",
+                "17:40",
+                "18:40",
+                "21:10",
                 "22:10"
               ]
             }
           ],
           "horarios": [
+            "14:10",
+            "15:10",
+            "17:40",
+            "18:40",
+            "21:10",
             "22:10"
           ]
         }
@@ -327,7 +205,7 @@
         "tmdb_id": 1368337,
         "titulo_tmdb": "La Odisea",
         "voto": 8.0,
-        "votos": 2616,
+        "votos": 2635,
         "url_tmdb": "https://www.themoviedb.org/movie/1368337",
         "imdb_id": "tt33764258",
         "url_imdb": "https://www.imdb.com/title/tt33764258/",
@@ -498,7 +376,7 @@
         "tmdb_id": 1084244,
         "titulo_tmdb": "Toy Story 5",
         "voto": 7.4,
-        "votos": 808,
+        "votos": 811,
         "url_tmdb": "https://www.themoviedb.org/movie/1084244",
         "imdb_id": "tt29355505",
         "url_imdb": "https://www.imdb.com/title/tt29355505/",
@@ -568,7 +446,7 @@
               "horarios": [
                 "15:00",
                 "16:00",
-                "17:05",
+                "17:50",
                 "18:50",
                 "20:40",
                 "21:40"
@@ -578,7 +456,7 @@
           "horarios": [
             "15:00",
             "16:00",
-            "17:05",
+            "17:50",
             "18:50",
             "20:40",
             "21:40"
@@ -639,99 +517,6 @@
       "cine_original": "CAJAMARCA - MOVIE TIME"
     },
     {
-      "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
-      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-      "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
-      "peliculas": [
-        {
-          "titulo": "La Noche Del Demonio: Están Entre Nosotros",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-noche-del-demonio-estan-entre-nosotros-47638-0.webp",
-          "genero": "Terror",
-          "clasificacion": "18 Años",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:00",
-                "18:00",
-                "20:00",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:00",
-            "20:00",
-            "22:00"
-          ]
-        },
-        {
-          "titulo": "Spider Man: Un Nuevo Dia",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-0.webp",
-          "genero": "Ciencia Ficción",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "15:45",
-                "16:15",
-                "16:45",
-                "17:45",
-                "18:30",
-                "19:00",
-                "19:30",
-                "20:30",
-                "21:15",
-                "21:45",
-                "22:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "15:45",
-            "16:15",
-            "16:45",
-            "17:45",
-            "18:30",
-            "19:00",
-            "19:30",
-            "20:30",
-            "21:15",
-            "21:45",
-            "22:15"
-          ]
-        },
-        {
-          "titulo": "La Odisea",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/5/la-odisea-47428-0.webp",
-          "genero": "Drama",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30",
-                "18:45",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30",
-            "18:45",
-            "22:00"
-          ]
-        }
-      ],
-      "no_consultado": true,
-      "nota": "No se pudo consultar su cartelera. Suele tener funciones a diario.",
-      "url": "https://www.cinerama.com.pe/cines"
-    },
-    {
       "cine": "CinePlanet Cajamarca Real Plaza",
       "cine_slug": "cp-cajamarca",
       "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
@@ -748,11 +533,21 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "14:10",
+                "15:10",
+                "17:40",
+                "18:40",
+                "21:10",
                 "22:10"
               ]
             }
           ],
           "horarios": [
+            "14:10",
+            "15:10",
+            "17:40",
+            "18:40",
+            "21:10",
             "22:10"
           ]
         },
@@ -763,32 +558,58 @@
           "clasificacion": "APT",
           "formatos": [
             {
-              "formato": "3D REGULAR DOBLADA",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "21:30"
+                "14:30",
+                "16:30",
+                "17:30",
+                "19:30",
+                "20:30",
+                "22:30"
               ]
             },
             {
-              "formato": "2D REGULAR DOBLADA",
+              "formato": "3D REGULAR DOBLADA",
               "horarios": [
-                "22:30"
+                "15:30",
+                "18:30",
+                "21:30"
               ]
             }
           ],
           "horarios": [
+            "14:30",
+            "15:30",
+            "16:30",
+            "17:30",
+            "18:30",
+            "19:30",
+            "20:30",
             "21:30",
             "22:30"
           ]
         }
       ],
       "cine_original": "CP Cajamarca"
+    },
+    {
+      "cine": "Cinerama Cajamarca MegaPlaza",
+      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+      "direccion": "",
+      "peliculas": [],
+      "sin_programacion": true,
+      "nota": "No se pudo consultar su cartelera. Suele tener funciones a diario.",
+      "no_consultado": true,
+      "url": "https://www.cinerama.com.pe/cines",
+      "cine_original": "Cajamarca Megaplaza (Cinerama)"
     }
   ],
   "estado": "ok",
+  "motor": "gemini",
   "fuentes_extra": [
     "Cineplanet"
   ],
   "notas": [
-    "Cinerama: NO_CONSULTADO: JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+    "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
   ]
 }
