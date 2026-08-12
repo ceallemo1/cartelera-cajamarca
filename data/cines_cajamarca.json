@@ -2,9 +2,97 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-11 20:00",
+  "actualizado": "2026-08-11 22:27",
   "fecha_objetivo": "2026-08-11",
   "peliculas": [
+    {
+      "titulo": "La Noche Del Demonio: Están Entre Nosotros",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-noche-del-demonio-estan-entre-nosotros-47638-0.webp",
+      "cines": [
+        {
+          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
+          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:00",
+                "20:00",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:00",
+            "20:00",
+            "22:00"
+          ]
+        }
+      ],
+      "genero": "Terror",
+      "duracion": "106 minutos",
+      "clasificacion": "18 Años",
+      "director": "Jacob Chase",
+      "actores": "Sam Spruell, Lin Shaye, Maisie Richardson, Brandon Perea",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/la-noche-del-demonio-estan-entre-nosotros-12203_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=La%20Noche%20Del%20Demonio%3A%20Est%C3%A1n%20Entre%20Nosotros%20trailer%20espanol",
+      "sinopsis": "Sexta entrega de la franquicia \"Insidious\".",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1291595,
+        "titulo_tmdb": "Insidious: Fuera del más allá",
+        "voto": null,
+        "votos": 0,
+        "url_tmdb": "https://www.themoviedb.org/movie/1291595",
+        "imdb_id": "tt32393988",
+        "url_imdb": "https://www.imdb.com/title/tt32393988/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
+        "director": "Jacob Chase",
+        "reparto": [
+          {
+            "nombre": "Amelia Eve",
+            "personaje": "Gemma"
+          },
+          {
+            "nombre": "Island Austin",
+            "personaje": "Maya"
+          },
+          {
+            "nombre": "Lin Shaye",
+            "personaje": "Elise Rainier"
+          },
+          {
+            "nombre": "Sam Spruell",
+            "personaje": "Cyrus"
+          },
+          {
+            "nombre": "Brandon Perea",
+            "personaje": "Nick"
+          },
+          {
+            "nombre": "Maisie Richardson-Sellers",
+            "personaje": "Clare"
+          }
+        ],
+        "generos": [
+          "Terror",
+          "Suspense"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Sexta entrega de la franquicia \"Insidious\".",
+        "estreno": "19 ago 2026",
+        "duracion_min": 106,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Insidious: Out of the Further"
+      }
+    },
     {
       "titulo": "Spider Man: Un Nuevo Dia",
       "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-0.webp",
@@ -36,39 +124,9 @@
           ]
         },
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "19:30",
-                "20:30",
-                "22:30"
-              ]
-            },
-            {
-              "formato": "3D REGULAR DOBLADA",
-              "horarios": [
-                "21:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:30",
-            "20:30",
-            "21:30",
-            "22:30"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
+          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
           "formatos": [
             {
               "formato": "",
@@ -102,6 +160,32 @@
             "21:45",
             "22:15"
           ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "3D REGULAR DOBLADA",
+              "horarios": [
+                "21:30"
+              ]
+            },
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "22:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:30",
+            "22:30"
+          ]
         }
       ],
       "genero": "Ciencia Ficción",
@@ -112,7 +196,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/spider-man-un-nuevo-dia-12132_252",
       "trailer_url": "https://www.youtube.com/watch?v=xrgNovKS0Co",
-      "sinopsis": "Peter Parker, tras un nuevo comienzo, debe equilibrar su vida como estudiante y como el nuevo Spider-Man en una ciudad que necesita esperanza.",
+      "sinopsis": "Han pasado cuatro años desde los acontecimientos de Sin regreso a casa, y Peter ahora es un adulto que vive completamente solo, habiéndose borrado voluntariamente de la vida y los recuerdos de sus seres queridos. Combatiendo el crimen en una Nueva York que ya no lo conoce, se ha dedicado por completo a proteger su ciudad —un Spider-Man a tiempo completo—, pero a medida que las exigencias se intens",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 969681,
@@ -190,30 +274,9 @@
           ]
         },
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "21:10",
-                "22:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "21:10",
-            "22:10"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
+          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
           "formatos": [
             {
               "formato": "",
@@ -229,6 +292,25 @@
             "18:45",
             "22:00"
           ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "22:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "22:10"
+          ]
         }
       ],
       "genero": "Drama",
@@ -239,7 +321,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-odisea-12131_252",
       "trailer_url": "https://www.youtube.com/results?search_query=La%20Odisea%20trailer%20espanol",
-      "sinopsis": "Una épica aventura espacial donde un valiente héroe viaja a través de galaxias desconocidas para salvar a su civilización de la extinción.",
+      "sinopsis": "-",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1368337,
@@ -323,7 +405,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/moana-12129_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Moana%20trailer%20espanol",
-      "sinopsis": "Moana, una joven polinesia, se embarca en una travesía oceánica para devolver el corazón robado a la diosa Te Fiti y restaurar el equilibrio de su isla.",
+      "sinopsis": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1108427,
@@ -410,13 +492,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/toy-story-5-12119_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Toy%20Story%205%20trailer%20espanol",
-      "sinopsis": "En la quinta entrega, Woody, Buzz y el resto de los juguetes enfrentan una nueva amenaza cuando su dueño crece y se muda a la universidad, obligándolos a reinventarse.",
+      "sinopsis": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1084244,
         "titulo_tmdb": "Toy Story 5",
         "voto": 7.4,
-        "votos": 805,
+        "votos": 808,
         "url_tmdb": "https://www.themoviedb.org/movie/1084244",
         "imdb_id": "tt29355505",
         "url_imdb": "https://www.imdb.com/title/tt29355505/",
@@ -466,95 +548,6 @@
         ],
         "idioma": "Inglés",
         "titulo_original": "Toy Story 5"
-      }
-    },
-    {
-      "titulo": "La Noche del Demonio : Están Entre Nosotros (Preventa)",
-      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/nocg.jpg",
-      "genero": "Terror",
-      "clasificacion": "Mayores de 18",
-      "duracion": "01:46",
-      "sinopsis": "Amelia Eve Interpreta a Gemma, una Joven Madre Que Cría a Su Hija en la Casa Donde Creció y Descubre Que Puede Viajar Al Más Allá, el Reino Purgatorial de las Almas Perdidas en el Corazón del Universo de Insidious. Cuando Algo Maligno la Persigue, Gemma Descubre una Habilidad Que Lo Cambia Todo: No Solo Puede Entrar Al Más Allá, Sino Que También Puede Traer de Vuelta Al Mundo Real a Quienes Viven ",
-      "director": "Jacob Chase",
-      "actores": "Amelia Eve, Island Austin, Lin Shaye, Sam Spruell, Brandon Perea, Maisie Richardson-Sellers",
-      "estreno": "",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "",
-      "fuente_peli": "Cinerama",
-      "cines": [
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:00",
-                "18:00",
-                "20:00",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:00",
-            "20:00",
-            "22:00"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1291595,
-        "titulo_tmdb": "Insidious: Fuera del más allá",
-        "voto": null,
-        "votos": 0,
-        "url_tmdb": "https://www.themoviedb.org/movie/1291595",
-        "imdb_id": "tt32393988",
-        "url_imdb": "https://www.imdb.com/title/tt32393988/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
-        "director": "Jacob Chase",
-        "reparto": [
-          {
-            "nombre": "Amelia Eve",
-            "personaje": "Gemma"
-          },
-          {
-            "nombre": "Island Austin",
-            "personaje": "Maya"
-          },
-          {
-            "nombre": "Lin Shaye",
-            "personaje": "Elise Rainier"
-          },
-          {
-            "nombre": "Sam Spruell",
-            "personaje": "Cyrus"
-          },
-          {
-            "nombre": "Brandon Perea",
-            "personaje": "Nick"
-          },
-          {
-            "nombre": "Maisie Richardson-Sellers",
-            "personaje": "Clare"
-          }
-        ],
-        "generos": [
-          "Terror",
-          "Suspense"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Sexta entrega de la franquicia \"Insidious\".",
-        "estreno": "19 ago 2026",
-        "duracion_min": 106,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Insidious: Out of the Further"
       }
     }
   ],
@@ -646,77 +639,15 @@
       "cine_original": "CAJAMARCA - MOVIE TIME"
     },
     {
-      "cine": "CinePlanet Cajamarca Real Plaza",
-      "cine_slug": "cp-cajamarca",
-      "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-      "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-      "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-      "fuente_cine": "Cineplanet",
+      "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
+      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+      "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
       "peliculas": [
         {
-          "titulo": "La Odisea",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002831?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Acción",
-          "clasificacion": "+14",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "21:10",
-                "22:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "21:10",
-            "22:10"
-          ]
-        },
-        {
-          "titulo": "Spider Man: Un Nuevo Dia",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002949?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Acción",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "19:30",
-                "20:30",
-                "22:30"
-              ]
-            },
-            {
-              "formato": "3D REGULAR DOBLADA",
-              "horarios": [
-                "21:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:30",
-            "20:30",
-            "21:30",
-            "22:30"
-          ]
-        }
-      ],
-      "cine_original": "CP Cajamarca"
-    },
-    {
-      "cine": "Cinerama Cajamarca MegaPlaza",
-      "cine_slug": "cinerama-cajamarca-megaplaza",
-      "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-      "url": "https://www.cinerama.com.pe/cines",
-      "fuente_cine": "Cinerama",
-      "peliculas": [
-        {
-          "titulo": "La Noche del Demonio : Están Entre Nosotros (Preventa)",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/nocg.jpg",
+          "titulo": "La Noche Del Demonio: Están Entre Nosotros",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-noche-del-demonio-estan-entre-nosotros-47638-0.webp",
           "genero": "Terror",
-          "clasificacion": "Mayores de 18",
-          "duracion": "01:46",
-          "sinopsis": "Amelia Eve Interpreta a Gemma, una Joven Madre Que Cría a Su Hija en la Casa Donde Creció y Descubre Que Puede Viajar Al Más Allá, el Reino Purgatorial de las Almas Perdidas en el Corazón del Universo de Insidious. Cuando Algo Maligno la Persigue, Gemma Descubre una Habilidad Que Lo Cambia Todo: No Solo Puede Entrar Al Más Allá, Sino Que También Puede Traer de Vuelta Al Mundo Real a Quienes Viven ",
+          "clasificacion": "18 Años",
           "formatos": [
             {
               "formato": "",
@@ -736,35 +667,10 @@
           ]
         },
         {
-          "titulo": "La Odisea",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/01.jpg",
-          "genero": "Accion",
-          "clasificacion": "Todo Espectador",
-          "duracion": "02:52",
-          "sinopsis": "Tras la Guerra de Troya, el Héroe Griego Odiseo Regresa a Ítaca, Grecia, Enfrentándose a Figuras de la Mitología Griega Como el Cíclope Polifemo, las Sirenas y Calipso.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30",
-                "18:45",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30",
-            "18:45",
-            "22:00"
-          ]
-        },
-        {
           "titulo": "Spider Man: Un Nuevo Dia",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/spider.jpg",
-          "genero": "Accion",
-          "clasificacion": "Todo Espectador",
-          "duracion": "02:30",
-          "sinopsis": "Tras el Día del Juicio Final, Peter Parker Intenta Centrarse en la Universidad y Abandonar a Spider-man. Cuando una Nueva Amenaza Pone en Peligro a Sus Amigos, Debe Romper Su Promesa y Volver Al Traje.",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-0.webp",
+          "genero": "Ciencia Ficción",
+          "clasificacion": "12 Años",
           "formatos": [
             {
               "formato": "",
@@ -798,14 +704,91 @@
             "21:45",
             "22:15"
           ]
+        },
+        {
+          "titulo": "La Odisea",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/5/la-odisea-47428-0.webp",
+          "genero": "Drama",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30",
+                "18:45",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "18:45",
+            "22:00"
+          ]
         }
-      ]
+      ],
+      "no_consultado": true,
+      "nota": "No se pudo consultar su cartelera. Suele tener funciones a diario.",
+      "url": "https://www.cinerama.com.pe/cines"
+    },
+    {
+      "cine": "CinePlanet Cajamarca Real Plaza",
+      "cine_slug": "cp-cajamarca",
+      "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+      "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+      "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+      "fuente_cine": "Cineplanet",
+      "peliculas": [
+        {
+          "titulo": "La Odisea",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002831?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "22:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "22:10"
+          ]
+        },
+        {
+          "titulo": "Spider Man: Un Nuevo Dia",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002949?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "3D REGULAR DOBLADA",
+              "horarios": [
+                "21:30"
+              ]
+            },
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "22:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:30",
+            "22:30"
+          ]
+        }
+      ],
+      "cine_original": "CP Cajamarca"
     }
   ],
   "estado": "ok",
-  "motor": "cerebras",
   "fuentes_extra": [
-    "Cineplanet",
-    "Cinerama"
+    "Cineplanet"
+  ],
+  "notas": [
+    "Cinerama: NO_CONSULTADO: JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   ]
 }
