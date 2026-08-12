@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-12 17:00",
+  "actualizado": "2026-08-12 17:54",
   "fecha_objetivo": "2026-08-12",
   "peliculas": [
     {
@@ -823,7 +823,6 @@
     }
   ],
   "estado": "ok",
-  "motor": "gemini",
   "fuentes_extra": [
     "Cineplanet",
     "Cinerama"
