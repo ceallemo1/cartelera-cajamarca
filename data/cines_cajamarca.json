@@ -2,9 +2,897 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-13 08:00",
+  "actualizado": "2026-08-13 14:21",
   "fecha_objetivo": "2026-08-13",
-  "peliculas": [],
-  "cines": [],
-  "estado": "vacio"
+  "peliculas": [
+    {
+      "titulo": "El Final De La Calle Oak",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/el-final-de-la-calle-oak-47640-1.jpg",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "17:10",
+                "20:10",
+                "22:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:10",
+            "20:10",
+            "22:20"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:00",
+                "20:00",
+                "21:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:00",
+            "20:00",
+            "21:50"
+          ]
+        }
+      ],
+      "genero": "Acción",
+      "duracion": "100 minutos",
+      "clasificacion": "12 Años",
+      "director": "David Robert Mitchell",
+      "actores": "Anne Hathaway, Ewan McGregor, Christian Convery, Maisy Stella, Jordan Alexa Davis, P.J. Byrne",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/el-final-de-la-calle-oak-12204_252",
+      "trailer_url": "https://youtu.be/1rnQu-NRXbQ?si=1GWMZMzK0NtmDwXC",
+      "sinopsis": "Un grupo de adolescentes descubre un oscuro secreto que acecha en la aparentemente tranquila Oak Street, desatando una serie de eventos sobrenaturales.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1101383,
+        "titulo_tmdb": "El final de Oak Street",
+        "voto": 7.0,
+        "votos": 47,
+        "url_tmdb": "https://www.themoviedb.org/movie/1101383",
+        "imdb_id": "tt27165187",
+        "url_imdb": "https://www.imdb.com/title/tt27165187/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
+        "director": "David Robert Mitchell",
+        "reparto": [
+          {
+            "nombre": "Anne Hathaway",
+            "personaje": "Denise Platt"
+          },
+          {
+            "nombre": "Ewan McGregor",
+            "personaje": "Greg Platt"
+          },
+          {
+            "nombre": "Christian Convery",
+            "personaje": "Brian Platt"
+          },
+          {
+            "nombre": "Maisy Stella",
+            "personaje": "Audrey Platt"
+          },
+          {
+            "nombre": "Jordan Alexa Davis",
+            "personaje": "Jeannette Christiansen"
+          },
+          {
+            "nombre": "P.J. Byrne",
+            "personaje": "Mel Jacobs"
+          }
+        ],
+        "generos": [
+          "Ciencia ficción",
+          "Misterio",
+          "Suspense"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=pKtm-_iOivI",
+          "embed_id": "pKtm-_iOivI"
+        },
+        "sinopsis_tmdb": "Un hombre de mediana edad se encuentra en un extraño campamento para dormir, compitiendo con excéntricos campistas. Busca a su amigo desaparecido y a una mítica bestia gris que guarda un tesoro escondido.",
+        "estreno": "12 ago 2026",
+        "duracion_min": 100,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "The End of Oak Street"
+      }
+    },
+    {
+      "titulo": "Spider Man: Un Nuevo Dia",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-0.webp",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:30",
+                "17:30",
+                "20:30"
+              ]
+            },
+            {
+              "formato": "3D REGULAR DOBLADA",
+              "horarios": [
+                "15:30",
+                "18:30",
+                "21:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:30",
+            "15:30",
+            "17:30",
+            "18:30",
+            "20:30",
+            "21:40"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "15:45",
+                "16:30",
+                "17:45",
+                "18:30",
+                "19:15",
+                "20:30",
+                "21:15",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "15:45",
+            "16:30",
+            "17:45",
+            "18:30",
+            "19:15",
+            "20:30",
+            "21:15",
+            "22:00"
+          ]
+        }
+      ],
+      "genero": "Ciencia Ficción",
+      "duracion": "145 minutos",
+      "clasificacion": "12 Años",
+      "director": "Destin Daniel Cretton",
+      "actores": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon, Sadie Sink",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/spider-man-un-nuevo-dia-12132_252",
+      "trailer_url": "https://www.youtube.com/watch?v=xrgNovKS0Co",
+      "sinopsis": "Peter Parker, tras un inesperado salto temporal, debe adaptarse a una nueva vida como Spider-Man mientras enfrenta una amenaza que pone en riesgo la ciudad y su propia identidad.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 969681,
+        "titulo_tmdb": "Spider-Man: Brand New Day",
+        "voto": 7.9,
+        "votos": 1639,
+        "url_tmdb": "https://www.themoviedb.org/movie/969681",
+        "imdb_id": "tt22084616",
+        "url_imdb": "https://www.imdb.com/title/tt22084616/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
+        "director": "Destin Daniel Cretton",
+        "reparto": [
+          {
+            "nombre": "Tom Holland",
+            "personaje": "Peter Parker / Spider-Man"
+          },
+          {
+            "nombre": "Zendaya",
+            "personaje": "MJ"
+          },
+          {
+            "nombre": "Mark Ruffalo",
+            "personaje": "Bruce Banner / Hulk"
+          },
+          {
+            "nombre": "Jon Bernthal",
+            "personaje": "Frank Castle / Punisher"
+          },
+          {
+            "nombre": "Jacob Batalon",
+            "personaje": "Ned Leeds"
+          },
+          {
+            "nombre": "Sadie Sink",
+            "personaje": "Jean Grey"
+          }
+        ],
+        "generos": [
+          "Ciencia ficción",
+          "Acción",
+          "Aventura"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
+          "embed_id": "o8EccyRIwQQ"
+        },
+        "sinopsis_tmdb": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+        "estreno": "29 jul 2026",
+        "duracion_min": 144,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Spider-Man: Brand New Day"
+      }
+    },
+    {
+      "titulo": "La Odisea",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/5/la-odisea-47428-0.webp",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:10",
+                "18:40",
+                "21:30",
+                "22:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:10",
+            "18:40",
+            "21:30",
+            "22:10"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:15",
+                "20:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:15",
+            "20:45"
+          ]
+        }
+      ],
+      "genero": "Drama",
+      "duracion": "170 minutos",
+      "clasificacion": "12 Años",
+      "director": "Christopher Nolan",
+      "actores": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel, Charlize Theron",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/la-odisea-12131_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=La%20Odisea%20trailer%20espanol",
+      "sinopsis": "Una épica travesía espacial donde un héroe y su tripulación atraviesan peligros cósmicos en busca de un misterioso origen que podría cambiar el destino de la humanidad.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1368337,
+        "titulo_tmdb": "La Odisea",
+        "voto": 8.0,
+        "votos": 2683,
+        "url_tmdb": "https://www.themoviedb.org/movie/1368337",
+        "imdb_id": "tt33764258",
+        "url_imdb": "https://www.imdb.com/title/tt33764258/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/eoNiukYRWJRxMlVnTOye0kkUB5k.jpg",
+        "director": "Christopher Nolan",
+        "reparto": [
+          {
+            "nombre": "Matt Damon",
+            "personaje": "Odysseus"
+          },
+          {
+            "nombre": "Tom Holland",
+            "personaje": "Telemachus"
+          },
+          {
+            "nombre": "Anne Hathaway",
+            "personaje": "Penelope"
+          },
+          {
+            "nombre": "Robert Pattinson",
+            "personaje": "Antinous"
+          },
+          {
+            "nombre": "Himesh Patel",
+            "personaje": "Eurylochus"
+          },
+          {
+            "nombre": "Charlize Theron",
+            "personaje": "Calypso"
+          }
+        ],
+        "generos": [
+          "Aventura",
+          "Acción",
+          "Fantasía"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+        "estreno": "15 jul 2026",
+        "duracion_min": 173,
+        "paises": [
+          "Reino Unido",
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "The Odyssey"
+      }
+    },
+    {
+      "titulo": "Mañana me caso",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002967?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Comedia",
+      "clasificacion": "+14",
+      "duracion": "92 min",
+      "director": "Pancho Tuesta",
+      "actores": "Alessandra Fuller, Flavia Laos, Mayra Goñi, Miguel Dávalos, Vanessa Jeri, Joaquín de Orbegoso",
+      "estreno": "",
+      "sinopsis": "Vale, Mia y Tamara, amigas inseparables desde la infancia, se reencuentran por la boda de Vale. Si pensabas que las bodas eran caóticas, espera a ver esta: el novio resulta ser nada menos que ¡el capo de un cartel de drogas! Entre persecuciones absurdas, disparos, night clubs, gomitas \"especiales\" y secretos guardados durante años, deberán sobrevivir y enfrentar los problemas que las han separado,",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=2P5PfC8wpSc",
+      "fuente_peli": "Cineplanet",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:00",
+                "19:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "19:20"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1744212,
+        "titulo_tmdb": "Mañana me caso",
+        "voto": null,
+        "votos": 0,
+        "url_tmdb": "https://www.themoviedb.org/movie/1744212",
+        "imdb_id": "",
+        "url_imdb": "",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/5kCfp1NMxKMufPJQzUldauuDlwB.jpg",
+        "director": "Pancho Tuesta",
+        "reparto": [
+          {
+            "nombre": "Alessandra Fuller",
+            "personaje": ""
+          },
+          {
+            "nombre": "Flavia Laos",
+            "personaje": ""
+          },
+          {
+            "nombre": "Mayra Goñi",
+            "personaje": ""
+          },
+          {
+            "nombre": "Miguel Dávalos",
+            "personaje": ""
+          },
+          {
+            "nombre": "Vanessa Jeri",
+            "personaje": ""
+          },
+          {
+            "nombre": "Joaquín de Orbegoso",
+            "personaje": ""
+          }
+        ],
+        "generos": [
+          "Comedia",
+          "Acción"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "",
+        "estreno": "13 ago 2026",
+        "duracion_min": 100,
+        "paises": [
+          "Perú"
+        ],
+        "idioma": "Español",
+        "titulo_original": "Mañana me caso"
+      }
+    },
+    {
+      "titulo": "Shrek [2001]",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003048?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Animación",
+      "clasificacion": "APT",
+      "duracion": "90 min",
+      "director": "",
+      "actores": "",
+      "estreno": "",
+      "sinopsis": "A 25 años de su estreno, Shrek vuelve a los cines para celebrar el aniversario de una de las películas animadas más queridas de todos los tiempos. La historia del ogro que desafió los cuentos de hadas regresa a la pantalla grande con todo su humor, emoción y personajes inolvidables, invitando a fans de siempre y nuevas generaciones a revivir una aventura que marcó a toda una época.",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=N52tASjTQiw",
+      "fuente_peli": "Cineplanet",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:00",
+                "16:00",
+                "18:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:00",
+            "16:00",
+            "18:00"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "La Noche del Demonio : Están Entre Nosotros (Preventa)",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/nocg.jpg",
+      "genero": "Terror",
+      "clasificacion": "Mayores de 18",
+      "duracion": "01:46",
+      "sinopsis": "Amelia Eve Interpreta a Gemma, una Joven Madre Que Cría a Su Hija en la Casa Donde Creció y Descubre Que Puede Viajar Al Más Allá, el Reino Purgatorial de las Almas Perdidas en el Corazón del Universo de Insidious. Cuando Algo Maligno la Persigue, Gemma Descubre una Habilidad Que Lo Cambia Todo: No Solo Puede Entrar Al Más Allá, Sino Que También Puede Traer de Vuelta Al Mundo Real a Quienes Viven ",
+      "director": "Jacob Chase",
+      "actores": "Amelia Eve, Island Austin, Lin Shaye, Sam Spruell, Brandon Perea, Maisie Richardson-Sellers",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:00",
+                "20:00",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:00",
+            "20:00",
+            "22:00"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1291595,
+        "titulo_tmdb": "Insidious: Fuera del más allá",
+        "voto": null,
+        "votos": 0,
+        "url_tmdb": "https://www.themoviedb.org/movie/1291595",
+        "imdb_id": "tt32393988",
+        "url_imdb": "https://www.imdb.com/title/tt32393988/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
+        "director": "Jacob Chase",
+        "reparto": [
+          {
+            "nombre": "Amelia Eve",
+            "personaje": "Gemma"
+          },
+          {
+            "nombre": "Island Austin",
+            "personaje": "Maya"
+          },
+          {
+            "nombre": "Lin Shaye",
+            "personaje": "Elise Rainier"
+          },
+          {
+            "nombre": "Sam Spruell",
+            "personaje": "Cyrus"
+          },
+          {
+            "nombre": "Brandon Perea",
+            "personaje": "Nick"
+          },
+          {
+            "nombre": "Maisie Richardson-Sellers",
+            "personaje": "Clare"
+          }
+        ],
+        "generos": [
+          "Terror",
+          "Suspense"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Sexta entrega de la franquicia \"Insidious\".",
+        "estreno": "19 ago 2026",
+        "duracion_min": 106,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Insidious: Out of the Further"
+      }
+    },
+    {
+      "titulo": "Sherk 5",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/MV5BNmNkNmRkNDAtOTMzNC00MWYzLWJhNjMtYjNkZTNjODVhOTg2XkEyXkFqcGc%40._V1_FMjpg_UY6000_.jpg",
+      "genero": "Animado",
+      "clasificacion": "Todo Espectador",
+      "duracion": "01:30",
+      "sinopsis": "Shrek y Burro Se Unen en Otra Trepidante Aventura en la Gran Ciudad, Al Tiempo Que Presentan a los Tres Hijos de Shrek y Fiona.",
+      "director": "",
+      "actores": "",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30"
+          ]
+        }
+      ]
+    }
+  ],
+  "cines": [
+    {
+      "cine": "CinePlanet Cajamarca Real Plaza",
+      "cine_slug": "cp-cajamarca",
+      "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+      "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+      "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+      "fuente_cine": "Cineplanet",
+      "peliculas": [
+        {
+          "titulo": "El Final De La Calle Oak",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002966?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "17:10",
+                "20:10",
+                "22:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:10",
+            "20:10",
+            "22:20"
+          ]
+        },
+        {
+          "titulo": "La Odisea",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002831?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:10",
+                "18:40",
+                "21:30",
+                "22:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:10",
+            "18:40",
+            "21:30",
+            "22:10"
+          ]
+        },
+        {
+          "titulo": "Mañana me caso",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002967?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Comedia",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:00",
+                "19:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "19:20"
+          ]
+        },
+        {
+          "titulo": "Shrek [2001]",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003048?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Animación",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:00",
+                "16:00",
+                "18:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:00",
+            "16:00",
+            "18:00"
+          ]
+        },
+        {
+          "titulo": "Spider Man: Un Nuevo Dia",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002949?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:30",
+                "17:30",
+                "20:30"
+              ]
+            },
+            {
+              "formato": "3D REGULAR DOBLADA",
+              "horarios": [
+                "15:30",
+                "18:30",
+                "21:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:30",
+            "15:30",
+            "17:30",
+            "18:30",
+            "20:30",
+            "21:40"
+          ]
+        }
+      ],
+      "cine_original": "CP Cajamarca"
+    },
+    {
+      "cine": "Cajamarca (Movie Time)",
+      "cine_slug": "movietime-cajamarca-cajamarca-s448",
+      "direccion": "",
+      "peliculas": [],
+      "sin_programacion": true,
+      "nota": "La fuente no publica funciones de esta sala hoy."
+    },
+    {
+      "cine": "Cinerama Cajamarca MegaPlaza",
+      "cine_slug": "cinerama-cajamarca-megaplaza",
+      "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+      "url": "https://www.cinerama.com.pe/cines",
+      "fuente_cine": "Cinerama",
+      "peliculas": [
+        {
+          "titulo": "El Final De La Calle Oak",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/calle.jpg",
+          "genero": "Accion",
+          "clasificacion": "Mayores de 14",
+          "duracion": "01:40",
+          "sinopsis": "Un Hombre de Mediana Edad Se Encuentra en un Extraño Campamento, Compitiendo Con Excéntricos Campistas. Busca a Su Amigo Desaparecido y a una Legendaria Bestia Gris Que Guarda un Tesoro Escondido.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:00",
+                "20:00",
+                "21:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:00",
+            "20:00",
+            "21:50"
+          ]
+        },
+        {
+          "titulo": "La Noche del Demonio : Están Entre Nosotros (Preventa)",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/nocg.jpg",
+          "genero": "Terror",
+          "clasificacion": "Mayores de 18",
+          "duracion": "01:46",
+          "sinopsis": "Amelia Eve Interpreta a Gemma, una Joven Madre Que Cría a Su Hija en la Casa Donde Creció y Descubre Que Puede Viajar Al Más Allá, el Reino Purgatorial de las Almas Perdidas en el Corazón del Universo de Insidious. Cuando Algo Maligno la Persigue, Gemma Descubre una Habilidad Que Lo Cambia Todo: No Solo Puede Entrar Al Más Allá, Sino Que También Puede Traer de Vuelta Al Mundo Real a Quienes Viven ",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:00",
+                "20:00",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:00",
+            "20:00",
+            "22:00"
+          ]
+        },
+        {
+          "titulo": "La Odisea",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/01.jpg",
+          "genero": "Accion",
+          "clasificacion": "Todo Espectador",
+          "duracion": "02:52",
+          "sinopsis": "Tras la Guerra de Troya, el Héroe Griego Odiseo Regresa a Ítaca, Grecia, Enfrentándose a Figuras de la Mitología Griega Como el Cíclope Polifemo, las Sirenas y Calipso.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:15",
+                "20:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:15",
+            "20:45"
+          ]
+        },
+        {
+          "titulo": "Sherk 5",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/MV5BNmNkNmRkNDAtOTMzNC00MWYzLWJhNjMtYjNkZTNjODVhOTg2XkEyXkFqcGc%40._V1_FMjpg_UY6000_.jpg",
+          "genero": "Animado",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:30",
+          "sinopsis": "Shrek y Burro Se Unen en Otra Trepidante Aventura en la Gran Ciudad, Al Tiempo Que Presentan a los Tres Hijos de Shrek y Fiona.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30"
+          ]
+        },
+        {
+          "titulo": "Spider Man: Un Nuevo Dia",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/spider.jpg",
+          "genero": "Accion",
+          "clasificacion": "Todo Espectador",
+          "duracion": "02:30",
+          "sinopsis": "Tras el Día del Juicio Final, Peter Parker Intenta Centrarse en la Universidad y Abandonar a Spider-man. Cuando una Nueva Amenaza Pone en Peligro a Sus Amigos, Debe Romper Su Promesa y Volver Al Traje.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "15:45",
+                "16:30",
+                "17:45",
+                "18:30",
+                "19:15",
+                "20:30",
+                "21:15",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "15:45",
+            "16:30",
+            "17:45",
+            "18:30",
+            "19:15",
+            "20:30",
+            "21:15",
+            "22:00"
+          ]
+        }
+      ]
+    }
+  ],
+  "estado": "ok",
+  "motor": "cerebras",
+  "fuentes_extra": [
+    "Cineplanet",
+    "Cinerama"
+  ]
 }
