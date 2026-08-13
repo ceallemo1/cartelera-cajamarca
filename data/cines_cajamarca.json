@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-12 17:54",
+  "actualizado": "2026-08-12 20:00",
   "fecha_objetivo": "2026-08-12",
   "peliculas": [
     {
@@ -46,8 +46,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:30",
-                "17:30",
                 "19:30",
                 "20:30",
                 "22:30"
@@ -56,15 +54,11 @@
             {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
-                "18:30",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "16:30",
-            "17:30",
-            "18:30",
             "19:30",
             "20:30",
             "21:30",
@@ -118,7 +112,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/spider-man-un-nuevo-dia-12132_252",
       "trailer_url": "https://www.youtube.com/watch?v=xrgNovKS0Co",
-      "sinopsis": "Han pasado cuatro años desde los acontecimientos de Sin regreso a casa, y Peter ahora es un adulto que vive completamente solo, habiéndose borrado voluntariamente de la vida y los recuerdos de sus seres queridos. Combatiendo el crimen en una Nueva York que ya no lo conoce, se ha dedicado por completo a proteger su ciudad —un Spider-Man a tiempo completo—, pero a medida que las exigencias se intens",
+      "sinopsis": "Peter Parker, tras los eventos recientes, intenta equilibrar su vida como estudiante y superhéroe mientras enfrenta nuevas amenazas en la ciudad.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 969681,
@@ -206,7 +200,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:40",
                 "18:40",
                 "21:10",
                 "22:10"
@@ -214,7 +207,6 @@
             }
           ],
           "horarios": [
-            "17:40",
             "18:40",
             "21:10",
             "22:10"
@@ -249,13 +241,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-odisea-12131_252",
       "trailer_url": "https://www.youtube.com/results?search_query=La%20Odisea%20trailer%20espanol",
-      "sinopsis": "-",
+      "sinopsis": "Una épica aventura que sigue a un héroe en su viaje a través de peligrosas pruebas y encuentros míticos para cumplir una misión que cambiará su destino.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1368337,
         "titulo_tmdb": "La Odisea",
         "voto": 8.0,
-        "votos": 2645,
+        "votos": 2666,
         "url_tmdb": "https://www.themoviedb.org/movie/1368337",
         "imdb_id": "tt33764258",
         "url_imdb": "https://www.imdb.com/title/tt33764258/",
@@ -333,8 +325,8 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/moana-12129_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Moana%20trailer%20espanol",
-      "sinopsis": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-      "puntaje": "",
+      "sinopsis": "Moana, una valiente joven polinesia, se embarca en una travesía oceánica para devolver el corazón robado a la diosa Te Fiti y salvar a su pueblo.",
+      "puntaje": "7.5",
       "tmdb": {
         "tmdb_id": 1108427,
         "titulo_tmdb": "Vaiana",
@@ -420,7 +412,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/toy-story-5-12119_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Toy%20Story%205%20trailer%20espanol",
-      "sinopsis": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+      "sinopsis": "Los juguetes de Andy, ahora adultos, se enfrentan a nuevos desafíos cuando una nueva generación de juguetes llega a sus vidas, poniendo a prueba su amistad y lealtad.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1084244,
@@ -672,7 +664,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:40",
                 "18:40",
                 "21:10",
                 "22:10"
@@ -680,7 +671,6 @@
             }
           ],
           "horarios": [
-            "17:40",
             "18:40",
             "21:10",
             "22:10"
@@ -695,8 +685,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:30",
-                "17:30",
                 "19:30",
                 "20:30",
                 "22:30"
@@ -705,15 +693,11 @@
             {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
-                "18:30",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "16:30",
-            "17:30",
-            "18:30",
             "19:30",
             "20:30",
             "21:30",
@@ -823,6 +807,7 @@
     }
   ],
   "estado": "ok",
+  "motor": "cerebras",
   "fuentes_extra": [
     "Cineplanet",
     "Cinerama"
