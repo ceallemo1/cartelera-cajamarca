@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-13 14:21",
+  "actualizado": "2026-08-13 17:00",
   "fecha_objetivo": "2026-08-13",
   "peliculas": [
     {
@@ -63,7 +63,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-final-de-la-calle-oak-12204_252",
       "trailer_url": "https://youtu.be/1rnQu-NRXbQ?si=1GWMZMzK0NtmDwXC",
-      "sinopsis": "Un grupo de adolescentes descubre un oscuro secreto que acecha en la aparentemente tranquila Oak Street, desatando una serie de eventos sobrenaturales.",
+      "sinopsis": "Después de que un misterioso evento cósmico arranca a la calle Oak de los suburbios y transporta a todo el vecindario a un lugar desconocido, la familia Platt descubre pronto que su supervivencia depende de mantenerse unidos mientras navegan por un entorno ahora irreconocible.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1101383,
@@ -110,7 +110,7 @@
           "url": "https://www.youtube.com/watch?v=pKtm-_iOivI",
           "embed_id": "pKtm-_iOivI"
         },
-        "sinopsis_tmdb": "Un hombre de mediana edad se encuentra en un extraño campamento para dormir, compitiendo con excéntricos campistas. Busca a su amigo desaparecido y a una mítica bestia gris que guarda un tesoro escondido.",
+        "sinopsis_tmdb": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
         "estreno": "12 ago 2026",
         "duracion_min": 100,
         "paises": [
@@ -135,7 +135,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:30",
                 "17:30",
                 "20:30"
               ]
@@ -143,15 +142,12 @@
             {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
                 "18:30",
                 "21:40"
               ]
             }
           ],
           "horarios": [
-            "14:30",
-            "15:30",
             "17:30",
             "18:30",
             "20:30",
@@ -199,7 +195,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/spider-man-un-nuevo-dia-12132_252",
       "trailer_url": "https://www.youtube.com/watch?v=xrgNovKS0Co",
-      "sinopsis": "Peter Parker, tras un inesperado salto temporal, debe adaptarse a una nueva vida como Spider-Man mientras enfrenta una amenaza que pone en riesgo la ciudad y su propia identidad.",
+      "sinopsis": "Han pasado cuatro años desde los acontecimientos de Sin regreso a casa, y Peter ahora es un adulto que vive completamente solo, habiéndose borrado voluntariamente de la vida y los recuerdos de sus seres queridos. Combatiendo el crimen en una Nueva York que ya no lo conoce, se ha dedicado por completo a proteger su ciudad —un Spider-Man a tiempo completo—, pero a medida que las exigencias se intens",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 969681,
@@ -271,7 +267,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:10",
                 "18:40",
                 "21:30",
                 "22:10"
@@ -279,7 +274,6 @@
             }
           ],
           "horarios": [
-            "15:10",
             "18:40",
             "21:30",
             "22:10"
@@ -312,13 +306,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-odisea-12131_252",
       "trailer_url": "https://www.youtube.com/results?search_query=La%20Odisea%20trailer%20espanol",
-      "sinopsis": "Una épica travesía espacial donde un héroe y su tripulación atraviesan peligros cósmicos en busca de un misterioso origen que podría cambiar el destino de la humanidad.",
+      "sinopsis": "-",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1368337,
         "titulo_tmdb": "La Odisea",
         "voto": 8.0,
-        "votos": 2683,
+        "votos": 2698,
         "url_tmdb": "https://www.themoviedb.org/movie/1368337",
         "imdb_id": "tt33764258",
         "url_imdb": "https://www.imdb.com/title/tt33764258/",
@@ -393,13 +387,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:00",
                 "19:20"
               ]
             }
           ],
           "horarios": [
-            "15:00",
             "19:20"
           ]
         }
@@ -481,14 +473,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:00",
                 "16:00",
                 "18:00"
               ]
             }
           ],
           "horarios": [
-            "14:00",
             "16:00",
             "18:00"
           ]
@@ -657,7 +647,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:10",
                 "18:40",
                 "21:30",
                 "22:10"
@@ -665,7 +654,6 @@
             }
           ],
           "horarios": [
-            "15:10",
             "18:40",
             "21:30",
             "22:10"
@@ -680,13 +668,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:00",
                 "19:20"
               ]
             }
           ],
           "horarios": [
-            "15:00",
             "19:20"
           ]
         },
@@ -699,14 +685,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:00",
                 "16:00",
                 "18:00"
               ]
             }
           ],
           "horarios": [
-            "14:00",
             "16:00",
             "18:00"
           ]
@@ -720,7 +704,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:30",
                 "17:30",
                 "20:30"
               ]
@@ -728,15 +711,12 @@
             {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
                 "18:30",
                 "21:40"
               ]
             }
           ],
           "horarios": [
-            "14:30",
-            "15:30",
             "17:30",
             "18:30",
             "20:30",
@@ -890,7 +870,7 @@
     }
   ],
   "estado": "ok",
-  "motor": "cerebras",
+  "motor": "gemini",
   "fuentes_extra": [
     "Cineplanet",
     "Cinerama"
