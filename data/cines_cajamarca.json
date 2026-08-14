@@ -2,12 +2,23 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-13 22:28",
-  "fecha_objetivo": "2026-08-13",
+  "actualizado": "2026-08-14 08:20",
+  "fecha_objetivo": "2026-08-14",
   "peliculas": [
     {
-      "titulo": "El Final De La Calle Oak",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/8/el-final-de-la-calle-oak-47640-1.jpg",
+      "titulo": "El Final de la Calle Oak",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002966?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Acción",
+      "clasificacion": "+14",
+      "duracion": "100 min",
+      "director": "David Robert Mitchell",
+      "actores": "Anne Hathaway, Ewan McGregor, Christian Convery, Maisy Stella, Jordan Alexa Davis, P.J. Byrne",
+      "estreno": "",
+      "sinopsis": "Después de que un misterioso evento cósmico arranca a la calle Oak de los suburbios y transporta a todo el vecindario a un lugar desconocido, la familia Platt descubre pronto que su supervivencia depende de mantenerse unidos mientras navegan por un entorno ahora irreconocible.",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://youtu.be/1rnQu-NRXbQ?si=1GWMZMzK0NtmDwXC",
+      "fuente_peli": "Cineplanet",
       "cines": [
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
@@ -20,54 +31,24 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "17:10",
                 "20:10",
                 "22:20"
               ]
             }
           ],
           "horarios": [
+            "17:10",
             "20:10",
             "22:20"
           ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:00",
-                "18:00",
-                "20:00",
-                "21:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:00",
-            "20:00",
-            "21:50"
-          ]
         }
       ],
-      "genero": "Acción",
-      "duracion": "100 minutos",
-      "clasificacion": "12 Años",
-      "director": "David Robert Mitchell",
-      "actores": "Anne Hathaway, Ewan McGregor, Christian Convery, Maisy Stella, Jordan Alexa Davis, P.J. Byrne",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/el-final-de-la-calle-oak-12204_252",
-      "trailer_url": "https://youtu.be/1rnQu-NRXbQ?si=1GWMZMzK0NtmDwXC",
-      "sinopsis": "Después de que un misterioso evento cósmico arranca a la calle Oak de los suburbios y transporta a todo el vecindario a un lugar desconocido, la familia Platt descubre pronto que su supervivencia depende de mantenerse unidos mientras navegan por un entorno ahora irreconocible.",
-      "puntaje": "",
       "tmdb": {
         "tmdb_id": 1101383,
         "titulo_tmdb": "El final de Oak Street",
-        "voto": 7.0,
-        "votos": 47,
+        "voto": 7.1,
+        "votos": 69,
         "url_tmdb": "https://www.themoviedb.org/movie/1101383",
         "imdb_id": "tt27165187",
         "url_imdb": "https://www.imdb.com/title/tt27165187/",
@@ -119,136 +100,19 @@
       }
     },
     {
-      "titulo": "Spider Man: Un Nuevo Dia",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-0.webp",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "20:30"
-              ]
-            },
-            {
-              "formato": "3D REGULAR DOBLADA",
-              "horarios": [
-                "21:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "20:30",
-            "21:40"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "15:45",
-                "16:30",
-                "17:45",
-                "18:30",
-                "19:15",
-                "20:30",
-                "21:15",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "15:45",
-            "16:30",
-            "17:45",
-            "18:30",
-            "19:15",
-            "20:30",
-            "21:15",
-            "22:00"
-          ]
-        }
-      ],
-      "genero": "Ciencia Ficción",
-      "duracion": "145 minutos",
-      "clasificacion": "12 Años",
-      "director": "Destin Daniel Cretton",
-      "actores": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon, Sadie Sink",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/spider-man-un-nuevo-dia-12132_252",
-      "trailer_url": "https://www.youtube.com/watch?v=xrgNovKS0Co",
-      "sinopsis": "Han pasado cuatro años desde los acontecimientos de Sin regreso a casa, y Peter ahora es un adulto que vive completamente solo, habiéndose borrado voluntariamente de la vida y los recuerdos de sus seres queridos. Combatiendo el crimen en una Nueva York que ya no lo conoce, se ha dedicado por completo a proteger su ciudad —un Spider-Man a tiempo completo—, pero a medida que las exigencias se intens",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 969681,
-        "titulo_tmdb": "Spider-Man: Brand New Day",
-        "voto": 7.9,
-        "votos": 1659,
-        "url_tmdb": "https://www.themoviedb.org/movie/969681",
-        "imdb_id": "tt22084616",
-        "url_imdb": "https://www.imdb.com/title/tt22084616/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-        "director": "Destin Daniel Cretton",
-        "reparto": [
-          {
-            "nombre": "Tom Holland",
-            "personaje": "Peter Parker / Spider-Man"
-          },
-          {
-            "nombre": "Zendaya",
-            "personaje": "MJ"
-          },
-          {
-            "nombre": "Mark Ruffalo",
-            "personaje": "Bruce Banner / Hulk"
-          },
-          {
-            "nombre": "Jon Bernthal",
-            "personaje": "Frank Castle / Punisher"
-          },
-          {
-            "nombre": "Jacob Batalon",
-            "personaje": "Ned Leeds"
-          },
-          {
-            "nombre": "Sadie Sink",
-            "personaje": "Jean Grey"
-          }
-        ],
-        "generos": [
-          "Ciencia ficción",
-          "Acción",
-          "Aventura"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
-          "embed_id": "o8EccyRIwQQ"
-        },
-        "sinopsis_tmdb": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-        "estreno": "29 jul 2026",
-        "duracion_min": 144,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Spider-Man: Brand New Day"
-      }
-    },
-    {
       "titulo": "La Odisea",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/5/la-odisea-47428-0.webp",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002831?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Acción",
+      "clasificacion": "+14",
+      "duracion": "173 min",
+      "director": "Christopher Nolan",
+      "actores": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel, Charlize Theron",
+      "estreno": "",
+      "sinopsis": "-",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "",
+      "fuente_peli": "Cineplanet",
       "cines": [
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
@@ -261,50 +125,24 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "18:40",
                 "21:30",
                 "22:10"
               ]
             }
           ],
           "horarios": [
+            "18:40",
             "21:30",
             "22:10"
           ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "17:15",
-                "20:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:15",
-            "20:45"
-          ]
         }
       ],
-      "genero": "Drama",
-      "duracion": "170 minutos",
-      "clasificacion": "12 Años",
-      "director": "Christopher Nolan",
-      "actores": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel, Charlize Theron",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/la-odisea-12131_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=La%20Odisea%20trailer%20espanol",
-      "sinopsis": "-",
-      "puntaje": "",
       "tmdb": {
         "tmdb_id": 1368337,
         "titulo_tmdb": "La Odisea",
         "voto": 8.0,
-        "votos": 2698,
+        "votos": 2718,
         "url_tmdb": "https://www.themoviedb.org/movie/1368337",
         "imdb_id": "tt33764258",
         "url_imdb": "https://www.imdb.com/title/tt33764258/",
@@ -379,11 +217,13 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:20",
                 "19:20"
               ]
             }
           ],
           "horarios": [
+            "16:20",
             "19:20"
           ]
         }
@@ -440,92 +280,144 @@
       }
     },
     {
-      "titulo": "La Noche del Demonio : Están Entre Nosotros (Preventa)",
-      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/nocg.jpg",
-      "genero": "Terror",
-      "clasificacion": "Mayores de 18",
-      "duracion": "01:46",
-      "sinopsis": "Amelia Eve Interpreta a Gemma, una Joven Madre Que Cría a Su Hija en la Casa Donde Creció y Descubre Que Puede Viajar Al Más Allá, el Reino Purgatorial de las Almas Perdidas en el Corazón del Universo de Insidious. Cuando Algo Maligno la Persigue, Gemma Descubre una Habilidad Que Lo Cambia Todo: No Solo Puede Entrar Al Más Allá, Sino Que También Puede Traer de Vuelta Al Mundo Real a Quienes Viven ",
-      "director": "Jacob Chase",
-      "actores": "Amelia Eve, Island Austin, Lin Shaye, Sam Spruell, Brandon Perea, Maisie Richardson-Sellers",
+      "titulo": "Shrek [2001]",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003048?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Animación",
+      "clasificacion": "APT",
+      "duracion": "90 min",
+      "director": "",
+      "actores": "",
       "estreno": "",
+      "sinopsis": "A 25 años de su estreno, Shrek vuelve a los cines para celebrar el aniversario de una de las películas animadas más queridas de todos los tiempos. La historia del ogro que desafió los cuentos de hadas regresa a la pantalla grande con todo su humor, emoción y personajes inolvidables, invitando a fans de siempre y nuevas generaciones a revivir una aventura que marcó a toda una época.",
       "puntaje": "",
       "ficha": "",
-      "trailer_url": "",
-      "fuente_peli": "Cinerama",
+      "trailer_url": "https://www.youtube.com/watch?v=N52tASjTQiw",
+      "fuente_peli": "Cineplanet",
       "cines": [
         {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "16:00",
-                "18:00",
-                "20:00",
-                "22:00"
+                "18:00"
               ]
             }
           ],
           "horarios": [
             "16:00",
-            "18:00",
-            "20:00",
-            "22:00"
+            "18:00"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Spider man Un nuevo dia",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002949?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Acción",
+      "clasificacion": "APT",
+      "duracion": "145 min",
+      "director": "Destin Daniel Cretton",
+      "actores": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon, Sadie Sink",
+      "estreno": "",
+      "sinopsis": "Han pasado cuatro años desde los acontecimientos de Sin regreso a casa, y Peter ahora es un adulto que vive completamente solo, habiéndose borrado voluntariamente de la vida y los recuerdos de sus seres queridos. Combatiendo el crimen en una Nueva York que ya no lo conoce, se ha dedicado por completo a proteger su ciudad —un Spider-Man a tiempo completo—, pero a medida que las exigencias se intens",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=xrgNovKS0Co",
+      "fuente_peli": "Cineplanet",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "3D REGULAR DOBLADA",
+              "horarios": [
+                "15:20",
+                "18:30",
+                "21:40"
+              ]
+            },
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "17:30",
+                "20:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:20",
+            "17:30",
+            "18:30",
+            "20:30",
+            "21:40"
           ]
         }
       ],
       "tmdb": {
-        "tmdb_id": 1291595,
-        "titulo_tmdb": "Insidious: Fuera del más allá",
-        "voto": null,
-        "votos": 0,
-        "url_tmdb": "https://www.themoviedb.org/movie/1291595",
-        "imdb_id": "tt32393988",
-        "url_imdb": "https://www.imdb.com/title/tt32393988/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
-        "director": "Jacob Chase",
+        "tmdb_id": 969681,
+        "titulo_tmdb": "Spider-Man: Brand New Day",
+        "voto": 7.9,
+        "votos": 1679,
+        "url_tmdb": "https://www.themoviedb.org/movie/969681",
+        "imdb_id": "tt22084616",
+        "url_imdb": "https://www.imdb.com/title/tt22084616/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
+        "director": "Destin Daniel Cretton",
         "reparto": [
           {
-            "nombre": "Amelia Eve",
-            "personaje": "Gemma"
+            "nombre": "Tom Holland",
+            "personaje": "Peter Parker / Spider-Man"
           },
           {
-            "nombre": "Island Austin",
-            "personaje": "Maya"
+            "nombre": "Zendaya",
+            "personaje": "MJ"
           },
           {
-            "nombre": "Lin Shaye",
-            "personaje": "Elise Rainier"
+            "nombre": "Mark Ruffalo",
+            "personaje": "Bruce Banner / Hulk"
           },
           {
-            "nombre": "Sam Spruell",
-            "personaje": "Cyrus"
+            "nombre": "Jon Bernthal",
+            "personaje": "Frank Castle / Punisher"
           },
           {
-            "nombre": "Brandon Perea",
-            "personaje": "Nick"
+            "nombre": "Jacob Batalon",
+            "personaje": "Ned Leeds"
           },
           {
-            "nombre": "Maisie Richardson-Sellers",
-            "personaje": "Clare"
+            "nombre": "Sadie Sink",
+            "personaje": "Jean Grey"
           }
         ],
         "generos": [
-          "Terror",
-          "Suspense"
+          "Ciencia ficción",
+          "Acción",
+          "Aventura"
         ],
-        "trailer": {},
-        "sinopsis_tmdb": "Sexta entrega de la franquicia \"Insidious\".",
-        "estreno": "19 ago 2026",
-        "duracion_min": 106,
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
+          "embed_id": "o8EccyRIwQQ"
+        },
+        "sinopsis_tmdb": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+        "estreno": "29 jul 2026",
+        "duracion_min": 144,
         "paises": [
           "Estados Unidos"
         ],
         "idioma": "Inglés",
-        "titulo_original": "Insidious: Out of the Further"
+        "titulo_original": "Spider-Man: Brand New Day"
       }
     }
   ],
@@ -539,7 +431,7 @@
       "fuente_cine": "Cineplanet",
       "peliculas": [
         {
-          "titulo": "El Final De La Calle Oak",
+          "titulo": "El Final de la Calle Oak",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002966?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Acción",
           "clasificacion": "+14",
@@ -547,12 +439,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "17:10",
                 "20:10",
                 "22:20"
               ]
             }
           ],
           "horarios": [
+            "17:10",
             "20:10",
             "22:20"
           ]
@@ -566,12 +460,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "18:40",
                 "21:30",
                 "22:10"
               ]
             }
           ],
           "horarios": [
+            "18:40",
             "21:30",
             "22:10"
           ]
@@ -585,34 +481,61 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:20",
                 "19:20"
               ]
             }
           ],
           "horarios": [
+            "16:20",
             "19:20"
           ]
         },
         {
-          "titulo": "Spider Man: Un Nuevo Dia",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002949?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Acción",
+          "titulo": "Shrek [2001]",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003048?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Animación",
           "clasificacion": "APT",
           "formatos": [
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "20:30"
-              ]
-            },
-            {
-              "formato": "3D REGULAR DOBLADA",
-              "horarios": [
-                "21:40"
+                "16:00",
+                "18:00"
               ]
             }
           ],
           "horarios": [
+            "16:00",
+            "18:00"
+          ]
+        },
+        {
+          "titulo": "Spider man Un nuevo dia",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002949?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "3D REGULAR DOBLADA",
+              "horarios": [
+                "15:20",
+                "18:30",
+                "21:40"
+              ]
+            },
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "17:30",
+                "20:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:20",
+            "17:30",
+            "18:30",
             "20:30",
             "21:40"
           ]
@@ -630,123 +553,22 @@
     },
     {
       "cine": "Cinerama Cajamarca MegaPlaza",
-      "cine_slug": "cinerama-cajamarca-megaplaza",
-      "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+      "direccion": "",
+      "peliculas": [],
+      "sin_programacion": true,
+      "nota": "No se pudo consultar su cartelera. Suele tener funciones a diario.",
+      "no_consultado": true,
       "url": "https://www.cinerama.com.pe/cines",
-      "fuente_cine": "Cinerama",
-      "peliculas": [
-        {
-          "titulo": "El Final De La Calle Oak",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/calle.jpg",
-          "genero": "Accion",
-          "clasificacion": "Mayores de 14",
-          "duracion": "01:40",
-          "sinopsis": "Un Hombre de Mediana Edad Se Encuentra en un Extraño Campamento, Compitiendo Con Excéntricos Campistas. Busca a Su Amigo Desaparecido y a una Legendaria Bestia Gris Que Guarda un Tesoro Escondido.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:00",
-                "18:00",
-                "20:00",
-                "21:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:00",
-            "20:00",
-            "21:50"
-          ]
-        },
-        {
-          "titulo": "La Noche del Demonio : Están Entre Nosotros (Preventa)",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/nocg.jpg",
-          "genero": "Terror",
-          "clasificacion": "Mayores de 18",
-          "duracion": "01:46",
-          "sinopsis": "Amelia Eve Interpreta a Gemma, una Joven Madre Que Cría a Su Hija en la Casa Donde Creció y Descubre Que Puede Viajar Al Más Allá, el Reino Purgatorial de las Almas Perdidas en el Corazón del Universo de Insidious. Cuando Algo Maligno la Persigue, Gemma Descubre una Habilidad Que Lo Cambia Todo: No Solo Puede Entrar Al Más Allá, Sino Que También Puede Traer de Vuelta Al Mundo Real a Quienes Viven ",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:00",
-                "18:00",
-                "20:00",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:00",
-            "20:00",
-            "22:00"
-          ]
-        },
-        {
-          "titulo": "La Odisea",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/01.jpg",
-          "genero": "Accion",
-          "clasificacion": "Todo Espectador",
-          "duracion": "02:52",
-          "sinopsis": "Tras la Guerra de Troya, el Héroe Griego Odiseo Regresa a Ítaca, Grecia, Enfrentándose a Figuras de la Mitología Griega Como el Cíclope Polifemo, las Sirenas y Calipso.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "17:15",
-                "20:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:15",
-            "20:45"
-          ]
-        },
-        {
-          "titulo": "Spider Man: Un Nuevo Dia",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/spider.jpg",
-          "genero": "Accion",
-          "clasificacion": "Todo Espectador",
-          "duracion": "02:30",
-          "sinopsis": "Tras el Día del Juicio Final, Peter Parker Intenta Centrarse en la Universidad y Abandonar a Spider-man. Cuando una Nueva Amenaza Pone en Peligro a Sus Amigos, Debe Romper Su Promesa y Volver Al Traje.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "15:45",
-                "16:30",
-                "17:45",
-                "18:30",
-                "19:15",
-                "20:30",
-                "21:15",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "15:45",
-            "16:30",
-            "17:45",
-            "18:30",
-            "19:15",
-            "20:30",
-            "21:15",
-            "22:00"
-          ]
-        }
-      ]
+      "cine_original": "Cajamarca Megaplaza (Cinerama)"
     }
   ],
   "estado": "ok",
+  "motor": "gemini",
   "fuentes_extra": [
-    "Cineplanet",
-    "Cinerama"
+    "Cineplanet"
+  ],
+  "notas": [
+    "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
   ]
 }
