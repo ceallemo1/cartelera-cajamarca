@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-14 17:00",
+  "actualizado": "2026-08-14 17:34",
   "fecha_objetivo": "2026-08-14",
   "peliculas": [
     {
@@ -63,7 +63,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-final-de-la-calle-oak-12204_252",
       "trailer_url": "https://youtu.be/1rnQu-NRXbQ?si=1GWMZMzK0NtmDwXC",
-      "sinopsis": "Un grupo de adolescentes descubre que la misteriosa desaparición de su amiga está vinculada a un oscuro secreto que se oculta bajo la aparentemente tranquila Calle Oak.",
+      "sinopsis": "Después de que un misterioso evento cósmico arranca a la calle Oak de los suburbios y transporta a todo el vecindario a un lugar desconocido, la familia Platt descubre pronto que su supervivencia depende de mantenerse unidos mientras navegan por un entorno ahora irreconocible.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1101383,
@@ -195,7 +195,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/spider-man-un-nuevo-dia-12132_252",
       "trailer_url": "https://www.youtube.com/watch?v=xrgNovKS0Co",
-      "sinopsis": "Peter Parker, recién graduado de la universidad, debe equilibrar su vida como estudiante y como Spider-Man mientras enfrenta una nueva amenaza que surge en la ciudad.",
+      "sinopsis": "Han pasado cuatro años desde los acontecimientos de Sin regreso a casa, y Peter ahora es un adulto que vive completamente solo, habiéndose borrado voluntariamente de la vida y los recuerdos de sus seres queridos. Combatiendo el crimen en una Nueva York que ya no lo conoce, se ha dedicado por completo a proteger su ciudad —un Spider-Man a tiempo completo—, pero a medida que las exigencias se intens",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 969681,
@@ -306,7 +306,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-odisea-12131_252",
       "trailer_url": "https://www.youtube.com/results?search_query=La%20Odisea%20trailer%20espanol",
-      "sinopsis": "Una épica aventura espacial que sigue al intrépido capitán y su tripulación mientras intentan regresar a casa tras una misión que los lleva más allá de los confines conocidos del universo.",
+      "sinopsis": "-",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1368337,
@@ -822,7 +822,6 @@
     }
   ],
   "estado": "ok",
-  "motor": "cerebras",
   "fuentes_extra": [
     "Cineplanet",
     "Cinerama"
