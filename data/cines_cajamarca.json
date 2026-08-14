@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-13 17:00",
+  "actualizado": "2026-08-13 20:00",
   "fecha_objetivo": "2026-08-13",
   "peliculas": [
     {
@@ -20,14 +20,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:10",
                 "20:10",
                 "22:20"
               ]
             }
           ],
           "horarios": [
-            "17:10",
             "20:10",
             "22:20"
           ]
@@ -135,21 +133,17 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:30",
                 "20:30"
               ]
             },
             {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
-                "18:30",
                 "21:40"
               ]
             }
           ],
           "horarios": [
-            "17:30",
-            "18:30",
             "20:30",
             "21:40"
           ]
@@ -267,14 +261,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "18:40",
                 "21:30",
                 "22:10"
               ]
             }
           ],
           "horarios": [
-            "18:40",
             "21:30",
             "22:10"
           ]
@@ -448,44 +440,6 @@
       }
     },
     {
-      "titulo": "Shrek [2001]",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003048?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Animación",
-      "clasificacion": "APT",
-      "duracion": "90 min",
-      "director": "",
-      "actores": "",
-      "estreno": "",
-      "sinopsis": "A 25 años de su estreno, Shrek vuelve a los cines para celebrar el aniversario de una de las películas animadas más queridas de todos los tiempos. La historia del ogro que desafió los cuentos de hadas regresa a la pantalla grande con todo su humor, emoción y personajes inolvidables, invitando a fans de siempre y nuevas generaciones a revivir una aventura que marcó a toda una época.",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=N52tASjTQiw",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "16:00",
-                "18:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:00"
-          ]
-        }
-      ]
-    },
-    {
       "titulo": "La Noche del Demonio : Están Entre Nosotros (Preventa)",
       "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/nocg.jpg",
       "genero": "Terror",
@@ -573,39 +527,6 @@
         "idioma": "Inglés",
         "titulo_original": "Insidious: Out of the Further"
       }
-    },
-    {
-      "titulo": "Sherk 5",
-      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/MV5BNmNkNmRkNDAtOTMzNC00MWYzLWJhNjMtYjNkZTNjODVhOTg2XkEyXkFqcGc%40._V1_FMjpg_UY6000_.jpg",
-      "genero": "Animado",
-      "clasificacion": "Todo Espectador",
-      "duracion": "01:30",
-      "sinopsis": "Shrek y Burro Se Unen en Otra Trepidante Aventura en la Gran Ciudad, Al Tiempo Que Presentan a los Tres Hijos de Shrek y Fiona.",
-      "director": "",
-      "actores": "",
-      "estreno": "",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "",
-      "fuente_peli": "Cinerama",
-      "cines": [
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30"
-          ]
-        }
-      ]
     }
   ],
   "cines": [
@@ -626,14 +547,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:10",
                 "20:10",
                 "22:20"
               ]
             }
           ],
           "horarios": [
-            "17:10",
             "20:10",
             "22:20"
           ]
@@ -647,14 +566,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "18:40",
                 "21:30",
                 "22:10"
               ]
             }
           ],
           "horarios": [
-            "18:40",
             "21:30",
             "22:10"
           ]
@@ -677,25 +594,6 @@
           ]
         },
         {
-          "titulo": "Shrek [2001]",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003048?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Animación",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "16:00",
-                "18:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:00"
-          ]
-        },
-        {
           "titulo": "Spider Man: Un Nuevo Dia",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002949?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Acción",
@@ -704,21 +602,17 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:30",
                 "20:30"
               ]
             },
             {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
-                "18:30",
                 "21:40"
               ]
             }
           ],
           "horarios": [
-            "17:30",
-            "18:30",
             "20:30",
             "21:40"
           ]
@@ -810,25 +704,6 @@
           "horarios": [
             "17:15",
             "20:45"
-          ]
-        },
-        {
-          "titulo": "Sherk 5",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/MV5BNmNkNmRkNDAtOTMzNC00MWYzLWJhNjMtYjNkZTNjODVhOTg2XkEyXkFqcGc%40._V1_FMjpg_UY6000_.jpg",
-          "genero": "Animado",
-          "clasificacion": "Todo Espectador",
-          "duracion": "01:30",
-          "sinopsis": "Shrek y Burro Se Unen en Otra Trepidante Aventura en la Gran Ciudad, Al Tiempo Que Presentan a los Tres Hijos de Shrek y Fiona.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30"
           ]
         },
         {
