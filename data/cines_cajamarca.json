@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-13 20:00",
+  "actualizado": "2026-08-13 22:28",
   "fecha_objetivo": "2026-08-13",
   "peliculas": [
     {
@@ -195,7 +195,7 @@
         "tmdb_id": 969681,
         "titulo_tmdb": "Spider-Man: Brand New Day",
         "voto": 7.9,
-        "votos": 1639,
+        "votos": 1659,
         "url_tmdb": "https://www.themoviedb.org/movie/969681",
         "imdb_id": "tt22084616",
         "url_imdb": "https://www.imdb.com/title/tt22084616/",
@@ -745,7 +745,6 @@
     }
   ],
   "estado": "ok",
-  "motor": "gemini",
   "fuentes_extra": [
     "Cineplanet",
     "Cinerama"
