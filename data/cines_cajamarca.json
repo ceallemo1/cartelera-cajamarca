@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-15 07:01",
+  "actualizado": "2026-08-15 07:55",
   "fecha_objetivo": "2026-08-15",
   "peliculas": [
     {
@@ -368,14 +368,14 @@
             {
               "formato": "",
               "horarios": [
-                "17:15",
-                "20:45"
+                "18:45",
+                "22:15"
               ]
             }
           ],
           "horarios": [
-            "17:15",
-            "20:45"
+            "18:45",
+            "22:15"
           ]
         }
       ],
@@ -464,6 +464,22 @@
             "14:00",
             "16:00",
             "18:00"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:15"
           ]
         }
       ],
@@ -908,14 +924,14 @@
             {
               "formato": "",
               "horarios": [
-                "17:15",
-                "20:45"
+                "18:45",
+                "22:15"
               ]
             }
           ],
           "horarios": [
-            "17:15",
-            "20:45"
+            "18:45",
+            "22:15"
           ]
         },
         {
@@ -935,6 +951,25 @@
           ],
           "horarios": [
             "17:00"
+          ]
+        },
+        {
+          "titulo": "Shrek",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/sher.jpg",
+          "genero": "Accion",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:30",
+          "sinopsis": "Un Caballero Malvado Exilia a las Criaturas de un Cuento de Hadas Al Pantano de un Ogro Gruñón, Quien en Su Afán de Recuperar Su Territorio Hace un Pacto Para Conseguir Que una Bella Princesa Acceda a Ser la Novia del Caballero.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:15"
           ]
         },
         {
@@ -976,7 +1011,6 @@
     }
   ],
   "estado": "ok",
-  "motor": "gemini",
   "fuentes_extra": [
     "Cinerama"
   ]
