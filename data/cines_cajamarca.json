@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-15 08:01",
+  "actualizado": "2026-08-15 11:00",
   "fecha_objetivo": "2026-08-15",
   "peliculas": [
     {
@@ -78,7 +78,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-final-de-la-calle-oak-12204_252",
       "trailer_url": "https://www.youtube.com/results?search_query=El%20Final%20De%20La%20Calle%20Oak%20trailer%20espanol",
-      "sinopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
+      "sinopsis": "Un grupo de adolescentes descubre que la calle Oak es el escenario de un misterioso suceso que cambiará sus vidas para siempre.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1101383,
@@ -137,7 +137,7 @@
     },
     {
       "titulo": "Mañana me caso",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/8/manana-me-caso-47641-1.jpg",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/masha-y-los-osos-47643-1.webp",
       "cines": [
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
@@ -166,7 +166,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/manana-me-caso-12205_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Ma%C3%B1ana%20me%20caso%20trailer%20espanol",
-      "sinopsis": "",
+      "sinopsis": "Una comedia romántica donde la protagonista, nerviosa pero decidida, se prepara para su boda mientras surgen inesperados enredos familiares.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1744212,
@@ -331,7 +331,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/spider-man-un-nuevo-dia-12132_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Spider%20Man%3A%20Un%20Nuevo%20Dia%20trailer%20espanol",
-      "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "sinopsis": "Peter Parker, recién graduado, debe equilibrar su vida como estudiante y como Spider-Man mientras enfrenta una nueva amenaza que surge en la ciudad.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 969681,
@@ -459,7 +459,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-odisea-12131_252",
       "trailer_url": "https://www.youtube.com/results?search_query=La%20Odisea%20trailer%20espanol",
-      "sinopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+      "sinopsis": "Una épica adaptación de la clásica historia de Homero, donde Ulises lucha por regresar a Ítaca enfrentando monstruos, dioses y tentaciones.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1368337,
@@ -581,7 +581,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/shrek-116_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Shrek%20trailer%20espanol",
-      "sinopsis": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
+      "sinopsis": "El ogro Shrek, junto a su fiel compañero Burro, emprende una nueva misión para rescatar a su reino de una amenaza mágica, con humor y corazón.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 808,
@@ -907,7 +907,7 @@
         },
         {
           "titulo": "Mañana me caso",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/manana-me-caso-47641-1.jpg",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/masha-y-los-osos-47643-1.webp",
           "genero": "Comedia",
           "clasificacion": "12 Años",
           "formatos": [
@@ -1337,7 +1337,7 @@
     }
   ],
   "estado": "ok",
-  "motor": "gemini",
+  "motor": "cerebras",
   "fuentes_extra": [
     "Cinerama",
     "Movie Time"
