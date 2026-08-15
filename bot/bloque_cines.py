@@ -567,6 +567,10 @@ def _enriquecer(pelis):
 NOMBRES_BONITOS = {
     "CP Cajamarca": "CinePlanet Cajamarca Real Plaza",
     "CAJAMARCA - MOVIE TIME": "Movie Time Cajamarca",
+    # La clave de arriba nunca casaba: carteleracine entrega esta sala como "Cajamarca
+    # (Movie Time)", asi que el nombre bonito no se aplicaba y en pantalla salia el
+    # nombre crudo del agregador. Se deja la vieja por si otra ciudad la usa.
+    "Cajamarca (Movie Time)": "Movie Time Cajamarca",
     "CAJAMARCA - CINEPLANET": "CinePlanet Cajamarca Real Plaza",
     "Cajamarca Megaplaza (Cinerama)": "Cinerama Cajamarca MegaPlaza",
 }
@@ -591,12 +595,23 @@ def _renombrar_cines(resultado):
                 c["cine"] = bonito
 
 
-def _fusionar_cinerama(resultado, ciudad_slug):
-    """Mete la cartelera propia de Cinerama y retira la sala vacia del agregador."""
-    import cinerama
-    cine, err = cinerama.cine_de(ciudad_slug, resultado.get("fecha_objetivo"))
+def _fusionar_cadena(resultado, ciudad_slug, modulo, etiqueta, marca):
+    """Mete la cartelera propia de una cadena y retira la sala vacia del agregador.
+
+    Sirve a Cinerama y a Movie Time, que son el MISMO caso hasta en el detalle:
+    carteleracine lista la sala pero responde "no hay programacion disponible", mientras
+    la web de la cadena publica funciones a diario. Se escribio una sola vez a proposito
+    —la version duplicada ya iba por la tercera copia— para que las dos salas se comporten
+    igual: si una gana una proteccion, la otra tambien.
+
+      modulo   — el que expone cine_de(ciudad, fecha) y SEDES (cinerama / movietime).
+      etiqueta — como se nombra la fuente en las notas y en 'fuentes_extra'.
+      marca    — trozo en minusculas que identifica la sala del agregador dentro de su
+                 slug o su nombre ('cinerama', 'movietime').
+    """
+    cine, err = modulo.cine_de(ciudad_slug, resultado.get("fecha_objetivo"))
     if not cine:
-        resultado.setdefault("notas", []).append("Cinerama: " + str(err))
+        resultado.setdefault("notas", []).append(etiqueta + ": " + str(err))
         # Si el fallo fue NUESTRO —no se pudo hablar con la web—, la sala vacia que dejo
         # carteleracine se queda en pie diciendo "la fuente no publica funciones hoy", y
         # eso es MENTIRA: Cinerama funciona todos los dias en Cajamarca. Cesar lo marco
@@ -604,9 +619,9 @@ def _fusionar_cinerama(resultado, ciudad_slug):
         # que dan, pero si se puede dejar de afirmar lo que no se sabe: se marca la sala
         # para que quien la pinte diga "no se pudo consultar" y ofrezca su web.
         if str(err).startswith("NO_CONSULTADO"):
-            conf = cinerama.SEDES.get(ciudad_slug) or {}
+            conf = modulo.SEDES.get(ciudad_slug) or {}
             for c in resultado.get("cines", []):
-                if "cinerama" in ((c.get("cine_slug") or "") + (c.get("cine") or "")).lower():
+                if marca in ((c.get("cine_slug") or "") + (c.get("cine") or "")).lower().replace(" ", ""):
                     c["no_consultado"] = True
                     c["nota"] = "No se pudo consultar su cartelera. Suele tener funciones a diario."
                     if conf.get("url"):
@@ -616,13 +631,16 @@ def _fusionar_cinerama(resultado, ciudad_slug):
     # Fuera la ficha vacia que dejo carteleracine para esta misma sala: se reconoce
     # porque su slug empieza por 'cinerama'. Si se dejara, el tablero mostraria la
     # sala dos veces, una con funciones y otra diciendo que no tiene.
-    def _es_cinerama(c):
-        return ("cinerama" in (c.get("cine_slug") or "").lower()
-                or "cinerama" in (c.get("cine") or "").lower())
+    def _es_sala(c):
+        # Sin espacios: el agregador escribe "Cajamarca (Movie Time)" y la cadena se
+        # identifica como 'movietime'. Con espacios, la sala vacia no se reconocia y
+        # el mismo local salia dos veces.
+        plano = ((c.get("cine_slug") or "") + " " + (c.get("cine") or "")).lower().replace(" ", "")
+        return marca in plano
 
-    resultado["cines"] = [c for c in resultado.get("cines", []) if not _es_cinerama(c)]
+    resultado["cines"] = [c for c in resultado.get("cines", []) if not _es_sala(c)]
     resultado["cines"].append(cine)
-    resultado.setdefault("fuentes_extra", []).append("Cinerama")
+    resultado.setdefault("fuentes_extra", []).append(etiqueta)
 
     # Y del indice por PELICULA hay que retirarlo tambien, no solo del de cines. Hay
     # dias en que carteleracine SI publica funciones de Cinerama dentro de las fichas
@@ -630,7 +648,7 @@ def _fusionar_cinerama(resultado, ciudad_slug):
     # una como "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA" y otra con su nombre bueno.
     # Manda la fuente de la cadena, igual que con Cineplanet.
     for p in resultado.get("peliculas", []):
-        p["cines"] = [c for c in p.get("cines", []) if not _es_cinerama(c)]
+        p["cines"] = [c for c in p.get("cines", []) if not _es_sala(c)]
     resultado["peliculas"] = [p for p in resultado.get("peliculas", []) if p.get("cines")]
 
     # Clave de emparejamiento mas tolerante que _norm_titulo a secas: Cinerama escribe
@@ -660,10 +678,28 @@ def _fusionar_cinerama(resultado, ciudad_slug):
             nueva = {k: pel.get(k, "") for k in
                      ("titulo", "poster", "genero", "clasificacion", "duracion", "sinopsis")}
             nueva.update({"director": "", "actores": "", "estreno": "", "puntaje": "",
-                          "ficha": "", "trailer_url": "", "fuente_peli": "Cinerama",
-                          "cines": [entrada]})
+                          "ficha": "", "trailer_url": pel.get("trailer_url", ""),
+                          "fuente_peli": etiqueta, "cines": [entrada]})
             resultado.setdefault("peliculas", []).append(nueva)
             por_titulo[_clave_titulo(pel["titulo"])] = nueva
+
+
+def _fusionar_cinerama(resultado, ciudad_slug):
+    """Cinerama: su web da 5 peliculas donde el agregador dice que no hay ninguna."""
+    import cinerama
+    _fusionar_cadena(resultado, ciudad_slug, cinerama, "Cinerama", "cinerama")
+
+
+def _fusionar_movietime(resultado, ciudad_slug):
+    """Movie Time: mismo caso que Cinerama, detectado el 2026-08-15.
+
+    carteleracine responde 200 para `movietime-cajamarca-cajamarca-s448` con el texto
+    "no hay programacion disponible para este sala", asi que la sala salia con 0
+    peliculas todos los dias. Su web propia daba 9 ese mismo dia. Cesar lo zanjo:
+    *"todas tiene presentaciones todos los dias"*.
+    """
+    import movietime
+    _fusionar_cadena(resultado, ciudad_slug, movietime, "Movie Time", "movietime")
 
 
 def _ciudad(ciudad_slug, conf, ahora):
@@ -727,6 +763,15 @@ def _ciudad(ciudad_slug, conf, ahora):
     # dia. Cesar lo detecto: "los 3 estan funcionando".
     try:
         _fusionar_cinerama(resultado, ciudad_slug)
+        if resultado["estado"] != "ok" and resultado.get("cines"):
+            resultado["estado"] = "ok"
+    except Exception:
+        pass
+
+    # Movie Time, tercera sala con el mismo problema: el agregador la lista pero no la
+    # surte. Va en su propio try para que un fallo suyo no arrastre a Cinerama.
+    try:
+        _fusionar_movietime(resultado, ciudad_slug)
         if resultado["estado"] != "ok" and resultado.get("cines"):
             resultado["estado"] = "ok"
     except Exception:

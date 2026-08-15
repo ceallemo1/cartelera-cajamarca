@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-15 08:00",
+  "actualizado": "2026-08-15 08:01",
   "fecha_objetivo": "2026-08-15",
   "peliculas": [
     {
@@ -49,6 +49,24 @@
             "18:00",
             "20:00",
             "21:50"
+          ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "19:30",
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:30",
+            "21:30"
           ]
         }
       ],
@@ -267,6 +285,42 @@
             "21:15",
             "22:00"
           ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:10",
+                "19:00",
+                "21:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:10",
+            "19:00",
+            "21:50"
+          ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "13:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "13:20"
+          ]
         }
       ],
       "genero": "Ciencia Ficción",
@@ -377,6 +431,24 @@
             "18:45",
             "22:15"
           ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:05",
+                "20:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:05",
+            "20:20"
+          ]
         }
       ],
       "genero": "Drama",
@@ -480,6 +552,24 @@
           ],
           "horarios": [
             "15:15"
+          ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:50",
+                "17:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:50",
+            "17:40"
           ]
         }
       ],
@@ -669,6 +759,22 @@
           "horarios": [
             "17:00"
           ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "14:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:00"
+          ]
         }
       ],
       "tmdb": {
@@ -721,6 +827,55 @@
         "idioma": "Ruso",
         "titulo_original": "Маша и Медведи"
       }
+    },
+    {
+      "titulo": "Toy Story 5 (Dob)",
+      "poster": "https://www.movietime.com.pe/bucket/images/cine/5d5a89e6-60de-4ed8-89b8-67b61ae850fb.png",
+      "genero": "",
+      "clasificacion": "APT",
+      "duracion": "102 min",
+      "sinopsis": "( R ) Película con restricción del distribuidor.\n\nLos juguetes están de regreso y esta vez, el propósito de jugar de Buzz Lightyear, Woody, Jessie ven amenazado cuando se enfrentan a Lilypad, una nueva tableta que llega con sus propias ideas disruptivas sobre lo que es mejor para su niña, Bonnie.",
+      "director": "",
+      "actores": "",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=s_qpMMkvHYE",
+      "fuente_peli": "Movie Time",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00"
+          ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "13:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "13:00"
+          ]
+        }
+      ]
     }
   ],
   "cines": [
@@ -847,14 +1002,6 @@
         }
       ],
       "cine_original": "CAJAMARCA - CINEPLANET"
-    },
-    {
-      "cine": "Cajamarca (Movie Time)",
-      "cine_slug": "movietime-cajamarca-cajamarca-s448",
-      "direccion": "",
-      "peliculas": [],
-      "sin_programacion": true,
-      "nota": "La fuente no publica funciones de esta sala hoy."
     },
     {
       "cine": "Cinerama Cajamarca MegaPlaza",
@@ -1008,11 +1155,191 @@
           ]
         }
       ]
+    },
+    {
+      "cine": "Movie Time Cajamarca",
+      "cine_slug": "movietime-cajamarca",
+      "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+      "url": "https://www.movietime.com.pe/cinemas/cajamarca",
+      "fuente_cine": "Movie Time",
+      "peliculas": [
+        {
+          "titulo": "El Final De La Calle Oak",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/3908b850-1401-4bfe-bc78-d1000856b80a.jpeg",
+          "genero": "",
+          "clasificacion": "+14",
+          "duracion": "100 min",
+          "sinopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "19:30",
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:30",
+            "21:30"
+          ],
+          "trailer_url": "https://www.youtube.com/watch?v=kdrry0xfHzA"
+        },
+        {
+          "titulo": "La Odisea",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/55578d28-e61b-4504-884e-7c60fbc5a762.png",
+          "genero": "",
+          "clasificacion": "+14",
+          "duracion": "173 min",
+          "sinopsis": "Epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:05",
+                "20:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:05",
+            "20:20"
+          ],
+          "trailer_url": "https://www.youtube.com/watch?v=5TqqwjW-qt0"
+        },
+        {
+          "titulo": "Masha y los Osos",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/81d01833-331a-460f-ad59-f9dd7f0dce39.jpeg",
+          "genero": "",
+          "clasificacion": "APT",
+          "duracion": "79 min",
+          "sinopsis": "Masha tiene que salvar a su hermano, que ha caído bajo el hechizo de los espíritus malignos del bosque y se ha convertido en una cabra. Para romper la terrible maldición, la niña tiene que unir fuerzas con los héroes de cuento de hadas que conoce desde la infancia: los tres osos.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "14:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:00"
+          ],
+          "trailer_url": "https://www.youtube.com/watch?v=GlqAxESlcA0"
+        },
+        {
+          "titulo": "Shrek",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/cd0725b3-b860-4cad-8dab-e1f8c5981db7.png",
+          "genero": "",
+          "clasificacion": "APT",
+          "duracion": "90 min",
+          "sinopsis": "Hace 25 años, un ogro cambió para siempre los cuentos de hadas. Ahora, Shrek regresa a la pantalla grande para celebrar su 25.º aniversario y recordar por qué se convirtió en un clásico para todas las generaciones.\n\nAcompaña a Shrek, Burro y la valiente princesa Fiona en una aventura llena de humor, corazón y personajes inolvidables. En su misión por rescatar a Fiona, descubrirán que las aparienci",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:50",
+                "17:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:50",
+            "17:40"
+          ],
+          "trailer_url": "https://www.youtube.com/watch?v=RJZf6UJJMik"
+        },
+        {
+          "titulo": "Spider Man: Un Nuevo Dia",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/27a793fb-2e0a-4a89-a208-af367659eaaf.png",
+          "genero": "",
+          "clasificacion": "APT",
+          "duracion": "145 min",
+          "sinopsis": "Tras el éxito mundial sin precedentes de Spider-Man: Sin regreso a casa, Spider-Man: Un nuevo día marca un capítulo completamente nuevo para Peter Parker y Spider-Man. Han pasado cuatro años desde los acontecimientos de Sin regreso a casa, y Peter ahora es un adulto que vive completamente solo, habiéndose borrado voluntariamente de la vida y los recuerdos de sus seres queridos. Combatiendo el crim",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:10",
+                "19:00",
+                "21:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:10",
+            "19:00",
+            "21:50"
+          ],
+          "trailer_url": "https://www.youtube.com/watch?v=Pw1X-57Ms-8"
+        },
+        {
+          "titulo": "Spider Man: Un Nuevo Dia",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/51e11b39-0658-4058-bfe4-5665d56685c1.png",
+          "genero": "",
+          "clasificacion": "APT",
+          "duracion": "145 min",
+          "sinopsis": "Tras el éxito mundial sin precedentes de Spider-Man: Sin regreso a casa, Spider-Man: Un nuevo día marca un capítulo completamente nuevo para Peter Parker y Spider-Man. Han pasado cuatro años desde los acontecimientos de Sin regreso a casa, y Peter ahora es un adulto que vive completamente solo, habiéndose borrado voluntariamente de la vida y los recuerdos de sus seres queridos. Combatiendo el crim",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "13:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "13:20"
+          ],
+          "trailer_url": ""
+        },
+        {
+          "titulo": "Toy Story 5 (Dob)",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/5d5a89e6-60de-4ed8-89b8-67b61ae850fb.png",
+          "genero": "",
+          "clasificacion": "APT",
+          "duracion": "102 min",
+          "sinopsis": "( R ) Película con restricción del distribuidor.\n\nLos juguetes están de regreso y esta vez, el propósito de jugar de Buzz Lightyear, Woody, Jessie ven amenazado cuando se enfrentan a Lilypad, una nueva tableta que llega con sus propias ideas disruptivas sobre lo que es mejor para su niña, Bonnie.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00"
+          ],
+          "trailer_url": "https://www.youtube.com/watch?v=s_qpMMkvHYE"
+        },
+        {
+          "titulo": "Toy Story 5 (Dob)",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/1580dce7-f8bb-43fe-a707-6458d89b8800.png",
+          "genero": "",
+          "clasificacion": "APT",
+          "duracion": "102 min",
+          "sinopsis": "( R ) Película con restricción del distribuidor.\n\nLos juguetes están de regreso y esta vez, el propósito de jugar de Buzz Lightyear, Woody, Jessie ven amenazado cuando se enfrentan a Lilypad, una nueva tableta que llega con sus propias ideas disruptivas sobre lo que es mejor para su niña, Bonnie.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "13:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "13:00"
+          ],
+          "trailer_url": "https://www.youtube.com/watch?v=s_qpMMkvHYE"
+        }
+      ]
     }
   ],
   "estado": "ok",
   "motor": "gemini",
   "fuentes_extra": [
-    "Cinerama"
+    "Cinerama",
+    "Movie Time"
   ]
 }
