@@ -78,6 +78,15 @@ async (cityName) => {
           ultimo = `${nombre}: HTML en vez de JSON (status ${r.status})`;
           continue;
         }
+        /* Desde el 2026-08-15 el WAF NO devuelve HTML: devuelve JSON valido
+           {"status":403,"error":"Forbidden"} con codigo 403. Sin esta guarda el
+           JSON.parse funcionaba, el objeto no traia 'cinemas', y el resultado
+           salia como estado="vacio" con error=None: un fallo total disfrazado de
+           cartelera sin funciones. El status manda sobre la forma del cuerpo. */
+        if (!r.ok) {
+          ultimo = `${nombre}: HTTP ${r.status} (WAF) ${t.slice(0, 120)}`;
+          continue;
+        }
         return JSON.parse(t);
       } catch (e) {
         ultimo = `${nombre}: ${e && e.message ? e.message : e}`;
