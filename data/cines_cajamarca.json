@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-15 17:00",
+  "actualizado": "2026-08-15 21:25",
   "fecha_objetivo": "2026-08-15",
   "peliculas": [
     {
@@ -10,21 +10,40 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/8/manana-me-caso-47641-1.webp",
       "cines": [
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "Doblada",
               "horarios": [
-                "17:10",
+                "19:30",
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:30",
+            "21:30"
+          ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
                 "20:10",
                 "22:20"
               ]
             }
           ],
           "horarios": [
-            "17:10",
             "20:10",
             "22:20"
           ]
@@ -50,24 +69,6 @@
             "20:00",
             "21:50"
           ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "19:30",
-                "21:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:30",
-            "21:30"
-          ]
         }
       ],
       "genero": "Acción",
@@ -77,8 +78,8 @@
       "actores": "Anne Hathaway, Ewan McGregor, Christian Convery, Maisy Stella, Jordan Alexa Davis, P.J. Byrne",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-final-de-la-calle-oak-12204_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=El%20Final%20De%20La%20Calle%20Oak%20trailer%20espanol",
-      "sinopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
+      "trailer_url": "https://youtu.be/1rnQu-NRXbQ?si=1GWMZMzK0NtmDwXC",
+      "sinopsis": "Después de que un misterioso evento cósmico arranca a la calle Oak de los suburbios y transporta a todo el vecindario a un lugar desconocido, la familia Platt descubre pronto que su supervivencia depende de mantenerse unidos mientras navegan por un entorno ahora irreconocible.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1101383,
@@ -136,87 +137,101 @@
       }
     },
     {
-      "titulo": "Mañana me caso",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/8/masha-y-los-osos-47643-1.webp",
+      "titulo": "Masha Y Los Osos",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/masha-y-los-osos-47643-1.jpg",
       "cines": [
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "",
               "horarios": [
-                "15:00",
-                "19:20"
+                "14:00"
               ]
             }
           ],
           "horarios": [
-            "15:00",
-            "19:20"
+            "14:00"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:00"
           ]
         }
       ],
       "genero": "Comedia",
-      "duracion": "92 minutos",
-      "clasificacion": "12 Años",
-      "director": "Pancho Tuesta",
-      "actores": "Alessandra Fuller, Flavia Laos y Mayra Goñi",
+      "duracion": "79 minutos",
+      "clasificacion": "Todos",
+      "director": "Antonina Ruzhe",
+      "actores": "Vitaliya Kornienko, Lyudmila Artemeva, Zoya Berber, Gleb Bogdanovich, Artyom Gaidukov, Anya Izotova, Roman Kulyasov, Mikhail Orlov, Georgii Pakhomov",
       "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/manana-me-caso-12205_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Ma%C3%B1ana%20me%20caso%20trailer%20espanol",
-      "sinopsis": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/masha-y-los-osos-12207_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Masha%20Y%20Los%20Osos%20trailer%20espanol",
+      "sinopsis": "Masha tiene que salvar a su hermano, que ha caído bajo el hechizo de los espíritus malignos del bosque y se ha convertido en una cabra. Para romper la terrible maldición, la niña tiene que unir fuerzas con los héroes de cuento de hadas que conoce desde la infancia: los tres osos.",
       "puntaje": "",
       "tmdb": {
-        "tmdb_id": 1744212,
-        "titulo_tmdb": "Mañana me caso",
-        "voto": null,
-        "votos": 0,
-        "url_tmdb": "https://www.themoviedb.org/movie/1744212",
-        "imdb_id": "",
-        "url_imdb": "",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/5kCfp1NMxKMufPJQzUldauuDlwB.jpg",
-        "director": "Pancho Tuesta",
+        "tmdb_id": 1448028,
+        "titulo_tmdb": "Masha y el oso",
+        "voto": 7.0,
+        "votos": 1,
+        "url_tmdb": "https://www.themoviedb.org/movie/1448028",
+        "imdb_id": "tt33052222",
+        "url_imdb": "https://www.imdb.com/title/tt33052222/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/8bIrHHzOizxWHzgzmXXp2UnOjWI.jpg",
+        "director": "Антонина Руже",
         "reparto": [
           {
-            "nombre": "Alessandra Fuller",
+            "nombre": "Виталия Корниенко",
+            "personaje": "Masha"
+          },
+          {
+            "nombre": "Людмила Артемьева",
             "personaje": ""
           },
           {
-            "nombre": "Flavia Laos",
+            "nombre": "Снежана Самохина",
             "personaje": ""
           },
           {
-            "nombre": "Mayra Goñi",
+            "nombre": "Мирон Проворов",
             "personaje": ""
           },
           {
-            "nombre": "Miguel Dávalos",
+            "nombre": "Зоя Бербер",
             "personaje": ""
           },
           {
-            "nombre": "Vanessa Jeri",
-            "personaje": ""
-          },
-          {
-            "nombre": "Joaquín de Orbegoso",
+            "nombre": "Артём Гайдуков",
             "personaje": ""
           }
         ],
         "generos": [
-          "Comedia",
-          "Acción"
+          "Aventura",
+          "Fantasía"
         ],
         "trailer": {},
-        "sinopsis_tmdb": "",
-        "estreno": "13 ago 2026",
-        "duracion_min": 100,
+        "sinopsis_tmdb": "Masha tiene que salvar a su hermano, que ha caído bajo el hechizo de los espíritus malignos del bosque y se ha convertido en una cabra. Para romper la terrible maldición, la niña tiene que unir fuerzas con los héroes de cuento de hadas que conoce desde la infancia: los tres osos.",
+        "estreno": "20 nov 2025",
+        "duracion_min": 79,
         "paises": [
-          "Perú"
+          "Russia"
         ],
-        "idioma": "Español",
-        "titulo_original": "Mañana me caso"
+        "idioma": "Ruso",
+        "titulo_original": "Маша и Медведи"
       }
     },
     {
@@ -224,31 +239,50 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-0.webp",
       "cines": [
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "Doblada",
               "horarios": [
-                "14:30",
-                "17:30",
-                "20:30"
-              ]
-            },
-            {
-              "formato": "3D - Doblada",
-              "horarios": [
-                "15:30",
-                "18:30",
-                "21:40"
+                "13:20",
+                "16:10",
+                "19:00",
+                "21:50"
               ]
             }
           ],
           "horarios": [
-            "14:30",
-            "15:30",
-            "17:30",
+            "13:20",
+            "16:10",
+            "19:00",
+            "21:50"
+          ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "3D REGULAR DOBLADA",
+              "horarios": [
+                "18:30",
+                "21:40"
+              ]
+            },
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "20:30"
+              ]
+            }
+          ],
+          "horarios": [
             "18:30",
             "20:30",
             "21:40"
@@ -285,42 +319,6 @@
             "21:15",
             "22:00"
           ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:10",
-                "19:00",
-                "21:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:10",
-            "19:00",
-            "21:50"
-          ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "13:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "13:20"
-          ]
         }
       ],
       "genero": "Ciencia Ficción",
@@ -330,8 +328,8 @@
       "actores": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon, Sadie Sink",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/spider-man-un-nuevo-dia-12132_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Spider%20Man%3A%20Un%20Nuevo%20Dia%20trailer%20espanol",
-      "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "trailer_url": "https://www.youtube.com/watch?v=xrgNovKS0Co",
+      "sinopsis": "Han pasado cuatro años desde los acontecimientos de Sin regreso a casa, y Peter ahora es un adulto que vive completamente solo, habiéndose borrado voluntariamente de la vida y los recuerdos de sus seres queridos. Combatiendo el crimen en una Nueva York que ya no lo conoce, se ha dedicado por completo a proteger su ciudad —un Spider-Man a tiempo completo—, pero a medida que las exigencias se intens",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 969681,
@@ -393,14 +391,34 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/5/la-odisea-47428-0.webp",
       "cines": [
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "Doblada",
               "horarios": [
-                "15:10",
+                "17:05",
+                "20:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:05",
+            "20:20"
+          ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
                 "18:40",
                 "21:30",
                 "22:10"
@@ -408,7 +426,6 @@
             }
           ],
           "horarios": [
-            "15:10",
             "18:40",
             "21:30",
             "22:10"
@@ -431,24 +448,6 @@
             "18:45",
             "22:15"
           ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "17:05",
-                "20:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:05",
-            "20:20"
-          ]
         }
       ],
       "genero": "Drama",
@@ -459,7 +458,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-odisea-12131_252",
       "trailer_url": "https://www.youtube.com/results?search_query=La%20Odisea%20trailer%20espanol",
-      "sinopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+      "sinopsis": "-",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1368337,
@@ -515,27 +514,114 @@
       }
     },
     {
-      "titulo": "Shrek",
-      "poster": "https://cdn.carteleracine.pe/cine/2003/4/shrek-42603-0.webp",
+      "titulo": "Toy Story 5",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/5/toy-story-5-47403-0.webp",
       "cines": [
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "Doblada",
               "horarios": [
-                "14:00",
-                "16:00",
-                "18:00"
+                "13:00",
+                "15:00"
               ]
             }
           ],
           "horarios": [
-            "14:00",
-            "16:00",
-            "18:00"
+            "13:00",
+            "15:00"
+          ]
+        }
+      ],
+      "genero": "Animado",
+      "duracion": "102 minutos",
+      "clasificacion": "Todos",
+      "director": "Andrew Stanton",
+      "actores": "Tom Hanks, Tim Allen, Joan Cusack, Greta Lee, Conan O'Brien, Tony Hale, Craig Robinson, Shelby Rabara, Scarlett Spears",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/toy-story-5-12119_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Toy%20Story%205%20trailer%20espanol",
+      "sinopsis": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1084244,
+        "titulo_tmdb": "Toy Story 5",
+        "voto": 7.4,
+        "votos": 824,
+        "url_tmdb": "https://www.themoviedb.org/movie/1084244",
+        "imdb_id": "tt29355505",
+        "url_imdb": "https://www.imdb.com/title/tt29355505/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
+        "director": "Andrew Stanton",
+        "reparto": [
+          {
+            "nombre": "Tom Hanks",
+            "personaje": "Woody (voice)"
+          },
+          {
+            "nombre": "Tim Allen",
+            "personaje": "Buzz Lightyear (voice)"
+          },
+          {
+            "nombre": "Joan Cusack",
+            "personaje": "Jessie (voice)"
+          },
+          {
+            "nombre": "Conan O'Brien",
+            "personaje": "Smarty Pants (voice)"
+          },
+          {
+            "nombre": "Scarlett Spears",
+            "personaje": "Bonnie (voice)"
+          },
+          {
+            "nombre": "Greta Lee",
+            "personaje": "Lilypad (voice)"
+          }
+        ],
+        "generos": [
+          "Animación",
+          "Familia",
+          "Comedia",
+          "Aventura"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=9_reo5Jl1OM",
+          "embed_id": "9_reo5Jl1OM"
+        },
+        "sinopsis_tmdb": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+        "estreno": "17 jun 2026",
+        "duracion_min": 102,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Toy Story 5"
+      }
+    },
+    {
+      "titulo": "Shrek",
+      "poster": "https://cdn.carteleracine.pe/cine/2003/4/shrek-42603-0.webp",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:50",
+                "17:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:50",
+            "17:40"
           ]
         },
         {
@@ -552,24 +638,6 @@
           ],
           "horarios": [
             "15:15"
-          ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:50",
-                "17:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:50",
-            "17:40"
           ]
         }
       ],
@@ -639,6 +707,128 @@
         "idioma": "Inglés",
         "titulo_original": "Shrek"
       }
+    },
+    {
+      "titulo": "Mañana me caso",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002967?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Comedia",
+      "clasificacion": "+14",
+      "duracion": "92 min",
+      "director": "Pancho Tuesta",
+      "actores": "Alessandra Fuller, Flavia Laos, Mayra Goñi, Miguel Dávalos, Vanessa Jeri, Joaquín de Orbegoso",
+      "estreno": "",
+      "sinopsis": "Vale, Mia y Tamara, amigas inseparables desde la infancia, se reencuentran por la boda de Vale. Si pensabas que las bodas eran caóticas, espera a ver esta: el novio resulta ser nada menos que ¡el capo de un cartel de drogas! Entre persecuciones absurdas, disparos, night clubs, gomitas \"especiales\" y secretos guardados durante años, deberán sobrevivir y enfrentar los problemas que las han separado,",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=2P5PfC8wpSc",
+      "fuente_peli": "Cineplanet",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "19:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:20"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1744212,
+        "titulo_tmdb": "Mañana me caso",
+        "voto": null,
+        "votos": 0,
+        "url_tmdb": "https://www.themoviedb.org/movie/1744212",
+        "imdb_id": "",
+        "url_imdb": "",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/5kCfp1NMxKMufPJQzUldauuDlwB.jpg",
+        "director": "Pancho Tuesta",
+        "reparto": [
+          {
+            "nombre": "Alessandra Fuller",
+            "personaje": ""
+          },
+          {
+            "nombre": "Flavia Laos",
+            "personaje": ""
+          },
+          {
+            "nombre": "Mayra Goñi",
+            "personaje": ""
+          },
+          {
+            "nombre": "Miguel Dávalos",
+            "personaje": ""
+          },
+          {
+            "nombre": "Vanessa Jeri",
+            "personaje": ""
+          },
+          {
+            "nombre": "Joaquín de Orbegoso",
+            "personaje": ""
+          }
+        ],
+        "generos": [
+          "Comedia",
+          "Acción"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "",
+        "estreno": "13 ago 2026",
+        "duracion_min": 100,
+        "paises": [
+          "Perú"
+        ],
+        "idioma": "Español",
+        "titulo_original": "Mañana me caso"
+      }
+    },
+    {
+      "titulo": "Shrek [2001]",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003048?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Animación",
+      "clasificacion": "APT",
+      "duracion": "90 min",
+      "director": "",
+      "actores": "",
+      "estreno": "",
+      "sinopsis": "A 25 años de su estreno, Shrek vuelve a los cines para celebrar el aniversario de una de las películas animadas más queridas de todos los tiempos. La historia del ogro que desafió los cuentos de hadas regresa a la pantalla grande con todo su humor, emoción y personajes inolvidables, invitando a fans de siempre y nuevas generaciones a revivir una aventura que marcó a toda una época.",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=N52tASjTQiw",
+      "fuente_peli": "Cineplanet",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "18:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:00"
+          ]
+        }
+      ]
     },
     {
       "titulo": "La Noche del Demonio : Están Entre Nosotros (Preventa)",
@@ -728,42 +918,38 @@
         "idioma": "Inglés",
         "titulo_original": "Insidious: Out of the Further"
       }
-    },
+    }
+  ],
+  "cines": [
     {
-      "titulo": "Masha y los Osos",
-      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/53418.jpg",
-      "genero": "Aventura",
-      "clasificacion": "Todo Espectador",
-      "duracion": "01:20",
-      "sinopsis": "Masha Tiene Que Salvar a Su Hermano, Que Ha Caído Bajo el Hechizo de los Espíritus Malignos del Bosque y Se Ha Convertido en una Cabra. Para Romper la Terrible Maldición, la Niña Tiene Que Unir Fuerzas Con los Héroes de Cuento de Hadas Que Conoce Desde la Infancia: Los Tres Osos.",
-      "director": "Антонина Руже",
-      "actores": "Виталия Корниенко, Людмила Артемьева, Снежана Самохина, Мирон Проворов, Зоя Бербер, Артём Гайдуков",
-      "estreno": "",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "",
-      "fuente_peli": "Cinerama",
-      "cines": [
+      "cine": "Movie Time Cajamarca",
+      "cine_slug": "movietime-cajamarca-cajamarca-s448",
+      "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+      "peliculas": [
         {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "titulo": "El Final De La Calle Oak",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/manana-me-caso-47641-1.webp",
+          "genero": "Acción",
+          "clasificacion": "12 Años",
           "formatos": [
             {
-              "formato": "",
+              "formato": "Doblada",
               "horarios": [
-                "17:00"
+                "19:30",
+                "21:30"
               ]
             }
           ],
           "horarios": [
-            "17:00"
+            "19:30",
+            "21:30"
           ]
         },
         {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "titulo": "Masha Y Los Osos",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/masha-y-los-osos-47643-1.jpg",
+          "genero": "Comedia",
+          "clasificacion": "Todos",
           "formatos": [
             {
               "formato": "",
@@ -775,154 +961,6 @@
           "horarios": [
             "14:00"
           ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1448028,
-        "titulo_tmdb": "Masha y el oso",
-        "voto": 7.0,
-        "votos": 1,
-        "url_tmdb": "https://www.themoviedb.org/movie/1448028",
-        "imdb_id": "tt33052222",
-        "url_imdb": "https://www.imdb.com/title/tt33052222/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/8bIrHHzOizxWHzgzmXXp2UnOjWI.jpg",
-        "director": "Антонина Руже",
-        "reparto": [
-          {
-            "nombre": "Виталия Корниенко",
-            "personaje": "Masha"
-          },
-          {
-            "nombre": "Людмила Артемьева",
-            "personaje": ""
-          },
-          {
-            "nombre": "Снежана Самохина",
-            "personaje": ""
-          },
-          {
-            "nombre": "Мирон Проворов",
-            "personaje": ""
-          },
-          {
-            "nombre": "Зоя Бербер",
-            "personaje": ""
-          },
-          {
-            "nombre": "Артём Гайдуков",
-            "personaje": ""
-          }
-        ],
-        "generos": [
-          "Aventura",
-          "Fantasía"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Masha tiene que salvar a su hermano, que ha caído bajo el hechizo de los espíritus malignos del bosque y se ha convertido en una cabra. Para romper la terrible maldición, la niña tiene que unir fuerzas con los héroes de cuento de hadas que conoce desde la infancia: los tres osos.",
-        "estreno": "20 nov 2025",
-        "duracion_min": 79,
-        "paises": [
-          "Russia"
-        ],
-        "idioma": "Ruso",
-        "titulo_original": "Маша и Медведи"
-      }
-    },
-    {
-      "titulo": "Toy Story 5 (Dob)",
-      "poster": "https://www.movietime.com.pe/bucket/images/cine/5d5a89e6-60de-4ed8-89b8-67b61ae850fb.png",
-      "genero": "",
-      "clasificacion": "APT",
-      "duracion": "102 min",
-      "sinopsis": "( R ) Película con restricción del distribuidor.\n\nLos juguetes están de regreso y esta vez, el propósito de jugar de Buzz Lightyear, Woody, Jessie ven amenazado cuando se enfrentan a Lilypad, una nueva tableta que llega con sus propias ideas disruptivas sobre lo que es mejor para su niña, Bonnie.",
-      "director": "",
-      "actores": "",
-      "estreno": "",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=s_qpMMkvHYE",
-      "fuente_peli": "Movie Time",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00"
-          ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "13:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "13:00"
-          ]
-        }
-      ]
-    }
-  ],
-  "cines": [
-    {
-      "cine": "CinePlanet Cajamarca Real Plaza",
-      "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-      "direccion": "Av. Vía de Evitamiento Norte",
-      "peliculas": [
-        {
-          "titulo": "El Final De La Calle Oak",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/manana-me-caso-47641-1.webp",
-          "genero": "Acción",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "2D - Doblada",
-              "horarios": [
-                "17:10",
-                "20:10",
-                "22:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:10",
-            "20:10",
-            "22:20"
-          ]
-        },
-        {
-          "titulo": "Mañana me caso",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/masha-y-los-osos-47643-1.webp",
-          "genero": "Comedia",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "2D - Doblada",
-              "horarios": [
-                "15:00",
-                "19:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "19:20"
-          ]
         },
         {
           "titulo": "Spider Man: Un Nuevo Dia",
@@ -931,29 +969,20 @@
           "clasificacion": "12 Años",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "Doblada",
               "horarios": [
-                "14:30",
-                "17:30",
-                "20:30"
-              ]
-            },
-            {
-              "formato": "3D - Doblada",
-              "horarios": [
-                "15:30",
-                "18:30",
-                "21:40"
+                "13:20",
+                "16:10",
+                "19:00",
+                "21:50"
               ]
             }
           ],
           "horarios": [
-            "14:30",
-            "15:30",
-            "17:30",
-            "18:30",
-            "20:30",
-            "21:40"
+            "13:20",
+            "16:10",
+            "19:00",
+            "21:50"
           ]
         },
         {
@@ -963,20 +992,35 @@
           "clasificacion": "12 Años",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "Doblada",
               "horarios": [
-                "15:10",
-                "18:40",
-                "21:30",
-                "22:10"
+                "17:05",
+                "20:20"
               ]
             }
           ],
           "horarios": [
-            "15:10",
-            "18:40",
-            "21:30",
-            "22:10"
+            "17:05",
+            "20:20"
+          ]
+        },
+        {
+          "titulo": "Toy Story 5",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/5/toy-story-5-47403-0.webp",
+          "genero": "Animado",
+          "clasificacion": "Todos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "13:00",
+                "15:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "13:00",
+            "15:00"
           ]
         },
         {
@@ -986,22 +1030,131 @@
           "clasificacion": "Todos",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "",
               "horarios": [
-                "14:00",
-                "16:00",
+                "15:50",
+                "17:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:50",
+            "17:40"
+          ]
+        }
+      ],
+      "cine_original": "CAJAMARCA - MOVIE TIME"
+    },
+    {
+      "cine": "CinePlanet Cajamarca Real Plaza",
+      "cine_slug": "cp-cajamarca",
+      "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+      "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+      "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+      "fuente_cine": "Cineplanet",
+      "peliculas": [
+        {
+          "titulo": "El Final De La Calle Oak",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002966?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "20:10",
+                "22:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "20:10",
+            "22:20"
+          ]
+        },
+        {
+          "titulo": "La Odisea",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002831?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "18:40",
+                "21:30",
+                "22:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:40",
+            "21:30",
+            "22:10"
+          ]
+        },
+        {
+          "titulo": "Mañana me caso",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002967?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Comedia",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "19:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:20"
+          ]
+        },
+        {
+          "titulo": "Shrek [2001]",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003048?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Animación",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
                 "18:00"
               ]
             }
           ],
           "horarios": [
-            "14:00",
-            "16:00",
             "18:00"
+          ]
+        },
+        {
+          "titulo": "Spider Man: Un Nuevo Dia",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002949?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "3D REGULAR DOBLADA",
+              "horarios": [
+                "18:30",
+                "21:40"
+              ]
+            },
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "20:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:30",
+            "20:30",
+            "21:40"
           ]
         }
       ],
-      "cine_original": "CAJAMARCA - CINEPLANET"
+      "cine_original": "CP Cajamarca"
     },
     {
       "cine": "Cinerama Cajamarca MegaPlaza",
@@ -1082,7 +1235,7 @@
           ]
         },
         {
-          "titulo": "Masha y los Osos",
+          "titulo": "Masha Y Los Osos",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/53418.jpg",
           "genero": "Aventura",
           "clasificacion": "Todo Espectador",
@@ -1155,191 +1308,11 @@
           ]
         }
       ]
-    },
-    {
-      "cine": "Movie Time Cajamarca",
-      "cine_slug": "movietime-cajamarca",
-      "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-      "url": "https://www.movietime.com.pe/cinemas/cajamarca",
-      "fuente_cine": "Movie Time",
-      "peliculas": [
-        {
-          "titulo": "El Final De La Calle Oak",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/3908b850-1401-4bfe-bc78-d1000856b80a.jpeg",
-          "genero": "",
-          "clasificacion": "+14",
-          "duracion": "100 min",
-          "sinopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "19:30",
-                "21:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:30",
-            "21:30"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=kdrry0xfHzA"
-        },
-        {
-          "titulo": "La Odisea",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/55578d28-e61b-4504-884e-7c60fbc5a762.png",
-          "genero": "",
-          "clasificacion": "+14",
-          "duracion": "173 min",
-          "sinopsis": "Epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "17:05",
-                "20:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:05",
-            "20:20"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=5TqqwjW-qt0"
-        },
-        {
-          "titulo": "Masha y los Osos",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/81d01833-331a-460f-ad59-f9dd7f0dce39.jpeg",
-          "genero": "",
-          "clasificacion": "APT",
-          "duracion": "79 min",
-          "sinopsis": "Masha tiene que salvar a su hermano, que ha caído bajo el hechizo de los espíritus malignos del bosque y se ha convertido en una cabra. Para romper la terrible maldición, la niña tiene que unir fuerzas con los héroes de cuento de hadas que conoce desde la infancia: los tres osos.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "14:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:00"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=GlqAxESlcA0"
-        },
-        {
-          "titulo": "Shrek",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/cd0725b3-b860-4cad-8dab-e1f8c5981db7.png",
-          "genero": "",
-          "clasificacion": "APT",
-          "duracion": "90 min",
-          "sinopsis": "Hace 25 años, un ogro cambió para siempre los cuentos de hadas. Ahora, Shrek regresa a la pantalla grande para celebrar su 25.º aniversario y recordar por qué se convirtió en un clásico para todas las generaciones.\n\nAcompaña a Shrek, Burro y la valiente princesa Fiona en una aventura llena de humor, corazón y personajes inolvidables. En su misión por rescatar a Fiona, descubrirán que las aparienci",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:50",
-                "17:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:50",
-            "17:40"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=RJZf6UJJMik"
-        },
-        {
-          "titulo": "Spider Man: Un Nuevo Dia",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/27a793fb-2e0a-4a89-a208-af367659eaaf.png",
-          "genero": "",
-          "clasificacion": "APT",
-          "duracion": "145 min",
-          "sinopsis": "Tras el éxito mundial sin precedentes de Spider-Man: Sin regreso a casa, Spider-Man: Un nuevo día marca un capítulo completamente nuevo para Peter Parker y Spider-Man. Han pasado cuatro años desde los acontecimientos de Sin regreso a casa, y Peter ahora es un adulto que vive completamente solo, habiéndose borrado voluntariamente de la vida y los recuerdos de sus seres queridos. Combatiendo el crim",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:10",
-                "19:00",
-                "21:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:10",
-            "19:00",
-            "21:50"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=Pw1X-57Ms-8"
-        },
-        {
-          "titulo": "Spider Man: Un Nuevo Dia",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/51e11b39-0658-4058-bfe4-5665d56685c1.png",
-          "genero": "",
-          "clasificacion": "APT",
-          "duracion": "145 min",
-          "sinopsis": "Tras el éxito mundial sin precedentes de Spider-Man: Sin regreso a casa, Spider-Man: Un nuevo día marca un capítulo completamente nuevo para Peter Parker y Spider-Man. Han pasado cuatro años desde los acontecimientos de Sin regreso a casa, y Peter ahora es un adulto que vive completamente solo, habiéndose borrado voluntariamente de la vida y los recuerdos de sus seres queridos. Combatiendo el crim",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "13:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "13:20"
-          ],
-          "trailer_url": ""
-        },
-        {
-          "titulo": "Toy Story 5 (Dob)",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/5d5a89e6-60de-4ed8-89b8-67b61ae850fb.png",
-          "genero": "",
-          "clasificacion": "APT",
-          "duracion": "102 min",
-          "sinopsis": "( R ) Película con restricción del distribuidor.\n\nLos juguetes están de regreso y esta vez, el propósito de jugar de Buzz Lightyear, Woody, Jessie ven amenazado cuando se enfrentan a Lilypad, una nueva tableta que llega con sus propias ideas disruptivas sobre lo que es mejor para su niña, Bonnie.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=s_qpMMkvHYE"
-        },
-        {
-          "titulo": "Toy Story 5 (Dob)",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/1580dce7-f8bb-43fe-a707-6458d89b8800.png",
-          "genero": "",
-          "clasificacion": "APT",
-          "duracion": "102 min",
-          "sinopsis": "( R ) Película con restricción del distribuidor.\n\nLos juguetes están de regreso y esta vez, el propósito de jugar de Buzz Lightyear, Woody, Jessie ven amenazado cuando se enfrentan a Lilypad, una nueva tableta que llega con sus propias ideas disruptivas sobre lo que es mejor para su niña, Bonnie.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "13:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "13:00"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=s_qpMMkvHYE"
-        }
-      ]
     }
   ],
   "estado": "ok",
-  "motor": "gemini",
   "fuentes_extra": [
-    "Cinerama",
-    "Movie Time"
+    "Cineplanet",
+    "Cinerama"
   ]
 }
