@@ -2,8 +2,8 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-15 21:25",
-  "fecha_objetivo": "2026-08-15",
+  "actualizado": "2026-08-16 07:56",
+  "fecha_objetivo": "2026-08-16",
   "peliculas": [
     {
       "titulo": "El Final De La Calle Oak",
@@ -38,12 +38,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "17:10",
                 "20:10",
                 "22:20"
               ]
             }
           ],
           "horarios": [
+            "17:10",
             "20:10",
             "22:20"
           ]
@@ -85,7 +87,7 @@
         "tmdb_id": 1101383,
         "titulo_tmdb": "El final de Oak Street",
         "voto": 6.8,
-        "votos": 123,
+        "votos": 136,
         "url_tmdb": "https://www.themoviedb.org/movie/1101383",
         "imdb_id": "tt27165187",
         "url_imdb": "https://www.imdb.com/title/tt27165187/",
@@ -157,6 +159,25 @@
           ]
         },
         {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "13:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "13:40"
+          ]
+        },
+        {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
           "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
@@ -180,8 +201,8 @@
       "actores": "Vitaliya Kornienko, Lyudmila Artemeva, Zoya Berber, Gleb Bogdanovich, Artyom Gaidukov, Anya Izotova, Roman Kulyasov, Mikhail Orlov, Georgii Pakhomov",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/masha-y-los-osos-12207_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Masha%20Y%20Los%20Osos%20trailer%20espanol",
-      "sinopsis": "Masha tiene que salvar a su hermano, que ha caído bajo el hechizo de los espíritus malignos del bosque y se ha convertido en una cabra. Para romper la terrible maldición, la niña tiene que unir fuerzas con los héroes de cuento de hadas que conoce desde la infancia: los tres osos.",
+      "trailer_url": "https://www.youtube.com/watch?v=GlqAxESlcA0",
+      "sinopsis": "La niña Masha debe salvar a su hermano, quien cayó bajo el hechizo de los espíritus malignos del bosque y se convirtió en una cabra. Para romper la terrible maldición, Masha debe unir fuerzas con los héroes de cuentos de hadas que conoce desde la infancia: los tres osos.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1448028,
@@ -269,20 +290,26 @@
           "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "3D REGULAR DOBLADA",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "18:30",
-                "21:40"
+                "14:30",
+                "17:30",
+                "20:30"
               ]
             },
             {
-              "formato": "2D REGULAR DOBLADA",
+              "formato": "3D REGULAR DOBLADA",
               "horarios": [
-                "20:30"
+                "15:30",
+                "18:30",
+                "21:40"
               ]
             }
           ],
           "horarios": [
+            "14:30",
+            "15:30",
+            "17:30",
             "18:30",
             "20:30",
             "21:40"
@@ -335,7 +362,7 @@
         "tmdb_id": 969681,
         "titulo_tmdb": "Spider-Man: Brand New Day",
         "voto": 7.9,
-        "votos": 1775,
+        "votos": 1792,
         "url_tmdb": "https://www.themoviedb.org/movie/969681",
         "imdb_id": "tt22084616",
         "url_imdb": "https://www.imdb.com/title/tt22084616/",
@@ -419,6 +446,7 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:10",
                 "18:40",
                 "21:30",
                 "22:10"
@@ -426,6 +454,7 @@
             }
           ],
           "horarios": [
+            "15:10",
             "18:40",
             "21:30",
             "22:10"
@@ -464,7 +493,7 @@
         "tmdb_id": 1368337,
         "titulo_tmdb": "La Odisea",
         "voto": 8.0,
-        "votos": 2771,
+        "votos": 2801,
         "url_tmdb": "https://www.themoviedb.org/movie/1368337",
         "imdb_id": "tt33764258",
         "url_imdb": "https://www.imdb.com/title/tt33764258/",
@@ -550,7 +579,7 @@
         "tmdb_id": 1084244,
         "titulo_tmdb": "Toy Story 5",
         "voto": 7.4,
-        "votos": 824,
+        "votos": 828,
         "url_tmdb": "https://www.themoviedb.org/movie/1084244",
         "imdb_id": "tt29355505",
         "url_imdb": "https://www.imdb.com/title/tt29355505/",
@@ -655,7 +684,7 @@
         "tmdb_id": 808,
         "titulo_tmdb": "Shrek",
         "voto": 7.8,
-        "votos": 19124,
+        "votos": 19128,
         "url_tmdb": "https://www.themoviedb.org/movie/808",
         "imdb_id": "tt0126029",
         "url_imdb": "https://www.imdb.com/title/tt0126029/",
@@ -734,11 +763,15 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "12:50",
+                "15:00",
                 "19:20"
               ]
             }
           ],
           "horarios": [
+            "12:50",
+            "15:00",
             "19:20"
           ]
         }
@@ -820,11 +853,19 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "12:00",
+                "13:00",
+                "14:00",
+                "16:00",
                 "18:00"
               ]
             }
           ],
           "horarios": [
+            "12:00",
+            "13:00",
+            "14:00",
+            "16:00",
             "18:00"
           ]
         }
@@ -1062,12 +1103,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "17:10",
                 "20:10",
                 "22:20"
               ]
             }
           ],
           "horarios": [
+            "17:10",
             "20:10",
             "22:20"
           ]
@@ -1081,6 +1124,7 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:10",
                 "18:40",
                 "21:30",
                 "22:10"
@@ -1088,6 +1132,7 @@
             }
           ],
           "horarios": [
+            "15:10",
             "18:40",
             "21:30",
             "22:10"
@@ -1102,12 +1147,33 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "12:50",
+                "15:00",
                 "19:20"
               ]
             }
           ],
           "horarios": [
+            "12:50",
+            "15:00",
             "19:20"
+          ]
+        },
+        {
+          "titulo": "Masha Y Los Osos",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002956?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Animación",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "13:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "13:40"
           ]
         },
         {
@@ -1119,11 +1185,19 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "12:00",
+                "13:00",
+                "14:00",
+                "16:00",
                 "18:00"
               ]
             }
           ],
           "horarios": [
+            "12:00",
+            "13:00",
+            "14:00",
+            "16:00",
             "18:00"
           ]
         },
@@ -1134,20 +1208,26 @@
           "clasificacion": "APT",
           "formatos": [
             {
-              "formato": "3D REGULAR DOBLADA",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "18:30",
-                "21:40"
+                "14:30",
+                "17:30",
+                "20:30"
               ]
             },
             {
-              "formato": "2D REGULAR DOBLADA",
+              "formato": "3D REGULAR DOBLADA",
               "horarios": [
-                "20:30"
+                "15:30",
+                "18:30",
+                "21:40"
               ]
             }
           ],
           "horarios": [
+            "14:30",
+            "15:30",
+            "17:30",
             "18:30",
             "20:30",
             "21:40"
