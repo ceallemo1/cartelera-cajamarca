@@ -2,12 +2,12 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-16 17:33",
-  "fecha_objetivo": "2026-08-16",
+  "actualizado": "2026-08-17 08:01",
+  "fecha_objetivo": "2026-08-17",
   "peliculas": [
     {
       "titulo": "El Final De La Calle Oak",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/8/manana-me-caso-47641-1.webp",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/el-final-de-la-calle-oak-47640-1.jpg",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
@@ -49,28 +49,6 @@
             "20:10",
             "22:20"
           ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:00",
-                "18:00",
-                "20:00",
-                "21:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:00",
-            "20:00",
-            "21:50"
-          ]
         }
       ],
       "genero": "Acción",
@@ -86,8 +64,8 @@
       "tmdb": {
         "tmdb_id": 1101383,
         "titulo_tmdb": "El final de Oak Street",
-        "voto": 6.7,
-        "votos": 148,
+        "voto": 6.8,
+        "votos": 175,
         "url_tmdb": "https://www.themoviedb.org/movie/1101383",
         "imdb_id": "tt27165187",
         "url_imdb": "https://www.imdb.com/title/tt27165187/",
@@ -139,104 +117,6 @@
       }
     },
     {
-      "titulo": "Masha Y Los Osos",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/8/masha-y-los-osos-47643-1.jpg",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "14:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:00"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "17:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:00"
-          ]
-        }
-      ],
-      "genero": "Comedia",
-      "duracion": "79 minutos",
-      "clasificacion": "Todos",
-      "director": "Antonina Ruzhe",
-      "actores": "Vitaliya Kornienko, Lyudmila Artemeva, Zoya Berber, Gleb Bogdanovich, Artyom Gaidukov, Anya Izotova, Roman Kulyasov, Mikhail Orlov, Georgii Pakhomov",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/masha-y-los-osos-12207_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Masha%20Y%20Los%20Osos%20trailer%20espanol",
-      "sinopsis": "Masha tiene que salvar a su hermano, que ha caído bajo el hechizo de los espíritus malignos del bosque y se ha convertido en una cabra. Para romper la terrible maldición, la niña tiene que unir fuerzas con los héroes de cuento de hadas que conoce desde la infancia: los tres osos.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1448028,
-        "titulo_tmdb": "Masha y el oso",
-        "voto": 7.0,
-        "votos": 1,
-        "url_tmdb": "https://www.themoviedb.org/movie/1448028",
-        "imdb_id": "tt33052222",
-        "url_imdb": "https://www.imdb.com/title/tt33052222/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/8bIrHHzOizxWHzgzmXXp2UnOjWI.jpg",
-        "director": "Антонина Руже",
-        "reparto": [
-          {
-            "nombre": "Виталия Корниенко",
-            "personaje": "Masha"
-          },
-          {
-            "nombre": "Людмила Артемьева",
-            "personaje": ""
-          },
-          {
-            "nombre": "Снежана Самохина",
-            "personaje": ""
-          },
-          {
-            "nombre": "Мирон Проворов",
-            "personaje": ""
-          },
-          {
-            "nombre": "Зоя Бербер",
-            "personaje": ""
-          },
-          {
-            "nombre": "Артём Гайдуков",
-            "personaje": ""
-          }
-        ],
-        "generos": [
-          "Aventura",
-          "Fantasía"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Masha tiene que salvar a su hermano, que ha caído bajo el hechizo de los espíritus malignos del bosque y se ha convertido en una cabra. Para romper la terrible maldición, la niña tiene que unir fuerzas con los héroes de cuento de hadas que conoce desde la infancia: los tres osos.",
-        "estreno": "20 nov 2025",
-        "duracion_min": 79,
-        "paises": [
-          "Russia"
-        ],
-        "idioma": "Ruso",
-        "titulo_original": "Маша и Медведи"
-      }
-    },
-    {
       "titulo": "Spider Man: Un Nuevo Dia",
       "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-0.webp",
       "cines": [
@@ -248,7 +128,6 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "13:20",
                 "16:10",
                 "19:00",
                 "21:50"
@@ -256,7 +135,6 @@
             }
           ],
           "horarios": [
-            "13:20",
             "16:10",
             "19:00",
             "21:50"
@@ -273,6 +151,7 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "14:30",
                 "17:30",
                 "20:30"
               ]
@@ -280,48 +159,19 @@
             {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
+                "15:30",
                 "18:30",
                 "21:40"
               ]
             }
           ],
           "horarios": [
+            "14:30",
+            "15:30",
             "17:30",
             "18:30",
             "20:30",
             "21:40"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "15:45",
-                "16:30",
-                "17:45",
-                "18:30",
-                "19:15",
-                "20:30",
-                "21:15",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "15:45",
-            "16:30",
-            "17:45",
-            "18:30",
-            "19:15",
-            "20:30",
-            "21:15",
-            "22:00"
           ]
         }
       ],
@@ -339,11 +189,11 @@
         "tmdb_id": 969681,
         "titulo_tmdb": "Spider-Man: Brand New Day",
         "voto": 7.9,
-        "votos": 1813,
+        "votos": 1831,
         "url_tmdb": "https://www.themoviedb.org/movie/969681",
         "imdb_id": "tt22084616",
         "url_imdb": "https://www.imdb.com/title/tt22084616/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
         "director": "Destin Daniel Cretton",
         "reparto": [
           {
@@ -423,6 +273,7 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:10",
                 "18:40",
                 "21:30",
                 "22:10"
@@ -430,27 +281,10 @@
             }
           ],
           "horarios": [
+            "15:10",
             "18:40",
             "21:30",
             "22:10"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "18:45",
-                "22:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:45",
-            "22:15"
           ]
         }
       ],
@@ -468,7 +302,7 @@
         "tmdb_id": 1368337,
         "titulo_tmdb": "La Odisea",
         "voto": 8.0,
-        "votos": 2812,
+        "votos": 2839,
         "url_tmdb": "https://www.themoviedb.org/movie/1368337",
         "imdb_id": "tt33764258",
         "url_imdb": "https://www.imdb.com/title/tt33764258/",
@@ -529,13 +363,11 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "13:00",
                 "15:00"
               ]
             }
           ],
           "horarios": [
-            "13:00",
             "15:00"
           ]
         }
@@ -554,7 +386,7 @@
         "tmdb_id": 1084244,
         "titulo_tmdb": "Toy Story 5",
         "voto": 7.4,
-        "votos": 831,
+        "votos": 832,
         "url_tmdb": "https://www.themoviedb.org/movie/1084244",
         "imdb_id": "tt29355505",
         "url_imdb": "https://www.imdb.com/title/tt29355505/",
@@ -619,29 +451,13 @@
               "formato": "",
               "horarios": [
                 "15:50",
-                "17:40"
+                "17:30"
               ]
             }
           ],
           "horarios": [
             "15:50",
-            "17:40"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:15"
+            "17:30"
           ]
         }
       ],
@@ -659,7 +475,7 @@
         "tmdb_id": 808,
         "titulo_tmdb": "Shrek",
         "voto": 7.8,
-        "votos": 19129,
+        "votos": 19131,
         "url_tmdb": "https://www.themoviedb.org/movie/808",
         "imdb_id": "tt0126029",
         "url_imdb": "https://www.imdb.com/title/tt0126029/",
@@ -738,11 +554,13 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:00",
                 "19:20"
               ]
             }
           ],
           "horarios": [
+            "15:00",
             "19:20"
           ]
         }
@@ -824,106 +642,19 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "14:00",
                 "16:00",
                 "18:00"
               ]
             }
           ],
           "horarios": [
+            "14:00",
             "16:00",
             "18:00"
           ]
         }
       ]
-    },
-    {
-      "titulo": "La Noche del Demonio : Están Entre Nosotros (Preventa)",
-      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/nocg.jpg",
-      "genero": "Terror",
-      "clasificacion": "Mayores de 18",
-      "duracion": "01:46",
-      "sinopsis": "Amelia Eve Interpreta a Gemma, una Joven Madre Que Cría a Su Hija en la Casa Donde Creció y Descubre Que Puede Viajar Al Más Allá, el Reino Purgatorial de las Almas Perdidas en el Corazón del Universo de Insidious. Cuando Algo Maligno la Persigue, Gemma Descubre una Habilidad Que Lo Cambia Todo: No Solo Puede Entrar Al Más Allá, Sino Que También Puede Traer de Vuelta Al Mundo Real a Quienes Viven ",
-      "director": "Jacob Chase",
-      "actores": "Amelia Eve, Island Austin, Lin Shaye, Sam Spruell, Brandon Perea, Maisie Richardson-Sellers",
-      "estreno": "",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "",
-      "fuente_peli": "Cinerama",
-      "cines": [
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:00",
-                "18:00",
-                "20:00",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:00",
-            "20:00",
-            "22:00"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1291595,
-        "titulo_tmdb": "Insidious: Fuera del más allá",
-        "voto": null,
-        "votos": 0,
-        "url_tmdb": "https://www.themoviedb.org/movie/1291595",
-        "imdb_id": "tt32393988",
-        "url_imdb": "https://www.imdb.com/title/tt32393988/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
-        "director": "Jacob Chase",
-        "reparto": [
-          {
-            "nombre": "Amelia Eve",
-            "personaje": "Gemma"
-          },
-          {
-            "nombre": "Island Austin",
-            "personaje": "Maya"
-          },
-          {
-            "nombre": "Lin Shaye",
-            "personaje": "Elise Rainier"
-          },
-          {
-            "nombre": "Sam Spruell",
-            "personaje": "Cyrus"
-          },
-          {
-            "nombre": "Brandon Perea",
-            "personaje": "Nick"
-          },
-          {
-            "nombre": "Maisie Richardson-Sellers",
-            "personaje": "Clare"
-          }
-        ],
-        "generos": [
-          "Terror",
-          "Suspense"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Sexta entrega de la franquicia \"Insidious\".",
-        "estreno": "19 ago 2026",
-        "duracion_min": 106,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Insidious: Out of the Further"
-      }
     }
   ],
   "cines": [
@@ -934,7 +665,7 @@
       "peliculas": [
         {
           "titulo": "El Final De La Calle Oak",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/manana-me-caso-47641-1.webp",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/el-final-de-la-calle-oak-47640-1.jpg",
           "genero": "Acción",
           "clasificacion": "12 Años",
           "formatos": [
@@ -952,23 +683,6 @@
           ]
         },
         {
-          "titulo": "Masha Y Los Osos",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/masha-y-los-osos-47643-1.jpg",
-          "genero": "Comedia",
-          "clasificacion": "Todos",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "14:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:00"
-          ]
-        },
-        {
           "titulo": "Spider Man: Un Nuevo Dia",
           "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-0.webp",
           "genero": "Ciencia Ficción",
@@ -977,7 +691,6 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "13:20",
                 "16:10",
                 "19:00",
                 "21:50"
@@ -985,7 +698,6 @@
             }
           ],
           "horarios": [
-            "13:20",
             "16:10",
             "19:00",
             "21:50"
@@ -1019,13 +731,11 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "13:00",
                 "15:00"
               ]
             }
           ],
           "horarios": [
-            "13:00",
             "15:00"
           ]
         },
@@ -1039,13 +749,13 @@
               "formato": "",
               "horarios": [
                 "15:50",
-                "17:40"
+                "17:30"
               ]
             }
           ],
           "horarios": [
             "15:50",
-            "17:40"
+            "17:30"
           ]
         }
       ],
@@ -1089,6 +799,7 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:10",
                 "18:40",
                 "21:30",
                 "22:10"
@@ -1096,6 +807,7 @@
             }
           ],
           "horarios": [
+            "15:10",
             "18:40",
             "21:30",
             "22:10"
@@ -1110,11 +822,13 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:00",
                 "19:20"
               ]
             }
           ],
           "horarios": [
+            "15:00",
             "19:20"
           ]
         },
@@ -1127,12 +841,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "14:00",
                 "16:00",
                 "18:00"
               ]
             }
           ],
           "horarios": [
+            "14:00",
             "16:00",
             "18:00"
           ]
@@ -1146,6 +862,7 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "14:30",
                 "17:30",
                 "20:30"
               ]
@@ -1153,12 +870,15 @@
             {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
+                "15:30",
                 "18:30",
                 "21:40"
               ]
             }
           ],
           "horarios": [
+            "14:30",
+            "15:30",
             "17:30",
             "18:30",
             "20:30",
@@ -1170,161 +890,21 @@
     },
     {
       "cine": "Cinerama Cajamarca MegaPlaza",
-      "cine_slug": "cinerama-cajamarca-megaplaza",
-      "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+      "direccion": "",
+      "peliculas": [],
+      "sin_programacion": true,
+      "nota": "No se pudo consultar su cartelera. Suele tener funciones a diario.",
+      "no_consultado": true,
       "url": "https://www.cinerama.com.pe/cines",
-      "fuente_cine": "Cinerama",
-      "peliculas": [
-        {
-          "titulo": "El Final De La Calle Oak",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/calle.jpg",
-          "genero": "Accion",
-          "clasificacion": "Mayores de 14",
-          "duracion": "01:40",
-          "sinopsis": "Un Hombre de Mediana Edad Se Encuentra en un Extraño Campamento, Compitiendo Con Excéntricos Campistas. Busca a Su Amigo Desaparecido y a una Legendaria Bestia Gris Que Guarda un Tesoro Escondido.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:00",
-                "18:00",
-                "20:00",
-                "21:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:00",
-            "20:00",
-            "21:50"
-          ]
-        },
-        {
-          "titulo": "La Noche del Demonio : Están Entre Nosotros (Preventa)",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/nocg.jpg",
-          "genero": "Terror",
-          "clasificacion": "Mayores de 18",
-          "duracion": "01:46",
-          "sinopsis": "Amelia Eve Interpreta a Gemma, una Joven Madre Que Cría a Su Hija en la Casa Donde Creció y Descubre Que Puede Viajar Al Más Allá, el Reino Purgatorial de las Almas Perdidas en el Corazón del Universo de Insidious. Cuando Algo Maligno la Persigue, Gemma Descubre una Habilidad Que Lo Cambia Todo: No Solo Puede Entrar Al Más Allá, Sino Que También Puede Traer de Vuelta Al Mundo Real a Quienes Viven ",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:00",
-                "18:00",
-                "20:00",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:00",
-            "20:00",
-            "22:00"
-          ]
-        },
-        {
-          "titulo": "La Odisea",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/01.jpg",
-          "genero": "Accion",
-          "clasificacion": "Todo Espectador",
-          "duracion": "02:52",
-          "sinopsis": "Tras la Guerra de Troya, el Héroe Griego Odiseo Regresa a Ítaca, Grecia, Enfrentándose a Figuras de la Mitología Griega Como el Cíclope Polifemo, las Sirenas y Calipso.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "18:45",
-                "22:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:45",
-            "22:15"
-          ]
-        },
-        {
-          "titulo": "Masha Y Los Osos",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/53418.jpg",
-          "genero": "Aventura",
-          "clasificacion": "Todo Espectador",
-          "duracion": "01:20",
-          "sinopsis": "Masha Tiene Que Salvar a Su Hermano, Que Ha Caído Bajo el Hechizo de los Espíritus Malignos del Bosque y Se Ha Convertido en una Cabra. Para Romper la Terrible Maldición, la Niña Tiene Que Unir Fuerzas Con los Héroes de Cuento de Hadas Que Conoce Desde la Infancia: Los Tres Osos.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "17:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:00"
-          ]
-        },
-        {
-          "titulo": "Shrek",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/sher.jpg",
-          "genero": "Accion",
-          "clasificacion": "Todo Espectador",
-          "duracion": "01:30",
-          "sinopsis": "Un Caballero Malvado Exilia a las Criaturas de un Cuento de Hadas Al Pantano de un Ogro Gruñón, Quien en Su Afán de Recuperar Su Territorio Hace un Pacto Para Conseguir Que una Bella Princesa Acceda a Ser la Novia del Caballero.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:15"
-          ]
-        },
-        {
-          "titulo": "Spider Man: Un Nuevo Dia",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/spider.jpg",
-          "genero": "Accion",
-          "clasificacion": "Todo Espectador",
-          "duracion": "02:30",
-          "sinopsis": "Tras el Día del Juicio Final, Peter Parker Intenta Centrarse en la Universidad y Abandonar a Spider-man. Cuando una Nueva Amenaza Pone en Peligro a Sus Amigos, Debe Romper Su Promesa y Volver Al Traje.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "15:45",
-                "16:30",
-                "17:45",
-                "18:30",
-                "19:15",
-                "20:30",
-                "21:15",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "15:45",
-            "16:30",
-            "17:45",
-            "18:30",
-            "19:15",
-            "20:30",
-            "21:15",
-            "22:00"
-          ]
-        }
-      ]
+      "cine_original": "Cajamarca Megaplaza (Cinerama)"
     }
   ],
   "estado": "ok",
   "fuentes_extra": [
-    "Cineplanet",
-    "Cinerama"
+    "Cineplanet"
+  ],
+  "notas": [
+    "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
   ]
 }
