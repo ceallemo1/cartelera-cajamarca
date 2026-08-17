@@ -2,12 +2,12 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-17 11:39",
+  "actualizado": "2026-08-17 17:35",
   "fecha_objetivo": "2026-08-17",
   "peliculas": [
     {
       "titulo": "El Final De La Calle Oak",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/8/el-final-de-la-calle-oak-47640-1.jpg",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/manana-me-caso-47641-1.webp",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
@@ -64,8 +64,8 @@
       "tmdb": {
         "tmdb_id": 1101383,
         "titulo_tmdb": "El final de Oak Street",
-        "voto": 6.8,
-        "votos": 175,
+        "voto": 6.7,
+        "votos": 194,
         "url_tmdb": "https://www.themoviedb.org/movie/1101383",
         "imdb_id": "tt27165187",
         "url_imdb": "https://www.imdb.com/title/tt27165187/",
@@ -151,7 +151,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:30",
                 "17:30",
                 "20:30"
               ]
@@ -159,15 +158,12 @@
             {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
                 "18:30",
                 "21:40"
               ]
             }
           ],
           "horarios": [
-            "14:30",
-            "15:30",
             "17:30",
             "18:30",
             "20:30",
@@ -189,7 +185,7 @@
         "tmdb_id": 969681,
         "titulo_tmdb": "Spider-Man: Brand New Day",
         "voto": 7.9,
-        "votos": 1831,
+        "votos": 1854,
         "url_tmdb": "https://www.themoviedb.org/movie/969681",
         "imdb_id": "tt22084616",
         "url_imdb": "https://www.imdb.com/title/tt22084616/",
@@ -273,7 +269,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:10",
                 "18:40",
                 "21:30",
                 "22:10"
@@ -281,7 +276,6 @@
             }
           ],
           "horarios": [
-            "15:10",
             "18:40",
             "21:30",
             "22:10"
@@ -302,7 +296,7 @@
         "tmdb_id": 1368337,
         "titulo_tmdb": "La Odisea",
         "voto": 8.0,
-        "votos": 2839,
+        "votos": 2855,
         "url_tmdb": "https://www.themoviedb.org/movie/1368337",
         "imdb_id": "tt33764258",
         "url_imdb": "https://www.imdb.com/title/tt33764258/",
@@ -475,7 +469,7 @@
         "tmdb_id": 808,
         "titulo_tmdb": "Shrek",
         "voto": 7.8,
-        "votos": 19131,
+        "votos": 19136,
         "url_tmdb": "https://www.themoviedb.org/movie/808",
         "imdb_id": "tt0126029",
         "url_imdb": "https://www.imdb.com/title/tt0126029/",
@@ -554,13 +548,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:00",
                 "19:20"
               ]
             }
           ],
           "horarios": [
-            "15:00",
             "19:20"
           ]
         }
@@ -642,15 +634,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:00",
-                "16:00",
                 "18:00"
               ]
             }
           ],
           "horarios": [
-            "14:00",
-            "16:00",
             "18:00"
           ]
         }
@@ -665,7 +653,7 @@
       "peliculas": [
         {
           "titulo": "El Final De La Calle Oak",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/el-final-de-la-calle-oak-47640-1.jpg",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/manana-me-caso-47641-1.webp",
           "genero": "Acción",
           "clasificacion": "12 Años",
           "formatos": [
@@ -799,7 +787,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:10",
                 "18:40",
                 "21:30",
                 "22:10"
@@ -807,7 +794,6 @@
             }
           ],
           "horarios": [
-            "15:10",
             "18:40",
             "21:30",
             "22:10"
@@ -822,13 +808,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:00",
                 "19:20"
               ]
             }
           ],
           "horarios": [
-            "15:00",
             "19:20"
           ]
         },
@@ -841,15 +825,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:00",
-                "16:00",
                 "18:00"
               ]
             }
           ],
           "horarios": [
-            "14:00",
-            "16:00",
             "18:00"
           ]
         },
@@ -862,7 +842,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:30",
                 "17:30",
                 "20:30"
               ]
@@ -870,15 +849,12 @@
             {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
                 "18:30",
                 "21:40"
               ]
             }
           ],
           "horarios": [
-            "14:30",
-            "15:30",
             "17:30",
             "18:30",
             "20:30",
@@ -905,6 +881,6 @@
     "Cineplanet"
   ],
   "notas": [
-    "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
+    "Cinerama: NO_CONSULTADO: JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   ]
 }
