@@ -2,8 +2,8 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-17 17:35",
-  "fecha_objetivo": "2026-08-17",
+  "actualizado": "2026-08-18 08:03",
+  "fecha_objetivo": "2026-08-18",
   "peliculas": [
     {
       "titulo": "El Final De La Calle Oak",
@@ -65,7 +65,7 @@
         "tmdb_id": 1101383,
         "titulo_tmdb": "El final de Oak Street",
         "voto": 6.7,
-        "votos": 194,
+        "votos": 206,
         "url_tmdb": "https://www.themoviedb.org/movie/1101383",
         "imdb_id": "tt27165187",
         "url_imdb": "https://www.imdb.com/title/tt27165187/",
@@ -151,6 +151,7 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "14:30",
                 "17:30",
                 "20:30"
               ]
@@ -158,12 +159,15 @@
             {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
+                "15:30",
                 "18:30",
                 "21:40"
               ]
             }
           ],
           "horarios": [
+            "14:30",
+            "15:30",
             "17:30",
             "18:30",
             "20:30",
@@ -185,7 +189,7 @@
         "tmdb_id": 969681,
         "titulo_tmdb": "Spider-Man: Brand New Day",
         "voto": 7.9,
-        "votos": 1854,
+        "votos": 1870,
         "url_tmdb": "https://www.themoviedb.org/movie/969681",
         "imdb_id": "tt22084616",
         "url_imdb": "https://www.imdb.com/title/tt22084616/",
@@ -269,6 +273,7 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:10",
                 "18:40",
                 "21:30",
                 "22:10"
@@ -276,6 +281,7 @@
             }
           ],
           "horarios": [
+            "15:10",
             "18:40",
             "21:30",
             "22:10"
@@ -296,7 +302,7 @@
         "tmdb_id": 1368337,
         "titulo_tmdb": "La Odisea",
         "voto": 8.0,
-        "votos": 2855,
+        "votos": 2882,
         "url_tmdb": "https://www.themoviedb.org/movie/1368337",
         "imdb_id": "tt33764258",
         "url_imdb": "https://www.imdb.com/title/tt33764258/",
@@ -357,12 +363,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "15:00"
+                "15:15"
               ]
             }
           ],
           "horarios": [
-            "15:00"
+            "15:15"
           ]
         }
       ],
@@ -379,8 +385,8 @@
       "tmdb": {
         "tmdb_id": 1084244,
         "titulo_tmdb": "Toy Story 5",
-        "voto": 7.4,
-        "votos": 832,
+        "voto": 7.5,
+        "votos": 854,
         "url_tmdb": "https://www.themoviedb.org/movie/1084244",
         "imdb_id": "tt29355505",
         "url_imdb": "https://www.imdb.com/title/tt29355505/",
@@ -469,7 +475,7 @@
         "tmdb_id": 808,
         "titulo_tmdb": "Shrek",
         "voto": 7.8,
-        "votos": 19136,
+        "votos": 19140,
         "url_tmdb": "https://www.themoviedb.org/movie/808",
         "imdb_id": "tt0126029",
         "url_imdb": "https://www.imdb.com/title/tt0126029/",
@@ -548,11 +554,13 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:00",
                 "19:20"
               ]
             }
           ],
           "horarios": [
+            "15:00",
             "19:20"
           ]
         }
@@ -634,11 +642,15 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "14:00",
+                "16:00",
                 "18:00"
               ]
             }
           ],
           "horarios": [
+            "14:00",
+            "16:00",
             "18:00"
           ]
         }
@@ -719,12 +731,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "15:00"
+                "15:15"
               ]
             }
           ],
           "horarios": [
-            "15:00"
+            "15:15"
           ]
         },
         {
@@ -787,6 +799,7 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:10",
                 "18:40",
                 "21:30",
                 "22:10"
@@ -794,6 +807,7 @@
             }
           ],
           "horarios": [
+            "15:10",
             "18:40",
             "21:30",
             "22:10"
@@ -808,11 +822,13 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:00",
                 "19:20"
               ]
             }
           ],
           "horarios": [
+            "15:00",
             "19:20"
           ]
         },
@@ -825,11 +841,15 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "14:00",
+                "16:00",
                 "18:00"
               ]
             }
           ],
           "horarios": [
+            "14:00",
+            "16:00",
             "18:00"
           ]
         },
@@ -842,6 +862,7 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "14:30",
                 "17:30",
                 "20:30"
               ]
@@ -849,12 +870,15 @@
             {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
+                "15:30",
                 "18:30",
                 "21:40"
               ]
             }
           ],
           "horarios": [
+            "14:30",
+            "15:30",
             "17:30",
             "18:30",
             "20:30",
