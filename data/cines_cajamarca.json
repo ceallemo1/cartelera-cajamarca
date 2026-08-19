@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-19 11:43",
+  "actualizado": "2026-08-19 17:39",
   "fecha_objetivo": "2026-08-19",
   "peliculas": [
     {
@@ -28,6 +28,28 @@
           ]
         },
         {
+          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
+          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:00",
+                "20:00",
+                "21:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:00",
+            "20:00",
+            "21:50"
+          ]
+        },
+        {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
           "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
@@ -49,28 +71,6 @@
             "20:10",
             "22:20"
           ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:00",
-                "18:00",
-                "20:00",
-                "21:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:00",
-            "20:00",
-            "21:50"
-          ]
         }
       ],
       "genero": "Acción",
@@ -86,8 +86,8 @@
       "tmdb": {
         "tmdb_id": 1101383,
         "titulo_tmdb": "El final de Oak Street",
-        "voto": 6.6,
-        "votos": 237,
+        "voto": 6.5,
+        "votos": 250,
         "url_tmdb": "https://www.themoviedb.org/movie/1101383",
         "imdb_id": "tt27165187",
         "url_imdb": "https://www.imdb.com/title/tt27165187/",
@@ -245,43 +245,9 @@
           ]
         },
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "14:30",
-                "17:30",
-                "20:30"
-              ]
-            },
-            {
-              "formato": "3D REGULAR DOBLADA",
-              "horarios": [
-                "15:30",
-                "18:30",
-                "21:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:30",
-            "15:30",
-            "17:30",
-            "18:30",
-            "20:30",
-            "21:40"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
+          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
           "formatos": [
             {
               "formato": "",
@@ -309,6 +275,36 @@
             "21:15",
             "22:00"
           ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "17:30",
+                "20:30"
+              ]
+            },
+            {
+              "formato": "3D REGULAR DOBLADA",
+              "horarios": [
+                "18:30",
+                "21:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:30",
+            "18:30",
+            "20:30",
+            "21:40"
+          ]
         }
       ],
       "genero": "Ciencia Ficción",
@@ -325,7 +321,7 @@
         "tmdb_id": 969681,
         "titulo_tmdb": "Spider-Man: Brand New Day",
         "voto": 7.9,
-        "votos": 1908,
+        "votos": 1926,
         "url_tmdb": "https://www.themoviedb.org/movie/969681",
         "imdb_id": "tt22084616",
         "url_imdb": "https://www.imdb.com/title/tt22084616/",
@@ -399,34 +395,9 @@
           ]
         },
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "15:10",
-                "18:40",
-                "21:30",
-                "22:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:10",
-            "18:40",
-            "21:30",
-            "22:10"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
+          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
           "formatos": [
             {
               "formato": "",
@@ -439,6 +410,29 @@
           "horarios": [
             "17:15",
             "20:45"
+          ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "18:40",
+                "21:30",
+                "22:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:40",
+            "21:30",
+            "22:10"
           ]
         }
       ],
@@ -456,7 +450,7 @@
         "tmdb_id": 1368337,
         "titulo_tmdb": "La Odisea",
         "voto": 8.0,
-        "votos": 2929,
+        "votos": 2943,
         "url_tmdb": "https://www.themoviedb.org/movie/1368337",
         "imdb_id": "tt33764258",
         "url_imdb": "https://www.imdb.com/title/tt33764258/",
@@ -539,12 +533,12 @@
       "tmdb": {
         "tmdb_id": 1084244,
         "titulo_tmdb": "Toy Story 5",
-        "voto": 7.8,
-        "votos": 1051,
+        "voto": 7.9,
+        "votos": 1083,
         "url_tmdb": "https://www.themoviedb.org/movie/1084244",
         "imdb_id": "tt29355505",
         "url_imdb": "https://www.imdb.com/title/tt29355505/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/lZ3hSaqIxHY62I7o5PijiMSyP6a.jpg",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/iJUV9QS4L9wS7WTV7ICV1TWUB1X.jpg",
         "director": "Andrew Stanton",
         "reparto": [
           {
@@ -613,9 +607,9 @@
           ]
         },
         {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
+          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
           "formatos": [
             {
               "formato": "",
@@ -643,7 +637,7 @@
         "tmdb_id": 808,
         "titulo_tmdb": "Shrek",
         "voto": 7.8,
-        "votos": 19146,
+        "votos": 19149,
         "url_tmdb": "https://www.themoviedb.org/movie/808",
         "imdb_id": "tt0126029",
         "url_imdb": "https://www.imdb.com/title/tt0126029/",
@@ -722,13 +716,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:00",
                 "19:20"
               ]
             }
           ],
           "horarios": [
-            "15:00",
             "19:20"
           ]
         }
@@ -810,15 +802,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:00",
-                "16:00",
                 "18:00"
               ]
             }
           ],
           "horarios": [
-            "14:00",
-            "16:00",
             "18:00"
           ]
         }
@@ -945,6 +933,108 @@
       "cine_original": "CAJAMARCA - MOVIE TIME"
     },
     {
+      "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
+      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+      "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
+      "peliculas": [
+        {
+          "titulo": "El Final De La Calle Oak",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/manana-me-caso-47641-1.webp",
+          "genero": "Acción",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:00",
+                "20:00",
+                "21:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:00",
+            "20:00",
+            "21:50"
+          ]
+        },
+        {
+          "titulo": "Spider Man: Un Nuevo Dia",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-0.webp",
+          "genero": "Ciencia Ficción",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "15:45",
+                "16:30",
+                "17:45",
+                "18:30",
+                "19:15",
+                "20:30",
+                "21:15",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "15:45",
+            "16:30",
+            "17:45",
+            "18:30",
+            "19:15",
+            "20:30",
+            "21:15",
+            "22:00"
+          ]
+        },
+        {
+          "titulo": "La Odisea",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/5/la-odisea-47428-0.webp",
+          "genero": "Drama",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:15",
+                "20:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:15",
+            "20:45"
+          ]
+        },
+        {
+          "titulo": "Shrek",
+          "poster": "https://cdn.carteleracine.pe/cine/2003/4/shrek-42603-0.webp",
+          "genero": "Animado",
+          "clasificacion": "Todos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30"
+          ]
+        }
+      ],
+      "no_consultado": true,
+      "nota": "No se pudo consultar su cartelera. Suele tener funciones a diario.",
+      "url": "https://www.cinerama.com.pe/cines"
+    },
+    {
       "cine": "CinePlanet Cajamarca Real Plaza",
       "cine_slug": "cp-cajamarca",
       "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
@@ -982,7 +1072,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:10",
                 "18:40",
                 "21:30",
                 "22:10"
@@ -990,7 +1079,6 @@
             }
           ],
           "horarios": [
-            "15:10",
             "18:40",
             "21:30",
             "22:10"
@@ -1005,13 +1093,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:00",
                 "19:20"
               ]
             }
           ],
           "horarios": [
-            "15:00",
             "19:20"
           ]
         },
@@ -1024,15 +1110,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:00",
-                "16:00",
                 "18:00"
               ]
             }
           ],
           "horarios": [
-            "14:00",
-            "16:00",
             "18:00"
           ]
         },
@@ -1045,7 +1127,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:30",
                 "17:30",
                 "20:30"
               ]
@@ -1053,15 +1134,12 @@
             {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
                 "18:30",
                 "21:40"
               ]
             }
           ],
           "horarios": [
-            "14:30",
-            "15:30",
             "17:30",
             "18:30",
             "20:30",
@@ -1070,120 +1148,13 @@
         }
       ],
       "cine_original": "CP Cajamarca"
-    },
-    {
-      "cine": "Cinerama Cajamarca MegaPlaza",
-      "cine_slug": "cinerama-cajamarca-megaplaza",
-      "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-      "url": "https://www.cinerama.com.pe/cines",
-      "fuente_cine": "Cinerama",
-      "peliculas": [
-        {
-          "titulo": "El Final De La Calle Oak",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/calle.jpg",
-          "genero": "Accion",
-          "clasificacion": "Mayores de 14",
-          "duracion": "01:40",
-          "sinopsis": "Un Hombre de Mediana Edad Se Encuentra en un Extraño Campamento, Compitiendo Con Excéntricos Campistas. Busca a Su Amigo Desaparecido y a una Legendaria Bestia Gris Que Guarda un Tesoro Escondido.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:00",
-                "18:00",
-                "20:00",
-                "21:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:00",
-            "20:00",
-            "21:50"
-          ]
-        },
-        {
-          "titulo": "La Odisea",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/01.jpg",
-          "genero": "Accion",
-          "clasificacion": "Todo Espectador",
-          "duracion": "02:52",
-          "sinopsis": "Tras la Guerra de Troya, el Héroe Griego Odiseo Regresa a Ítaca, Grecia, Enfrentándose a Figuras de la Mitología Griega Como el Cíclope Polifemo, las Sirenas y Calipso.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "17:15",
-                "20:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:15",
-            "20:45"
-          ]
-        },
-        {
-          "titulo": "Shrek",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/sher.jpg",
-          "genero": "Accion",
-          "clasificacion": "Todo Espectador",
-          "duracion": "01:30",
-          "sinopsis": "Un Caballero Malvado Exilia a las Criaturas de un Cuento de Hadas Al Pantano de un Ogro Gruñón, Quien en Su Afán de Recuperar Su Territorio Hace un Pacto Para Conseguir Que una Bella Princesa Acceda a Ser la Novia del Caballero.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30"
-          ]
-        },
-        {
-          "titulo": "Spider Man: Un Nuevo Dia",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/spider.jpg",
-          "genero": "Accion",
-          "clasificacion": "Todo Espectador",
-          "duracion": "02:30",
-          "sinopsis": "Tras el Día del Juicio Final, Peter Parker Intenta Centrarse en la Universidad y Abandonar a Spider-man. Cuando una Nueva Amenaza Pone en Peligro a Sus Amigos, Debe Romper Su Promesa y Volver Al Traje.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "15:45",
-                "16:30",
-                "17:45",
-                "18:30",
-                "19:15",
-                "20:30",
-                "21:15",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "15:45",
-            "16:30",
-            "17:45",
-            "18:30",
-            "19:15",
-            "20:30",
-            "21:15",
-            "22:00"
-          ]
-        }
-      ]
     }
   ],
   "estado": "ok",
   "fuentes_extra": [
-    "Cineplanet",
-    "Cinerama"
+    "Cineplanet"
+  ],
+  "notas": [
+    "Cinerama: NO_CONSULTADO: JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   ]
 }
