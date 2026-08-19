@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-19 08:52",
+  "actualizado": "2026-08-19 11:43",
   "fecha_objetivo": "2026-08-19",
   "peliculas": [
     {
@@ -48,6 +48,28 @@
             "17:10",
             "20:10",
             "22:20"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:00",
+                "20:00",
+                "21:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:00",
+            "20:00",
+            "21:50"
           ]
         }
       ],
@@ -255,6 +277,38 @@
             "20:30",
             "21:40"
           ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "15:45",
+                "16:30",
+                "17:45",
+                "18:30",
+                "19:15",
+                "20:30",
+                "21:15",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "15:45",
+            "16:30",
+            "17:45",
+            "18:30",
+            "19:15",
+            "20:30",
+            "21:15",
+            "22:00"
+          ]
         }
       ],
       "genero": "Ciencia Ficción",
@@ -367,6 +421,24 @@
             "18:40",
             "21:30",
             "22:10"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:15",
+                "20:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:15",
+            "20:45"
           ]
         }
       ],
@@ -538,6 +610,22 @@
           ],
           "horarios": [
             "17:30"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30"
           ]
         }
       ],
@@ -985,21 +1073,117 @@
     },
     {
       "cine": "Cinerama Cajamarca MegaPlaza",
-      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-      "direccion": "",
-      "peliculas": [],
-      "sin_programacion": true,
-      "nota": "No se pudo consultar su cartelera. Suele tener funciones a diario.",
-      "no_consultado": true,
+      "cine_slug": "cinerama-cajamarca-megaplaza",
+      "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
       "url": "https://www.cinerama.com.pe/cines",
-      "cine_original": "Cajamarca Megaplaza (Cinerama)"
+      "fuente_cine": "Cinerama",
+      "peliculas": [
+        {
+          "titulo": "El Final De La Calle Oak",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/calle.jpg",
+          "genero": "Accion",
+          "clasificacion": "Mayores de 14",
+          "duracion": "01:40",
+          "sinopsis": "Un Hombre de Mediana Edad Se Encuentra en un Extraño Campamento, Compitiendo Con Excéntricos Campistas. Busca a Su Amigo Desaparecido y a una Legendaria Bestia Gris Que Guarda un Tesoro Escondido.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:00",
+                "20:00",
+                "21:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:00",
+            "20:00",
+            "21:50"
+          ]
+        },
+        {
+          "titulo": "La Odisea",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/01.jpg",
+          "genero": "Accion",
+          "clasificacion": "Todo Espectador",
+          "duracion": "02:52",
+          "sinopsis": "Tras la Guerra de Troya, el Héroe Griego Odiseo Regresa a Ítaca, Grecia, Enfrentándose a Figuras de la Mitología Griega Como el Cíclope Polifemo, las Sirenas y Calipso.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:15",
+                "20:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:15",
+            "20:45"
+          ]
+        },
+        {
+          "titulo": "Shrek",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/sher.jpg",
+          "genero": "Accion",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:30",
+          "sinopsis": "Un Caballero Malvado Exilia a las Criaturas de un Cuento de Hadas Al Pantano de un Ogro Gruñón, Quien en Su Afán de Recuperar Su Territorio Hace un Pacto Para Conseguir Que una Bella Princesa Acceda a Ser la Novia del Caballero.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30"
+          ]
+        },
+        {
+          "titulo": "Spider Man: Un Nuevo Dia",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/spider.jpg",
+          "genero": "Accion",
+          "clasificacion": "Todo Espectador",
+          "duracion": "02:30",
+          "sinopsis": "Tras el Día del Juicio Final, Peter Parker Intenta Centrarse en la Universidad y Abandonar a Spider-man. Cuando una Nueva Amenaza Pone en Peligro a Sus Amigos, Debe Romper Su Promesa y Volver Al Traje.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "15:45",
+                "16:30",
+                "17:45",
+                "18:30",
+                "19:15",
+                "20:30",
+                "21:15",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "15:45",
+            "16:30",
+            "17:45",
+            "18:30",
+            "19:15",
+            "20:30",
+            "21:15",
+            "22:00"
+          ]
+        }
+      ]
     }
   ],
   "estado": "ok",
   "fuentes_extra": [
-    "Cineplanet"
-  ],
-  "notas": [
-    "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
+    "Cineplanet",
+    "Cinerama"
   ]
 }
