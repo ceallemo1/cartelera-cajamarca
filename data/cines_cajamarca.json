@@ -2,12 +2,12 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-19 17:39",
-  "fecha_objetivo": "2026-08-19",
+  "actualizado": "2026-08-20 08:06",
+  "fecha_objetivo": "2026-08-20",
   "peliculas": [
     {
-      "titulo": "El Final De La Calle Oak",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/8/manana-me-caso-47641-1.webp",
+      "titulo": "La Noche Del Demonio: Están Entre Nosotros",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/tu-corazon-sera-destrozado-47673-1.webp",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
@@ -17,36 +17,208 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "19:30",
-                "21:30"
+                "17:35",
+                "19:40",
+                "21:45"
               ]
             }
           ],
           "horarios": [
-            "19:30",
-            "21:30"
+            "17:35",
+            "19:40",
+            "21:45"
           ]
         },
         {
-          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
-          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
-                "18:00",
-                "20:00",
-                "21:50"
+                "15:30",
+                "17:50",
+                "20:10",
+                "21:30",
+                "22:30"
               ]
             }
           ],
           "horarios": [
-            "16:00",
-            "18:00",
-            "20:00",
-            "21:50"
+            "15:30",
+            "17:50",
+            "20:10",
+            "21:30",
+            "22:30"
+          ]
+        }
+      ],
+      "genero": "Terror",
+      "duracion": "106 minutos",
+      "clasificacion": "18 Años",
+      "director": "Jacob Chase",
+      "actores": "Sam Spruell, Lin Shaye, Maisie Richardson, Brandon Perea",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/la-noche-del-demonio-estan-entre-nosotros-12203_252",
+      "trailer_url": "https://www.youtube.com/watch?v=orvNgTGq6cg",
+      "sinopsis": "Una joven madre que cría a su hija en la casa donde creció y descubre que puede viajar al Más Allá. Cuando algo maligno la persigue, Gemma descubre una habilidad que lo cambia todo: no solo puede entrar al Más Allá, sino que también puede traer de vuelta al mundo real a quienes viven allí. Una vez que los demonios se dan cuenta de su poder, nuestro mundo se convierte en su patio de recreo.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1291595,
+        "titulo_tmdb": "Insidious: Fuera del más allá",
+        "voto": 5.6,
+        "votos": 8,
+        "url_tmdb": "https://www.themoviedb.org/movie/1291595",
+        "imdb_id": "tt32393988",
+        "url_imdb": "https://www.imdb.com/title/tt32393988/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
+        "director": "Jacob Chase",
+        "reparto": [
+          {
+            "nombre": "Amelia Eve",
+            "personaje": "Gemma"
+          },
+          {
+            "nombre": "Island Austin",
+            "personaje": "Maya"
+          },
+          {
+            "nombre": "Lin Shaye",
+            "personaje": "Elise Rainier"
+          },
+          {
+            "nombre": "Sam Spruell",
+            "personaje": "Cyrus"
+          },
+          {
+            "nombre": "Brandon Perea",
+            "personaje": "Nick"
+          },
+          {
+            "nombre": "Maisie Richardson-Sellers",
+            "personaje": "Clare"
+          }
+        ],
+        "generos": [
+          "Terror",
+          "Suspense"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Sexta entrega de la franquicia \"Insidious\".",
+        "estreno": "19 ago 2026",
+        "duracion_min": 106,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Insidious: Out of the Further"
+      }
+    },
+    {
+      "titulo": "Tu Corazón Será Destrozado",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/tu-corazon-sera-destrozado-47673-1.jpg",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "17:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:20"
+          ]
+        }
+      ],
+      "genero": "Romántica",
+      "duracion": "135 minutos",
+      "clasificacion": "12 Años",
+      "director": "Michael Vaynberg",
+      "actores": "Veronika Zhuravleva, Daniel Vegas, Alya Mayer, Maksim Saprykin, Evgeniya Loza, Pavel Kuzmin",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/tu-corazon-sera-destrozado-12216_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Tu%20Coraz%C3%B3n%20Ser%C3%A1%20Destrozado%20trailer%20espanol",
+      "sinopsis": "Polina, una estudiante de secundaria, encuentra un salvavidas inesperado frente al acoso que sufre en su nuevo instituto. Para frenar el bullying, sella un pacto con Bars, el cabecilla de los abusadores: él fingirá ser su novio y se convertirá en su protector, pero a cambio, ella tendrá que obedecerle en todo lo que él le pida.  Lo que empieza como un juego de supervivencia se complica cuando la química entre los dos se vuelve real. Sin embargo, su historia tiene los días contados: tanto sus familias como sus propios compañeros harán lo imposible por dinamitar una relación que nadie aprueba.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1523145,
+        "titulo_tmdb": "Tu corazón se romperá",
+        "voto": 7.1,
+        "votos": 121,
+        "url_tmdb": "https://www.themoviedb.org/movie/1523145",
+        "imdb_id": "tt38190257",
+        "url_imdb": "https://www.imdb.com/title/tt38190257/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/siSnG1h8JKkuHgM0RuOWLcNxSbz.jpg",
+        "director": "Михаил Вайнберг",
+        "reparto": [
+          {
+            "nombre": "Даниэль Вегас",
+            "personaje": "Барс"
+          },
+          {
+            "nombre": "Вероника Журавлёва",
+            "personaje": "Полина"
+          },
+          {
+            "nombre": "Иван Трушин",
+            "personaje": "Лэйм"
+          },
+          {
+            "nombre": "Максим Сапрыкин",
+            "personaje": "Леха"
+          },
+          {
+            "nombre": "Аля Майер",
+            "personaje": "Дилара"
+          },
+          {
+            "nombre": "Евгения Лоза",
+            "personaje": "мама Полины"
+          }
+        ],
+        "generos": [
+          "Romance"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Polina, una estudiante de secundaria, encuentra un salvavidas inesperado frente al acoso que sufre en su nuevo instituto. Para frenar el bullying, sella un pacto con Bars, el cabecilla de los abusadores: él fingirá ser su novio y se convertirá en su protector, pero a cambio, ella tendrá que obedecerle en todo lo que él le pida.  Lo que empieza como un juego de supervivencia se complica cuando la química entre los dos se vuelve real. Sin embargo, su historia tiene los días contados: tanto sus familias como sus propios compañeros harán lo imposible por dinamitar una relación que nadie aprueba.",
+        "estreno": "26 mar 2026",
+        "duracion_min": 134,
+        "paises": [
+          "Russia"
+        ],
+        "idioma": "Ruso",
+        "titulo_original": "Твоё сердце будет разбито"
+      }
+    },
+    {
+      "titulo": "El Final De La Calle Oak",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/el-final-de-la-calle-oak-47640-0.webp",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "19:55",
+                "21:55"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:55",
+            "21:55"
           ]
         },
         {
@@ -61,15 +233,13 @@
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "17:10",
-                "20:10",
-                "22:20"
+                "19:20"
               ]
             }
           ],
           "horarios": [
             "17:10",
-            "20:10",
-            "22:20"
+            "19:20"
           ]
         }
       ],
@@ -87,7 +257,7 @@
         "tmdb_id": 1101383,
         "titulo_tmdb": "El final de Oak Street",
         "voto": 6.5,
-        "votos": 250,
+        "votos": 256,
         "url_tmdb": "https://www.themoviedb.org/movie/1101383",
         "imdb_id": "tt27165187",
         "url_imdb": "https://www.imdb.com/title/tt27165187/",
@@ -139,8 +309,214 @@
       }
     },
     {
+      "titulo": "Spider Man: Un Nuevo Dia",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-0.webp",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "16:10",
+                "19:00",
+                "21:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:10",
+            "19:00",
+            "21:50"
+          ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:30",
+                "15:30",
+                "17:30",
+                "18:30",
+                "20:30",
+                "21:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:30",
+            "15:30",
+            "17:30",
+            "18:30",
+            "20:30",
+            "21:40"
+          ]
+        }
+      ],
+      "genero": "Ciencia Ficción",
+      "duracion": "145 minutos",
+      "clasificacion": "12 Años",
+      "director": "Destin Daniel Cretton",
+      "actores": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon, Sadie Sink",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/spider-man-un-nuevo-dia-12132_252",
+      "trailer_url": "https://www.youtube.com/watch?v=xrgNovKS0Co",
+      "sinopsis": "Han pasado cuatro años desde los acontecimientos de Sin regreso a casa, y Peter ahora es un adulto que vive completamente solo, habiéndose borrado voluntariamente de la vida y los recuerdos de sus seres queridos. Combatiendo el crimen en una Nueva York que ya no lo conoce, se ha dedicado por completo a proteger su ciudad —un Spider-Man a tiempo completo—, pero a medida que las exigencias se intens",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 969681,
+        "titulo_tmdb": "Spider-Man: Brand New Day",
+        "voto": 7.9,
+        "votos": 1953,
+        "url_tmdb": "https://www.themoviedb.org/movie/969681",
+        "imdb_id": "tt22084616",
+        "url_imdb": "https://www.imdb.com/title/tt22084616/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/GUVYjqDLWy61q9hDYiV9M5UEJe.jpg",
+        "director": "Destin Daniel Cretton",
+        "reparto": [
+          {
+            "nombre": "Tom Holland",
+            "personaje": "Peter Parker / Spider-Man"
+          },
+          {
+            "nombre": "Zendaya",
+            "personaje": "MJ"
+          },
+          {
+            "nombre": "Mark Ruffalo",
+            "personaje": "Bruce Banner / Hulk"
+          },
+          {
+            "nombre": "Jon Bernthal",
+            "personaje": "Frank Castle / Punisher"
+          },
+          {
+            "nombre": "Jacob Batalon",
+            "personaje": "Ned Leeds"
+          },
+          {
+            "nombre": "Sadie Sink",
+            "personaje": "Jean Grey"
+          }
+        ],
+        "generos": [
+          "Ciencia ficción",
+          "Acción",
+          "Aventura"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
+          "embed_id": "o8EccyRIwQQ"
+        },
+        "sinopsis_tmdb": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+        "estreno": "29 jul 2026",
+        "duracion_min": 144,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Spider-Man: Brand New Day"
+      }
+    },
+    {
+      "titulo": "Toy Story 5",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/5/toy-story-5-47403-0.webp",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30"
+          ]
+        }
+      ],
+      "genero": "Animado",
+      "duracion": "102 minutos",
+      "clasificacion": "Todos",
+      "director": "Andrew Stanton",
+      "actores": "Tom Hanks, Tim Allen, Joan Cusack, Greta Lee, Conan O'Brien, Tony Hale, Craig Robinson, Shelby Rabara, Scarlett Spears",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/toy-story-5-12119_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Toy%20Story%205%20trailer%20espanol",
+      "sinopsis": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1084244,
+        "titulo_tmdb": "Toy Story 5",
+        "voto": 7.9,
+        "votos": 1176,
+        "url_tmdb": "https://www.themoviedb.org/movie/1084244",
+        "imdb_id": "tt29355505",
+        "url_imdb": "https://www.imdb.com/title/tt29355505/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/iJUV9QS4L9wS7WTV7ICV1TWUB1X.jpg",
+        "director": "Andrew Stanton",
+        "reparto": [
+          {
+            "nombre": "Joan Cusack",
+            "personaje": "Jessie (voice)"
+          },
+          {
+            "nombre": "Tom Hanks",
+            "personaje": "Woody (voice)"
+          },
+          {
+            "nombre": "Tim Allen",
+            "personaje": "Buzz Lightyear (voice)"
+          },
+          {
+            "nombre": "Conan O'Brien",
+            "personaje": "Smarty Pants (voice)"
+          },
+          {
+            "nombre": "Scarlett Spears",
+            "personaje": "Bonnie (voice)"
+          },
+          {
+            "nombre": "Greta Lee",
+            "personaje": "Lilypad (voice)"
+          }
+        ],
+        "generos": [
+          "Animación",
+          "Familia",
+          "Comedia",
+          "Aventura"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=9_reo5Jl1OM",
+          "embed_id": "9_reo5Jl1OM"
+        },
+        "sinopsis_tmdb": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+        "estreno": "17 jun 2026",
+        "duracion_min": 102,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Toy Story 5"
+      }
+    },
+    {
       "titulo": "Masha Y Los Osos",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/8/masha-y-los-osos-47643-1.jpg",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/masha-y-los-osos-47643-0.webp",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
@@ -221,197 +597,20 @@
       }
     },
     {
-      "titulo": "Spider Man: Un Nuevo Dia",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-0.webp",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "16:10",
-                "19:00",
-                "21:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:10",
-            "19:00",
-            "21:50"
-          ]
-        },
-        {
-          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
-          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "15:45",
-                "16:30",
-                "17:45",
-                "18:30",
-                "19:15",
-                "20:30",
-                "21:15",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "15:45",
-            "16:30",
-            "17:45",
-            "18:30",
-            "19:15",
-            "20:30",
-            "21:15",
-            "22:00"
-          ]
-        },
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "17:30",
-                "20:30"
-              ]
-            },
-            {
-              "formato": "3D REGULAR DOBLADA",
-              "horarios": [
-                "18:30",
-                "21:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:30",
-            "18:30",
-            "20:30",
-            "21:40"
-          ]
-        }
-      ],
-      "genero": "Ciencia Ficción",
-      "duracion": "145 minutos",
-      "clasificacion": "12 Años",
-      "director": "Destin Daniel Cretton",
-      "actores": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon, Sadie Sink",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/spider-man-un-nuevo-dia-12132_252",
-      "trailer_url": "https://www.youtube.com/watch?v=xrgNovKS0Co",
-      "sinopsis": "Han pasado cuatro años desde los acontecimientos de Sin regreso a casa, y Peter ahora es un adulto que vive completamente solo, habiéndose borrado voluntariamente de la vida y los recuerdos de sus seres queridos. Combatiendo el crimen en una Nueva York que ya no lo conoce, se ha dedicado por completo a proteger su ciudad —un Spider-Man a tiempo completo—, pero a medida que las exigencias se intens",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 969681,
-        "titulo_tmdb": "Spider-Man: Brand New Day",
-        "voto": 7.9,
-        "votos": 1926,
-        "url_tmdb": "https://www.themoviedb.org/movie/969681",
-        "imdb_id": "tt22084616",
-        "url_imdb": "https://www.imdb.com/title/tt22084616/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/GUVYjqDLWy61q9hDYiV9M5UEJe.jpg",
-        "director": "Destin Daniel Cretton",
-        "reparto": [
-          {
-            "nombre": "Tom Holland",
-            "personaje": "Peter Parker / Spider-Man"
-          },
-          {
-            "nombre": "Zendaya",
-            "personaje": "MJ"
-          },
-          {
-            "nombre": "Mark Ruffalo",
-            "personaje": "Bruce Banner / Hulk"
-          },
-          {
-            "nombre": "Jon Bernthal",
-            "personaje": "Frank Castle / Punisher"
-          },
-          {
-            "nombre": "Jacob Batalon",
-            "personaje": "Ned Leeds"
-          },
-          {
-            "nombre": "Sadie Sink",
-            "personaje": "Jean Grey"
-          }
-        ],
-        "generos": [
-          "Ciencia ficción",
-          "Acción",
-          "Aventura"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
-          "embed_id": "o8EccyRIwQQ"
-        },
-        "sinopsis_tmdb": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-        "estreno": "29 jul 2026",
-        "duracion_min": 144,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Spider-Man: Brand New Day"
-      }
-    },
-    {
       "titulo": "La Odisea",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/5/la-odisea-47428-0.webp",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002831?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Acción",
+      "clasificacion": "+14",
+      "duracion": "173 min",
+      "director": "Christopher Nolan",
+      "actores": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel, Charlize Theron",
+      "estreno": "",
+      "sinopsis": "-",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "",
+      "fuente_peli": "Cineplanet",
       "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "17:05",
-                "20:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:05",
-            "20:20"
-          ]
-        },
-        {
-          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
-          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "17:15",
-                "20:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:15",
-            "20:45"
-          ]
-        },
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
@@ -423,34 +622,24 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:10",
                 "18:40",
-                "21:30",
                 "22:10"
               ]
             }
           ],
           "horarios": [
+            "15:10",
             "18:40",
-            "21:30",
             "22:10"
           ]
         }
       ],
-      "genero": "Drama",
-      "duracion": "170 minutos",
-      "clasificacion": "12 Años",
-      "director": "Christopher Nolan",
-      "actores": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel, Charlize Theron",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/la-odisea-12131_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=La%20Odisea%20trailer%20espanol",
-      "sinopsis": "-",
-      "puntaje": "",
       "tmdb": {
         "tmdb_id": 1368337,
         "titulo_tmdb": "La Odisea",
         "voto": 8.0,
-        "votos": 2943,
+        "votos": 2975,
         "url_tmdb": "https://www.themoviedb.org/movie/1368337",
         "imdb_id": "tt33764258",
         "url_imdb": "https://www.imdb.com/title/tt33764258/",
@@ -500,283 +689,6 @@
       }
     },
     {
-      "titulo": "Toy Story 5",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/5/toy-story-5-47403-0.webp",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "15:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:15"
-          ]
-        }
-      ],
-      "genero": "Animado",
-      "duracion": "102 minutos",
-      "clasificacion": "Todos",
-      "director": "Andrew Stanton",
-      "actores": "Tom Hanks, Tim Allen, Joan Cusack, Greta Lee, Conan O'Brien, Tony Hale, Craig Robinson, Shelby Rabara, Scarlett Spears",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/toy-story-5-12119_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Toy%20Story%205%20trailer%20espanol",
-      "sinopsis": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1084244,
-        "titulo_tmdb": "Toy Story 5",
-        "voto": 7.9,
-        "votos": 1083,
-        "url_tmdb": "https://www.themoviedb.org/movie/1084244",
-        "imdb_id": "tt29355505",
-        "url_imdb": "https://www.imdb.com/title/tt29355505/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/iJUV9QS4L9wS7WTV7ICV1TWUB1X.jpg",
-        "director": "Andrew Stanton",
-        "reparto": [
-          {
-            "nombre": "Joan Cusack",
-            "personaje": "Jessie (voice)"
-          },
-          {
-            "nombre": "Tom Hanks",
-            "personaje": "Woody (voice)"
-          },
-          {
-            "nombre": "Tim Allen",
-            "personaje": "Buzz Lightyear (voice)"
-          },
-          {
-            "nombre": "Conan O'Brien",
-            "personaje": "Smarty Pants (voice)"
-          },
-          {
-            "nombre": "Scarlett Spears",
-            "personaje": "Bonnie (voice)"
-          },
-          {
-            "nombre": "Greta Lee",
-            "personaje": "Lilypad (voice)"
-          }
-        ],
-        "generos": [
-          "Animación",
-          "Familia",
-          "Comedia",
-          "Aventura"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=9_reo5Jl1OM",
-          "embed_id": "9_reo5Jl1OM"
-        },
-        "sinopsis_tmdb": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-        "estreno": "17 jun 2026",
-        "duracion_min": 102,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Toy Story 5"
-      }
-    },
-    {
-      "titulo": "Shrek",
-      "poster": "https://cdn.carteleracine.pe/cine/2003/4/shrek-42603-0.webp",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "17:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:30"
-          ]
-        },
-        {
-          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
-          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30"
-          ]
-        }
-      ],
-      "genero": "Animado",
-      "duracion": "90 minutos",
-      "clasificacion": "Todos",
-      "director": "Andrew Adamson",
-      "actores": "Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow, Vincent Cassel, Peter Dennis",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/shrek-116_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Shrek%20trailer%20espanol",
-      "sinopsis": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 808,
-        "titulo_tmdb": "Shrek",
-        "voto": 7.8,
-        "votos": 19149,
-        "url_tmdb": "https://www.themoviedb.org/movie/808",
-        "imdb_id": "tt0126029",
-        "url_imdb": "https://www.imdb.com/title/tt0126029/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/jTQONM7jt1yv2lL972TtmWO0UIZ.jpg",
-        "director": "Andrew Adamson, Vicky Jenson",
-        "reparto": [
-          {
-            "nombre": "Mike Myers",
-            "personaje": "Shrek / Blind Mouse (voice)"
-          },
-          {
-            "nombre": "Eddie Murphy",
-            "personaje": "Donkey (voice)"
-          },
-          {
-            "nombre": "Cameron Diaz",
-            "personaje": "Princess Fiona (voice)"
-          },
-          {
-            "nombre": "John Lithgow",
-            "personaje": "Lord Farquaad (voice)"
-          },
-          {
-            "nombre": "Vincent Cassel",
-            "personaje": "Monsieur Hood (voice)"
-          },
-          {
-            "nombre": "Peter Dennis",
-            "personaje": "Ogre Hunter (voice)"
-          }
-        ],
-        "generos": [
-          "Animación",
-          "Comedia",
-          "Fantasía",
-          "Aventura",
-          "Familia"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=B88JfTyJ1Fw",
-          "embed_id": "B88JfTyJ1Fw"
-        },
-        "sinopsis_tmdb": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
-        "estreno": "18 may 2001",
-        "duracion_min": 92,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Shrek"
-      }
-    },
-    {
-      "titulo": "Mañana me caso",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002967?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Comedia",
-      "clasificacion": "+14",
-      "duracion": "92 min",
-      "director": "Pancho Tuesta",
-      "actores": "Alessandra Fuller, Flavia Laos, Mayra Goñi, Miguel Dávalos, Vanessa Jeri, Joaquín de Orbegoso",
-      "estreno": "",
-      "sinopsis": "Vale, Mia y Tamara, amigas inseparables desde la infancia, se reencuentran por la boda de Vale. Si pensabas que las bodas eran caóticas, espera a ver esta: el novio resulta ser nada menos que ¡el capo de un cartel de drogas! Entre persecuciones absurdas, disparos, night clubs, gomitas \"especiales\" y secretos guardados durante años, deberán sobrevivir y enfrentar los problemas que las han separado,",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=2P5PfC8wpSc",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "19:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:20"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1744212,
-        "titulo_tmdb": "Mañana me caso",
-        "voto": null,
-        "votos": 0,
-        "url_tmdb": "https://www.themoviedb.org/movie/1744212",
-        "imdb_id": "",
-        "url_imdb": "",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/5kCfp1NMxKMufPJQzUldauuDlwB.jpg",
-        "director": "Pancho Tuesta",
-        "reparto": [
-          {
-            "nombre": "Alessandra Fuller",
-            "personaje": ""
-          },
-          {
-            "nombre": "Flavia Laos",
-            "personaje": ""
-          },
-          {
-            "nombre": "Mayra Goñi",
-            "personaje": ""
-          },
-          {
-            "nombre": "Miguel Dávalos",
-            "personaje": ""
-          },
-          {
-            "nombre": "Vanessa Jeri",
-            "personaje": ""
-          },
-          {
-            "nombre": "Joaquín de Orbegoso",
-            "personaje": ""
-          }
-        ],
-        "generos": [
-          "Comedia",
-          "Acción"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "",
-        "estreno": "13 ago 2026",
-        "duracion_min": 100,
-        "paises": [
-          "Perú"
-        ],
-        "idioma": "Español",
-        "titulo_original": "Mañana me caso"
-      }
-    },
-    {
       "titulo": "Shrek [2001]",
       "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003048?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "genero": "Animación",
@@ -802,12 +714,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "18:00"
+                "15:00"
               ]
             }
           ],
           "horarios": [
-            "18:00"
+            "15:00"
           ]
         }
       ]
@@ -820,39 +732,60 @@
       "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
       "peliculas": [
         {
+          "titulo": "La Noche Del Demonio: Están Entre Nosotros",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/tu-corazon-sera-destrozado-47673-1.webp",
+          "genero": "Terror",
+          "clasificacion": "18 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "17:35",
+                "19:40",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:35",
+            "19:40",
+            "21:45"
+          ]
+        },
+        {
+          "titulo": "Tu Corazón Será Destrozado",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/tu-corazon-sera-destrozado-47673-1.jpg",
+          "genero": "Romántica",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "17:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:20"
+          ]
+        },
+        {
           "titulo": "El Final De La Calle Oak",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/manana-me-caso-47641-1.webp",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/el-final-de-la-calle-oak-47640-0.webp",
           "genero": "Acción",
           "clasificacion": "12 Años",
           "formatos": [
             {
               "formato": "Doblada",
               "horarios": [
-                "19:30",
-                "21:30"
+                "19:55",
+                "21:55"
               ]
             }
           ],
           "horarios": [
-            "19:30",
-            "21:30"
-          ]
-        },
-        {
-          "titulo": "Masha Y Los Osos",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/masha-y-los-osos-47643-1.jpg",
-          "genero": "Comedia",
-          "clasificacion": "Todos",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:40"
+            "19:55",
+            "21:55"
           ]
         },
         {
@@ -877,25 +810,6 @@
           ]
         },
         {
-          "titulo": "La Odisea",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/5/la-odisea-47428-0.webp",
-          "genero": "Drama",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "17:05",
-                "20:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:05",
-            "20:20"
-          ]
-        },
-        {
           "titulo": "Toy Story 5",
           "poster": "https://cdn.carteleracine.pe/cine/2026/5/toy-story-5-47403-0.webp",
           "genero": "Animado",
@@ -904,123 +818,6 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "15:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:15"
-          ]
-        },
-        {
-          "titulo": "Shrek",
-          "poster": "https://cdn.carteleracine.pe/cine/2003/4/shrek-42603-0.webp",
-          "genero": "Animado",
-          "clasificacion": "Todos",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "17:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:30"
-          ]
-        }
-      ],
-      "cine_original": "CAJAMARCA - MOVIE TIME"
-    },
-    {
-      "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
-      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-      "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
-      "peliculas": [
-        {
-          "titulo": "El Final De La Calle Oak",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/manana-me-caso-47641-1.webp",
-          "genero": "Acción",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:00",
-                "18:00",
-                "20:00",
-                "21:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:00",
-            "20:00",
-            "21:50"
-          ]
-        },
-        {
-          "titulo": "Spider Man: Un Nuevo Dia",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-0.webp",
-          "genero": "Ciencia Ficción",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "15:45",
-                "16:30",
-                "17:45",
-                "18:30",
-                "19:15",
-                "20:30",
-                "21:15",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "15:45",
-            "16:30",
-            "17:45",
-            "18:30",
-            "19:15",
-            "20:30",
-            "21:15",
-            "22:00"
-          ]
-        },
-        {
-          "titulo": "La Odisea",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/5/la-odisea-47428-0.webp",
-          "genero": "Drama",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "17:15",
-                "20:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:15",
-            "20:45"
-          ]
-        },
-        {
-          "titulo": "Shrek",
-          "poster": "https://cdn.carteleracine.pe/cine/2003/4/shrek-42603-0.webp",
-          "genero": "Animado",
-          "clasificacion": "Todos",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
                 "15:30"
               ]
             }
@@ -1028,11 +825,26 @@
           "horarios": [
             "15:30"
           ]
+        },
+        {
+          "titulo": "Masha Y Los Osos",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/masha-y-los-osos-47643-0.webp",
+          "genero": "Comedia",
+          "clasificacion": "Todos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:40"
+          ]
         }
       ],
-      "no_consultado": true,
-      "nota": "No se pudo consultar su cartelera. Suele tener funciones a diario.",
-      "url": "https://www.cinerama.com.pe/cines"
+      "cine_original": "CAJAMARCA - MOVIE TIME"
     },
     {
       "cine": "CinePlanet Cajamarca Real Plaza",
@@ -1052,15 +864,38 @@
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "17:10",
-                "20:10",
-                "22:20"
+                "19:20"
               ]
             }
           ],
           "horarios": [
             "17:10",
+            "19:20"
+          ]
+        },
+        {
+          "titulo": "La Noche Del Demonio: Están Entre Nosotros",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003049?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Terror",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:30",
+                "17:50",
+                "20:10",
+                "21:30",
+                "22:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "17:50",
             "20:10",
-            "22:20"
+            "21:30",
+            "22:30"
           ]
         },
         {
@@ -1072,33 +907,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:10",
                 "18:40",
-                "21:30",
                 "22:10"
               ]
             }
           ],
           "horarios": [
+            "15:10",
             "18:40",
-            "21:30",
             "22:10"
-          ]
-        },
-        {
-          "titulo": "Mañana me caso",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002967?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Comedia",
-          "clasificacion": "+14",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "19:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:20"
           ]
         },
         {
@@ -1110,12 +928,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "18:00"
+                "15:00"
               ]
             }
           ],
           "horarios": [
-            "18:00"
+            "15:00"
           ]
         },
         {
@@ -1127,19 +945,18 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "14:30",
+                "15:30",
                 "17:30",
-                "20:30"
-              ]
-            },
-            {
-              "formato": "3D REGULAR DOBLADA",
-              "horarios": [
                 "18:30",
+                "20:30",
                 "21:40"
               ]
             }
           ],
           "horarios": [
+            "14:30",
+            "15:30",
             "17:30",
             "18:30",
             "20:30",
@@ -1148,6 +965,17 @@
         }
       ],
       "cine_original": "CP Cajamarca"
+    },
+    {
+      "cine": "Cinerama Cajamarca MegaPlaza",
+      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+      "direccion": "",
+      "peliculas": [],
+      "sin_programacion": true,
+      "nota": "No se pudo consultar su cartelera. Suele tener funciones a diario.",
+      "no_consultado": true,
+      "url": "https://www.cinerama.com.pe/cines",
+      "cine_original": "Cajamarca Megaplaza (Cinerama)"
     }
   ],
   "estado": "ok",
@@ -1155,6 +983,6 @@
     "Cineplanet"
   ],
   "notas": [
-    "Cinerama: NO_CONSULTADO: JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+    "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
   ]
 }
