@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-20 11:47",
+  "actualizado": "2026-08-20 17:38",
   "fecha_objetivo": "2026-08-20",
   "peliculas": [
     {
@@ -40,7 +40,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
                 "17:50",
                 "20:10",
                 "21:30",
@@ -49,11 +48,40 @@
             }
           ],
           "horarios": [
-            "15:30",
             "17:50",
             "20:10",
             "21:30",
             "22:30"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:20",
+                "16:00",
+                "17:15",
+                "18:00",
+                "19:15",
+                "20:00",
+                "21:15",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:20",
+            "16:00",
+            "17:15",
+            "18:00",
+            "19:15",
+            "20:00",
+            "21:15",
+            "22:00"
           ]
         }
       ],
@@ -70,8 +98,8 @@
       "tmdb": {
         "tmdb_id": 1291595,
         "titulo_tmdb": "Insidious: Fuera del más allá",
-        "voto": 5.6,
-        "votos": 8,
+        "voto": 6.2,
+        "votos": 10,
         "url_tmdb": "https://www.themoviedb.org/movie/1291595",
         "imdb_id": "tt32393988",
         "url_imdb": "https://www.imdb.com/title/tt32393988/",
@@ -120,7 +148,7 @@
     },
     {
       "titulo": "Tu Corazón Será Destrozado",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/8/tu-corazon-sera-destrozado-47673-1.jpg",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-muerte-de-robin-hood-47674-1.webp",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
@@ -257,7 +285,7 @@
         "tmdb_id": 1101383,
         "titulo_tmdb": "El final de Oak Street",
         "voto": 6.5,
-        "votos": 256,
+        "votos": 271,
         "url_tmdb": "https://www.themoviedb.org/movie/1101383",
         "imdb_id": "tt27165187",
         "url_imdb": "https://www.imdb.com/title/tt27165187/",
@@ -343,8 +371,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:30",
-                "15:30",
                 "17:30",
                 "18:30",
                 "20:30",
@@ -353,12 +379,36 @@
             }
           ],
           "horarios": [
-            "14:30",
-            "15:30",
             "17:30",
             "18:30",
             "20:30",
             "21:40"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "16:15",
+                "17:45",
+                "19:00",
+                "20:30",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "16:15",
+            "17:45",
+            "19:00",
+            "20:30",
+            "21:45"
           ]
         }
       ],
@@ -376,7 +426,7 @@
         "tmdb_id": 969681,
         "titulo_tmdb": "Spider-Man: Brand New Day",
         "voto": 7.9,
-        "votos": 1953,
+        "votos": 1978,
         "url_tmdb": "https://www.themoviedb.org/movie/969681",
         "imdb_id": "tt22084616",
         "url_imdb": "https://www.imdb.com/title/tt22084616/",
@@ -462,7 +512,7 @@
         "tmdb_id": 1084244,
         "titulo_tmdb": "Toy Story 5",
         "voto": 7.9,
-        "votos": 1176,
+        "votos": 1190,
         "url_tmdb": "https://www.themoviedb.org/movie/1084244",
         "imdb_id": "tt29355505",
         "url_imdb": "https://www.imdb.com/title/tt29355505/",
@@ -532,6 +582,24 @@
           ],
           "horarios": [
             "15:40"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30",
+                "17:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "17:00"
           ]
         }
       ],
@@ -622,14 +690,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:10",
                 "18:40",
                 "22:10"
               ]
             }
           ],
           "horarios": [
-            "15:10",
             "18:40",
             "22:10"
           ]
@@ -639,7 +705,7 @@
         "tmdb_id": 1368337,
         "titulo_tmdb": "La Odisea",
         "voto": 8.0,
-        "votos": 2975,
+        "votos": 2986,
         "url_tmdb": "https://www.themoviedb.org/movie/1368337",
         "imdb_id": "tt33764258",
         "url_imdb": "https://www.imdb.com/title/tt33764258/",
@@ -689,40 +755,93 @@
       }
     },
     {
-      "titulo": "Shrek [2001]",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003048?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Animación",
-      "clasificacion": "APT",
-      "duracion": "90 min",
-      "director": "",
-      "actores": "",
+      "titulo": "La Muerte de Robin Hood",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/robin10000.jpg",
+      "genero": "Accion",
+      "clasificacion": "Todo Espectador",
+      "duracion": "02:02",
+      "sinopsis": "Un Robin Hood Herido Enfrenta la Muerte Después de Su Última Batalla, Hasta Que un Misterioso Curandero Le Ofrece la Redención de Su Pasado Violento.",
+      "director": "Michael Sarnoski",
+      "actores": "Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett, Noah Jupe, Jade Croot",
       "estreno": "",
-      "sinopsis": "A 25 años de su estreno, Shrek vuelve a los cines para celebrar el aniversario de una de las películas animadas más queridas de todos los tiempos. La historia del ogro que desafió los cuentos de hadas regresa a la pantalla grande con todo su humor, emoción y personajes inolvidables, invitando a fans de siempre y nuevas generaciones a revivir una aventura que marcó a toda una época.",
       "puntaje": "",
       "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=N52tASjTQiw",
-      "fuente_peli": "Cineplanet",
+      "trailer_url": "https://www.youtube.com/watch?v=PJqvdmKERw8",
+      "fuente_peli": "Cinerama",
       "cines": [
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
           "formatos": [
             {
-              "formato": "2D REGULAR DOBLADA",
+              "formato": "",
               "horarios": [
-                "15:00"
+                "18:30",
+                "20:45"
               ]
             }
           ],
           "horarios": [
-            "15:00"
+            "18:30",
+            "20:45"
           ]
         }
-      ]
+      ],
+      "tmdb": {
+        "tmdb_id": 1284465,
+        "titulo_tmdb": "La muerte de Robin Hood",
+        "voto": 6.3,
+        "votos": 233,
+        "url_tmdb": "https://www.themoviedb.org/movie/1284465",
+        "imdb_id": "tt32273171",
+        "url_imdb": "https://www.imdb.com/title/tt32273171/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/pC2hVl4J522GcMVc5OghRHSs0tq.jpg",
+        "director": "Michael Sarnoski",
+        "reparto": [
+          {
+            "nombre": "Hugh Jackman",
+            "personaje": "Robin Hood"
+          },
+          {
+            "nombre": "Jodie Comer",
+            "personaje": "Sister Brigid"
+          },
+          {
+            "nombre": "Bill Skarsgård",
+            "personaje": "Little John"
+          },
+          {
+            "nombre": "Murray Bartlett",
+            "personaje": "The Leper"
+          },
+          {
+            "nombre": "Noah Jupe",
+            "personaje": "Arthur / Godwyn"
+          },
+          {
+            "nombre": "Jade Croot",
+            "personaje": "Wainwright"
+          }
+        ],
+        "generos": [
+          "Aventura",
+          "Drama",
+          "Acción"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=PJqvdmKERw8",
+          "embed_id": "PJqvdmKERw8"
+        },
+        "sinopsis_tmdb": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
+        "estreno": "18 jun 2026",
+        "duracion_min": 123,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "The Death of Robin Hood"
+      }
     }
   ],
   "cines": [
@@ -754,7 +873,7 @@
         },
         {
           "titulo": "Tu Corazón Será Destrozado",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/tu-corazon-sera-destrozado-47673-1.jpg",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-muerte-de-robin-hood-47674-1.webp",
           "genero": "Romántica",
           "clasificacion": "12 Años",
           "formatos": [
@@ -882,7 +1001,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
                 "17:50",
                 "20:10",
                 "21:30",
@@ -891,7 +1009,6 @@
             }
           ],
           "horarios": [
-            "15:30",
             "17:50",
             "20:10",
             "21:30",
@@ -907,33 +1024,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:10",
                 "18:40",
                 "22:10"
               ]
             }
           ],
           "horarios": [
-            "15:10",
             "18:40",
             "22:10"
-          ]
-        },
-        {
-          "titulo": "Shrek [2001]",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003048?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Animación",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "15:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00"
           ]
         },
         {
@@ -945,8 +1043,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:30",
-                "15:30",
                 "17:30",
                 "18:30",
                 "20:30",
@@ -955,8 +1051,6 @@
             }
           ],
           "horarios": [
-            "14:30",
-            "15:30",
             "17:30",
             "18:30",
             "20:30",
@@ -968,21 +1062,121 @@
     },
     {
       "cine": "Cinerama Cajamarca MegaPlaza",
-      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-      "direccion": "",
-      "peliculas": [],
-      "sin_programacion": true,
-      "nota": "No se pudo consultar su cartelera. Suele tener funciones a diario.",
-      "no_consultado": true,
+      "cine_slug": "cinerama-cajamarca-megaplaza",
+      "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
       "url": "https://www.cinerama.com.pe/cines",
-      "cine_original": "Cajamarca Megaplaza (Cinerama)"
+      "fuente_cine": "Cinerama",
+      "peliculas": [
+        {
+          "titulo": "La Muerte de Robin Hood",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/robin10000.jpg",
+          "genero": "Accion",
+          "clasificacion": "Todo Espectador",
+          "duracion": "02:02",
+          "sinopsis": "Un Robin Hood Herido Enfrenta la Muerte Después de Su Última Batalla, Hasta Que un Misterioso Curandero Le Ofrece la Redención de Su Pasado Violento.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "18:30",
+                "20:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:30",
+            "20:45"
+          ]
+        },
+        {
+          "titulo": "La Noche Del Demonio: Están Entre Nosotros",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/nocg.jpg",
+          "genero": "Terror",
+          "clasificacion": "Mayores de 18",
+          "duracion": "01:46",
+          "sinopsis": "Amelia Eve Interpreta a Gemma, una Joven Madre Que Cría a Su Hija en la Casa Donde Creció y Descubre Que Puede Viajar Al Más Allá, el Reino Purgatorial de las Almas Perdidas en el Corazón del Universo de Insidious. Cuando Algo Maligno la Persigue, Gemma Descubre una Habilidad Que Lo Cambia Todo: No Solo Puede Entrar Al Más Allá, Sino Que También Puede Traer de Vuelta Al Mundo Real a Quienes Viven ",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:20",
+                "16:00",
+                "17:15",
+                "18:00",
+                "19:15",
+                "20:00",
+                "21:15",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:20",
+            "16:00",
+            "17:15",
+            "18:00",
+            "19:15",
+            "20:00",
+            "21:15",
+            "22:00"
+          ]
+        },
+        {
+          "titulo": "Masha Y Los Osos",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/53418.jpg",
+          "genero": "Aventura",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:20",
+          "sinopsis": "Masha Tiene Que Salvar a Su Hermano, Que Ha Caído Bajo el Hechizo de los Espíritus Malignos del Bosque y Se Ha Convertido en una Cabra. Para Romper la Terrible Maldición, la Niña Tiene Que Unir Fuerzas Con los Héroes de Cuento de Hadas Que Conoce Desde la Infancia: Los Tres Osos.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30",
+                "17:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "17:00"
+          ]
+        },
+        {
+          "titulo": "Spider Man: Un Nuevo Dia",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/spider.jpg",
+          "genero": "Accion",
+          "clasificacion": "Todo Espectador",
+          "duracion": "02:30",
+          "sinopsis": "Tras el Día del Juicio Final, Peter Parker Intenta Centrarse en la Universidad y Abandonar a Spider-man. Cuando una Nueva Amenaza Pone en Peligro a Sus Amigos, Debe Romper Su Promesa y Volver Al Traje.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "16:15",
+                "17:45",
+                "19:00",
+                "20:30",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "16:15",
+            "17:45",
+            "19:00",
+            "20:30",
+            "21:45"
+          ]
+        }
+      ]
     }
   ],
   "estado": "ok",
   "fuentes_extra": [
-    "Cineplanet"
-  ],
-  "notas": [
-    "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
+    "Cineplanet",
+    "Cinerama"
   ]
 }
