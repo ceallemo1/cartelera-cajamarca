@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-21 17:35",
+  "actualizado": "2026-08-21 21:19",
   "fecha_objetivo": "2026-08-21",
   "peliculas": [
     {
@@ -98,8 +98,8 @@
       "tmdb": {
         "tmdb_id": 1291595,
         "titulo_tmdb": "Insidious: Fuera del más allá",
-        "voto": 6.4,
-        "votos": 21,
+        "voto": 6.5,
+        "votos": 22,
         "url_tmdb": "https://www.themoviedb.org/movie/1291595",
         "imdb_id": "tt32393988",
         "url_imdb": "https://www.imdb.com/title/tt32393988/",
@@ -426,11 +426,11 @@
         "tmdb_id": 969681,
         "titulo_tmdb": "Spider-Man: Brand New Day",
         "voto": 7.9,
-        "votos": 2000,
+        "votos": 2019,
         "url_tmdb": "https://www.themoviedb.org/movie/969681",
         "imdb_id": "tt22084616",
         "url_imdb": "https://www.imdb.com/title/tt22084616/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/GUVYjqDLWy61q9hDYiV9M5UEJe.jpg",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
         "director": "Destin Daniel Cretton",
         "reparto": [
           {
@@ -617,11 +617,11 @@
         "tmdb_id": 1084244,
         "titulo_tmdb": "Toy Story 5",
         "voto": 8.0,
-        "votos": 1271,
+        "votos": 1298,
         "url_tmdb": "https://www.themoviedb.org/movie/1084244",
         "imdb_id": "tt29355505",
         "url_imdb": "https://www.imdb.com/title/tt29355505/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/iJUV9QS4L9wS7WTV7ICV1TWUB1X.jpg",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
         "director": "Andrew Stanton",
         "reparto": [
           {
