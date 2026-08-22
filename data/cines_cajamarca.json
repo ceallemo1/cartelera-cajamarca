@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-22 08:39",
+  "actualizado": "2026-08-22 11:35",
   "fecha_objetivo": "2026-08-22",
   "peliculas": [
     {
@@ -27,6 +27,36 @@
             "17:35",
             "19:40",
             "21:45"
+          ]
+        },
+        {
+          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
+          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:20",
+                "16:00",
+                "17:15",
+                "18:00",
+                "19:15",
+                "20:00",
+                "21:15",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:20",
+            "16:00",
+            "17:15",
+            "18:00",
+            "19:15",
+            "20:00",
+            "21:15",
+            "22:00"
           ]
         },
         {
@@ -124,7 +154,7 @@
     },
     {
       "titulo": "Tu Corazón Será Destrozado",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/8/tu-corazon-sera-destrozado-47673-1.jpg",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-muerte-de-robin-hood-47674-1.webp",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
@@ -201,6 +231,92 @@
         ],
         "idioma": "Ruso",
         "titulo_original": "Твоё сердце будет разбито"
+      }
+    },
+    {
+      "titulo": "La Muerte de Robin Hood",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-muerte-de-robin-hood-47674-1.jpg",
+      "cines": [
+        {
+          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
+          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "18:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:30"
+          ]
+        }
+      ],
+      "genero": "Aventura",
+      "duracion": "123 minutos",
+      "clasificacion": "12 Años",
+      "director": "Michael Sarnoski",
+      "actores": "Hugh Jackman, Jodie Comer, Bill Skarsgård, Jade Croot.",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/la-muerte-de-robin-hood-12217_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=La%20Muerte%20de%20Robin%20Hood%20trailer%20espanol",
+      "sinopsis": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1284465,
+        "titulo_tmdb": "La muerte de Robin Hood",
+        "voto": 6.3,
+        "votos": 237,
+        "url_tmdb": "https://www.themoviedb.org/movie/1284465",
+        "imdb_id": "tt32273171",
+        "url_imdb": "https://www.imdb.com/title/tt32273171/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/pC2hVl4J522GcMVc5OghRHSs0tq.jpg",
+        "director": "Michael Sarnoski",
+        "reparto": [
+          {
+            "nombre": "Hugh Jackman",
+            "personaje": "Robin Hood"
+          },
+          {
+            "nombre": "Jodie Comer",
+            "personaje": "Sister Brigid"
+          },
+          {
+            "nombre": "Bill Skarsgård",
+            "personaje": "Little John"
+          },
+          {
+            "nombre": "Murray Bartlett",
+            "personaje": "The Leper"
+          },
+          {
+            "nombre": "Noah Jupe",
+            "personaje": "Arthur / Godwyn"
+          },
+          {
+            "nombre": "Jade Croot",
+            "personaje": "Wainwright"
+          }
+        ],
+        "generos": [
+          "Aventura",
+          "Drama",
+          "Acción"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=CE-B1PSgsnA",
+          "embed_id": "CE-B1PSgsnA"
+        },
+        "sinopsis_tmdb": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
+        "estreno": "18 jun 2026",
+        "duracion_min": 123,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "The Death of Robin Hood"
       }
     },
     {
@@ -341,6 +457,32 @@
           ]
         },
         {
+          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
+          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "16:15",
+                "17:45",
+                "19:00",
+                "20:30",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "16:15",
+            "17:45",
+            "19:00",
+            "20:30",
+            "21:45"
+          ]
+        },
+        {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
           "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
@@ -438,6 +580,111 @@
       }
     },
     {
+      "titulo": "La Odisea",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/5/la-odisea-47428-0.webp",
+      "cines": [
+        {
+          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
+          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "20:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "20:45"
+          ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "17:10",
+                "20:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:10",
+            "20:40"
+          ]
+        }
+      ],
+      "genero": "Drama",
+      "duracion": "170 minutos",
+      "clasificacion": "12 Años",
+      "director": "Christopher Nolan",
+      "actores": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel, Charlize Theron",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/la-odisea-12131_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=La%20Odisea%20trailer%20espanol",
+      "sinopsis": "-",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1368337,
+        "titulo_tmdb": "La Odisea",
+        "voto": 8.0,
+        "votos": 3049,
+        "url_tmdb": "https://www.themoviedb.org/movie/1368337",
+        "imdb_id": "tt33764258",
+        "url_imdb": "https://www.imdb.com/title/tt33764258/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
+        "director": "Christopher Nolan",
+        "reparto": [
+          {
+            "nombre": "Matt Damon",
+            "personaje": "Odysseus"
+          },
+          {
+            "nombre": "Tom Holland",
+            "personaje": "Telemachus"
+          },
+          {
+            "nombre": "Anne Hathaway",
+            "personaje": "Penelope"
+          },
+          {
+            "nombre": "Robert Pattinson",
+            "personaje": "Antinous"
+          },
+          {
+            "nombre": "Himesh Patel",
+            "personaje": "Eurylochus"
+          },
+          {
+            "nombre": "Charlize Theron",
+            "personaje": "Calypso"
+          }
+        ],
+        "generos": [
+          "Aventura",
+          "Acción",
+          "Fantasía"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+        "estreno": "15 jul 2026",
+        "duracion_min": 173,
+        "paises": [
+          "Reino Unido",
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "The Odyssey"
+      }
+    },
+    {
       "titulo": "Toy Story 5",
       "poster": "https://cdn.carteleracine.pe/cine/2026/5/toy-story-5-47403-0.webp",
       "cines": [
@@ -473,8 +720,8 @@
       "tmdb": {
         "tmdb_id": 1084244,
         "titulo_tmdb": "Toy Story 5",
-        "voto": 8.1,
-        "votos": 1338,
+        "voto": 8.0,
+        "votos": 1350,
         "url_tmdb": "https://www.themoviedb.org/movie/1084244",
         "imdb_id": "tt29355505",
         "url_imdb": "https://www.imdb.com/title/tt29355505/",
@@ -547,6 +794,24 @@
             "14:00",
             "15:40"
           ]
+        },
+        {
+          "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
+          "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+          "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30",
+                "17:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "17:00"
+          ]
         }
       ],
       "genero": "Comedia",
@@ -608,96 +873,6 @@
         ],
         "idioma": "Ruso",
         "titulo_original": "Маша и Медведи"
-      }
-    },
-    {
-      "titulo": "La Odisea",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002831?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Acción",
-      "clasificacion": "+14",
-      "duracion": "173 min",
-      "director": "Christopher Nolan",
-      "actores": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel, Charlize Theron",
-      "estreno": "",
-      "sinopsis": "-",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "17:10",
-                "20:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:10",
-            "20:40"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1368337,
-        "titulo_tmdb": "La Odisea",
-        "voto": 8.0,
-        "votos": 3049,
-        "url_tmdb": "https://www.themoviedb.org/movie/1368337",
-        "imdb_id": "tt33764258",
-        "url_imdb": "https://www.imdb.com/title/tt33764258/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
-        "director": "Christopher Nolan",
-        "reparto": [
-          {
-            "nombre": "Matt Damon",
-            "personaje": "Odysseus"
-          },
-          {
-            "nombre": "Tom Holland",
-            "personaje": "Telemachus"
-          },
-          {
-            "nombre": "Anne Hathaway",
-            "personaje": "Penelope"
-          },
-          {
-            "nombre": "Robert Pattinson",
-            "personaje": "Antinous"
-          },
-          {
-            "nombre": "Himesh Patel",
-            "personaje": "Eurylochus"
-          },
-          {
-            "nombre": "Charlize Theron",
-            "personaje": "Calypso"
-          }
-        ],
-        "generos": [
-          "Aventura",
-          "Acción",
-          "Fantasía"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
-        "estreno": "15 jul 2026",
-        "duracion_min": 173,
-        "paises": [
-          "Reino Unido",
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "The Odyssey"
       }
     },
     {
@@ -770,7 +945,7 @@
         },
         {
           "titulo": "Tu Corazón Será Destrozado",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/tu-corazon-sera-destrozado-47673-1.jpg",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-muerte-de-robin-hood-47674-1.webp",
           "genero": "Romántica",
           "clasificacion": "12 Años",
           "formatos": [
@@ -867,6 +1042,127 @@
         }
       ],
       "cine_original": "CAJAMARCA - MOVIE TIME"
+    },
+    {
+      "cine": "CAJAMARCA MEGAPLAZA - CINERAMA - CAJAMARCA",
+      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+      "direccion": "Jr Sor Manuela Gil 151 / Centro Comercial Megaplaza",
+      "peliculas": [
+        {
+          "titulo": "La Noche Del Demonio: Están Entre Nosotros",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/tu-corazon-sera-destrozado-47673-1.webp",
+          "genero": "Terror",
+          "clasificacion": "18 Años",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:20",
+                "16:00",
+                "17:15",
+                "18:00",
+                "19:15",
+                "20:00",
+                "21:15",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:20",
+            "16:00",
+            "17:15",
+            "18:00",
+            "19:15",
+            "20:00",
+            "21:15",
+            "22:00"
+          ]
+        },
+        {
+          "titulo": "La Muerte de Robin Hood",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-muerte-de-robin-hood-47674-1.jpg",
+          "genero": "Aventura",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "18:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:30"
+          ]
+        },
+        {
+          "titulo": "Spider Man: Un Nuevo Dia",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-0.webp",
+          "genero": "Ciencia Ficción",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "16:15",
+                "17:45",
+                "19:00",
+                "20:30",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "16:15",
+            "17:45",
+            "19:00",
+            "20:30",
+            "21:45"
+          ]
+        },
+        {
+          "titulo": "La Odisea",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/5/la-odisea-47428-0.webp",
+          "genero": "Drama",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "20:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "20:45"
+          ]
+        },
+        {
+          "titulo": "Masha Y Los Osos",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/masha-y-los-osos-47643-0.webp",
+          "genero": "Comedia",
+          "clasificacion": "Todos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30",
+                "17:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "17:00"
+          ]
+        }
+      ],
+      "no_consultado": true,
+      "nota": "No se pudo consultar su cartelera. Suele tener funciones a diario.",
+      "url": "https://www.cinerama.com.pe/cines"
     },
     {
       "cine": "CinePlanet Cajamarca Real Plaza",
@@ -997,17 +1293,6 @@
         }
       ],
       "cine_original": "CP Cajamarca"
-    },
-    {
-      "cine": "Cinerama Cajamarca MegaPlaza",
-      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-      "direccion": "",
-      "peliculas": [],
-      "sin_programacion": true,
-      "nota": "No se pudo consultar su cartelera. Suele tener funciones a diario.",
-      "no_consultado": true,
-      "url": "https://www.cinerama.com.pe/cines",
-      "cine_original": "Cajamarca Megaplaza (Cinerama)"
     }
   ],
   "estado": "ok",
@@ -1015,6 +1300,6 @@
     "Cineplanet"
   ],
   "notas": [
-    "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
+    "Cinerama: NO_CONSULTADO: JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   ]
 }
