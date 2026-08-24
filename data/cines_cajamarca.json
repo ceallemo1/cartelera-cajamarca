@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-24 08:59",
+  "actualizado": "2026-08-24 11:50",
   "fecha_objetivo": "2026-08-24",
   "peliculas": [
     {
@@ -154,7 +154,7 @@
     },
     {
       "titulo": "Tu Corazón Será Destrozado",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/8/tu-corazon-sera-destrozado-47673-1.jpg",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-muerte-de-robin-hood-47674-1.webp",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
@@ -486,6 +486,111 @@
       }
     },
     {
+      "titulo": "La Odisea",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/5/la-odisea-47428-0.webp",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "17:10",
+                "20:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:10",
+            "20:40"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "20:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "20:45"
+          ]
+        }
+      ],
+      "genero": "Drama",
+      "duracion": "170 minutos",
+      "clasificacion": "12 Años",
+      "director": "Christopher Nolan",
+      "actores": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel, Charlize Theron",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/la-odisea-12131_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=La%20Odisea%20trailer%20espanol",
+      "sinopsis": "-",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1368337,
+        "titulo_tmdb": "La Odisea",
+        "voto": 8.0,
+        "votos": 3143,
+        "url_tmdb": "https://www.themoviedb.org/movie/1368337",
+        "imdb_id": "tt33764258",
+        "url_imdb": "https://www.imdb.com/title/tt33764258/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
+        "director": "Christopher Nolan",
+        "reparto": [
+          {
+            "nombre": "Matt Damon",
+            "personaje": "Odysseus"
+          },
+          {
+            "nombre": "Tom Holland",
+            "personaje": "Telemachus"
+          },
+          {
+            "nombre": "Anne Hathaway",
+            "personaje": "Penelope"
+          },
+          {
+            "nombre": "Robert Pattinson",
+            "personaje": "Antinous"
+          },
+          {
+            "nombre": "Himesh Patel",
+            "personaje": "Eurylochus"
+          },
+          {
+            "nombre": "Charlize Theron",
+            "personaje": "Calypso"
+          }
+        ],
+        "generos": [
+          "Aventura",
+          "Acción",
+          "Fantasía"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+        "estreno": "15 jul 2026",
+        "duracion_min": 173,
+        "paises": [
+          "Reino Unido",
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "The Odyssey"
+      }
+    },
+    {
       "titulo": "Toy Story 5",
       "poster": "https://cdn.carteleracine.pe/cine/2026/5/toy-story-5-47403-0.webp",
       "cines": [
@@ -520,7 +625,7 @@
         "tmdb_id": 1084244,
         "titulo_tmdb": "Toy Story 5",
         "voto": 8.2,
-        "votos": 1542,
+        "votos": 1550,
         "url_tmdb": "https://www.themoviedb.org/movie/1084244",
         "imdb_id": "tt29355505",
         "url_imdb": "https://www.imdb.com/title/tt29355505/",
@@ -670,112 +775,6 @@
         ],
         "idioma": "Ruso",
         "titulo_original": "Маша и Медведи"
-      }
-    },
-    {
-      "titulo": "La Odisea",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002831?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Acción",
-      "clasificacion": "+14",
-      "duracion": "173 min",
-      "director": "Christopher Nolan",
-      "actores": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel, Charlize Theron",
-      "estreno": "",
-      "sinopsis": "-",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "17:10",
-                "20:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:10",
-            "20:40"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "20:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "20:45"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1368337,
-        "titulo_tmdb": "La Odisea",
-        "voto": 8.0,
-        "votos": 3129,
-        "url_tmdb": "https://www.themoviedb.org/movie/1368337",
-        "imdb_id": "tt33764258",
-        "url_imdb": "https://www.imdb.com/title/tt33764258/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
-        "director": "Christopher Nolan",
-        "reparto": [
-          {
-            "nombre": "Matt Damon",
-            "personaje": "Odysseus"
-          },
-          {
-            "nombre": "Tom Holland",
-            "personaje": "Telemachus"
-          },
-          {
-            "nombre": "Anne Hathaway",
-            "personaje": "Penelope"
-          },
-          {
-            "nombre": "Robert Pattinson",
-            "personaje": "Antinous"
-          },
-          {
-            "nombre": "Himesh Patel",
-            "personaje": "Eurylochus"
-          },
-          {
-            "nombre": "Charlize Theron",
-            "personaje": "Calypso"
-          }
-        ],
-        "generos": [
-          "Aventura",
-          "Acción",
-          "Fantasía"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
-        "estreno": "15 jul 2026",
-        "duracion_min": 173,
-        "paises": [
-          "Reino Unido",
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "The Odyssey"
       }
     },
     {
@@ -931,7 +930,7 @@
         },
         {
           "titulo": "Tu Corazón Será Destrozado",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/tu-corazon-sera-destrozado-47673-1.jpg",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-muerte-de-robin-hood-47674-1.webp",
           "genero": "Romántica",
           "clasificacion": "12 Años",
           "formatos": [
