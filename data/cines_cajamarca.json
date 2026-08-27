@@ -2,12 +2,12 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-08-26 22:05",
-  "fecha_objetivo": "2026-08-26",
+  "actualizado": "2026-08-27 17:12",
+  "fecha_objetivo": "2026-08-27",
   "peliculas": [
     {
-      "titulo": "La Noche Del Demonio: Están Entre Nosotros",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/8/tu-corazon-sera-destrozado-47673-1.webp",
+      "titulo": "Coyote vs. ACME",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/solo-por-una-noche-47689-1.webp",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
@@ -17,15 +17,144 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "17:35",
-                "19:40",
+                "14:30",
+                "16:30",
+                "18:50",
+                "21:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:30",
+            "16:30",
+            "18:50",
+            "21:15"
+          ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "17:00",
+                "19:20",
+                "21:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:00",
+            "19:20",
+            "21:40"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:15",
+                "20:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:15",
+            "20:15"
+          ]
+        }
+      ],
+      "genero": "Animado",
+      "duracion": "103 minutos",
+      "clasificacion": "7 Años",
+      "director": "Dave Green",
+      "actores": "Will Forte, Lana Condor, John Cena, Tone Bell, Eric Bauza, P.J. Byrne",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
+      "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
+      "sinopsis": "Después de décadas fallando en atrapar al Correcaminos, el Coyote decide hacer lo impensado: demandar a ACME, la compañía responsable de todos los productos defectuosos que arruinaron sus planes. En el juicio más absurdo de la historia, la comedia y la animación se mezclan en una batalla legal que podría cambiar el destino del desierto… para siempre.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1204680,
+        "titulo_tmdb": "Coyote vs. Acme",
+        "voto": 7.3,
+        "votos": 16,
+        "url_tmdb": "https://www.themoviedb.org/movie/1204680",
+        "imdb_id": "tt1756855",
+        "url_imdb": "https://www.imdb.com/title/tt1756855/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/uD8uCTTdrsfFmRI468vB8FMoe9T.jpg",
+        "director": "David Green",
+        "reparto": [
+          {
+            "nombre": "Will Forte",
+            "personaje": "Kevin Avery"
+          },
+          {
+            "nombre": "Lana Condor",
+            "personaje": "Paige Avery"
+          },
+          {
+            "nombre": "John Cena",
+            "personaje": "Buddy Crane"
+          },
+          {
+            "nombre": "Tone Bell",
+            "personaje": "Sal Maltese"
+          },
+          {
+            "nombre": "Eric Bauza",
+            "personaje": "Foghorn Leghorn / Daffy Duck / Porky Pig / Elmer Fudd / Bugs Bunny / Tweety / Road Runner (voice)"
+          },
+          {
+            "nombre": "P.J. Byrne",
+            "personaje": "Bill Pellicano"
+          }
+        ],
+        "generos": [
+          "Comedia",
+          "Aventura",
+          "Familia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=WQRoa6l4bwI",
+          "embed_id": "WQRoa6l4bwI"
+        },
+        "sinopsis_tmdb": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+        "estreno": "20 ago 2026",
+        "duracion_min": 103,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Coyote vs. Acme"
+      }
+    },
+    {
+      "titulo": "La Guerra De Los Últimos",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-guerra-de-los-ultimos-47694-1.jpg",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
                 "21:45"
               ]
             }
           ],
           "horarios": [
-            "17:35",
-            "19:40",
             "21:45"
           ]
         },
@@ -40,13 +169,122 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "21:30",
+                "18:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:20"
+          ]
+        }
+      ],
+      "genero": "Acción",
+      "duracion": "100 minutos",
+      "clasificacion": "12 Años",
+      "director": "Ridley Scott",
+      "actores": "Jacob Elordi | Margaret Qualley | Josh Brolin",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/la-guerra-de-los-ultimos-12225_252",
+      "trailer_url": "https://www.youtube.com/watch?v=8E1pkrmZQ0o",
+      "sinopsis": "Cuenta la historia de Hig, un joven piloto que, junto a Bangley, un militar experto en supervivencia, ha construido un refugio eficiente pero aislado en un despiadado mundo postapocalíptico, hasta que una misteriosa transmisión de radio lo impulsa a aventurarse en lo desconocido en busca de la esperanza y la humanidad en las que aún cree.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1384216,
+        "titulo_tmdb": "La constelación del perro",
+        "voto": 7.3,
+        "votos": 44,
+        "url_tmdb": "https://www.themoviedb.org/movie/1384216",
+        "imdb_id": "tt21285562",
+        "url_imdb": "https://www.imdb.com/title/tt21285562/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/vbCb1yHXtXym4V1c420MSasbyyP.jpg",
+        "director": "Ridley Scott",
+        "reparto": [
+          {
+            "nombre": "Jacob Elordi",
+            "personaje": "Hig"
+          },
+          {
+            "nombre": "Margaret Qualley",
+            "personaje": "Cima"
+          },
+          {
+            "nombre": "Josh Brolin",
+            "personaje": "Bangley"
+          },
+          {
+            "nombre": "Guy Pearce",
+            "personaje": "Pops"
+          },
+          {
+            "nombre": "Allison Janney",
+            "personaje": "Darlene"
+          },
+          {
+            "nombre": "Benedict Wong",
+            "personaje": "Aaron"
+          }
+        ],
+        "generos": [
+          "Ciencia ficción",
+          "Aventura",
+          "Suspense"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=a8qEBr7eYmc",
+          "embed_id": "a8qEBr7eYmc"
+        },
+        "sinopsis_tmdb": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
+        "estreno": "26 ago 2026",
+        "duracion_min": 119,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "The Dog Stars"
+      }
+    },
+    {
+      "titulo": "La Noche Del Demonio: Están Entre Nosotros",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-noche-del-demonio-estan-entre-nosotros-47638-0.webp",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "17:35",
+                "19:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:35",
+            "19:40"
+          ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "17:50",
+                "20:10",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "21:30",
+            "17:50",
+            "20:10",
             "22:30"
           ]
         },
@@ -58,25 +296,25 @@
             {
               "formato": "",
               "horarios": [
-                "15:20",
+                "15:00",
                 "16:00",
-                "17:15",
+                "17:00",
                 "18:00",
-                "19:15",
+                "19:00",
                 "20:00",
-                "21:15",
+                "21:00",
                 "22:00"
               ]
             }
           ],
           "horarios": [
-            "15:20",
+            "15:00",
             "16:00",
-            "17:15",
+            "17:00",
             "18:00",
-            "19:15",
+            "19:00",
             "20:00",
-            "21:15",
+            "21:00",
             "22:00"
           ]
         }
@@ -94,8 +332,8 @@
       "tmdb": {
         "tmdb_id": 1291595,
         "titulo_tmdb": "Insidious: Fuera del más allá",
-        "voto": 6.6,
-        "votos": 68,
+        "voto": 6.5,
+        "votos": 73,
         "url_tmdb": "https://www.themoviedb.org/movie/1291595",
         "imdb_id": "tt32393988",
         "url_imdb": "https://www.imdb.com/title/tt32393988/",
@@ -143,175 +381,6 @@
       }
     },
     {
-      "titulo": "Tu Corazón Será Destrozado",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-muerte-de-robin-hood-47674-1.webp",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "17:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:20"
-          ]
-        }
-      ],
-      "genero": "Romántica",
-      "duracion": "135 minutos",
-      "clasificacion": "12 Años",
-      "director": "Michael Vaynberg",
-      "actores": "Veronika Zhuravleva, Daniel Vegas, Alya Mayer, Maksim Saprykin, Evgeniya Loza, Pavel Kuzmin",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/tu-corazon-sera-destrozado-12216_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Tu%20Coraz%C3%B3n%20Ser%C3%A1%20Destrozado%20trailer%20espanol",
-      "sinopsis": "Polina, una estudiante de secundaria, encuentra un salvavidas inesperado frente al acoso que sufre en su nuevo instituto. Para frenar el bullying, sella un pacto con Bars, el cabecilla de los abusadores: él fingirá ser su novio y se convertirá en su protector, pero a cambio, ella tendrá que obedecerle en todo lo que él le pida.  Lo que empieza como un juego de supervivencia se complica cuando la química entre los dos se vuelve real. Sin embargo, su historia tiene los días contados: tanto sus familias como sus propios compañeros harán lo imposible por dinamitar una relación que nadie aprueba.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1523145,
-        "titulo_tmdb": "Tu corazón se romperá",
-        "voto": 7.1,
-        "votos": 120,
-        "url_tmdb": "https://www.themoviedb.org/movie/1523145",
-        "imdb_id": "tt38190257",
-        "url_imdb": "https://www.imdb.com/title/tt38190257/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/siSnG1h8JKkuHgM0RuOWLcNxSbz.jpg",
-        "director": "Михаил Вайнберг",
-        "reparto": [
-          {
-            "nombre": "Даниэль Вегас",
-            "personaje": "Барс"
-          },
-          {
-            "nombre": "Вероника Журавлёва",
-            "personaje": "Полина"
-          },
-          {
-            "nombre": "Иван Трушин",
-            "personaje": "Лэйм"
-          },
-          {
-            "nombre": "Максим Сапрыкин",
-            "personaje": "Леха"
-          },
-          {
-            "nombre": "Аля Майер",
-            "personaje": "Дилара"
-          },
-          {
-            "nombre": "Евгения Лоза",
-            "personaje": "мама Полины"
-          }
-        ],
-        "generos": [
-          "Romance"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Polina, una estudiante de secundaria, encuentra un salvavidas inesperado frente al acoso que sufre en su nuevo instituto. Para frenar el bullying, sella un pacto con Bars, el cabecilla de los abusadores: él fingirá ser su novio y se convertirá en su protector, pero a cambio, ella tendrá que obedecerle en todo lo que él le pida.  Lo que empieza como un juego de supervivencia se complica cuando la química entre los dos se vuelve real. Sin embargo, su historia tiene los días contados: tanto sus familias como sus propios compañeros harán lo imposible por dinamitar una relación que nadie aprueba.",
-        "estreno": "26 mar 2026",
-        "duracion_min": 134,
-        "paises": [
-          "Russia"
-        ],
-        "idioma": "Ruso",
-        "titulo_original": "Твоё сердце будет разбито"
-      }
-    },
-    {
-      "titulo": "El Final De La Calle Oak",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/8/el-final-de-la-calle-oak-47640-0.webp",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "19:55",
-                "21:55"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:55",
-            "21:55"
-          ]
-        }
-      ],
-      "genero": "Acción",
-      "duracion": "100 minutos",
-      "clasificacion": "12 Años",
-      "director": "David Robert Mitchell",
-      "actores": "Anne Hathaway, Ewan McGregor, Christian Convery, Maisy Stella, Jordan Alexa Davis, P.J. Byrne",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/el-final-de-la-calle-oak-12204_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=El%20Final%20De%20La%20Calle%20Oak%20trailer%20espanol",
-      "sinopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1101383,
-        "titulo_tmdb": "El final de Oak Street",
-        "voto": 6.4,
-        "votos": 369,
-        "url_tmdb": "https://www.themoviedb.org/movie/1101383",
-        "imdb_id": "tt27165187",
-        "url_imdb": "https://www.imdb.com/title/tt27165187/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
-        "director": "David Robert Mitchell",
-        "reparto": [
-          {
-            "nombre": "Anne Hathaway",
-            "personaje": "Denise Platt"
-          },
-          {
-            "nombre": "Ewan McGregor",
-            "personaje": "Greg Platt"
-          },
-          {
-            "nombre": "Christian Convery",
-            "personaje": "Brian Platt"
-          },
-          {
-            "nombre": "Maisy Stella",
-            "personaje": "Audrey Platt"
-          },
-          {
-            "nombre": "Jordan Alexa Davis",
-            "personaje": "Jeannette Christiansen"
-          },
-          {
-            "nombre": "P.J. Byrne",
-            "personaje": "Mel Jacobs"
-          }
-        ],
-        "generos": [
-          "Ciencia ficción",
-          "Misterio",
-          "Suspense"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=pKtm-_iOivI",
-          "embed_id": "pKtm-_iOivI"
-        },
-        "sinopsis_tmdb": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
-        "estreno": "12 ago 2026",
-        "duracion_min": 99,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "The End of Oak Street"
-      }
-    },
-    {
       "titulo": "Spider Man: Un Nuevo Dia",
       "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-0.webp",
       "cines": [
@@ -323,16 +392,16 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "16:10",
-                "19:00",
-                "21:50"
+                "14:45",
+                "16:00",
+                "20:50"
               ]
             }
           ],
           "horarios": [
-            "16:10",
-            "19:00",
-            "21:50"
+            "14:45",
+            "16:00",
+            "20:50"
           ]
         },
         {
@@ -346,12 +415,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "22:00"
+                "18:30"
               ]
             }
           ],
           "horarios": [
-            "22:00"
+            "18:30"
           ]
         },
         {
@@ -362,22 +431,16 @@
             {
               "formato": "",
               "horarios": [
-                "15:00",
-                "16:15",
-                "17:45",
-                "19:00",
-                "20:30",
-                "21:45"
+                "15:45",
+                "18:30",
+                "21:15"
               ]
             }
           ],
           "horarios": [
-            "15:00",
-            "16:15",
-            "17:45",
-            "19:00",
-            "20:30",
-            "21:45"
+            "15:45",
+            "18:30",
+            "21:15"
           ]
         }
       ],
@@ -395,7 +458,7 @@
         "tmdb_id": 969681,
         "titulo_tmdb": "Spider-Man: Brand New Day",
         "voto": 7.9,
-        "votos": 2187,
+        "votos": 2215,
         "url_tmdb": "https://www.themoviedb.org/movie/969681",
         "imdb_id": "tt22084616",
         "url_imdb": "https://www.imdb.com/title/tt22084616/",
@@ -447,8 +510,8 @@
       }
     },
     {
-      "titulo": "Toy Story 5",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/5/toy-story-5-47403-0.webp",
+      "titulo": "Harry Potter y la Piedra Filosofal",
+      "poster": "https://cdn.carteleracine.pe/cine/2022/2/harry-potter-y-la-piedra-filosofal-40980-0.webp",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
@@ -457,204 +520,6 @@
           "formatos": [
             {
               "formato": "Doblada",
-              "horarios": [
-                "15:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30"
-          ]
-        }
-      ],
-      "genero": "Animado",
-      "duracion": "102 minutos",
-      "clasificacion": "Todos",
-      "director": "Andrew Stanton",
-      "actores": "Tom Hanks, Tim Allen, Joan Cusack, Greta Lee, Conan O'Brien, Tony Hale, Craig Robinson, Shelby Rabara, Scarlett Spears",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/toy-story-5-12119_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Toy%20Story%205%20trailer%20espanol",
-      "sinopsis": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1084244,
-        "titulo_tmdb": "Toy Story 5",
-        "voto": 8.2,
-        "votos": 1658,
-        "url_tmdb": "https://www.themoviedb.org/movie/1084244",
-        "imdb_id": "tt29355505",
-        "url_imdb": "https://www.imdb.com/title/tt29355505/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-        "director": "Andrew Stanton",
-        "reparto": [
-          {
-            "nombre": "Joan Cusack",
-            "personaje": "Jessie (voice)"
-          },
-          {
-            "nombre": "Tom Hanks",
-            "personaje": "Woody (voice)"
-          },
-          {
-            "nombre": "Tim Allen",
-            "personaje": "Buzz Lightyear (voice)"
-          },
-          {
-            "nombre": "Conan O'Brien",
-            "personaje": "Smarty Pants (voice)"
-          },
-          {
-            "nombre": "Scarlett Spears",
-            "personaje": "Bonnie (voice)"
-          },
-          {
-            "nombre": "Greta Lee",
-            "personaje": "Lilypad (voice)"
-          }
-        ],
-        "generos": [
-          "Animación",
-          "Familia",
-          "Comedia",
-          "Aventura"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=9_reo5Jl1OM",
-          "embed_id": "9_reo5Jl1OM"
-        },
-        "sinopsis_tmdb": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-        "estreno": "17 jun 2026",
-        "duracion_min": 102,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Toy Story 5"
-      }
-    },
-    {
-      "titulo": "Masha Y Los Osos",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/8/masha-y-los-osos-47643-0.webp",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:40"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30",
-                "17:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30",
-            "17:00"
-          ]
-        }
-      ],
-      "genero": "Comedia",
-      "duracion": "79 minutos",
-      "clasificacion": "Todos",
-      "director": "Antonina Ruzhe",
-      "actores": "Vitaliya Kornienko, Lyudmila Artemeva, Zoya Berber, Gleb Bogdanovich, Artyom Gaidukov, Anya Izotova, Roman Kulyasov, Mikhail Orlov, Georgii Pakhomov",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/masha-y-los-osos-12207_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Masha%20Y%20Los%20Osos%20trailer%20espanol",
-      "sinopsis": "Masha tiene que salvar a su hermano, que ha caído bajo el hechizo de los espíritus malignos del bosque y se ha convertido en una cabra. Para romper la terrible maldición, la niña tiene que unir fuerzas con los héroes de cuento de hadas que conoce desde la infancia: los tres osos.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1448028,
-        "titulo_tmdb": "Masha y el oso",
-        "voto": 7.0,
-        "votos": 1,
-        "url_tmdb": "https://www.themoviedb.org/movie/1448028",
-        "imdb_id": "tt33052222",
-        "url_imdb": "https://www.imdb.com/title/tt33052222/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/8bIrHHzOizxWHzgzmXXp2UnOjWI.jpg",
-        "director": "Антонина Руже",
-        "reparto": [
-          {
-            "nombre": "Виталия Корниенко",
-            "personaje": "Masha"
-          },
-          {
-            "nombre": "Людмила Артемьева",
-            "personaje": ""
-          },
-          {
-            "nombre": "Снежана Самохина",
-            "personaje": ""
-          },
-          {
-            "nombre": "Мирон Проворов",
-            "personaje": ""
-          },
-          {
-            "nombre": "Зоя Бербер",
-            "personaje": ""
-          },
-          {
-            "nombre": "Артём Гайдуков",
-            "personaje": ""
-          }
-        ],
-        "generos": [
-          "Aventura",
-          "Fantasía"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Masha tiene que salvar a su hermano, que ha caído bajo el hechizo de los espíritus malignos del bosque y se ha convertido en una cabra. Para romper la terrible maldición, la niña tiene que unir fuerzas con los héroes de cuento de hadas que conoce desde la infancia: los tres osos.",
-        "estreno": "20 nov 2025",
-        "duracion_min": 79,
-        "paises": [
-          "Russia"
-        ],
-        "idioma": "Ruso",
-        "titulo_original": "Маша и Медведи"
-      }
-    },
-    {
-      "titulo": "La Muerte de Robin Hood",
-      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/robin10000.jpg",
-      "genero": "Accion",
-      "clasificacion": "Todo Espectador",
-      "duracion": "02:02",
-      "sinopsis": "Un Robin Hood Herido Enfrenta la Muerte Después de Su Última Batalla, Hasta Que un Misterioso Curandero Le Ofrece la Redención de Su Pasado Violento.",
-      "director": "Michael Sarnoski",
-      "actores": "Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett, Noah Jupe, Jade Croot",
-      "estreno": "",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=CE-B1PSgsnA",
-      "fuente_peli": "Cinerama",
-      "cines": [
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
               "horarios": [
                 "18:30"
               ]
@@ -665,90 +530,148 @@
           ]
         }
       ],
+      "genero": "Fantasía",
+      "duracion": "152 min.",
+      "clasificacion": "7 Años",
+      "director": "Chris Columbus",
+      "actores": "Daniel Radcliffe, Rupert Grint, Emma Watson, Richard Harris, Tom Felton, Alan Rickman",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/harry-potter-y-la-piedra-filosofal-8114_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Harry%20Potter%20y%20la%20Piedra%20Filosofal%20trailer%20espanol",
+      "sinopsis": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
+      "puntaje": "",
       "tmdb": {
-        "tmdb_id": 1284465,
-        "titulo_tmdb": "La muerte de Robin Hood",
-        "voto": 6.3,
-        "votos": 251,
-        "url_tmdb": "https://www.themoviedb.org/movie/1284465",
-        "imdb_id": "tt32273171",
-        "url_imdb": "https://www.imdb.com/title/tt32273171/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/pC2hVl4J522GcMVc5OghRHSs0tq.jpg",
-        "director": "Michael Sarnoski",
+        "tmdb_id": 671,
+        "titulo_tmdb": "Harry Potter y la piedra filosofal",
+        "voto": 7.9,
+        "votos": 30086,
+        "url_tmdb": "https://www.themoviedb.org/movie/671",
+        "imdb_id": "tt0241527",
+        "url_imdb": "https://www.imdb.com/title/tt0241527/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
+        "director": "Chris Columbus",
         "reparto": [
           {
-            "nombre": "Hugh Jackman",
-            "personaje": "Robin Hood"
+            "nombre": "Daniel Radcliffe",
+            "personaje": "Harry Potter"
           },
           {
-            "nombre": "Jodie Comer",
-            "personaje": "Sister Brigid"
+            "nombre": "Rupert Grint",
+            "personaje": "Ron Weasley"
           },
           {
-            "nombre": "Bill Skarsgård",
-            "personaje": "Little John"
+            "nombre": "Emma Watson",
+            "personaje": "Hermione Granger"
           },
           {
-            "nombre": "Murray Bartlett",
-            "personaje": "The Leper"
+            "nombre": "Richard Harris",
+            "personaje": "Albus Dumbledore"
           },
           {
-            "nombre": "Noah Jupe",
-            "personaje": "Arthur / Godwyn"
+            "nombre": "Tom Felton",
+            "personaje": "Draco Malfoy"
           },
           {
-            "nombre": "Jade Croot",
-            "personaje": "Wainwright"
+            "nombre": "Alan Rickman",
+            "personaje": "Severus Snape"
           }
         ],
         "generos": [
           "Aventura",
-          "Drama",
-          "Acción"
+          "Fantasía"
         ],
         "trailer": {
-          "url": "https://www.youtube.com/watch?v=CE-B1PSgsnA",
-          "embed_id": "CE-B1PSgsnA"
+          "url": "https://www.youtube.com/watch?v=WE4AJuIvG1Y",
+          "embed_id": "WE4AJuIvG1Y"
         },
-        "sinopsis_tmdb": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
-        "estreno": "18 jun 2026",
-        "duracion_min": 123,
+        "sinopsis_tmdb": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
+        "estreno": "16 nov 2001",
+        "duracion_min": 152,
         "paises": [
+          "Reino Unido",
           "Estados Unidos"
         ],
         "idioma": "Inglés",
-        "titulo_original": "The Death of Robin Hood"
+        "titulo_original": "Harry Potter and the Philosopher's Stone"
       }
     },
     {
-      "titulo": "La Odisea",
-      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/01.jpg",
-      "genero": "Accion",
-      "clasificacion": "Todo Espectador",
-      "duracion": "02:52",
-      "sinopsis": "Tras la Guerra de Troya, el Héroe Griego Odiseo Regresa a Ítaca, Grecia, Enfrentándose a Figuras de la Mitología Griega Como el Cíclope Polifemo, las Sirenas y Calipso.",
-      "director": "Christopher Nolan",
-      "actores": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel, Charlize Theron",
+      "titulo": "Harry Potter y la piedra filosofal [2001]",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003050?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Familiar",
+      "clasificacion": "APT",
+      "duracion": "166 min",
+      "director": "",
+      "actores": "",
       "estreno": "",
+      "sinopsis": "El día en que cumple once años, Harry Potter se entera de que es hijo de dos destacados hechiceros, de los que ha heredado poderes mágicos. En la escuela Hogwarts de Magia y Hechicería, donde se educa con otros niños que también tienen poderes especiales, aprenderá todo lo necesario para ser mago.",
       "puntaje": "",
       "ficha": "",
-      "trailer_url": "",
-      "fuente_peli": "Cinerama",
+      "trailer_url": "https://youtu.be/tXRXEqd5AhQ?si=mX7YF1erAUzjFoEu",
+      "fuente_peli": "Cineplanet",
       "cines": [
         {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "",
+              "formato": "2D REGULAR SUBTITULAD",
               "horarios": [
-                "20:45"
+                "17:30",
+                "20:50"
+              ]
+            },
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "21:30"
               ]
             }
           ],
           "horarios": [
-            "20:45"
+            "17:30",
+            "20:50",
+            "21:30"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "La Odisea",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002831?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Acción",
+      "clasificacion": "+14",
+      "duracion": "173 min",
+      "director": "Christopher Nolan",
+      "actores": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel, Charlize Theron",
+      "estreno": "",
+      "sinopsis": "-",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=X9nUrOnHlz0",
+      "fuente_peli": "Cineplanet",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:00"
           ]
         }
       ],
@@ -756,7 +679,7 @@
         "tmdb_id": 1368337,
         "titulo_tmdb": "La Odisea",
         "voto": 8.0,
-        "votos": 3219,
+        "votos": 3244,
         "url_tmdb": "https://www.themoviedb.org/movie/1368337",
         "imdb_id": "tt33764258",
         "url_imdb": "https://www.imdb.com/title/tt33764258/",
@@ -793,7 +716,10 @@
           "Acción",
           "Fantasía"
         ],
-        "trailer": {},
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=X9nUrOnHlz0",
+          "embed_id": "X9nUrOnHlz0"
+        },
         "sinopsis_tmdb": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
         "estreno": "15 jul 2026",
         "duracion_min": 173,
@@ -804,6 +730,107 @@
         "idioma": "Inglés",
         "titulo_original": "The Odyssey"
       }
+    },
+    {
+      "titulo": "La Guerra de los Útimos",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/guettsa.jpg",
+      "genero": "Accion",
+      "clasificacion": "Mayores de 14",
+      "duracion": "01:58",
+      "sinopsis": "En un Mundo Postapocalíptico, un Virus Aniquila a la Humanidad. Los Supervivientes Se Enfrentan a Unos Carroñeros Errantes Llamados Segadores. El Protagonista, Hig, un Piloto, Sobrevivió a la Gripe Pero Perdió a Su Mujer.",
+      "director": "",
+      "actores": "",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:15",
+                "17:30",
+                "19:45",
+                "22:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:15",
+            "17:30",
+            "19:45",
+            "22:10"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Solo Por una Noche",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/nochee.jpg",
+      "genero": "Comedia",
+      "clasificacion": "Mayores de 14",
+      "duracion": "01:43",
+      "sinopsis": "En la Única Noche en Que Se Permite el Sexo Prematrimonial, Dos Desconocidos Buscan Desesperadamente Pareja en Su Sociedad Restrictiva.",
+      "director": "Leonardo Marín Núñez",
+      "actores": "Emma Yesica Duvali",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "18:15",
+                "22:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:15",
+            "22:15"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1273495,
+        "titulo_tmdb": "Sólo por una noche: Yesica Duvali",
+        "voto": null,
+        "votos": 0,
+        "url_tmdb": "https://www.themoviedb.org/movie/1273495",
+        "imdb_id": "",
+        "url_imdb": "",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/eYrFjBcRk2zD7Tx6qnduoUhWdCq.jpg",
+        "director": "Leonardo Marín Núñez",
+        "reparto": [
+          {
+            "nombre": "Emma Yesica Duvali",
+            "personaje": ""
+          }
+        ],
+        "generos": [],
+        "trailer": {},
+        "sinopsis_tmdb": "",
+        "estreno": "",
+        "duracion_min": 22,
+        "paises": [
+          "México"
+        ],
+        "idioma": "Español",
+        "titulo_original": "Sólo por una noche: Yesica Duvali"
+      }
     }
   ],
   "cines": [
@@ -813,8 +840,48 @@
       "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
       "peliculas": [
         {
+          "titulo": "Coyote vs. ACME",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/solo-por-una-noche-47689-1.webp",
+          "genero": "Animado",
+          "clasificacion": "7 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "14:30",
+                "16:30",
+                "18:50",
+                "21:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:30",
+            "16:30",
+            "18:50",
+            "21:15"
+          ]
+        },
+        {
+          "titulo": "La Guerra De Los Últimos",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-guerra-de-los-ultimos-47694-1.jpg",
+          "genero": "Acción",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:45"
+          ]
+        },
+        {
           "titulo": "La Noche Del Demonio: Están Entre Nosotros",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/tu-corazon-sera-destrozado-47673-1.webp",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-noche-del-demonio-estan-entre-nosotros-47638-0.webp",
           "genero": "Terror",
           "clasificacion": "18 Años",
           "formatos": [
@@ -822,51 +889,13 @@
               "formato": "Doblada",
               "horarios": [
                 "17:35",
-                "19:40",
-                "21:45"
+                "19:40"
               ]
             }
           ],
           "horarios": [
             "17:35",
-            "19:40",
-            "21:45"
-          ]
-        },
-        {
-          "titulo": "Tu Corazón Será Destrozado",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-muerte-de-robin-hood-47674-1.webp",
-          "genero": "Romántica",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "17:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:20"
-          ]
-        },
-        {
-          "titulo": "El Final De La Calle Oak",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/el-final-de-la-calle-oak-47640-0.webp",
-          "genero": "Acción",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "19:55",
-                "21:55"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:55",
-            "21:55"
+            "19:40"
           ]
         },
         {
@@ -878,50 +907,33 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "16:10",
-                "19:00",
-                "21:50"
+                "14:45",
+                "16:00",
+                "20:50"
               ]
             }
           ],
           "horarios": [
-            "16:10",
-            "19:00",
-            "21:50"
+            "14:45",
+            "16:00",
+            "20:50"
           ]
         },
         {
-          "titulo": "Toy Story 5",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/5/toy-story-5-47403-0.webp",
-          "genero": "Animado",
-          "clasificacion": "Todos",
+          "titulo": "Harry Potter y la Piedra Filosofal",
+          "poster": "https://cdn.carteleracine.pe/cine/2022/2/harry-potter-y-la-piedra-filosofal-40980-0.webp",
+          "genero": "Fantasía",
+          "clasificacion": "7 Años",
           "formatos": [
             {
               "formato": "Doblada",
               "horarios": [
-                "15:30"
+                "18:30"
               ]
             }
           ],
           "horarios": [
-            "15:30"
-          ]
-        },
-        {
-          "titulo": "Masha Y Los Osos",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/masha-y-los-osos-47643-0.webp",
-          "genero": "Comedia",
-          "clasificacion": "Todos",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:40"
+            "18:30"
           ]
         }
       ],
@@ -936,6 +948,70 @@
       "fuente_cine": "Cineplanet",
       "peliculas": [
         {
+          "titulo": "Coyote vs. ACME",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002921?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Animación",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "17:00",
+                "19:20",
+                "21:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:00",
+            "19:20",
+            "21:40"
+          ]
+        },
+        {
+          "titulo": "Harry Potter y la piedra filosofal [2001]",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003050?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Familiar",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR SUBTITULAD",
+              "horarios": [
+                "17:30",
+                "20:50"
+              ]
+            },
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:30",
+            "20:50",
+            "21:30"
+          ]
+        },
+        {
+          "titulo": "La Guerra De Los Últimos",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002969?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Thriller",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "18:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:20"
+          ]
+        },
+        {
           "titulo": "La Noche Del Demonio: Están Entre Nosotros",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003049?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Terror",
@@ -944,14 +1020,33 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "21:30",
+                "17:50",
+                "20:10",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "21:30",
+            "17:50",
+            "20:10",
             "22:30"
+          ]
+        },
+        {
+          "titulo": "La Odisea",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002831?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:00"
           ]
         },
         {
@@ -963,12 +1058,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "22:00"
+                "18:30"
               ]
             }
           ],
           "horarios": [
-            "22:00"
+            "18:30"
           ]
         }
       ],
@@ -982,22 +1077,49 @@
       "fuente_cine": "Cinerama",
       "peliculas": [
         {
-          "titulo": "La Muerte de Robin Hood",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/robin10000.jpg",
-          "genero": "Accion",
+          "titulo": "Coyote vs. ACME",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/coyogtw.jpg",
+          "genero": "Animado",
           "clasificacion": "Todo Espectador",
-          "duracion": "02:02",
-          "sinopsis": "Un Robin Hood Herido Enfrenta la Muerte Después de Su Última Batalla, Hasta Que un Misterioso Curandero Le Ofrece la Redención de Su Pasado Violento.",
+          "duracion": "01:44",
+          "sinopsis": "Una Historia Ambientada en el Almacén de Acme, el Fabricante de Todo Lo Que Utilizan los Personajes de los Looney Tunes.",
           "formatos": [
             {
               "formato": "",
               "horarios": [
-                "18:30"
+                "16:15",
+                "20:15"
               ]
             }
           ],
           "horarios": [
-            "18:30"
+            "16:15",
+            "20:15"
+          ]
+        },
+        {
+          "titulo": "La Guerra de los Útimos",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/guettsa.jpg",
+          "genero": "Accion",
+          "clasificacion": "Mayores de 14",
+          "duracion": "01:58",
+          "sinopsis": "En un Mundo Postapocalíptico, un Virus Aniquila a la Humanidad. Los Supervivientes Se Enfrentan a Unos Carroñeros Errantes Llamados Segadores. El Protagonista, Hig, un Piloto, Sobrevivió a la Gripe Pero Perdió a Su Mujer.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:15",
+                "17:30",
+                "19:45",
+                "22:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:15",
+            "17:30",
+            "19:45",
+            "22:10"
           ]
         },
         {
@@ -1011,66 +1133,47 @@
             {
               "formato": "",
               "horarios": [
-                "15:20",
+                "15:00",
                 "16:00",
-                "17:15",
+                "17:00",
                 "18:00",
-                "19:15",
+                "19:00",
                 "20:00",
-                "21:15",
+                "21:00",
                 "22:00"
               ]
             }
           ],
           "horarios": [
-            "15:20",
+            "15:00",
             "16:00",
-            "17:15",
+            "17:00",
             "18:00",
-            "19:15",
+            "19:00",
             "20:00",
-            "21:15",
+            "21:00",
             "22:00"
           ]
         },
         {
-          "titulo": "La Odisea",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/01.jpg",
-          "genero": "Accion",
-          "clasificacion": "Todo Espectador",
-          "duracion": "02:52",
-          "sinopsis": "Tras la Guerra de Troya, el Héroe Griego Odiseo Regresa a Ítaca, Grecia, Enfrentándose a Figuras de la Mitología Griega Como el Cíclope Polifemo, las Sirenas y Calipso.",
+          "titulo": "Solo Por una Noche",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/nochee.jpg",
+          "genero": "Comedia",
+          "clasificacion": "Mayores de 14",
+          "duracion": "01:43",
+          "sinopsis": "En la Única Noche en Que Se Permite el Sexo Prematrimonial, Dos Desconocidos Buscan Desesperadamente Pareja en Su Sociedad Restrictiva.",
           "formatos": [
             {
               "formato": "",
               "horarios": [
-                "20:45"
+                "18:15",
+                "22:15"
               ]
             }
           ],
           "horarios": [
-            "20:45"
-          ]
-        },
-        {
-          "titulo": "Masha Y Los Osos",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/53418.jpg",
-          "genero": "Aventura",
-          "clasificacion": "Todo Espectador",
-          "duracion": "01:20",
-          "sinopsis": "Masha Tiene Que Salvar a Su Hermano, Que Ha Caído Bajo el Hechizo de los Espíritus Malignos del Bosque y Se Ha Convertido en una Cabra. Para Romper la Terrible Maldición, la Niña Tiene Que Unir Fuerzas Con los Héroes de Cuento de Hadas Que Conoce Desde la Infancia: Los Tres Osos.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30",
-                "17:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30",
-            "17:00"
+            "18:15",
+            "22:15"
           ]
         },
         {
@@ -1084,22 +1187,16 @@
             {
               "formato": "",
               "horarios": [
-                "15:00",
-                "16:15",
-                "17:45",
-                "19:00",
-                "20:30",
-                "21:45"
+                "15:45",
+                "18:30",
+                "21:15"
               ]
             }
           ],
           "horarios": [
-            "15:00",
-            "16:15",
-            "17:45",
-            "19:00",
-            "20:30",
-            "21:45"
+            "15:45",
+            "18:30",
+            "21:15"
           ]
         }
       ]
