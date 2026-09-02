@@ -2,8 +2,8 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-01 11:32",
-  "fecha_objetivo": "2026-09-01",
+  "actualizado": "2026-09-02 00:42",
+  "fecha_objetivo": "2026-09-02",
   "peliculas": [
     {
       "titulo": "Coyote vs. ACME",
@@ -75,7 +75,7 @@
         "tmdb_id": 1204680,
         "titulo_tmdb": "Coyote vs. Acme",
         "voto": 7.9,
-        "votos": 67,
+        "votos": 74,
         "url_tmdb": "https://www.themoviedb.org/movie/1204680",
         "imdb_id": "tt1756855",
         "url_imdb": "https://www.imdb.com/title/tt1756855/",
@@ -194,7 +194,7 @@
         "tmdb_id": 1291595,
         "titulo_tmdb": "Insidious: Fuera del más allá",
         "voto": 6.6,
-        "votos": 93,
+        "votos": 95,
         "url_tmdb": "https://www.themoviedb.org/movie/1291595",
         "imdb_id": "tt32393988",
         "url_imdb": "https://www.imdb.com/title/tt32393988/",
@@ -303,7 +303,7 @@
         "tmdb_id": 969681,
         "titulo_tmdb": "Spider-Man: Brand New Day",
         "voto": 7.9,
-        "votos": 2338,
+        "votos": 2346,
         "url_tmdb": "https://www.themoviedb.org/movie/969681",
         "imdb_id": "tt22084616",
         "url_imdb": "https://www.imdb.com/title/tt22084616/",
@@ -389,7 +389,7 @@
         "tmdb_id": 671,
         "titulo_tmdb": "Harry Potter y la piedra filosofal",
         "voto": 7.9,
-        "votos": 30117,
+        "votos": 30124,
         "url_tmdb": "https://www.themoviedb.org/movie/671",
         "imdb_id": "tt0241527",
         "url_imdb": "https://www.imdb.com/title/tt0241527/",
@@ -515,7 +515,7 @@
         "tmdb_id": 1384216,
         "titulo_tmdb": "La constelación del perro",
         "voto": 6.7,
-        "votos": 141,
+        "votos": 155,
         "url_tmdb": "https://www.themoviedb.org/movie/1384216",
         "imdb_id": "tt21285562",
         "url_imdb": "https://www.imdb.com/title/tt21285562/",
@@ -605,7 +605,7 @@
         "tmdb_id": 1368337,
         "titulo_tmdb": "La Odisea",
         "voto": 8.0,
-        "votos": 3376,
+        "votos": 3386,
         "url_tmdb": "https://www.themoviedb.org/movie/1368337",
         "imdb_id": "tt33764258",
         "url_imdb": "https://www.imdb.com/title/tt33764258/",
@@ -903,6 +903,6 @@
     "Cineplanet"
   ],
   "notas": [
-    "Cinerama: NO_CONSULTADO: JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+    "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
   ]
 }
