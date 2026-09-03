@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-03 00:41",
+  "actualizado": "2026-09-03 11:20",
   "fecha_objetivo": "2026-09-03",
   "peliculas": [
     {
@@ -458,7 +458,7 @@
         "tmdb_id": 1204680,
         "titulo_tmdb": "Coyote vs. Acme",
         "voto": 7.8,
-        "votos": 93,
+        "votos": 107,
         "url_tmdb": "https://www.themoviedb.org/movie/1204680",
         "imdb_id": "tt1756855",
         "url_imdb": "https://www.imdb.com/title/tt1756855/",
@@ -567,7 +567,7 @@
         "tmdb_id": 1291595,
         "titulo_tmdb": "Insidious: Fuera del más allá",
         "voto": 6.6,
-        "votos": 95,
+        "votos": 100,
         "url_tmdb": "https://www.themoviedb.org/movie/1291595",
         "imdb_id": "tt32393988",
         "url_imdb": "https://www.imdb.com/title/tt32393988/",
@@ -668,7 +668,7 @@
         "tmdb_id": 969681,
         "titulo_tmdb": "Spider-Man: Brand New Day",
         "voto": 7.9,
-        "votos": 2369,
+        "votos": 2387,
         "url_tmdb": "https://www.themoviedb.org/movie/969681",
         "imdb_id": "tt22084616",
         "url_imdb": "https://www.imdb.com/title/tt22084616/",
@@ -1078,6 +1078,6 @@
     "Cineplanet"
   ],
   "notas": [
-    "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
+    "Cinerama: NO_CONSULTADO: JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   ]
 }
