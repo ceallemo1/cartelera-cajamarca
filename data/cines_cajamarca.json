@@ -2,12 +2,184 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-02 19:06",
-  "fecha_objetivo": "2026-09-02",
+  "actualizado": "2026-09-03 00:41",
+  "fecha_objetivo": "2026-09-03",
   "peliculas": [
     {
-      "titulo": "Coyote vs. ACME",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-guerra-de-los-ultimos-47694-1.webp",
+      "titulo": "Rebelión En La Granja",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/marsupilami-47730-1.webp",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30"
+          ]
+        }
+      ],
+      "genero": "Animado",
+      "duracion": "96 minutos",
+      "clasificacion": "Todos",
+      "director": "Andy Serkis",
+      "actores": "Seth Rogen, Gaten Matarazzo, Steve Buscemi, Glenn Close, Laverne Cox, Kieran Culkin, Woody Harrelson, Jim Parsons, Serkis, Kathleen Turner e Iman Vellani",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/rebelion-en-la-granja-12097_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Rebeli%C3%B3n%20En%20La%20Granja%20trailer%20espanol",
+      "sinopsis": "Un grupo de animales se rebelan contra sus dueños y toman el poder de la granja. Nueva adaptación del clásico de George Orwell.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 539745,
+        "titulo_tmdb": "Rebelión en la Granja",
+        "voto": 6.4,
+        "votos": 108,
+        "url_tmdb": "https://www.themoviedb.org/movie/539745",
+        "imdb_id": "tt2467700",
+        "url_imdb": "https://www.imdb.com/title/tt2467700/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/aAGTQgOJbXG4L3qIlWQl1KFu90t.jpg",
+        "director": "Andy Serkis",
+        "reparto": [
+          {
+            "nombre": "Seth Rogen",
+            "personaje": "Napoleon (voice)"
+          },
+          {
+            "nombre": "Gaten Matarazzo",
+            "personaje": "Lucky (voice)"
+          },
+          {
+            "nombre": "Steve Buscemi",
+            "personaje": "Mr. Whymper (voice)"
+          },
+          {
+            "nombre": "Glenn Close",
+            "personaje": "Frieda Pilkington (voice)"
+          },
+          {
+            "nombre": "Laverne Cox",
+            "personaje": "Snowball (voice)"
+          },
+          {
+            "nombre": "Kieran Culkin",
+            "personaje": "Squealer (voice)"
+          }
+        ],
+        "generos": [
+          "Animación",
+          "Comedia",
+          "Drama",
+          "Familia",
+          "Ciencia ficción"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Un grupo de animales se rebelan contra sus dueños y toman el poder de la granja. Nueva adaptación del clásico de George Orwell.",
+        "estreno": "30 abr 2026",
+        "duracion_min": 136,
+        "paises": [
+          "Reino Unido"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Animal Farm"
+      }
+    },
+    {
+      "titulo": "Marsupilami",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/impacto-mortal-47695-1.webp",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30"
+          ]
+        }
+      ],
+      "genero": "Aventura",
+      "duracion": "99 minutos",
+      "clasificacion": "Todos",
+      "director": "Philippe Lacheau",
+      "actores": "Philippe Lacheau, Jamel Debbouze, Tarek Boudali, Élodie Fontan, Julien Arruti, Alban Ivanov, Reem Kherici, Jean Reno, Gérard Jugnot, Didier Bourdon.",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/marsupilami-12242_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Marsupilami%20trailer%20espanol",
+      "sinopsis": "David debe entregar un paquete desde Sudamérica y descubre que transporta un bebé Marsupilami.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1145899,
+        "titulo_tmdb": "Marsupilami",
+        "voto": 6.4,
+        "votos": 163,
+        "url_tmdb": "https://www.themoviedb.org/movie/1145899",
+        "imdb_id": "tt33029380",
+        "url_imdb": "https://www.imdb.com/title/tt33029380/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/kMhVs1XqmzXlD0mDQ4rTJh4Kvf1.jpg",
+        "director": "Philippe Lacheau",
+        "reparto": [
+          {
+            "nombre": "Philippe Lacheau",
+            "personaje": "David Ticoule"
+          },
+          {
+            "nombre": "Jamel Debbouze",
+            "personaje": "Pablito Camaron"
+          },
+          {
+            "nombre": "Tarek Boudali",
+            "personaje": "Ricky Salsa"
+          },
+          {
+            "nombre": "Élodie Fontan",
+            "personaje": "Tess"
+          },
+          {
+            "nombre": "Julien Arruti",
+            "personaje": "Stéphane Buisson"
+          },
+          {
+            "nombre": "Jean Reno",
+            "personaje": "Jeffrey Malone"
+          }
+        ],
+        "generos": [
+          "Aventura",
+          "Comedia",
+          "Familia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=XTTvrfMVukc",
+          "embed_id": "XTTvrfMVukc"
+        },
+        "sinopsis_tmdb": "David debe entregar un paquete desde Sudamérica y descubre que transporta un bebé Marsupilami.",
+        "estreno": "4 feb 2026",
+        "duracion_min": 99,
+        "paises": [
+          "Francia",
+          "Belgium"
+        ],
+        "idioma": "Francés",
+        "titulo_original": "Marsupilami"
+      }
+    },
+    {
+      "titulo": "Impacto Mortal",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/separada-pero-nunca-sola-47708-1.webp",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
@@ -17,18 +189,14 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "14:30",
-                "16:30",
-                "18:50",
-                "21:15"
+                "17:25",
+                "19:30"
               ]
             }
           ],
           "horarios": [
-            "14:30",
-            "16:30",
-            "18:50",
-            "21:15"
+            "17:25",
+            "19:30"
           ]
         },
         {
@@ -42,44 +210,237 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "18:40",
-                "19:20",
-                "21:40"
+                "15:30",
+                "17:50",
+                "20:10",
+                "22:30"
               ]
             }
           ],
           "horarios": [
-            "18:40",
-            "19:20",
-            "21:40"
+            "15:30",
+            "17:50",
+            "20:10",
+            "22:30"
           ]
-        },
+        }
+      ],
+      "genero": "Acción",
+      "duracion": "105 minutos",
+      "clasificacion": "12 Años",
+      "director": "Renny Harlina",
+      "actores": "Aaron Eckhart - Ben Kingsley - Angus Sampson",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/impacto-mortal-12226_252",
+      "trailer_url": "https://www.youtube.com/watch?v=lNEuVhB0D9U",
+      "sinopsis": "Un grupo de pasajeros internacionales que viaja de Los Ángeles a Shanghái se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones. Atrapados en medio del océano, deberán luchar por sobrevivir mientras una manada de depredadores acecha a su alrededor.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 402051,
+        "titulo_tmdb": "Impacto mortal",
+        "voto": 7.0,
+        "votos": 1,
+        "url_tmdb": "https://www.themoviedb.org/movie/402051",
+        "imdb_id": "tt0219091",
+        "url_imdb": "https://www.imdb.com/title/tt0219091/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/qXt4RZ4Ff14cNR8FhRXTzDMR53s.jpg",
+        "director": "Raúl García",
+        "reparto": [
+          {
+            "nombre": "Ricardo Vázquez",
+            "personaje": "Rubén González"
+          },
+          {
+            "nombre": "Rolando D'Lugo",
+            "personaje": "Ivan Rosario"
+          },
+          {
+            "nombre": "Coraly Santaliz",
+            "personaje": "Marisol Rivera"
+          },
+          {
+            "nombre": "Laura Hernández",
+            "personaje": "Cinthia Maldonado"
+          },
+          {
+            "nombre": "Cristóbal Sánchez",
+            "personaje": "Rafo"
+          },
+          {
+            "nombre": "Franchie Guadalupe",
+            "personaje": "Pedro"
+          }
+        ],
+        "generos": [
+          "Drama",
+          "Acción"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "",
+        "estreno": "17 ago 1998",
+        "duracion_min": 103,
+        "paises": [
+          "Puerto Rico"
+        ],
+        "idioma": "Español",
+        "titulo_original": "Impacto mortal"
+      }
+    },
+    {
+      "titulo": "Separada pero Nunca Sola",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/separada-pero-nunca-sola-47708-1.jpg",
+      "cines": [
         {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
             {
               "formato": "",
               "horarios": [
-                "15:00",
-                "16:15",
-                "17:00",
-                "18:15",
-                "19:00",
-                "20:15",
-                "21:00"
+                "18:20",
+                "20:05",
+                "21:50"
               ]
             }
           ],
           "horarios": [
-            "15:00",
-            "16:15",
-            "17:00",
-            "18:15",
-            "19:00",
-            "20:15",
-            "21:00"
+            "18:20",
+            "20:05",
+            "21:50"
+          ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:00",
+                "18:00",
+                "20:00",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:00",
+            "20:00",
+            "22:00"
+          ]
+        }
+      ],
+      "genero": "Comedia",
+      "duracion": "90 minutos",
+      "clasificacion": "12 Años",
+      "director": "Ani Alva Helfer",
+      "actores": "Armando Machuca, Emilia Drago, Nicolás Galindo",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/separada-pero-nunca-sola-12236_252",
+      "trailer_url": "https://www.youtube.com/watch?v=BZkIHbUkh8k",
+      "sinopsis": "Recién separada, Isabel busca rehacer su vida en un hotel paradisíaco junto a su mejor amiga. Para sacarse de encima a su ex esposo que insiste en volver, inventa un romance con un falso galán. Entre tantas mentiras y consejos disparatados, se desatará un divertido caos en los escenarios más hermosos de la selva peruana.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1744851,
+        "titulo_tmdb": "Separada pero nunca sola",
+        "voto": null,
+        "votos": 0,
+        "url_tmdb": "https://www.themoviedb.org/movie/1744851",
+        "imdb_id": "",
+        "url_imdb": "",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/vhdFKjwbOSTJzjTbaYH1KKVX2v7.jpg",
+        "director": "Ani Alva Helfer",
+        "reparto": [
+          {
+            "nombre": "Emilia Drago",
+            "personaje": ""
+          },
+          {
+            "nombre": "Nicolás Galindo",
+            "personaje": ""
+          },
+          {
+            "nombre": "Joaquín de Orbegoso",
+            "personaje": ""
+          },
+          {
+            "nombre": "Ximena Palomino",
+            "personaje": ""
+          },
+          {
+            "nombre": "Armando Machuca",
+            "personaje": ""
+          }
+        ],
+        "generos": [
+          "Comedia"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "",
+        "estreno": "3 sep 2026",
+        "duracion_min": 100,
+        "paises": [
+          "Perú"
+        ],
+        "idioma": "Español",
+        "titulo_original": "Separada pero nunca sola"
+      }
+    },
+    {
+      "titulo": "Coyote vs. ACME",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/coyote-vs-acme-47670-0.webp",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "17:30",
+                "21:35"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:30",
+            "21:35"
+          ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:50",
+                "16:10",
+                "17:10",
+                "18:30",
+                "19:30",
+                "21:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:50",
+            "16:10",
+            "17:10",
+            "18:30",
+            "19:30",
+            "21:50"
           ]
         }
       ],
@@ -160,16 +521,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "17:35",
-                "19:40",
-                "21:45"
+                "21:35"
               ]
             }
           ],
           "horarios": [
-            "17:35",
-            "19:40",
-            "21:45"
+            "21:35"
           ]
         },
         {
@@ -183,38 +540,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "20:10",
-                "21:00",
-                "22:30"
+                "16:50",
+                "19:10",
+                "21:30"
               ]
             }
           ],
           "horarios": [
-            "20:10",
-            "21:00",
-            "22:30"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:00",
-                "18:00",
-                "20:00",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:00",
-            "20:00",
-            "22:00"
+            "16:50",
+            "19:10",
+            "21:30"
           ]
         }
       ],
@@ -291,16 +626,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "14:45",
-                "16:00",
-                "20:50"
+                "15:30"
               ]
             }
           ],
           "horarios": [
-            "14:45",
-            "16:00",
-            "20:50"
+            "15:30"
           ]
         },
         {
@@ -314,34 +645,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "19:00",
-                "22:00"
+                "20:50"
               ]
             }
           ],
           "horarios": [
-            "19:00",
-            "22:00"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:45",
-                "18:30",
-                "21:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:45",
-            "18:30",
-            "21:15"
+            "20:50"
           ]
         }
       ],
@@ -359,7 +668,7 @@
         "tmdb_id": 969681,
         "titulo_tmdb": "Spider-Man: Brand New Day",
         "voto": 7.9,
-        "votos": 2362,
+        "votos": 2369,
         "url_tmdb": "https://www.themoviedb.org/movie/969681",
         "imdb_id": "tt22084616",
         "url_imdb": "https://www.imdb.com/title/tt22084616/",
@@ -411,8 +720,8 @@
       }
     },
     {
-      "titulo": "Harry Potter y la Piedra Filosofal",
-      "poster": "https://cdn.carteleracine.pe/cine/2022/2/harry-potter-y-la-piedra-filosofal-40980-0.webp",
+      "titulo": "Rápido y Furioso",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/rapido-y-furioso-47726-0.webp",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
@@ -422,268 +731,58 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "18:30"
+                "19:30"
               ]
             }
           ],
           "horarios": [
-            "18:30"
+            "19:30"
           ]
         }
       ],
-      "genero": "Fantasía",
-      "duracion": "152 min.",
-      "clasificacion": "7 Años",
-      "director": "Chris Columbus",
-      "actores": "Daniel Radcliffe, Rupert Grint, Emma Watson, Richard Harris, Tom Felton, Alan Rickman",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/harry-potter-y-la-piedra-filosofal-8114_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Harry%20Potter%20y%20la%20Piedra%20Filosofal%20trailer%20espanol",
-      "sinopsis": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 671,
-        "titulo_tmdb": "Harry Potter y la piedra filosofal",
-        "voto": 7.9,
-        "votos": 30129,
-        "url_tmdb": "https://www.themoviedb.org/movie/671",
-        "imdb_id": "tt0241527",
-        "url_imdb": "https://www.imdb.com/title/tt0241527/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
-        "director": "Chris Columbus",
-        "reparto": [
-          {
-            "nombre": "Daniel Radcliffe",
-            "personaje": "Harry Potter"
-          },
-          {
-            "nombre": "Rupert Grint",
-            "personaje": "Ron Weasley"
-          },
-          {
-            "nombre": "Emma Watson",
-            "personaje": "Hermione Granger"
-          },
-          {
-            "nombre": "Richard Harris",
-            "personaje": "Albus Dumbledore"
-          },
-          {
-            "nombre": "Tom Felton",
-            "personaje": "Draco Malfoy"
-          },
-          {
-            "nombre": "Alan Rickman",
-            "personaje": "Severus Snape"
-          }
-        ],
-        "generos": [
-          "Aventura",
-          "Fantasía"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=WE4AJuIvG1Y",
-          "embed_id": "WE4AJuIvG1Y"
-        },
-        "sinopsis_tmdb": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
-        "estreno": "16 nov 2001",
-        "duracion_min": 152,
-        "paises": [
-          "Reino Unido",
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Harry Potter and the Philosopher's Stone"
-      }
-    },
-    {
-      "titulo": "La Odisea",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002831?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "genero": "Acción",
-      "clasificacion": "+14",
-      "duracion": "173 min",
-      "director": "Christopher Nolan",
-      "actores": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel, Charlize Theron",
+      "duracion": "109 minutos",
+      "clasificacion": "12 Años",
+      "director": "Rob Cohen",
+      "actores": "Paul Walker, Vin Diesel, Michelle Rodriguez",
       "estreno": "",
-      "sinopsis": "-",
+      "ficha": "https://www.carteleracine.pe/cajamarca/rapido-y-furioso-12239_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=R%C3%A1pido%20y%20Furioso%20trailer%20espanol",
+      "sinopsis": "Un tozudo coyote del desierto intenta dar caza continuamente a un escurridizo correcaminos. Primer cortometraje protagonizado por los populares personajes de la Warner.",
       "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=X9nUrOnHlz0",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "20:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "20:50"
-          ]
-        }
-      ],
       "tmdb": {
-        "tmdb_id": 1368337,
-        "titulo_tmdb": "La Odisea",
-        "voto": 8.0,
-        "votos": 3409,
-        "url_tmdb": "https://www.themoviedb.org/movie/1368337",
-        "imdb_id": "tt33764258",
-        "url_imdb": "https://www.imdb.com/title/tt33764258/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
-        "director": "Christopher Nolan",
+        "tmdb_id": 74961,
+        "titulo_tmdb": "El Coyote y el Correcaminos: Rápido y rabioso",
+        "voto": 7.1,
+        "votos": 109,
+        "url_tmdb": "https://www.themoviedb.org/movie/74961",
+        "imdb_id": "tt0041349",
+        "url_imdb": "https://www.imdb.com/title/tt0041349/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/XinMQ1x8kejVMDl5AAKULonOCB.jpg",
+        "director": "Chuck Jones",
         "reparto": [
           {
-            "nombre": "Matt Damon",
-            "personaje": "Odysseus"
+            "nombre": "Paul Julian",
+            "personaje": "Road Runner (voice)"
           },
           {
-            "nombre": "Tom Holland",
-            "personaje": "Telemachus"
-          },
-          {
-            "nombre": "Anne Hathaway",
-            "personaje": "Penelope"
-          },
-          {
-            "nombre": "Robert Pattinson",
-            "personaje": "Antinous"
-          },
-          {
-            "nombre": "Himesh Patel",
-            "personaje": "Eurylochus"
-          },
-          {
-            "nombre": "Charlize Theron",
-            "personaje": "Calypso"
+            "nombre": "Mel Blanc",
+            "personaje": "Coyote (voice)"
           }
         ],
         "generos": [
-          "Aventura",
-          "Acción",
-          "Fantasía"
+          "Animación",
+          "Comedia"
         ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=X9nUrOnHlz0",
-          "embed_id": "X9nUrOnHlz0"
-        },
-        "sinopsis_tmdb": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
-        "estreno": "15 jul 2026",
-        "duracion_min": 173,
+        "trailer": {},
+        "sinopsis_tmdb": "Un tozudo coyote del desierto intenta dar caza continuamente a un escurridizo correcaminos. Primer cortometraje protagonizado por los populares personajes de la Warner.",
+        "estreno": "17 sep 1949",
+        "duracion_min": 7,
         "paises": [
-          "Reino Unido",
           "Estados Unidos"
         ],
         "idioma": "Inglés",
-        "titulo_original": "The Odyssey"
-      }
-    },
-    {
-      "titulo": "La Guerra de los Útimos",
-      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/guettsa.jpg",
-      "genero": "Accion",
-      "clasificacion": "Mayores de 14",
-      "duracion": "01:58",
-      "sinopsis": "En un Mundo Postapocalíptico, un Virus Aniquila a la Humanidad. Los Supervivientes Se Enfrentan a Unos Carroñeros Errantes Llamados Segadores. El Protagonista, Hig, un Piloto, Sobrevivió a la Gripe Pero Perdió a Su Mujer.",
-      "director": "",
-      "actores": "",
-      "estreno": "",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "",
-      "fuente_peli": "Cinerama",
-      "cines": [
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:15",
-                "17:30",
-                "19:45",
-                "22:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:15",
-            "17:30",
-            "19:45",
-            "22:10"
-          ]
-        }
-      ]
-    },
-    {
-      "titulo": "Solo Por una Noche",
-      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/nochee.jpg",
-      "genero": "Comedia",
-      "clasificacion": "Mayores de 14",
-      "duracion": "01:43",
-      "sinopsis": "En la Única Noche en Que Se Permite el Sexo Prematrimonial, Dos Desconocidos Buscan Desesperadamente Pareja en Su Sociedad Restrictiva.",
-      "director": "Leonardo Marín Núñez",
-      "actores": "Emma Yesica Duvali",
-      "estreno": "",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "",
-      "fuente_peli": "Cinerama",
-      "cines": [
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "22:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "22:15"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1273495,
-        "titulo_tmdb": "Sólo por una noche: Yesica Duvali",
-        "voto": null,
-        "votos": 0,
-        "url_tmdb": "https://www.themoviedb.org/movie/1273495",
-        "imdb_id": "",
-        "url_imdb": "",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/eYrFjBcRk2zD7Tx6qnduoUhWdCq.jpg",
-        "director": "Leonardo Marín Núñez",
-        "reparto": [
-          {
-            "nombre": "Emma Yesica Duvali",
-            "personaje": ""
-          }
-        ],
-        "generos": [],
-        "trailer": {},
-        "sinopsis_tmdb": "",
-        "estreno": "",
-        "duracion_min": 22,
-        "paises": [
-          "México"
-        ],
-        "idioma": "Español",
-        "titulo_original": "Sólo por una noche: Yesica Duvali"
+        "titulo_original": "Fast and Furry-ous"
       }
     }
   ],
@@ -694,26 +793,96 @@
       "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
       "peliculas": [
         {
+          "titulo": "Rebelión En La Granja",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/marsupilami-47730-1.webp",
+          "genero": "Animado",
+          "clasificacion": "Todos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30"
+          ]
+        },
+        {
+          "titulo": "Marsupilami",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/impacto-mortal-47695-1.webp",
+          "genero": "Aventura",
+          "clasificacion": "Todos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30"
+          ]
+        },
+        {
+          "titulo": "Impacto Mortal",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/separada-pero-nunca-sola-47708-1.webp",
+          "genero": "Acción",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "17:25",
+                "19:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:25",
+            "19:30"
+          ]
+        },
+        {
+          "titulo": "Separada pero Nunca Sola",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/separada-pero-nunca-sola-47708-1.jpg",
+          "genero": "Comedia",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "18:20",
+                "20:05",
+                "21:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:20",
+            "20:05",
+            "21:50"
+          ]
+        },
+        {
           "titulo": "Coyote vs. ACME",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-guerra-de-los-ultimos-47694-1.webp",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/coyote-vs-acme-47670-0.webp",
           "genero": "Animado",
           "clasificacion": "7 Años",
           "formatos": [
             {
               "formato": "Doblada",
               "horarios": [
-                "14:30",
-                "16:30",
-                "18:50",
-                "21:15"
+                "17:30",
+                "21:35"
               ]
             }
           ],
           "horarios": [
-            "14:30",
-            "16:30",
-            "18:50",
-            "21:15"
+            "17:30",
+            "21:35"
           ]
         },
         {
@@ -725,16 +894,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "17:35",
-                "19:40",
-                "21:45"
+                "21:35"
               ]
             }
           ],
           "horarios": [
-            "17:35",
-            "19:40",
-            "21:45"
+            "21:35"
           ]
         },
         {
@@ -746,33 +911,29 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "14:45",
-                "16:00",
-                "20:50"
+                "15:30"
               ]
             }
           ],
           "horarios": [
-            "14:45",
-            "16:00",
-            "20:50"
+            "15:30"
           ]
         },
         {
-          "titulo": "Harry Potter y la Piedra Filosofal",
-          "poster": "https://cdn.carteleracine.pe/cine/2022/2/harry-potter-y-la-piedra-filosofal-40980-0.webp",
-          "genero": "Fantasía",
-          "clasificacion": "7 Años",
+          "titulo": "Rápido y Furioso",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/rapido-y-furioso-47726-0.webp",
+          "genero": "Acción",
+          "clasificacion": "12 Años",
           "formatos": [
             {
               "formato": "Doblada",
               "horarios": [
-                "18:30"
+                "19:30"
               ]
             }
           ],
           "horarios": [
-            "18:30"
+            "19:30"
           ]
         }
       ],
@@ -795,16 +956,45 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "18:40",
-                "19:20",
-                "21:40"
+                "14:50",
+                "16:10",
+                "17:10",
+                "18:30",
+                "19:30",
+                "21:50"
               ]
             }
           ],
           "horarios": [
-            "18:40",
-            "19:20",
-            "21:40"
+            "14:50",
+            "16:10",
+            "17:10",
+            "18:30",
+            "19:30",
+            "21:50"
+          ]
+        },
+        {
+          "titulo": "Impacto Mortal",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002945?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:30",
+                "17:50",
+                "20:10",
+                "22:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "17:50",
+            "20:10",
+            "22:30"
           ]
         },
         {
@@ -816,130 +1006,26 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "20:10",
-                "21:00",
-                "22:30"
+                "16:50",
+                "19:10",
+                "21:30"
               ]
             }
           ],
           "horarios": [
-            "20:10",
-            "21:00",
-            "22:30"
+            "16:50",
+            "19:10",
+            "21:30"
           ]
         },
         {
-          "titulo": "La Odisea",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002831?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Acción",
+          "titulo": "Separada pero Nunca Sola",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003052?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Comedia",
           "clasificacion": "+14",
           "formatos": [
             {
               "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "20:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "20:50"
-          ]
-        },
-        {
-          "titulo": "Spider Man: Un Nuevo Dia",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002949?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Acción",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "19:00",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:00",
-            "22:00"
-          ]
-        }
-      ],
-      "cine_original": "CP Cajamarca"
-    },
-    {
-      "cine": "Cinerama Cajamarca MegaPlaza",
-      "cine_slug": "cinerama-cajamarca-megaplaza",
-      "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-      "url": "https://www.cinerama.com.pe/cines",
-      "fuente_cine": "Cinerama",
-      "peliculas": [
-        {
-          "titulo": "Coyote vs. ACME",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/coyogtw.jpg",
-          "genero": "Animado",
-          "clasificacion": "Todo Espectador",
-          "duracion": "01:44",
-          "sinopsis": "Una Historia Ambientada en el Almacén de Acme, el Fabricante de Todo Lo Que Utilizan los Personajes de los Looney Tunes.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "16:15",
-                "17:00",
-                "18:15",
-                "19:00",
-                "20:15",
-                "21:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "16:15",
-            "17:00",
-            "18:15",
-            "19:00",
-            "20:15",
-            "21:00"
-          ]
-        },
-        {
-          "titulo": "La Guerra de los Útimos",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/guettsa.jpg",
-          "genero": "Accion",
-          "clasificacion": "Mayores de 14",
-          "duracion": "01:58",
-          "sinopsis": "En un Mundo Postapocalíptico, un Virus Aniquila a la Humanidad. Los Supervivientes Se Enfrentan a Unos Carroñeros Errantes Llamados Segadores. El Protagonista, Hig, un Piloto, Sobrevivió a la Gripe Pero Perdió a Su Mujer.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:15",
-                "17:30",
-                "19:45",
-                "22:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:15",
-            "17:30",
-            "19:45",
-            "22:10"
-          ]
-        },
-        {
-          "titulo": "La Noche Del Demonio: Están Entre Nosotros",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/nocg.jpg",
-          "genero": "Terror",
-          "clasificacion": "Mayores de 18",
-          "duracion": "01:46",
-          "sinopsis": "Amelia Eve Interpreta a Gemma, una Joven Madre Que Cría a Su Hija en la Casa Donde Creció y Descubre Que Puede Viajar Al Más Allá, el Reino Purgatorial de las Almas Perdidas en el Corazón del Universo de Insidious. Cuando Algo Maligno la Persigue, Gemma Descubre una Habilidad Que Lo Cambia Todo: No Solo Puede Entrar Al Más Allá, Sino Que También Puede Traer de Vuelta Al Mundo Real a Quienes Viven ",
-          "formatos": [
-            {
-              "formato": "",
               "horarios": [
                 "16:00",
                 "18:00",
@@ -956,53 +1042,42 @@
           ]
         },
         {
-          "titulo": "Solo Por una Noche",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/nochee.jpg",
-          "genero": "Comedia",
-          "clasificacion": "Mayores de 14",
-          "duracion": "01:43",
-          "sinopsis": "En la Única Noche en Que Se Permite el Sexo Prematrimonial, Dos Desconocidos Buscan Desesperadamente Pareja en Su Sociedad Restrictiva.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "22:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "22:15"
-          ]
-        },
-        {
           "titulo": "Spider Man: Un Nuevo Dia",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/spider.jpg",
-          "genero": "Accion",
-          "clasificacion": "Todo Espectador",
-          "duracion": "02:30",
-          "sinopsis": "Tras el Día del Juicio Final, Peter Parker Intenta Centrarse en la Universidad y Abandonar a Spider-man. Cuando una Nueva Amenaza Pone en Peligro a Sus Amigos, Debe Romper Su Promesa y Volver Al Traje.",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002949?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "APT",
           "formatos": [
             {
-              "formato": "",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:45",
-                "18:30",
-                "21:15"
+                "20:50"
               ]
             }
           ],
           "horarios": [
-            "15:45",
-            "18:30",
-            "21:15"
+            "20:50"
           ]
         }
-      ]
+      ],
+      "cine_original": "CP Cajamarca"
+    },
+    {
+      "cine": "Cinerama Cajamarca MegaPlaza",
+      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+      "direccion": "",
+      "peliculas": [],
+      "sin_programacion": true,
+      "nota": "No se pudo consultar su cartelera. Suele tener funciones a diario.",
+      "no_consultado": true,
+      "url": "https://www.cinerama.com.pe/cines",
+      "cine_original": "Cajamarca Megaplaza (Cinerama)"
     }
   ],
   "estado": "ok",
   "fuentes_extra": [
-    "Cineplanet",
-    "Cinerama"
+    "Cineplanet"
+  ],
+  "notas": [
+    "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
   ]
 }
