@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-02 11:29",
+  "actualizado": "2026-09-02 19:06",
   "fecha_objetivo": "2026-09-02",
   "peliculas": [
     {
@@ -42,9 +42,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:00",
-                "14:40",
-                "17:00",
                 "18:40",
                 "19:20",
                 "21:40"
@@ -52,12 +49,37 @@
             }
           ],
           "horarios": [
-            "14:00",
-            "14:40",
-            "17:00",
             "18:40",
             "19:20",
             "21:40"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "16:15",
+                "17:00",
+                "18:15",
+                "19:00",
+                "20:15",
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "16:15",
+            "17:00",
+            "18:15",
+            "19:00",
+            "20:15",
+            "21:00"
           ]
         }
       ],
@@ -75,7 +97,7 @@
         "tmdb_id": 1204680,
         "titulo_tmdb": "Coyote vs. Acme",
         "voto": 7.8,
-        "votos": 79,
+        "votos": 93,
         "url_tmdb": "https://www.themoviedb.org/movie/1204680",
         "imdb_id": "tt1756855",
         "url_imdb": "https://www.imdb.com/title/tt1756855/",
@@ -161,9 +183,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
-                "16:20",
-                "17:50",
                 "20:10",
                 "21:00",
                 "22:30"
@@ -171,12 +190,31 @@
             }
           ],
           "horarios": [
-            "15:30",
-            "16:20",
-            "17:50",
             "20:10",
             "21:00",
             "22:30"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:00",
+                "20:00",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:00",
+            "20:00",
+            "22:00"
           ]
         }
       ],
@@ -276,16 +314,34 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
                 "19:00",
                 "22:00"
               ]
             }
           ],
           "horarios": [
-            "16:00",
             "19:00",
             "22:00"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:45",
+                "18:30",
+                "21:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:45",
+            "18:30",
+            "21:15"
           ]
         }
       ],
@@ -303,7 +359,7 @@
         "tmdb_id": 969681,
         "titulo_tmdb": "Spider-Man: Brand New Day",
         "voto": 7.9,
-        "votos": 2356,
+        "votos": 2362,
         "url_tmdb": "https://www.themoviedb.org/movie/969681",
         "imdb_id": "tt22084616",
         "url_imdb": "https://www.imdb.com/title/tt22084616/",
@@ -441,132 +497,6 @@
       }
     },
     {
-      "titulo": "Harry Potter y la piedra filosofal [2001]",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003050?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Familiar",
-      "clasificacion": "APT",
-      "duracion": "166 min",
-      "director": "",
-      "actores": "",
-      "estreno": "",
-      "sinopsis": "El día en que cumple once años, Harry Potter se entera de que es hijo de dos destacados hechiceros, de los que ha heredado poderes mágicos. En la escuela Hogwarts de Magia y Hechicería, donde se educa con otros niños que también tienen poderes especiales, aprenderá todo lo necesario para ser mago. \r\n\r\nHarry Potter y la Piedra Filosofal vuelve a los cines por su 25º aniversario. El reestreno en cin",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://youtu.be/tXRXEqd5AhQ?si=mX7YF1erAUzjFoEu",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "17:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:30"
-          ]
-        }
-      ]
-    },
-    {
-      "titulo": "La Guerra de los Ultimos",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002969?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Thriller",
-      "clasificacion": "+14",
-      "duracion": "119 min",
-      "director": "Ridley Scott",
-      "actores": "Jacob Elordi, Margaret Qualley, Josh Brolin, Guy Pearce, Allison Janney, Benedict Wong",
-      "estreno": "",
-      "sinopsis": "Cuenta la historia de Hig, un joven piloto que, junto a Bangley, un militar experto en supervivencia, ha construido un refugio eficiente pero aislado en un despiadado mundo postapocalíptico, hasta que una misteriosa transmisión de radio lo impulsa a aventurarse en lo desconocido en busca de la esperanza y la humanidad en las que aún cree.",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=8E1pkrmZQ0o",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "15:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1384216,
-        "titulo_tmdb": "La constelación del perro",
-        "voto": 6.7,
-        "votos": 158,
-        "url_tmdb": "https://www.themoviedb.org/movie/1384216",
-        "imdb_id": "tt21285562",
-        "url_imdb": "https://www.imdb.com/title/tt21285562/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/vbCb1yHXtXym4V1c420MSasbyyP.jpg",
-        "director": "Ridley Scott",
-        "reparto": [
-          {
-            "nombre": "Jacob Elordi",
-            "personaje": "Hig"
-          },
-          {
-            "nombre": "Margaret Qualley",
-            "personaje": "Cima"
-          },
-          {
-            "nombre": "Josh Brolin",
-            "personaje": "Bangley"
-          },
-          {
-            "nombre": "Guy Pearce",
-            "personaje": "Pops"
-          },
-          {
-            "nombre": "Allison Janney",
-            "personaje": "Darlene"
-          },
-          {
-            "nombre": "Benedict Wong",
-            "personaje": "Aaron"
-          }
-        ],
-        "generos": [
-          "Ciencia ficción",
-          "Aventura",
-          "Suspense"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=a8qEBr7eYmc",
-          "embed_id": "a8qEBr7eYmc"
-        },
-        "sinopsis_tmdb": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
-        "estreno": "26 ago 2026",
-        "duracion_min": 119,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "The Dog Stars"
-      }
-    },
-    {
       "titulo": "La Odisea",
       "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002831?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "genero": "Acción",
@@ -605,7 +535,7 @@
         "tmdb_id": 1368337,
         "titulo_tmdb": "La Odisea",
         "voto": 8.0,
-        "votos": 3400,
+        "votos": 3409,
         "url_tmdb": "https://www.themoviedb.org/movie/1368337",
         "imdb_id": "tt33764258",
         "url_imdb": "https://www.imdb.com/title/tt33764258/",
@@ -655,6 +585,105 @@
         ],
         "idioma": "Inglés",
         "titulo_original": "The Odyssey"
+      }
+    },
+    {
+      "titulo": "La Guerra de los Útimos",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/guettsa.jpg",
+      "genero": "Accion",
+      "clasificacion": "Mayores de 14",
+      "duracion": "01:58",
+      "sinopsis": "En un Mundo Postapocalíptico, un Virus Aniquila a la Humanidad. Los Supervivientes Se Enfrentan a Unos Carroñeros Errantes Llamados Segadores. El Protagonista, Hig, un Piloto, Sobrevivió a la Gripe Pero Perdió a Su Mujer.",
+      "director": "",
+      "actores": "",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:15",
+                "17:30",
+                "19:45",
+                "22:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:15",
+            "17:30",
+            "19:45",
+            "22:10"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Solo Por una Noche",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/nochee.jpg",
+      "genero": "Comedia",
+      "clasificacion": "Mayores de 14",
+      "duracion": "01:43",
+      "sinopsis": "En la Única Noche en Que Se Permite el Sexo Prematrimonial, Dos Desconocidos Buscan Desesperadamente Pareja en Su Sociedad Restrictiva.",
+      "director": "Leonardo Marín Núñez",
+      "actores": "Emma Yesica Duvali",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "22:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "22:15"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1273495,
+        "titulo_tmdb": "Sólo por una noche: Yesica Duvali",
+        "voto": null,
+        "votos": 0,
+        "url_tmdb": "https://www.themoviedb.org/movie/1273495",
+        "imdb_id": "",
+        "url_imdb": "",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/eYrFjBcRk2zD7Tx6qnduoUhWdCq.jpg",
+        "director": "Leonardo Marín Núñez",
+        "reparto": [
+          {
+            "nombre": "Emma Yesica Duvali",
+            "personaje": ""
+          }
+        ],
+        "generos": [],
+        "trailer": {},
+        "sinopsis_tmdb": "",
+        "estreno": "",
+        "duracion_min": 22,
+        "paises": [
+          "México"
+        ],
+        "idioma": "Español",
+        "titulo_original": "Sólo por una noche: Yesica Duvali"
       }
     }
   ],
@@ -766,9 +795,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:00",
-                "14:40",
-                "17:00",
                 "18:40",
                 "19:20",
                 "21:40"
@@ -776,46 +802,9 @@
             }
           ],
           "horarios": [
-            "14:00",
-            "14:40",
-            "17:00",
             "18:40",
             "19:20",
             "21:40"
-          ]
-        },
-        {
-          "titulo": "Harry Potter y la piedra filosofal [2001]",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003050?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Familiar",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "17:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:30"
-          ]
-        },
-        {
-          "titulo": "La Guerra de los Ultimos",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002969?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Thriller",
-          "clasificacion": "+14",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "15:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00"
           ]
         },
         {
@@ -827,9 +816,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
-                "16:20",
-                "17:50",
                 "20:10",
                 "21:00",
                 "22:30"
@@ -837,9 +823,6 @@
             }
           ],
           "horarios": [
-            "15:30",
-            "16:20",
-            "17:50",
             "20:10",
             "21:00",
             "22:30"
@@ -871,14 +854,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
                 "19:00",
                 "22:00"
               ]
             }
           ],
           "horarios": [
-            "16:00",
             "19:00",
             "22:00"
           ]
@@ -888,21 +869,140 @@
     },
     {
       "cine": "Cinerama Cajamarca MegaPlaza",
-      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-      "direccion": "",
-      "peliculas": [],
-      "sin_programacion": true,
-      "nota": "No se pudo consultar su cartelera. Suele tener funciones a diario.",
-      "no_consultado": true,
+      "cine_slug": "cinerama-cajamarca-megaplaza",
+      "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
       "url": "https://www.cinerama.com.pe/cines",
-      "cine_original": "Cajamarca Megaplaza (Cinerama)"
+      "fuente_cine": "Cinerama",
+      "peliculas": [
+        {
+          "titulo": "Coyote vs. ACME",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/coyogtw.jpg",
+          "genero": "Animado",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:44",
+          "sinopsis": "Una Historia Ambientada en el Almacén de Acme, el Fabricante de Todo Lo Que Utilizan los Personajes de los Looney Tunes.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "16:15",
+                "17:00",
+                "18:15",
+                "19:00",
+                "20:15",
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "16:15",
+            "17:00",
+            "18:15",
+            "19:00",
+            "20:15",
+            "21:00"
+          ]
+        },
+        {
+          "titulo": "La Guerra de los Útimos",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/guettsa.jpg",
+          "genero": "Accion",
+          "clasificacion": "Mayores de 14",
+          "duracion": "01:58",
+          "sinopsis": "En un Mundo Postapocalíptico, un Virus Aniquila a la Humanidad. Los Supervivientes Se Enfrentan a Unos Carroñeros Errantes Llamados Segadores. El Protagonista, Hig, un Piloto, Sobrevivió a la Gripe Pero Perdió a Su Mujer.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:15",
+                "17:30",
+                "19:45",
+                "22:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:15",
+            "17:30",
+            "19:45",
+            "22:10"
+          ]
+        },
+        {
+          "titulo": "La Noche Del Demonio: Están Entre Nosotros",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/nocg.jpg",
+          "genero": "Terror",
+          "clasificacion": "Mayores de 18",
+          "duracion": "01:46",
+          "sinopsis": "Amelia Eve Interpreta a Gemma, una Joven Madre Que Cría a Su Hija en la Casa Donde Creció y Descubre Que Puede Viajar Al Más Allá, el Reino Purgatorial de las Almas Perdidas en el Corazón del Universo de Insidious. Cuando Algo Maligno la Persigue, Gemma Descubre una Habilidad Que Lo Cambia Todo: No Solo Puede Entrar Al Más Allá, Sino Que También Puede Traer de Vuelta Al Mundo Real a Quienes Viven ",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:00",
+                "20:00",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:00",
+            "20:00",
+            "22:00"
+          ]
+        },
+        {
+          "titulo": "Solo Por una Noche",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/nochee.jpg",
+          "genero": "Comedia",
+          "clasificacion": "Mayores de 14",
+          "duracion": "01:43",
+          "sinopsis": "En la Única Noche en Que Se Permite el Sexo Prematrimonial, Dos Desconocidos Buscan Desesperadamente Pareja en Su Sociedad Restrictiva.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "22:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "22:15"
+          ]
+        },
+        {
+          "titulo": "Spider Man: Un Nuevo Dia",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/spider.jpg",
+          "genero": "Accion",
+          "clasificacion": "Todo Espectador",
+          "duracion": "02:30",
+          "sinopsis": "Tras el Día del Juicio Final, Peter Parker Intenta Centrarse en la Universidad y Abandonar a Spider-man. Cuando una Nueva Amenaza Pone en Peligro a Sus Amigos, Debe Romper Su Promesa y Volver Al Traje.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:45",
+                "18:30",
+                "21:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:45",
+            "18:30",
+            "21:15"
+          ]
+        }
+      ]
     }
   ],
   "estado": "ok",
   "fuentes_extra": [
-    "Cineplanet"
-  ],
-  "notas": [
-    "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
+    "Cineplanet",
+    "Cinerama"
   ]
 }
