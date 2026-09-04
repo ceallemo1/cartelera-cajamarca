@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-04 11:16",
+  "actualizado": "2026-09-04 18:58",
   "fecha_objetivo": "2026-09-04",
   "peliculas": [
     {
@@ -129,7 +129,7 @@
         "url_tmdb": "https://www.themoviedb.org/movie/1145899",
         "imdb_id": "tt33029380",
         "url_imdb": "https://www.imdb.com/title/tt33029380/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/wCWW31j5VUVptXXqqvYBHpjlB1I.jpg",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/kMhVs1XqmzXlD0mDQ4rTJh4Kvf1.jpg",
         "director": "Philippe Lacheau",
         "reparto": [
           {
@@ -189,14 +189,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "17:25",
-                "19:30"
+                "17:25"
               ]
             }
           ],
           "horarios": [
-            "17:25",
-            "19:30"
+            "17:25"
           ]
         },
         {
@@ -210,7 +208,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
                 "17:50",
                 "20:10",
                 "22:30"
@@ -218,10 +215,31 @@
             }
           ],
           "horarios": [
-            "15:30",
             "17:50",
             "20:10",
             "22:30"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:00",
+                "20:00",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:00",
+            "20:00",
+            "22:00"
           ]
         }
       ],
@@ -298,16 +316,16 @@
             {
               "formato": "",
               "horarios": [
-                "18:20",
-                "20:05",
-                "21:50"
+                "17:50",
+                "19:35",
+                "21:20"
               ]
             }
           ],
           "horarios": [
-            "18:20",
-            "20:05",
-            "21:50"
+            "17:50",
+            "19:35",
+            "21:20"
           ]
         },
         {
@@ -321,7 +339,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
                 "18:00",
                 "20:00",
                 "22:00"
@@ -329,10 +346,31 @@
             }
           ],
           "horarios": [
-            "16:00",
             "18:00",
             "20:00",
             "22:00"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:45",
+                "17:45",
+                "19:45",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:45",
+            "17:45",
+            "19:45",
+            "21:45"
           ]
         }
       ],
@@ -427,8 +465,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:50",
-                "16:10",
                 "17:10",
                 "18:30",
                 "19:30",
@@ -437,12 +473,32 @@
             }
           ],
           "horarios": [
-            "14:50",
-            "16:10",
             "17:10",
             "18:30",
             "19:30",
             "21:50"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30",
+                "17:30",
+                "19:30",
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "17:30",
+            "19:30",
+            "21:30"
           ]
         }
       ],
@@ -459,8 +515,8 @@
       "tmdb": {
         "tmdb_id": 1204680,
         "titulo_tmdb": "Coyote vs. Acme",
-        "voto": 7.8,
-        "votos": 120,
+        "voto": 7.7,
+        "votos": 128,
         "url_tmdb": "https://www.themoviedb.org/movie/1204680",
         "imdb_id": "tt1756855",
         "url_imdb": "https://www.imdb.com/title/tt1756855/",
@@ -523,11 +579,13 @@
             {
               "formato": "Doblada",
               "horarios": [
+                "19:30",
                 "21:35"
               ]
             }
           ],
           "horarios": [
+            "19:30",
             "21:35"
           ]
         },
@@ -542,16 +600,36 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:50",
                 "19:10",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "16:50",
             "19:10",
             "21:30"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:15",
+                "18:15",
+                "20:15",
+                "22:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:15",
+            "18:15",
+            "20:15",
+            "22:15"
           ]
         }
       ],
@@ -654,6 +732,22 @@
           "horarios": [
             "20:50"
           ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:00"
+          ]
         }
       ],
       "genero": "Ciencia Ficción",
@@ -670,7 +764,7 @@
         "tmdb_id": 969681,
         "titulo_tmdb": "Spider-Man: Brand New Day",
         "voto": 7.9,
-        "votos": 2409,
+        "votos": 2419,
         "url_tmdb": "https://www.themoviedb.org/movie/969681",
         "imdb_id": "tt22084616",
         "url_imdb": "https://www.imdb.com/title/tt22084616/",
@@ -719,6 +813,98 @@
         ],
         "idioma": "Inglés",
         "titulo_original": "Spider-Man: Brand New Day"
+      }
+    },
+    {
+      "titulo": "Marsupilami: Caos a Bordo",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/maru.jpg",
+      "genero": "Comedia",
+      "clasificacion": "Todo Espectador",
+      "duracion": "01:40",
+      "sinopsis": "David Debe Entregar un Paquete Desde Sudamérica y Descubre Que Transporta un Bebé Marsupilami.",
+      "director": "Philippe Lacheau",
+      "actores": "Philippe Lacheau, Jamel Debbouze, Tarek Boudali, Élodie Fontan, Julien Arruti, Jean Reno",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=XTTvrfMVukc",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "17:00",
+                "19:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:00",
+            "19:00"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1145899,
+        "titulo_tmdb": "Marsupilami",
+        "voto": 6.4,
+        "votos": 163,
+        "url_tmdb": "https://www.themoviedb.org/movie/1145899",
+        "imdb_id": "tt33029380",
+        "url_imdb": "https://www.imdb.com/title/tt33029380/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/kMhVs1XqmzXlD0mDQ4rTJh4Kvf1.jpg",
+        "director": "Philippe Lacheau",
+        "reparto": [
+          {
+            "nombre": "Philippe Lacheau",
+            "personaje": "David Ticoule"
+          },
+          {
+            "nombre": "Jamel Debbouze",
+            "personaje": "Pablito Camaron"
+          },
+          {
+            "nombre": "Tarek Boudali",
+            "personaje": "Ricky Salsa"
+          },
+          {
+            "nombre": "Élodie Fontan",
+            "personaje": "Tess"
+          },
+          {
+            "nombre": "Julien Arruti",
+            "personaje": "Stéphane Buisson"
+          },
+          {
+            "nombre": "Jean Reno",
+            "personaje": "Jeffrey Malone"
+          }
+        ],
+        "generos": [
+          "Aventura",
+          "Comedia",
+          "Familia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=XTTvrfMVukc",
+          "embed_id": "XTTvrfMVukc"
+        },
+        "sinopsis_tmdb": "David debe entregar un paquete desde Sudamérica y descubre que transporta un bebé Marsupilami.",
+        "estreno": "4 feb 2026",
+        "duracion_min": 99,
+        "paises": [
+          "Francia",
+          "Belgium"
+        ],
+        "idioma": "Francés",
+        "titulo_original": "Marsupilami"
       }
     }
   ],
@@ -771,14 +957,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "17:25",
-                "19:30"
+                "17:25"
               ]
             }
           ],
           "horarios": [
-            "17:25",
-            "19:30"
+            "17:25"
           ]
         },
         {
@@ -790,16 +974,16 @@
             {
               "formato": "",
               "horarios": [
-                "18:20",
-                "20:05",
-                "21:50"
+                "17:50",
+                "19:35",
+                "21:20"
               ]
             }
           ],
           "horarios": [
-            "18:20",
-            "20:05",
-            "21:50"
+            "17:50",
+            "19:35",
+            "21:20"
           ]
         },
         {
@@ -832,11 +1016,13 @@
             {
               "formato": "Doblada",
               "horarios": [
+                "19:30",
                 "21:35"
               ]
             }
           ],
           "horarios": [
+            "19:30",
             "21:35"
           ]
         },
@@ -877,8 +1063,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:50",
-                "16:10",
                 "17:10",
                 "18:30",
                 "19:30",
@@ -887,8 +1071,6 @@
             }
           ],
           "horarios": [
-            "14:50",
-            "16:10",
             "17:10",
             "18:30",
             "19:30",
@@ -904,7 +1086,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
                 "17:50",
                 "20:10",
                 "22:30"
@@ -912,7 +1093,6 @@
             }
           ],
           "horarios": [
-            "15:30",
             "17:50",
             "20:10",
             "22:30"
@@ -927,14 +1107,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:50",
                 "19:10",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "16:50",
             "19:10",
             "21:30"
           ]
@@ -948,7 +1126,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
                 "18:00",
                 "20:00",
                 "22:00"
@@ -956,7 +1133,6 @@
             }
           ],
           "horarios": [
-            "16:00",
             "18:00",
             "20:00",
             "22:00"
@@ -984,21 +1160,159 @@
     },
     {
       "cine": "Cinerama Cajamarca MegaPlaza",
-      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-      "direccion": "",
-      "peliculas": [],
-      "sin_programacion": true,
-      "nota": "No se pudo consultar su cartelera. Suele tener funciones a diario.",
-      "no_consultado": true,
+      "cine_slug": "cinerama-cajamarca-megaplaza",
+      "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
       "url": "https://www.cinerama.com.pe/cines",
-      "cine_original": "Cajamarca Megaplaza (Cinerama)"
+      "fuente_cine": "Cinerama",
+      "peliculas": [
+        {
+          "titulo": "Coyote vs. ACME",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/coyogtw.jpg",
+          "genero": "Animado",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:44",
+          "sinopsis": "Una Historia Ambientada en el Almacén de Acme, el Fabricante de Todo Lo Que Utilizan los Personajes de los Looney Tunes.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30",
+                "17:30",
+                "19:30",
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "17:30",
+            "19:30",
+            "21:30"
+          ]
+        },
+        {
+          "titulo": "Impacto Mortal",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/afuas.jpg",
+          "genero": "Accion",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:46",
+          "sinopsis": "Un Grupo de Pasajeros Internacionales en Ruta de los Ángeles a Shanghai Se Ven Obligados a Realizar un Aterrizaje de Emergencia en Aguas Infestadas de Tiburones. Ahora Deben Superar el Frenesí de los Tiburones Merodeantes.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:00",
+                "20:00",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:00",
+            "20:00",
+            "22:00"
+          ]
+        },
+        {
+          "titulo": "La Noche Del Demonio: Están Entre Nosotros",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/nocg.jpg",
+          "genero": "Terror",
+          "clasificacion": "Mayores de 18",
+          "duracion": "01:46",
+          "sinopsis": "Amelia Eve Interpreta a Gemma, una Joven Madre Que Cría a Su Hija en la Casa Donde Creció y Descubre Que Puede Viajar Al Más Allá, el Reino Purgatorial de las Almas Perdidas en el Corazón del Universo de Insidious. Cuando Algo Maligno la Persigue, Gemma Descubre una Habilidad Que Lo Cambia Todo: No Solo Puede Entrar Al Más Allá, Sino Que También Puede Traer de Vuelta Al Mundo Real a Quienes Viven ",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:15",
+                "18:15",
+                "20:15",
+                "22:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:15",
+            "18:15",
+            "20:15",
+            "22:15"
+          ]
+        },
+        {
+          "titulo": "Marsupilami: Caos a Bordo",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/maru.jpg",
+          "genero": "Comedia",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:40",
+          "sinopsis": "David Debe Entregar un Paquete Desde Sudamérica y Descubre Que Transporta un Bebé Marsupilami.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "17:00",
+                "19:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:00",
+            "19:00"
+          ]
+        },
+        {
+          "titulo": "Separada pero Nunca Sola",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/HO00009444.jpg",
+          "genero": "Comedia",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:30",
+          "sinopsis": "Recién Separada, Isabel Busca Rehacer Su Vida en un Hotel Paradisíaco Junto a Su Mejor Amiga. Para Sacarse de Encima a Su Ex Esposo Que Insiste en Volver, Inventa un Romance Con un Falso Galán. Entre Tantas Mentiras y Consejos Disparatados, Se Desatará un Divertido Caos en los Escenarios Más Hermosos de la Selva Peruana.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:45",
+                "17:45",
+                "19:45",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:45",
+            "17:45",
+            "19:45",
+            "21:45"
+          ]
+        },
+        {
+          "titulo": "Spider Man: Un Nuevo Dia",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/spider.jpg",
+          "genero": "Accion",
+          "clasificacion": "Todo Espectador",
+          "duracion": "02:30",
+          "sinopsis": "Tras el Día del Juicio Final, Peter Parker Intenta Centrarse en la Universidad y Abandonar a Spider-man. Cuando una Nueva Amenaza Pone en Peligro a Sus Amigos, Debe Romper Su Promesa y Volver Al Traje.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:00"
+          ]
+        }
+      ]
     }
   ],
   "estado": "ok",
   "fuentes_extra": [
-    "Cineplanet"
-  ],
-  "notas": [
-    "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
+    "Cineplanet",
+    "Cinerama"
   ]
 }
