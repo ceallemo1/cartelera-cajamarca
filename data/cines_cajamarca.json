@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-06 00:50",
+  "actualizado": "2026-09-06 10:23",
   "fecha_objetivo": "2026-09-06",
   "peliculas": [
     {
@@ -531,11 +531,11 @@
         "tmdb_id": 1204680,
         "titulo_tmdb": "Coyote vs. Acme",
         "voto": 7.6,
-        "votos": 161,
+        "votos": 164,
         "url_tmdb": "https://www.themoviedb.org/movie/1204680",
         "imdb_id": "tt1756855",
         "url_imdb": "https://www.imdb.com/title/tt1756855/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/rxat0c5S2UlLY7rTBU8MElKP1Vk.jpg",
         "director": "David Green",
         "reparto": [
           {
@@ -666,7 +666,7 @@
         "tmdb_id": 1291595,
         "titulo_tmdb": "Insidious: Fuera del más allá",
         "voto": 6.5,
-        "votos": 108,
+        "votos": 109,
         "url_tmdb": "https://www.themoviedb.org/movie/1291595",
         "imdb_id": "tt32393988",
         "url_imdb": "https://www.imdb.com/title/tt32393988/",
@@ -783,7 +783,7 @@
         "tmdb_id": 969681,
         "titulo_tmdb": "Spider-Man: Brand New Day",
         "voto": 7.9,
-        "votos": 2458,
+        "votos": 2460,
         "url_tmdb": "https://www.themoviedb.org/movie/969681",
         "imdb_id": "tt22084616",
         "url_imdb": "https://www.imdb.com/title/tt22084616/",
