@@ -2,8 +2,8 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-05 18:48",
-  "fecha_objetivo": "2026-09-05",
+  "actualizado": "2026-09-06 00:50",
+  "fecha_objetivo": "2026-09-06",
   "peliculas": [
     {
       "titulo": "Rebelión En La Granja",
@@ -208,6 +208,7 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:30",
                 "17:50",
                 "20:10",
                 "22:30"
@@ -215,6 +216,7 @@
             }
           ],
           "horarios": [
+            "15:30",
             "17:50",
             "20:10",
             "22:30"
@@ -339,6 +341,7 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:00",
                 "18:00",
                 "20:00",
                 "22:00"
@@ -346,6 +349,7 @@
             }
           ],
           "horarios": [
+            "16:00",
             "18:00",
             "20:00",
             "22:00"
@@ -472,6 +476,7 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "14:50",
                 "17:10",
                 "18:30",
                 "19:30",
@@ -481,6 +486,7 @@
             }
           ],
           "horarios": [
+            "14:50",
             "17:10",
             "18:30",
             "19:30",
@@ -525,7 +531,7 @@
         "tmdb_id": 1204680,
         "titulo_tmdb": "Coyote vs. Acme",
         "voto": 7.6,
-        "votos": 152,
+        "votos": 161,
         "url_tmdb": "https://www.themoviedb.org/movie/1204680",
         "imdb_id": "tt1756855",
         "url_imdb": "https://www.imdb.com/title/tt1756855/",
@@ -609,12 +615,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "14:30",
+                "16:50",
                 "19:10",
                 "21:30"
               ]
             }
           ],
           "horarios": [
+            "14:30",
+            "16:50",
             "19:10",
             "21:30"
           ]
@@ -656,7 +666,7 @@
         "tmdb_id": 1291595,
         "titulo_tmdb": "Insidious: Fuera del más allá",
         "voto": 6.5,
-        "votos": 106,
+        "votos": 108,
         "url_tmdb": "https://www.themoviedb.org/movie/1291595",
         "imdb_id": "tt32393988",
         "url_imdb": "https://www.imdb.com/title/tt32393988/",
@@ -724,6 +734,25 @@
           ]
         },
         {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:20"
+          ]
+        },
+        {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
           "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
@@ -747,14 +776,14 @@
       "actores": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon, Sadie Sink",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/spider-man-un-nuevo-dia-12132_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Spider%20Man%3A%20Un%20Nuevo%20Dia%20trailer%20espanol",
-      "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "trailer_url": "https://www.youtube.com/watch?v=xrgNovKS0Co",
+      "sinopsis": "Han pasado cuatro años desde los acontecimientos de Sin regreso a casa, y Peter ahora es un adulto que vive completamente solo, habiéndose borrado voluntariamente de la vida y los recuerdos de sus seres queridos. Combatiendo el crimen en una Nueva York que ya no lo conoce, se ha dedicado por completo a proteger su ciudad —un Spider-Man a tiempo completo—, pero a medida que las exigencias se intens",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 969681,
         "titulo_tmdb": "Spider-Man: Brand New Day",
         "voto": 7.9,
-        "votos": 2439,
+        "votos": 2458,
         "url_tmdb": "https://www.themoviedb.org/movie/969681",
         "imdb_id": "tt22084616",
         "url_imdb": "https://www.imdb.com/title/tt22084616/",
@@ -1060,6 +1089,7 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "14:50",
                 "17:10",
                 "18:30",
                 "19:30",
@@ -1069,6 +1099,7 @@
             }
           ],
           "horarios": [
+            "14:50",
             "17:10",
             "18:30",
             "19:30",
@@ -1085,6 +1116,7 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:30",
                 "17:50",
                 "20:10",
                 "22:30"
@@ -1092,6 +1124,7 @@
             }
           ],
           "horarios": [
+            "15:30",
             "17:50",
             "20:10",
             "22:30"
@@ -1106,12 +1139,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "14:30",
+                "16:50",
                 "19:10",
                 "21:30"
               ]
             }
           ],
           "horarios": [
+            "14:30",
+            "16:50",
             "19:10",
             "21:30"
           ]
@@ -1125,6 +1162,7 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:00",
                 "18:00",
                 "20:00",
                 "22:00"
@@ -1132,9 +1170,27 @@
             }
           ],
           "horarios": [
+            "16:00",
             "18:00",
             "20:00",
             "22:00"
+          ]
+        },
+        {
+          "titulo": "Spider Man: Un Nuevo Dia",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002949?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:20"
           ]
         }
       ],
