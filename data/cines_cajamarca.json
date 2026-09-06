@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-06 10:23",
+  "actualizado": "2026-09-06 13:14",
   "fecha_objetivo": "2026-09-06",
   "peliculas": [
     {
@@ -40,7 +40,7 @@
         "tmdb_id": 539745,
         "titulo_tmdb": "Rebelión en la Granja",
         "voto": 6.4,
-        "votos": 108,
+        "votos": 109,
         "url_tmdb": "https://www.themoviedb.org/movie/539745",
         "imdb_id": "tt2467700",
         "url_imdb": "https://www.imdb.com/title/tt2467700/",
