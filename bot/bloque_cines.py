@@ -201,6 +201,7 @@ def _listar(html):
     """Del listado de cartelera saca (slug, titulo, poster) de cada pelicula."""
     items = []
     vistos = set()
+    usados = set()   # afiches ya asignados: uno no puede ser de dos peliculas
     # Captura el <a href> de cada titulo. El titulo se toma de title="..." si existe;
     # si no (algunas pelis no traen el atributo, ej. Supergirl), se usa el texto del
     # enlace. Asi no se pierden peliculas validas.
@@ -240,10 +241,44 @@ def _listar(html):
             if previos:
                 mp = previos[-1]
         poster = (mp if isinstance(mp, str) else mp.group(1)) if mp else ""
+        # GUARDA DE ARRASTRE (2026-09-08). El rescate hacia atras de arriba se lleva la
+        # imagen de la tarjeta ANTERIOR cuando esta pelicula no tiene la suya, y entonces
+        # se publica un afiche que es de OTRA pelicula. Paso medido: "Impacto Mortal"
+        # salio con el afiche de "Separada pero Nunca Sola" (los dos apuntaban al archivo
+        # separada-pero-nunca-sola-47708-1). Un afiche equivocado es peor que ninguno:
+        # el que mira cree que esa es la pelicula. Dos comprobaciones baratas:
+        #   1) si esa URL ya se le asigno a otra pelicula, no es de esta;
+        #   2) el CDN nombra el archivo con el slug de la pelicula, asi que si el nombre
+        #      trae un slug reconocible y NO es el de esta, tampoco es de esta.
+        # En cualquiera de los dos casos se deja vacio y lo cubre el afiche de TMDB.
+        if poster:
+            if poster in usados:
+                poster = ""
+            elif not _poster_es_de(slug, poster):
+                poster = ""
+        if poster:
+            usados.add(poster)
         items.append((slug, titulo, poster))
         if len(items) >= MAX_PELIS:
             break
     return items
+
+
+def _poster_es_de(slug, url):
+    """¿El archivo del afiche corresponde a ESTA pelicula?
+
+    El CDN nombra los archivos con el slug: `separada-pero-nunca-sola-47708-1.webp`.
+    Se comparan las palabras (sin numeros) del slug de la pelicula contra las del
+    archivo. Si el archivo no sigue ese patron no se puede juzgar, y entonces se
+    acepta: la guarda de duplicados ya cubre el caso peligroso.
+    """
+    archivo = url.rsplit("/", 1)[-1].rsplit(".", 1)[0]
+    pal_archivo = [t for t in re.split(r"[-_]+", archivo) if t and not t.isdigit()]
+    pal_slug = [t for t in re.split(r"[-_]+", slug) if t and not t.isdigit()]
+    if not pal_archivo or not pal_slug:
+        return True
+    comunes = len(set(pal_archivo) & set(pal_slug))
+    return comunes >= max(1, min(len(pal_slug), 2))
 
 
 def _indice_por_cine(pelis):
