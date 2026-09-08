@@ -4,86 +4,186 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Cartelera de cines · Cajamarca</title>
-<meta name="description" content="Cartelera de hoy de los cines de Cajamarca: peliculas, formatos y horarios.">
+<meta name="description" content="Cartelera de cine de Cajamarca: peliculas, cines y horarios del dia.">
 <style>
+  /* Sin dependencias externas a proposito: esto se abre en un celular con mala senal
+     y en medio de la calle. Todo el CSS va aqui; las unicas descargas son los afiches. */
   :root{
-    --fondo:#ffffff; --texto:#1c1d1f; --suave:#8a8d91; --linea:#ececec;
-    --tarjeta:#ffffff; --chip:#f4f5f6; --acento:#1c1d1f; --sombra:0 1px 2px rgba(0,0,0,.06);
-  }
-  @media (prefers-color-scheme: dark){
-    :root{
-      --fondo:#16171a; --texto:#f2f3f5; --suave:#9b9ea3; --linea:#2a2c31;
-      --tarjeta:#1d1f23; --chip:#26282d; --acento:#f2f3f5; --sombra:none;
-    }
+    --fondo:#0d0c0b; --panel:#181614; --panel2:#211e1a; --linea:#2f2a24;
+    --tinta:#f1ece2; --gris:#a49c8e; --apagado:#6b6257;
+    --oro:#e8b64c; --oro-suave:rgba(232,182,76,.14);
+    --c1:#e8b64c; --c2:#7ec4cf; --c3:#d98b6a;   /* un color por cine */
   }
   *{box-sizing:border-box}
-  body{margin:0;background:var(--fondo);color:var(--texto);
-    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
-    -webkit-font-smoothing:antialiased}
-  .env{max-width:900px;margin:0 auto;padding:20px 16px 56px}
-  header h1{font-size:22px;font-weight:650;margin:0 0 4px}
-  .sub{font-size:13px;color:var(--suave);margin-bottom:18px}
-  .tabs{display:flex;gap:8px;margin-bottom:18px}
-  .tab{flex:0 0 auto;padding:8px 15px;border-radius:999px;border:1px solid var(--linea);
-    background:var(--tarjeta);color:var(--texto);font-size:14px;cursor:pointer;font-family:inherit}
-  .tab[aria-selected="true"]{background:var(--acento);color:var(--fondo);border-color:var(--acento)}
-  .tarjeta{background:var(--tarjeta);border:1px solid var(--linea);border-radius:14px;
-    padding:14px;margin-bottom:12px;box-shadow:var(--sombra)}
-  .fila{display:flex;gap:13px}
-  .poster{width:66px;height:99px;flex:0 0 66px;border-radius:8px;object-fit:cover;background:var(--chip)}
-  .tit{font-size:16px;font-weight:600;margin:0 0 3px;line-height:1.25}
-  .meta{font-size:12.5px;color:var(--suave);margin-bottom:8px}
-  .sino{font-size:13px;color:var(--suave);margin:6px 0 0;line-height:1.45}
-  .cine{margin-top:11px;padding-top:10px;border-top:1px solid var(--linea)}
-  .cine:first-of-type{border-top:0;padding-top:0}
-  .cine-n{font-size:13.5px;font-weight:600;margin-bottom:2px}
-  .cine-d{font-size:12px;color:var(--suave);margin-bottom:7px}
-  .fmt{font-size:12px;color:var(--suave);margin:7px 0 5px}
-  .horas{display:flex;flex-wrap:wrap;gap:6px}
-  .hora{background:var(--chip);border-radius:7px;padding:5px 10px;font-size:13px;
-    font-variant-numeric:tabular-nums}
-  .aviso{background:var(--chip);border-radius:10px;padding:11px 13px;font-size:13px;
-    color:var(--suave);margin-top:9px}
-  footer{margin-top:26px;padding-top:14px;border-top:1px solid var(--linea);
-    font-size:11.5px;color:var(--suave);line-height:1.6}
-  footer a{color:inherit}
-  .cargando{color:var(--suave);font-size:14px;padding:26px 0}
-  .rancio{background:#fff4e0;border:1px solid #f0dcb4;color:#7a5810;border-radius:12px;
-    padding:12px 14px;font-size:13.5px;line-height:1.55;margin-bottom:16px}
-  @media (prefers-color-scheme: dark){
-    .rancio{background:#3a2f16;border-color:#5c4a1f;color:#f0d9a6}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    margin:0; background:var(--fondo); color:var(--tinta);
+    font:16px/1.55 -apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
   }
-  @media (max-width:420px){ .poster{width:56px;height:84px;flex-basis:56px} }
+  .env{max-width:880px;margin:0 auto;padding:0 16px 64px}
+
+  /* ---- cabecera ---- */
+  header{
+    margin:0 -16px 4px; padding:26px 16px 20px;
+    background:
+      radial-gradient(120% 140% at 12% 0%, rgba(232,182,76,.16), transparent 60%),
+      linear-gradient(180deg,#17140f 0%, var(--fondo) 100%);
+    border-bottom:1px solid var(--linea);
+  }
+  .env>header{margin-left:-16px;margin-right:-16px}
+  .marca{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--oro);font-weight:700}
+  h1{font-family:Georgia,"Times New Roman",serif;font-weight:400;font-size:32px;line-height:1.1;margin:8px 0 0}
+  #sub{color:var(--gris);font-size:13.5px;margin-top:8px}
+  #rancio{
+    margin-top:14px;padding:11px 13px;border-radius:10px;font-size:13.5px;line-height:1.45;
+    background:rgba(217,110,74,.13);border:1px solid #9d5236;color:#f0b6a6;
+  }
+
+  /* ---- pestanas ---- */
+  nav{display:flex;gap:8px;margin:18px 0 2px}
+  nav button{
+    flex:1;padding:11px 12px;border-radius:10px;cursor:pointer;font:inherit;font-size:14px;font-weight:600;
+    background:var(--panel);color:var(--gris);border:1px solid var(--linea);
+    display:flex;align-items:center;justify-content:center;gap:7px;
+  }
+  nav button[aria-selected="true"]{background:var(--oro);color:#191510;border-color:var(--oro)}
+  nav button:focus-visible{outline:2px solid var(--oro);outline-offset:2px}
+  nav svg{width:16px;height:16px;fill:currentColor;flex:0 0 16px}
+
+  /* ---- buscador ---- */
+  .buscar{position:relative;margin-top:12px}
+  .buscar svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);width:16px;height:16px;fill:var(--apagado)}
+  .buscar input{
+    width:100%;padding:11px 12px 11px 36px;border-radius:10px;font:inherit;font-size:14.5px;
+    background:var(--panel);border:1px solid var(--linea);color:var(--tinta);
+  }
+  .buscar input::placeholder{color:var(--apagado)}
+  .buscar input:focus{outline:none;border-color:var(--oro)}
+
+  /* ---- tarjeta de pelicula ---- */
+  .lista{display:flex;flex-direction:column;gap:14px;margin-top:16px}
+  .peli{background:var(--panel);border:1px solid var(--linea);border-radius:14px;overflow:hidden}
+  .peli-top{display:grid;grid-template-columns:112px 1fr;gap:16px;padding:16px}
+  .afiche{position:relative;width:112px;aspect-ratio:2/3;border-radius:10px;overflow:hidden;background:var(--panel2)}
+  .afiche img{width:100%;height:100%;object-fit:cover;display:block}
+  /* Cuando no hay afiche fiable no se inventa uno: va un monograma con la inicial.
+     Un afiche de OTRA pelicula enganaria a quien mira, que es peor que no tener. */
+  .mono{
+    width:100%;height:100%;display:grid;place-items:center;font-family:Georgia,serif;font-size:40px;
+    color:#5d5449;background:linear-gradient(160deg,#262218,#1a1714);
+  }
+  .peli h2{font-family:Georgia,"Times New Roman",serif;font-weight:400;font-size:21px;line-height:1.2;margin:2px 0 0}
+  .meta{color:var(--gris);font-size:13px;margin-top:7px}
+  .sino{color:var(--gris);font-size:13.5px;margin:9px 0 0}
+
+  /* ---- nota IMDb ---- */
+  .nota{
+    display:inline-flex;align-items:center;gap:6px;margin-top:9px;padding:4px 9px;border-radius:8px;
+    background:var(--oro-suave);border:1px solid rgba(232,182,76,.42);
+    color:var(--oro);font-size:12.5px;font-weight:700;text-decoration:none;
+    font-variant-numeric:tabular-nums;
+  }
+  .nota .n{font-size:14.5px}
+  .nota .de{color:var(--apagado);font-weight:600}
+  .nota .votos{color:var(--gris);font-weight:600}
+  a.nota:hover{border-color:var(--oro)}
+
+  /* ---- bloque de sala dentro de una pelicula ---- */
+  .salas{border-top:1px solid var(--linea)}
+  .sala{padding:13px 16px;border-top:1px solid var(--linea)}
+  .sala:first-child{border-top:0}
+  .sala-cab{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}
+  .sala-n{display:flex;align-items:center;gap:8px;font-size:13.5px;font-weight:700}
+  .punto{width:9px;height:9px;border-radius:50%;flex:0 0 9px}
+  .comprar{
+    color:var(--oro);text-decoration:none;font-size:12px;font-weight:700;
+    border:1px solid rgba(232,182,76,.5);border-radius:8px;padding:5px 10px;white-space:nowrap;
+  }
+  .comprar:hover{border-color:var(--oro)}
+  .fmt{font-size:10.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--apagado);margin-top:10px}
+  .horas{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}
+  .hora{
+    background:var(--panel2);border:1px solid var(--linea);border-radius:8px;padding:6px 11px;
+    font-size:14.5px;font-weight:600;font-variant-numeric:tabular-nums;
+  }
+  /* Las funciones que ya empezaron se apagan: son la mitad de la lista a media tarde
+     y leerlas como disponibles hace perder el viaje. */
+  .hora.paso{color:var(--apagado);border-color:#251f18;background:transparent;text-decoration:line-through}
+  .hora.pronto{border-color:var(--oro);color:var(--oro);box-shadow:0 0 0 1px rgba(232,182,76,.25) inset}
+
+  /* ---- vista POR CINE ---- */
+  .cine-bloque{background:var(--panel);border:1px solid var(--linea);border-radius:14px;overflow:hidden}
+  .cine-cab{padding:16px;background:linear-gradient(180deg,rgba(255,255,255,.035),transparent);border-bottom:1px solid var(--linea)}
+  .cine-cab h2{font-family:Georgia,serif;font-weight:400;font-size:22px;margin:0;display:flex;align-items:center;gap:10px}
+  .cine-cab .dir{color:var(--gris);font-size:13px;margin-top:6px}
+  .cine-cab .cuenta{color:var(--apagado);font-size:12.5px;margin-top:8px;display:flex;align-items:center;gap:6px}
+  .cine-cab .cuenta svg{width:14px;height:14px;fill:currentColor}
+  .cine-acc{margin-top:11px}
+  /* Cada pelicula DENTRO de un cine va en su propia fila con miniatura. Antes era una
+     lista de titulos sueltos y se leia como un bloque de texto amontonado. */
+  .fila-peli{display:grid;grid-template-columns:52px 1fr;gap:13px;padding:13px 16px;border-top:1px solid var(--linea)}
+  .mini{width:52px;aspect-ratio:2/3;border-radius:7px;overflow:hidden;background:var(--panel2)}
+  .mini img{width:100%;height:100%;object-fit:cover;display:block}
+  .mini .mono{font-size:20px}
+  .fila-peli h3{font-size:15.5px;font-weight:700;margin:0;line-height:1.25}
+  .fila-peli .meta{margin-top:4px;font-size:12.5px}
+
+  .aviso{
+    background:var(--panel);border:1px dashed var(--linea);border-radius:12px;
+    padding:15px;color:var(--gris);font-size:14px;
+  }
+  .aviso a{color:var(--oro)}
+  .vacio{text-align:center;color:var(--apagado);padding:34px 16px;font-size:14.5px}
+
+  footer{margin-top:34px;padding-top:16px;border-top:1px solid var(--linea);color:var(--apagado);font-size:12px;line-height:1.65}
+  footer a{color:var(--gris)}
+
+  @media (max-width:440px){
+    h1{font-size:26px}
+    .peli-top{grid-template-columns:88px 1fr;gap:13px;padding:13px}
+    .afiche{width:88px}
+    .peli h2{font-size:18.5px}
+  }
 </style>
 </head>
 <body>
 <div class="env">
   <header>
-    <h1>Cartelera de Cajamarca</h1>
-    <div class="sub" id="sub">Cargando…</div>
+    <div class="marca">Cartelera de cines</div>
+    <h1>Cajamarca</h1>
+    <div id="sub">Cargando…</div>
+    <div id="rancio" hidden></div>
   </header>
 
-  <div class="tabs" role="tablist">
-    <button class="tab" id="tab-peli" role="tab" aria-selected="true">Por película</button>
-    <button class="tab" id="tab-cine" role="tab" aria-selected="false">Por cine</button>
+  <nav>
+    <button id="tab-peli" aria-selected="true">
+      <svg viewBox="0 0 24 24"><path d="M4 3h16a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zm2 2v2h2V5H6zm10 0v2h2V5h-2zM6 9v6h12V9H6zm0 8v2h2v-2H6zm10 0v2h2v-2h-2z"/></svg>
+      Por película
+    </button>
+    <button id="tab-cine" aria-selected="false">
+      <svg viewBox="0 0 24 24"><path d="M12 2 2 8v2h20V8L12 2zM4 12v7H2v2h20v-2h-2v-7h-2v7h-3v-7h-2v7h-2v-7H9v7H6v-7H4z"/></svg>
+      Por cine
+    </button>
+  </nav>
+
+  <div class="buscar">
+    <svg viewBox="0 0 24 24"><path d="M10 4a6 6 0 1 0 3.5 10.9l4.8 4.8 1.4-1.4-4.8-4.8A6 6 0 0 0 10 4zm0 2a4 4 0 1 1 0 8 4 4 0 0 1 0-8z"/></svg>
+    <input id="q" type="search" placeholder="Buscar película o cine…" autocomplete="off">
   </div>
 
-  <div id="rancio" class="rancio" hidden></div>
-
-  <main id="cuerpo"><div class="cargando">Cargando cartelera…</div></main>
+  <div id="cuerpo" class="lista"></div>
 
   <footer>
-    Horarios tomados de <a href="https://www.carteleracine.pe" rel="noopener">carteleracine.pe</a>
-    y de las webs oficiales de Cineplanet y Cinerama. Se actualiza solo, varias veces al día.
-    <br>Antes de salir de casa conviene confirmar la función en la web del cine: un horario puede
-    cambiar después de la última actualización.
+    Horarios de carteleracine.pe y de la web de cada cine · fichas y notas de
+    <a href="https://www.themoviedb.org/" target="_blank" rel="noopener">TMDB</a>/IMDb.
+    Esta página es una foto del día: antes de salir conviene confirmar la hora en la web del cine.
   </footer>
 </div>
 
 <script>
-// Datos: el mismo JSON que usa el tablero, copiado aqui por el cron. Sin dependencias
-// externas a proposito: la pagina tiene que abrir rapido en un celular con mala senal.
-var DATOS = null, VISTA = "peli";
+var DATOS = null, VISTA = "peli", FILTRO = "";
+var COLORES = ["var(--c1)", "var(--c2)", "var(--c3)"];
+var COLOR_DE = {};
 
 function esc(s){
   return String(s == null ? "" : s).replace(/[&<>"']/g, function(c){
@@ -91,94 +191,219 @@ function esc(s){
   });
 }
 
-// Cuando el enriquecido no consigue sinopsis deja un guion o una raya. Pintarlo da
-// una linea con un "-" suelto bajo el titulo, que parece un error de la pagina.
-function _hayTexto(s){
+// El enriquecido a veces deja un guion suelto en vez de sinopsis. Pintarlo da una
+// raya bajo el titulo que parece un error de la pagina.
+function hayTexto(s){
   s = (s == null ? "" : String(s)).trim();
   return s !== "" && s !== "-" && s !== "—" && s !== "--";
 }
 
+/* AFICHE — cual se muestra, y cuando NINGUNO.
+   Hay dos fuentes y las dos pueden mentir:
+   - `poster` lo saca el scraper de la cartelera y a veces arrastra el de la tarjeta
+     vecina (paso el 2026-09-08: "Impacto Mortal" con el afiche de "Separada pero
+     Nunca Sola"). Eso ya se corrigio en origen, pero la pagina no debe confiar a ciegas.
+   - `tmdb.poster_tmdb` es fiable solo si la pelicula emparejo bien. Un emparejamiento
+     con 1 o 2 votos casi siempre es una HOMONIMA distinta, y su afiche seria de otra
+     pelicula.
+   Regla: TMDB manda cuando esta respaldado por votos; si no, el del scraping; y si no
+   hay ninguno fiable, monograma. Un afiche equivocado engana mas de lo que ayuda. */
+var VOTOS_MIN = 20;
+function aficheDe(p){
+  var tm = p.tmdb || {};
+  if (tm.poster_tmdb && (tm.votos || 0) >= VOTOS_MIN) return tm.poster_tmdb;
+  if (p.poster) return p.poster;
+  return "";
+}
+function aficheHTML(p, clase){
+  var src = aficheDe(p);
+  var ini = esc((p.titulo || "?").trim().charAt(0).toUpperCase());
+  return '<div class="' + clase + '">' + (src
+    ? '<img loading="lazy" alt="Afiche de ' + esc(p.titulo) + '" src="' + esc(src) + '"' +
+      ' onerror="this.parentNode.innerHTML=\'<div class=&quot;mono&quot;>' + ini + '</div>\'">'
+    : '<div class="mono">' + ini + "</div>") + "</div>";
+}
+
+/* NOTA — solo se muestra si tiene respaldo.
+   Una nota de 7.0 salida de UN voto no dice nada, y ademas suele venir de una pelicula
+   homonima. Por debajo de VOTOS_MIN no se pinta nada: es mas honesto que un numero. */
+function notaHTML(p){
+  var tm = p.tmdb || {};
+  var v = tm.voto, n = tm.votos || 0;
+  if (!v || n < VOTOS_MIN) return "";
+  var url = tm.url_imdb || tm.url_tmdb || "";
+  var mil = n >= 1000 ? (Math.round(n / 100) / 10) + " mil" : n;
+  var dentro =
+    '<span class="n">' + Number(v).toFixed(1) + "</span>" +
+    '<span class="de">/10</span>' +
+    '<span class="votos">· ' + mil + " votos</span>";
+  return url
+    ? '<a class="nota" href="' + esc(url) + '" target="_blank" rel="noopener">' + dentro + "</a>"
+    : '<span class="nota">' + dentro + "</span>";
+}
+
+// Minutos desde medianoche, para apagar lo que ya empezo y destacar lo siguiente.
+function aMin(h){
+  var m = /^(\d{1,2}):(\d{2})$/.exec(String(h).trim());
+  return m ? (+m[1] * 60 + +m[2]) : null;
+}
+function esDeHoy(){
+  var d = DATOS || {}, f = d.fecha_objetivo || "";
+  var h = new Date();
+  var hoy = h.getFullYear() + "-" + String(h.getMonth() + 1).padStart(2, "0") +
+            "-" + String(h.getDate()).padStart(2, "0");
+  return f === hoy;
+}
+
 function horasHTML(formatos, sueltos){
-  var out = "";
-  if (formatos && formatos.length) {
-    for (var i = 0; i < formatos.length; i++) {
-      var f = formatos[i];
-      if (f.formato) out += '<div class="fmt">' + esc(f.formato) + "</div>";
-      out += '<div class="horas">' + (f.horarios || []).map(function(h){
-        return '<span class="hora">' + esc(h) + "</span>";
-      }).join("") + "</div>";
-    }
-    return out;
+  var ahora = new Date();
+  var min = ahora.getHours() * 60 + ahora.getMinutes();
+  var vivo = esDeHoy();
+  var grupos = (formatos && formatos.length)
+    ? formatos
+    : [{formato: "", horarios: sueltos || []}];
+  var proxima = null;
+  if (vivo) {
+    grupos.forEach(function(g){
+      (g.horarios || []).forEach(function(h){
+        var t = aMin(h);
+        if (t != null && t >= min && (proxima == null || t < proxima)) proxima = t;
+      });
+    });
   }
-  return '<div class="horas">' + (sueltos || []).map(function(h){
-    return '<span class="hora">' + esc(h) + "</span>";
-  }).join("") + "</div>";
+  return grupos.map(function(g){
+    if (!(g.horarios || []).length) return "";
+    return (g.formato ? '<div class="fmt">' + esc(g.formato) + "</div>" : "") +
+      '<div class="horas">' + g.horarios.map(function(h){
+        var t = aMin(h), cls = "hora";
+        if (vivo && t != null) {
+          if (t < min) cls += " paso";
+          else if (t === proxima) cls += " pronto";
+        }
+        return '<span class="' + cls + '">' + esc(h) + "</span>";
+      }).join("") + "</div>";
+  }).join("");
+}
+
+function colorDe(nombre){
+  if (!(nombre in COLOR_DE)) {
+    COLOR_DE[nombre] = COLORES[Object.keys(COLOR_DE).length % COLORES.length];
+  }
+  return COLOR_DE[nombre];
+}
+
+function coincide(txt){
+  return !FILTRO || String(txt || "").toLowerCase().indexOf(FILTRO) !== -1;
 }
 
 function vistaPeliculas(d){
-  var pel = d.peliculas || [];
-  if (!pel.length) return '<div class="aviso">Hoy no hay funciones publicadas.</div>';
+  var pel = (d.peliculas || []).filter(function(p){
+    if (!FILTRO) return true;
+    return coincide(p.titulo) ||
+           (p.cines || []).some(function(c){ return coincide(c.cine); });
+  });
+  if (!pel.length) return '<div class="vacio">Nada coincide con lo que buscas.</div>';
   return pel.map(function(p){
     var meta = [p.genero, p.duracion, p.clasificacion].filter(Boolean).join(" · ");
-    var cines = (p.cines || []).map(function(c){
-      return '<div class="cine"><div class="cine-n">' + esc(c.cine) + "</div>" +
-             horasHTML(c.formatos, c.horarios) + "</div>";
+    var salas = (p.cines || []).map(function(c){
+      return '<div class="sala"><div class="sala-cab"><span class="sala-n">' +
+        '<span class="punto" style="background:' + colorDe(c.cine) + '"></span>' +
+        esc(c.cine) + "</span>" +
+        (c.comprar ? '<a class="comprar" href="' + esc(c.comprar) + '" target="_blank" rel="noopener">Comprar</a>' : "") +
+        "</div>" + horasHTML(c.formatos, c.horarios) + "</div>";
     }).join("");
-    return '<article class="tarjeta"><div class="fila">' +
-      (p.poster ? '<img class="poster" loading="lazy" alt="" src="' + esc(p.poster) + '">' : '<div class="poster"></div>') +
-      '<div style="flex:1;min-width:0">' +
-        '<h2 class="tit">' + esc(p.titulo) + "</h2>" +
+    return '<article class="peli"><div class="peli-top">' +
+      aficheHTML(p, "afiche") +
+      '<div style="min-width:0">' +
+        "<h2>" + esc(p.titulo) + "</h2>" +
         (meta ? '<div class="meta">' + esc(meta) + "</div>" : "") +
-        (_hayTexto(p.sinopsis) ? '<p class="sino">' + esc(p.sinopsis) + "</p>" : "") +
-      "</div></div>" + cines + "</article>";
+        notaHTML(p) +
+        (hayTexto(p.sinopsis) ? '<p class="sino">' + esc(p.sinopsis) + "</p>" : "") +
+      "</div></div>" +
+      (salas ? '<div class="salas">' + salas + "</div>" : "") +
+      "</article>";
   }).join("");
+}
+
+/* Ficha completa de una pelicula por su titulo: dentro de `cines` cada pelicula viene
+   recortada (sin tmdb, a veces sin sinopsis), asi que la nota y el afiche bueno hay
+   que traerlos del listado principal. Sin esto, la vista por cine se quedaba en texto. */
+function fichaDe(d, titulo){
+  var t = String(titulo || "").toLowerCase().trim();
+  var hall = (d.peliculas || []).filter(function(p){
+    return String(p.titulo || "").toLowerCase().trim() === t;
+  })[0];
+  return hall || null;
 }
 
 function vistaCines(d){
-  var cines = d.cines || [];
-  if (!cines.length) return '<div class="aviso">No hay cines publicados para esta ciudad.</div>';
+  var cines = (d.cines || []).filter(function(c){
+    if (!FILTRO) return true;
+    return coincide(c.cine) ||
+           (c.peliculas || []).some(function(p){ return coincide(p.titulo); });
+  });
+  if (!cines.length) return '<div class="vacio">Nada coincide con lo que buscas.</div>';
   return cines.map(function(c){
-    // Una sala sin programacion se MUESTRA diciendolo. Omitirla haria pensar que
-    // el cine no existe, que es justo el error que tenia el tablero.
+    var col = colorDe(c.cine);
+    var cab = '<div class="cine-cab">' +
+      '<h2><span class="punto" style="background:' + col + ';width:12px;height:12px;flex:0 0 12px"></span>' +
+      esc(c.cine) + "</h2>" +
+      (c.direccion ? '<div class="dir">' + esc(c.direccion) + "</div>" : "");
+
+    // Una sala vacia SE MUESTRA diciendolo. Y hay dos motivos distintos: que el cine no
+    // publicara funciones, o que no se pudiera consultar su web. Confundirlos hace
+    // descartar un cine que si esta abierto (paso con Cinerama el 2026-08-11).
     if (c.sin_programacion || !(c.peliculas || []).length) {
-      // Y hay DOS motivos distintos para que este vacia: que el cine no publicara
-      // funciones, o que no se pudiera consultar su web. Confundirlos hace descartar
-      // un cine que si esta abierto — paso con Cinerama el 2026-08-11. Cuando el fallo
-      // fue nuestro se dice asi y se ofrece su propia cartelera.
-      var ver = (c.no_consultado && c.url)
+      var ver = (c.url)
         ? ' <a href="' + esc(c.url) + '" target="_blank" rel="noopener">Ver su cartelera</a>' : "";
-      return '<article class="tarjeta"><div class="cine-n">' + esc(c.cine) + "</div>" +
-        (c.direccion ? '<div class="cine-d">' + esc(c.direccion) + "</div>" : "") +
-        '<div class="aviso">' + esc(c.nota || "Sin programación publicada hoy.") + ver + "</div></article>";
+      return '<article class="cine-bloque">' + cab + "</div>" +
+        '<div style="padding:16px"><div class="aviso">' +
+        esc(c.nota || "Sin programación publicada hoy.") + ver + "</div></div></article>";
     }
-    var pelis = (c.peliculas || []).map(function(p){
-      return '<div class="cine"><div class="cine-n">' + esc(p.titulo) + "</div>" +
-             horasHTML(p.formatos, p.horarios) + "</div>";
+
+    var pelis = (c.peliculas || []).filter(function(p){
+      return !FILTRO || coincide(p.titulo) || coincide(c.cine);
+    });
+    var n = pelis.length;
+    cab += '<div class="cuenta">' +
+      '<svg viewBox="0 0 24 24"><path d="M18 4v1h-2V4H8v1H6V4H4v16h2v-1h2v1h8v-1h2v1h2V4h-2zM8 17H6v-2h2v2zm0-4H6v-2h2v2zm0-4H6V7h2v2zm10 8h-2v-2h2v2zm0-4h-2v-2h2v2zm0-4h-2V7h2v2z"/></svg>' +
+      n + (n === 1 ? " película hoy" : " películas hoy") + "</div>" +
+      (c.comprar ? '<div class="cine-acc"><a class="comprar" href="' + esc(c.comprar) +
+                   '" target="_blank" rel="noopener">Comprar entradas</a></div>' : "") +
+      "</div>";
+
+    var filas = pelis.map(function(p){
+      var full = fichaDe(d, p.titulo) || p;
+      var meta = [p.genero || full.genero, p.duracion || full.duracion,
+                  p.clasificacion || full.clasificacion].filter(Boolean).join(" · ");
+      return '<div class="fila-peli">' + aficheHTML(full, "mini") +
+        '<div style="min-width:0">' +
+          "<h3>" + esc(p.titulo) + "</h3>" +
+          (meta ? '<div class="meta">' + esc(meta) + "</div>" : "") +
+          notaHTML(full) +
+          horasHTML(p.formatos, p.horarios) +
+        "</div></div>";
     }).join("");
-    return '<article class="tarjeta"><div class="cine-n" style="font-size:16px">' + esc(c.cine) + "</div>" +
-      (c.direccion ? '<div class="cine-d">' + esc(c.direccion) + "</div>" : "") +
-      pelis + "</article>";
+
+    return '<article class="cine-bloque">' + cab + filas + "</article>";
   }).join("");
 }
 
-/* La pagina la sirve GitHub y no se cae nunca; el que puede faltar es el DATO, que
-   sube la laptop tres veces al dia. Si esa maquina esta apagada, esta pagina seguiria
-   mostrando la cartelera de un dia anterior — con sus horarios— como si fuera la de
-   hoy. Eso es peor que no tener pagina: alguien puede ir al cine a una funcion que ya
-   paso. El JSON trae 'fecha_objetivo' = el dia al que corresponden los horarios; se
-   compara con el dia de QUIEN MIRA y, si no coinciden, se dice antes de la cartelera. */
+/* La pagina la sirve GitHub y no se cae; el que puede faltar es el DATO. Si la laptop
+   esta apagada, esto seguiria mostrando la cartelera de ayer CON SUS HORARIOS como si
+   fuera la de hoy — y alguien iria a una funcion que ya paso. Por eso se compara
+   `fecha_objetivo` con el dia de QUIEN MIRA y, si no coinciden, se dice arriba. */
 function avisarSiEsVieja(d){
   var caja = document.getElementById("rancio");
   var suya = d.fecha_objetivo || "";
   if (!suya) return;
   var h = new Date();
-  var hoy = h.getFullYear() + "-" +
-            String(h.getMonth() + 1).padStart(2, "0") + "-" +
-            String(h.getDate()).padStart(2, "0");
+  var hoy = h.getFullYear() + "-" + String(h.getMonth() + 1).padStart(2, "0") +
+            "-" + String(h.getDate()).padStart(2, "0");
   if (suya === hoy) return;
   var dias = Math.round((new Date(hoy) - new Date(suya)) / 86400000);
   caja.textContent = dias === 1
-    ? "Ojo: esta es la cartelera de ayer (" + suya + "). Los horarios de hoy pueden ser otros — conviene confirmarlos en la web del cine."
+    ? "Ojo: esta es la cartelera de ayer (" + suya + "). Los horarios de hoy pueden ser otros — confírmalos en la web del cine."
     : "Ojo: esta cartelera es del " + suya + ", hace " + dias + " días. Los horarios seguramente cambiaron — confírmalos en la web del cine.";
   caja.hidden = false;
 }
@@ -193,15 +418,21 @@ function pintar(){
 
 document.getElementById("tab-peli").onclick = function(){ VISTA = "peli"; pintar(); };
 document.getElementById("tab-cine").onclick = function(){ VISTA = "cine"; pintar(); };
+document.getElementById("q").oninput = function(){
+  FILTRO = this.value.toLowerCase().trim(); pintar();
+};
 
 // El sufijo de tiempo evita que el navegador sirva la cartelera de ayer desde su cache.
 fetch("data/cines_cajamarca.json?v=" + Date.now())
   .then(function(r){ if(!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
   .then(function(d){
     DATOS = d;
+    // Los colores se reparten en el orden de `cines` para que un mismo cine tenga el
+    // mismo color en las dos vistas.
+    (d.cines || []).forEach(function(c){ colorDe(c.cine); });
     var n = (d.peliculas || []).length, c = (d.cines || []).length;
     document.getElementById("sub").textContent =
-      n + (n === 1 ? " película" : " películas") + " · " +
+      n + (n === 1 ? " película" : " películas") + " en " +
       c + (c === 1 ? " cine" : " cines") + " · actualizado " + (d.actualizado || "");
     avisarSiEsVieja(d);
     pintar();
