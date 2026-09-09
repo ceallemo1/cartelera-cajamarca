@@ -2,211 +2,20 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-09 00:55",
+  "actualizado": "2026-09-09 07:38",
   "fecha_objetivo": "2026-09-09",
   "peliculas": [
     {
-      "titulo": "Rebelión En La Granja",
-      "poster": "",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30"
-          ]
-        }
-      ],
-      "genero": "Animado",
-      "duracion": "96 minutos",
-      "clasificacion": "Todos",
-      "director": "Andy Serkis",
-      "actores": "Seth Rogen, Gaten Matarazzo, Steve Buscemi, Glenn Close, Laverne Cox, Kieran Culkin, Woody Harrelson, Jim Parsons, Serkis, Kathleen Turner e Iman Vellani",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/rebelion-en-la-granja-12097_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Rebeli%C3%B3n%20En%20La%20Granja%20trailer%20espanol",
-      "sinopsis": "Un grupo de animales se rebelan contra sus dueños y toman el poder de la granja. Nueva adaptación del clásico de George Orwell.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 539745,
-        "titulo_tmdb": "Rebelión en la Granja",
-        "voto": 6.4,
-        "votos": 110,
-        "url_tmdb": "https://www.themoviedb.org/movie/539745",
-        "imdb_id": "tt2467700",
-        "url_imdb": "https://www.imdb.com/title/tt2467700/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/aAGTQgOJbXG4L3qIlWQl1KFu90t.jpg",
-        "director": "Andy Serkis",
-        "reparto": [
-          {
-            "nombre": "Seth Rogen",
-            "personaje": "Napoleon (voice)"
-          },
-          {
-            "nombre": "Gaten Matarazzo",
-            "personaje": "Lucky (voice)"
-          },
-          {
-            "nombre": "Steve Buscemi",
-            "personaje": "Mr. Whymper (voice)"
-          },
-          {
-            "nombre": "Glenn Close",
-            "personaje": "Frieda Pilkington (voice)"
-          },
-          {
-            "nombre": "Laverne Cox",
-            "personaje": "Snowball (voice)"
-          },
-          {
-            "nombre": "Kieran Culkin",
-            "personaje": "Squealer (voice)"
-          }
-        ],
-        "generos": [
-          "Animación",
-          "Comedia",
-          "Drama",
-          "Familia",
-          "Ciencia ficción"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Un grupo de animales se rebelan contra sus dueños y toman el poder de la granja. Nueva adaptación del clásico de George Orwell.",
-        "estreno": "30 abr 2026",
-        "duracion_min": 136,
-        "paises": [
-          "Reino Unido"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Animal Farm"
-      }
-    },
-    {
-      "titulo": "Marsupilami",
-      "poster": "",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30"
-          ]
-        }
-      ],
-      "genero": "Aventura",
-      "duracion": "99 minutos",
-      "clasificacion": "Todos",
-      "director": "Philippe Lacheau",
-      "actores": "Philippe Lacheau, Jamel Debbouze, Tarek Boudali, Élodie Fontan, Julien Arruti, Alban Ivanov, Reem Kherici, Jean Reno, Gérard Jugnot, Didier Bourdon.",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/marsupilami-12242_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Marsupilami%20trailer%20espanol",
-      "sinopsis": "David debe entregar un paquete desde Sudamérica y descubre que transporta un bebé Marsupilami.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1145899,
-        "titulo_tmdb": "Marsupilami",
-        "voto": 6.4,
-        "votos": 163,
-        "url_tmdb": "https://www.themoviedb.org/movie/1145899",
-        "imdb_id": "tt33029380",
-        "url_imdb": "https://www.imdb.com/title/tt33029380/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/kMhVs1XqmzXlD0mDQ4rTJh4Kvf1.jpg",
-        "director": "Philippe Lacheau",
-        "reparto": [
-          {
-            "nombre": "Philippe Lacheau",
-            "personaje": "David Ticoule"
-          },
-          {
-            "nombre": "Jamel Debbouze",
-            "personaje": "Pablito Camaron"
-          },
-          {
-            "nombre": "Tarek Boudali",
-            "personaje": "Ricky Salsa"
-          },
-          {
-            "nombre": "Élodie Fontan",
-            "personaje": "Tess"
-          },
-          {
-            "nombre": "Julien Arruti",
-            "personaje": "Stéphane Buisson"
-          },
-          {
-            "nombre": "Jean Reno",
-            "personaje": "Jeffrey Malone"
-          }
-        ],
-        "generos": [
-          "Aventura",
-          "Comedia",
-          "Familia"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=XTTvrfMVukc",
-          "embed_id": "XTTvrfMVukc"
-        },
-        "sinopsis_tmdb": "David debe entregar un paquete desde Sudamérica y descubre que transporta un bebé Marsupilami.",
-        "estreno": "4 feb 2026",
-        "duracion_min": 99,
-        "paises": [
-          "Francia",
-          "Belgium"
-        ],
-        "idioma": "Francés",
-        "titulo_original": "Marsupilami"
-      }
-    },
-    {
       "titulo": "Impacto Mortal",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002945?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "poster": "",
       "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "17:25"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:25"
-          ]
-        },
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
+          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
+          "direccion": "Av. Vía de Evitamiento Norte",
           "formatos": [
             {
-              "formato": "2D REGULAR DOBLADA",
+              "formato": "2D - Doblada",
               "horarios": [
                 "15:30",
                 "17:50",
@@ -221,6 +30,22 @@
             "20:10",
             "22:30"
           ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:25"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:25"
+          ]
         }
       ],
       "genero": "Acción",
@@ -230,8 +55,8 @@
       "actores": "Aaron Eckhart - Ben Kingsley - Angus Sampson",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/impacto-mortal-12226_252",
-      "trailer_url": "https://www.youtube.com/watch?v=lNEuVhB0D9U",
-      "sinopsis": "Un grupo de pasajeros internacionales que viaja de Los Ángeles a Shanghái se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones. Atrapados en medio del océano, deberán luchar por sobrevivir mientras una manada de depredadores acecha a su alrededor.",
+      "trailer_url": "https://www.youtube.com/results?search_query=Impacto%20Mortal%20trailer%20espanol",
+      "sinopsis": "Un grupo de científicos debe detener una amenaza extraterrestre que ha impactado la Tierra, poniendo en riesgo a la humanidad.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 402051,
@@ -289,9 +114,31 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/8/separada-pero-nunca-sola-47708-1.jpg",
       "cines": [
         {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
+          "direccion": "Av. Vía de Evitamiento Norte",
+          "formatos": [
+            {
+              "formato": "2D - Doblada",
+              "horarios": [
+                "16:00",
+                "18:00",
+                "20:00",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:00",
+            "20:00",
+            "22:00"
+          ]
+        },
+        {
           "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
           "formatos": [
             {
               "formato": "",
@@ -307,31 +154,6 @@
             "19:35",
             "21:20"
           ]
-        },
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "16:00",
-                "18:00",
-                "20:00",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:00",
-            "20:00",
-            "22:00"
-          ]
         }
       ],
       "genero": "Comedia",
@@ -341,8 +163,8 @@
       "actores": "Armando Machuca, Emilia Drago, Nicolás Galindo",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/separada-pero-nunca-sola-12236_252",
-      "trailer_url": "https://www.youtube.com/watch?v=BZkIHbUkh8k",
-      "sinopsis": "Recién separada, Isabel busca rehacer su vida en un hotel paradisíaco junto a su mejor amiga. Para sacarse de encima a su ex esposo que insiste en volver, inventa un romance con un falso galán. Entre tantas mentiras y consejos disparatados, se desatará un divertido caos en los escenarios más hermosos de la selva peruana.",
+      "trailer_url": "https://www.youtube.com/results?search_query=Separada%20pero%20Nunca%20Sola%20trailer%20espanol",
+      "sinopsis": "Una comedia romántica sobre una mujer que, tras una separación, descubre que la amistad y la familia pueden llenar el vacío de la soledad.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1744851,
@@ -395,35 +217,12 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/8/coyote-vs-acme-47670-0.webp",
       "cines": [
         {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "17:30",
-                "19:30",
-                "21:35"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:30",
-            "19:30",
-            "21:35"
-          ]
-        },
-        {
           "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
+          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
+          "direccion": "Av. Vía de Evitamiento Norte",
           "formatos": [
             {
-              "formato": "2D REGULAR DOBLADA",
+              "formato": "2D - Doblada",
               "horarios": [
                 "14:50",
                 "17:10",
@@ -442,6 +241,26 @@
             "20:50",
             "21:50"
           ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:30",
+                "19:30",
+                "21:35"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:30",
+            "19:30",
+            "21:35"
+          ]
         }
       ],
       "genero": "Animado",
@@ -451,8 +270,8 @@
       "actores": "Will Forte, Lana Condor, John Cena, Tone Bell, Martha Kelly, Luis Guzmán",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
-      "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "Después de décadas fallando en atrapar al Correcaminos, el Coyote decide hacer lo impensado: demandar a ACME, la compañía responsable de todos los productos defectuosos que arruinaron sus planes. En el juicio más absurdo de la historia, la comedia y la animación se mezclan en una batalla legal que podría cambiar el destino del desierto… para siempre.",
+      "trailer_url": "https://www.youtube.com/results?search_query=Coyote%20vs.%20ACME%20trailer%20espanol",
+      "sinopsis": "El astuto Coyote de los dibujos animados vuelve a intentar atrapar al Correcaminos usando los ingeniosos (y fallidos) productos de ACME.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
@@ -514,33 +333,12 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-noche-del-demonio-estan-entre-nosotros-47638-0.webp",
       "cines": [
         {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "19:30",
-                "21:35"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:30",
-            "21:35"
-          ]
-        },
-        {
           "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
+          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
+          "direccion": "Av. Vía de Evitamiento Norte",
           "formatos": [
             {
-              "formato": "2D REGULAR DOBLADA",
+              "formato": "2D - Doblada",
               "horarios": [
                 "14:30",
                 "16:50",
@@ -555,6 +353,24 @@
             "19:10",
             "21:30"
           ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "19:30",
+                "21:35"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:30",
+            "21:35"
+          ]
         }
       ],
       "genero": "Terror",
@@ -564,14 +380,14 @@
       "actores": "Sam Spruell, Lin Shaye, Maisie Richardson, Brandon Perea",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-noche-del-demonio-estan-entre-nosotros-12203_252",
-      "trailer_url": "https://www.youtube.com/watch?v=orvNgTGq6cg",
-      "sinopsis": "Una joven madre que cría a su hija en la casa donde creció y descubre que puede viajar al Más Allá. Cuando algo maligno la persigue, Gemma descubre una habilidad que lo cambia todo: no solo puede entrar al Más Allá, sino que también puede traer de vuelta al mundo real a quienes viven allí. Una vez que los demonios se dan cuenta de su poder, nuestro mundo se convierte en su patio de recreo.",
+      "trailer_url": "https://www.youtube.com/results?search_query=La%20Noche%20Del%20Demonio%3A%20Est%C3%A1n%20Entre%20Nosotros%20trailer%20espanol",
+      "sinopsis": "Un thriller sobrenatural donde una pequeña ciudad descubre que los demonios están infiltrados entre sus habitantes, desatando una lucha por la supervivencia.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1291595,
         "titulo_tmdb": "Insidious: Fuera del más allá",
         "voto": 6.5,
-        "votos": 124,
+        "votos": 125,
         "url_tmdb": "https://www.themoviedb.org/movie/1291595",
         "imdb_id": "tt32393988",
         "url_imdb": "https://www.imdb.com/title/tt32393988/",
@@ -623,31 +439,12 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-0.webp",
       "cines": [
         {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "15:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00"
-          ]
-        },
-        {
           "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
+          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
+          "direccion": "Av. Vía de Evitamiento Norte",
           "formatos": [
             {
-              "formato": "2D REGULAR DOBLADA",
+              "formato": "2D - Doblada",
               "horarios": [
                 "15:20"
               ]
@@ -655,6 +452,22 @@
           ],
           "horarios": [
             "15:20"
+          ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00"
           ]
         }
       ],
@@ -665,8 +478,8 @@
       "actores": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon, Sadie Sink",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/spider-man-un-nuevo-dia-12132_252",
-      "trailer_url": "https://www.youtube.com/watch?v=xrgNovKS0Co",
-      "sinopsis": "Han pasado cuatro años desde los acontecimientos de Sin regreso a casa, y Peter ahora es un adulto que vive completamente solo, habiéndose borrado voluntariamente de la vida y los recuerdos de sus seres queridos. Combatiendo el crimen en una Nueva York que ya no lo conoce, se ha dedicado por completo a proteger su ciudad —un Spider-Man a tiempo completo—, pero a medida que las exigencias se intens",
+      "trailer_url": "https://www.youtube.com/results?search_query=Spider%20Man%3A%20Un%20Nuevo%20Dia%20trailer%20espanol",
+      "sinopsis": "Peter Parker, recién graduado, se enfrenta a nuevos villanos y a los retos de la vida cotidiana mientras protege Nueva York como Spider-Man.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 969681,
@@ -722,48 +535,188 @@
         "idioma": "Inglés",
         "titulo_original": "Spider-Man: Brand New Day"
       }
+    },
+    {
+      "titulo": "Marsupilami: Caos a Bordo",
+      "poster": "https://www.movietime.com.pe/bucket/images/cine/4d1ee49a-354e-49b0-9099-8cb324012908.jpeg",
+      "genero": "",
+      "clasificacion": "APT",
+      "duracion": "99 min",
+      "sinopsis": "Para salvar su trabajo en el zoo, David acepta una arriesgada misión: recuperar un misterioso paquete en Sudamérica. El encargo lo lleva a un crucero donde viaja con su ex, su hijo y Stéphane, un compañero torpe. Todo se descontrola cuando Stéphane lo abre por accidente y libera a un adorable bebé marsupilami que convertirá el viaje en un caos absoluto. David y su familia tendrán que estar más uni",
+      "director": "Philippe Lacheau",
+      "actores": "Philippe Lacheau, Jamel Debbouze, Tarek Boudali, Élodie Fontan, Julien Arruti, Jean Reno",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=DnXC5kb9ix0",
+      "fuente_peli": "Movie Time",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1145899,
+        "titulo_tmdb": "Marsupilami",
+        "voto": 6.4,
+        "votos": 163,
+        "url_tmdb": "https://www.themoviedb.org/movie/1145899",
+        "imdb_id": "tt33029380",
+        "url_imdb": "https://www.imdb.com/title/tt33029380/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/kMhVs1XqmzXlD0mDQ4rTJh4Kvf1.jpg",
+        "director": "Philippe Lacheau",
+        "reparto": [
+          {
+            "nombre": "Philippe Lacheau",
+            "personaje": "David Ticoule"
+          },
+          {
+            "nombre": "Jamel Debbouze",
+            "personaje": "Pablito Camaron"
+          },
+          {
+            "nombre": "Tarek Boudali",
+            "personaje": "Ricky Salsa"
+          },
+          {
+            "nombre": "Élodie Fontan",
+            "personaje": "Tess"
+          },
+          {
+            "nombre": "Julien Arruti",
+            "personaje": "Stéphane Buisson"
+          },
+          {
+            "nombre": "Jean Reno",
+            "personaje": "Jeffrey Malone"
+          }
+        ],
+        "generos": [
+          "Aventura",
+          "Comedia",
+          "Familia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=XTTvrfMVukc",
+          "embed_id": "XTTvrfMVukc"
+        },
+        "sinopsis_tmdb": "David debe entregar un paquete desde Sudamérica y descubre que transporta un bebé Marsupilami.",
+        "estreno": "4 feb 2026",
+        "duracion_min": 99,
+        "paises": [
+          "Francia",
+          "Belgium"
+        ],
+        "idioma": "Francés",
+        "titulo_original": "Marsupilami"
+      }
+    },
+    {
+      "titulo": "Rebelión en la Granja",
+      "poster": "https://www.movietime.com.pe/bucket/images/cine/212f1f89-6b79-4b08-9078-30d47bf8adf3.jpeg",
+      "genero": "",
+      "clasificacion": "APT",
+      "duracion": "96 min",
+      "sinopsis": "Un grupo de animales se rebelan contra sus dueños y toman el poder de la granja.",
+      "director": "Andy Serkis",
+      "actores": "Seth Rogen, Gaten Matarazzo, Steve Buscemi, Glenn Close, Laverne Cox, Kieran Culkin",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=C9_LZZqoBjg",
+      "fuente_peli": "Movie Time",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 539745,
+        "titulo_tmdb": "Rebelión en la Granja",
+        "voto": 6.4,
+        "votos": 110,
+        "url_tmdb": "https://www.themoviedb.org/movie/539745",
+        "imdb_id": "tt2467700",
+        "url_imdb": "https://www.imdb.com/title/tt2467700/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/aAGTQgOJbXG4L3qIlWQl1KFu90t.jpg",
+        "director": "Andy Serkis",
+        "reparto": [
+          {
+            "nombre": "Seth Rogen",
+            "personaje": "Napoleon (voice)"
+          },
+          {
+            "nombre": "Gaten Matarazzo",
+            "personaje": "Lucky (voice)"
+          },
+          {
+            "nombre": "Steve Buscemi",
+            "personaje": "Mr. Whymper (voice)"
+          },
+          {
+            "nombre": "Glenn Close",
+            "personaje": "Frieda Pilkington (voice)"
+          },
+          {
+            "nombre": "Laverne Cox",
+            "personaje": "Snowball (voice)"
+          },
+          {
+            "nombre": "Kieran Culkin",
+            "personaje": "Squealer (voice)"
+          }
+        ],
+        "generos": [
+          "Animación",
+          "Comedia",
+          "Drama",
+          "Familia",
+          "Ciencia ficción"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Un grupo de animales se rebelan contra sus dueños y toman el poder de la granja. Nueva adaptación del clásico de George Orwell.",
+        "estreno": "30 abr 2026",
+        "duracion_min": 136,
+        "paises": [
+          "Reino Unido"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Animal Farm"
+      }
     }
   ],
   "cines": [
     {
-      "cine": "Movie Time Cajamarca",
-      "cine_slug": "movietime-cajamarca-cajamarca-s448",
-      "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+      "cine": "CinePlanet Cajamarca Real Plaza",
+      "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
+      "direccion": "Av. Vía de Evitamiento Norte",
       "peliculas": [
-        {
-          "titulo": "Rebelión En La Granja",
-          "poster": "",
-          "genero": "Animado",
-          "clasificacion": "Todos",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30"
-          ]
-        },
-        {
-          "titulo": "Marsupilami",
-          "poster": "",
-          "genero": "Aventura",
-          "clasificacion": "Todos",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30"
-          ]
-        },
         {
           "titulo": "Impacto Mortal",
           "poster": "",
@@ -771,14 +724,20 @@
           "clasificacion": "12 Años",
           "formatos": [
             {
-              "formato": "Doblada",
+              "formato": "2D - Doblada",
               "horarios": [
-                "17:25"
+                "15:30",
+                "17:50",
+                "20:10",
+                "22:30"
               ]
             }
           ],
           "horarios": [
-            "17:25"
+            "15:30",
+            "17:50",
+            "20:10",
+            "22:30"
           ]
         },
         {
@@ -788,18 +747,20 @@
           "clasificacion": "12 Años",
           "formatos": [
             {
-              "formato": "",
+              "formato": "2D - Doblada",
               "horarios": [
-                "17:50",
-                "19:35",
-                "21:20"
+                "16:00",
+                "18:00",
+                "20:00",
+                "22:00"
               ]
             }
           ],
           "horarios": [
-            "17:50",
-            "19:35",
-            "21:20"
+            "16:00",
+            "18:00",
+            "20:00",
+            "22:00"
           ]
         },
         {
@@ -809,75 +770,7 @@
           "clasificacion": "7 Años",
           "formatos": [
             {
-              "formato": "Doblada",
-              "horarios": [
-                "17:30",
-                "19:30",
-                "21:35"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:30",
-            "19:30",
-            "21:35"
-          ]
-        },
-        {
-          "titulo": "La Noche Del Demonio: Están Entre Nosotros",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-noche-del-demonio-estan-entre-nosotros-47638-0.webp",
-          "genero": "Terror",
-          "clasificacion": "18 Años",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "19:30",
-                "21:35"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:30",
-            "21:35"
-          ]
-        },
-        {
-          "titulo": "Spider Man: Un Nuevo Dia",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-0.webp",
-          "genero": "Ciencia Ficción",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "15:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00"
-          ]
-        }
-      ],
-      "cine_original": "CAJAMARCA - MOVIE TIME"
-    },
-    {
-      "cine": "CinePlanet Cajamarca Real Plaza",
-      "cine_slug": "cp-cajamarca",
-      "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-      "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-      "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-      "fuente_cine": "Cineplanet",
-      "peliculas": [
-        {
-          "titulo": "Coyote vs. ACME",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002921?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Animación",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
+              "formato": "2D - Doblada",
               "horarios": [
                 "14:50",
                 "17:10",
@@ -898,36 +791,13 @@
           ]
         },
         {
-          "titulo": "Impacto Mortal",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002945?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Acción",
-          "clasificacion": "+14",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "15:30",
-                "17:50",
-                "20:10",
-                "22:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30",
-            "17:50",
-            "20:10",
-            "22:30"
-          ]
-        },
-        {
           "titulo": "La Noche Del Demonio: Están Entre Nosotros",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003049?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-noche-del-demonio-estan-entre-nosotros-47638-0.webp",
           "genero": "Terror",
-          "clasificacion": "+14",
+          "clasificacion": "18 Años",
           "formatos": [
             {
-              "formato": "2D REGULAR DOBLADA",
+              "formato": "2D - Doblada",
               "horarios": [
                 "14:30",
                 "16:50",
@@ -944,36 +814,13 @@
           ]
         },
         {
-          "titulo": "Separada pero Nunca Sola",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003052?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Comedia",
-          "clasificacion": "+14",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "16:00",
-                "18:00",
-                "20:00",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:00",
-            "20:00",
-            "22:00"
-          ]
-        },
-        {
           "titulo": "Spider Man: Un Nuevo Dia",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002949?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Acción",
-          "clasificacion": "APT",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-0.webp",
+          "genero": "Ciencia Ficción",
+          "clasificacion": "12 Años",
           "formatos": [
             {
-              "formato": "2D REGULAR DOBLADA",
+              "formato": "2D - Doblada",
               "horarios": [
                 "15:20"
               ]
@@ -984,7 +831,7 @@
           ]
         }
       ],
-      "cine_original": "CP Cajamarca"
+      "cine_original": "CAJAMARCA - CINEPLANET"
     },
     {
       "cine": "Cinerama Cajamarca MegaPlaza",
@@ -996,13 +843,173 @@
       "no_consultado": true,
       "url": "https://www.cinerama.com.pe/cines",
       "cine_original": "Cajamarca Megaplaza (Cinerama)"
+    },
+    {
+      "cine": "Movie Time Cajamarca",
+      "cine_slug": "movietime-cajamarca",
+      "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+      "url": "https://www.movietime.com.pe/cinemas/cajamarca",
+      "fuente_cine": "Movie Time",
+      "peliculas": [
+        {
+          "titulo": "Coyote vs. ACME",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/980f6987-4dcf-4d9b-b746-b7366ba93692.png",
+          "genero": "",
+          "clasificacion": "APT",
+          "duracion": "103 min",
+          "sinopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:30",
+                "19:30",
+                "21:35"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:30",
+            "19:30",
+            "21:35"
+          ],
+          "trailer_url": "https://www.youtube.com/watch?v=DIqJb0LwSho"
+        },
+        {
+          "titulo": "Impacto Mortal",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/2df4c334-ddc7-4a89-9ea7-b275ce407624.jpeg",
+          "genero": "",
+          "clasificacion": "+14",
+          "duracion": "106 min",
+          "sinopsis": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:25"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:25"
+          ],
+          "trailer_url": "https://www.youtube.com/watch?v=wtTgTP-liyQ"
+        },
+        {
+          "titulo": "La Noche Del Demonio: Están Entre Nosotros",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/d808a2f7-faca-4e68-ae75-f52db0689ba3.jpeg",
+          "genero": "",
+          "clasificacion": "+14",
+          "duracion": "106 min",
+          "sinopsis": "Una joven madre que cría a su hija en la casa donde creció y descubre que puede viajar al Más Allá. Cuando algo maligno la persigue, Gemma descubre una habilidad que lo cambia todo: no solo puede entrar al Más Allá, sino que también puede traer de vuelta al mundo real a quienes viven allí. Una vez que los demonios se dan cuenta de su poder, nuestro mundo se convierte en su patio de recreo.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "19:30",
+                "21:35"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:30",
+            "21:35"
+          ],
+          "trailer_url": "https://www.youtube.com/watch?v=9efsBOK-k1M"
+        },
+        {
+          "titulo": "Marsupilami: Caos a Bordo",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/4d1ee49a-354e-49b0-9099-8cb324012908.jpeg",
+          "genero": "",
+          "clasificacion": "APT",
+          "duracion": "99 min",
+          "sinopsis": "Para salvar su trabajo en el zoo, David acepta una arriesgada misión: recuperar un misterioso paquete en Sudamérica. El encargo lo lleva a un crucero donde viaja con su ex, su hijo y Stéphane, un compañero torpe. Todo se descontrola cuando Stéphane lo abre por accidente y libera a un adorable bebé marsupilami que convertirá el viaje en un caos absoluto. David y su familia tendrán que estar más uni",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30"
+          ],
+          "trailer_url": "https://www.youtube.com/watch?v=DnXC5kb9ix0"
+        },
+        {
+          "titulo": "Rebelión en la Granja",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/212f1f89-6b79-4b08-9078-30d47bf8adf3.jpeg",
+          "genero": "",
+          "clasificacion": "APT",
+          "duracion": "96 min",
+          "sinopsis": "Un grupo de animales se rebelan contra sus dueños y toman el poder de la granja.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30"
+          ],
+          "trailer_url": "https://www.youtube.com/watch?v=C9_LZZqoBjg"
+        },
+        {
+          "titulo": "Separada pero Nunca Sola",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/f2b60a32-a8ca-450f-9957-51507fa860c8.png",
+          "genero": "",
+          "clasificacion": "+14",
+          "duracion": "86 min",
+          "sinopsis": "Recién separada, Isabel busca rehacer su vida en un hotel paradisíaco junto a su mejor amiga. Para sacarse de encima a su ex esposo que insiste en volver, inventa un romance con un falso galán. Entre tantas mentiras y consejos disparatados, se desatará un divertido caos en los escenarios más hermosos de la selva peruana.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:50",
+                "19:35",
+                "21:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:50",
+            "19:35",
+            "21:20"
+          ],
+          "trailer_url": "https://www.youtube.com/watch?v=BZkIHbUkh8k"
+        },
+        {
+          "titulo": "Spider Man: Un Nuevo Dia",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/27a793fb-2e0a-4a89-a208-af367659eaaf.png",
+          "genero": "",
+          "clasificacion": "APT",
+          "duracion": "145 min",
+          "sinopsis": "Tras el éxito mundial sin precedentes de Spider-Man: Sin regreso a casa, Spider-Man: Un nuevo día marca un capítulo completamente nuevo para Peter Parker y Spider-Man. Han pasado cuatro años desde los acontecimientos de Sin regreso a casa, y Peter ahora es un adulto que vive completamente solo, habiéndose borrado voluntariamente de la vida y los recuerdos de sus seres queridos. Combatiendo el crim",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00"
+          ],
+          "trailer_url": "https://www.youtube.com/watch?v=Pw1X-57Ms-8"
+        }
+      ]
     }
   ],
   "estado": "ok",
-  "fuentes_extra": [
-    "Cineplanet"
-  ],
+  "motor": "groq",
   "notas": [
     "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
+  ],
+  "fuentes_extra": [
+    "Movie Time"
   ]
 }
