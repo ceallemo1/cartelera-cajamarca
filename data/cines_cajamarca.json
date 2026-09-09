@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-08 18:00",
+  "actualizado": "2026-09-08 20:00",
   "fecha_objetivo": "2026-09-08",
   "peliculas": [
     {
@@ -20,16 +20,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
-                "17:50",
                 "20:10",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "15:30",
-            "17:50",
             "20:10",
             "22:30"
           ]
@@ -81,7 +77,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/impacto-mortal-12226_252",
       "trailer_url": "https://www.youtube.com/watch?v=lNEuVhB0D9U",
-      "sinopsis": "Un grupo de científicos debe detener una amenaza extraterrestre que impacta la Tierra, combinando acción y suspenso en una carrera contra el tiempo.",
+      "sinopsis": "Un thriller de acción en el que un grupo de especialistas debe detener una amenaza catastrófica que podría destruir la Tierra.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 402051,
@@ -149,16 +145,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
-                "18:00",
                 "20:00",
                 "22:00"
               ]
             }
           ],
           "horarios": [
-            "16:00",
-            "18:00",
             "20:00",
             "22:00"
           ]
@@ -214,7 +206,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/separada-pero-nunca-sola-12236_252",
       "trailer_url": "https://www.youtube.com/watch?v=BZkIHbUkh8k",
-      "sinopsis": "Una mujer recién divorciada navega la vida de soltera mientras mantiene una amistad inquebrantable con su mejor amiga, descubriendo el valor de la independencia.",
+      "sinopsis": "Una comedia romántica que sigue a una mujer que, tras una separación, descubre que la amistad y el amor propio la mantienen acompañada.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1744851,
@@ -277,9 +269,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:50",
-                "17:10",
-                "18:30",
                 "19:30",
                 "20:50",
                 "21:50"
@@ -287,9 +276,6 @@
             }
           ],
           "horarios": [
-            "14:50",
-            "17:10",
-            "18:30",
             "19:30",
             "20:50",
             "21:50"
@@ -346,7 +332,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote de los dibujos animados vuelve a intentar atrapar al Correcaminos usando los ingeniosos (y fallidos) productos de la compañía ACME.",
+      "sinopsis": "El astuto Coyote de los dibujos animados se enfrenta una vez más a los ingeniosos trucos de la compañía ACME en una serie de persecuciones cómicas.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
@@ -418,16 +404,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:30",
-                "16:50",
                 "19:10",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "14:30",
-            "16:50",
             "19:10",
             "21:30"
           ]
@@ -481,7 +463,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-noche-del-demonio-estan-entre-nosotros-12203_252",
       "trailer_url": "https://www.youtube.com/watch?v=orvNgTGq6cg",
-      "sinopsis": "En una pequeña ciudad, extrañas desapariciones revelan la presencia de un demonio que se oculta entre los humanos, desatando una lucha entre la fe y el terror.",
+      "sinopsis": "En una pequeña localidad, extraños sucesos nocturnos revelan la presencia de un demonio que se oculta entre los habitantes, desatando terror y misterio.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1291595,
@@ -539,25 +521,6 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/5/spider-man-un-nuevo-dia-47429-0.webp",
       "cines": [
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "15:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:20"
-          ]
-        },
-        {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
           "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
@@ -597,8 +560,8 @@
       "actores": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon, Sadie Sink",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/spider-man-un-nuevo-dia-12132_252",
-      "trailer_url": "https://www.youtube.com/watch?v=xrgNovKS0Co",
-      "sinopsis": "Peter Parker, tras los eventos de la última película, debe equilibrar su vida como estudiante y superhéroe mientras enfrenta una nueva amenaza que pone a prueba su ingenio y valentía.",
+      "trailer_url": "https://www.youtube.com/results?search_query=Spider%20Man%3A%20Un%20Nuevo%20Dia%20trailer%20espanol",
+      "sinopsis": "Peter Parker, tras los eventos recientes, intenta equilibrar su vida como estudiante y superhéroe mientras enfrenta nuevos peligros en la ciudad.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 969681,
@@ -868,9 +831,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:50",
-                "17:10",
-                "18:30",
                 "19:30",
                 "20:50",
                 "21:50"
@@ -878,9 +838,6 @@
             }
           ],
           "horarios": [
-            "14:50",
-            "17:10",
-            "18:30",
             "19:30",
             "20:50",
             "21:50"
@@ -895,16 +852,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
-                "17:50",
                 "20:10",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "15:30",
-            "17:50",
             "20:10",
             "22:30"
           ]
@@ -918,16 +871,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:30",
-                "16:50",
                 "19:10",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "14:30",
-            "16:50",
             "19:10",
             "21:30"
           ]
@@ -941,35 +890,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
-                "18:00",
                 "20:00",
                 "22:00"
               ]
             }
           ],
           "horarios": [
-            "16:00",
-            "18:00",
             "20:00",
             "22:00"
-          ]
-        },
-        {
-          "titulo": "Spider Man: Un Nuevo Dia",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002949?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Acción",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "15:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:20"
           ]
         }
       ],
