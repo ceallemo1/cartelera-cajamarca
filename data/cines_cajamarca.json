@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-10 12:34",
+  "actualizado": "2026-09-10 17:00",
   "fecha_objetivo": "2026-09-10",
   "peliculas": [
     {
@@ -75,8 +75,8 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/zona-cero-12246_252",
       "trailer_url": "https://www.youtube.com/watch?v=DdSod74AsBY",
-      "sinopsis": "Un thriller que sigue a un equipo de rescate mientras intenta sobrevivir y descubrir la verdad tras una explosión devastadora en una zona deshabitada.",
-      "puntaje": "",
+      "sinopsis": "Un detective investiga una serie de crímenes en una zona de exclusividad donde la violencia y la corrupción se entrelazan.",
+      "puntaje": "6.3",
       "tmdb": {
         "tmdb_id": 507244,
         "titulo_tmdb": "Afterburn (Zona cero)",
@@ -134,6 +134,117 @@
       }
     },
     {
+      "titulo": "Hechizo de Amor: La Magia Continúa",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003074?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "17:00",
+                "19:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:00",
+            "19:40"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:30",
+                "19:00",
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:30",
+            "19:00",
+            "21:30"
+          ]
+        }
+      ],
+      "genero": "Comedia",
+      "duracion": "110 minutos",
+      "clasificacion": "12 Años",
+      "director": "Susanne Bier",
+      "actores": "Sandra Bullock, Nicole Kidman, Joey King, Maisie Williams, Xolo Maridueña, Lee Pace",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/hechizo-de-amor-la-magia-continua-12253_252",
+      "trailer_url": "https://youtu.be/tXK7p_atLVA?si=ZqoczvtzVQOCbFaW",
+      "sinopsis": "La joven bruja regresa para enfrentar nuevos retos románticos mientras descubre que la magia del amor es más poderosa de lo que imaginaba.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1302904,
+        "titulo_tmdb": "Prácticamente magia 2",
+        "voto": 6.6,
+        "votos": 13,
+        "url_tmdb": "https://www.themoviedb.org/movie/1302904",
+        "imdb_id": "tt32588798",
+        "url_imdb": "https://www.imdb.com/title/tt32588798/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/tnbyrsN7cu2An3By6UDOHrq21CK.jpg",
+        "director": "Susanne Bier",
+        "reparto": [
+          {
+            "nombre": "Sandra Bullock",
+            "personaje": "Sally Owens"
+          },
+          {
+            "nombre": "Nicole Kidman",
+            "personaje": "Gillian Owens"
+          },
+          {
+            "nombre": "Joey King",
+            "personaje": "Kylie Owens"
+          },
+          {
+            "nombre": "Maisie Williams",
+            "personaje": "Antonia Owens"
+          },
+          {
+            "nombre": "Xolo Maridueña",
+            "personaje": "Gideon"
+          },
+          {
+            "nombre": "Lee Pace",
+            "personaje": "Ian Wright"
+          }
+        ],
+        "generos": [
+          "Romance",
+          "Fantasía",
+          "Comedia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=UOmntM7mHI8",
+          "embed_id": "UOmntM7mHI8"
+        },
+        "sinopsis_tmdb": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
+        "estreno": "9 sep 2026",
+        "duracion_min": 130,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Practical Magic 2"
+      }
+    },
+    {
       "titulo": "Tadeo Y La Lámpara Maravillosa",
       "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002974?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "cines": [
@@ -148,13 +259,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:50",
                 "17:50"
               ]
             }
           ],
           "horarios": [
-            "14:50",
             "17:50"
           ]
         },
@@ -183,7 +292,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/tadeo-y-la-lampara-maravillosa-12257_252",
       "trailer_url": "https://youtu.be/cpHujWfNLnE?si=maVSFUCeRYSM6NLM",
-      "sinopsis": "El intrépido Tadeo se embarca en una aventura para encontrar una lámpara mágica que concede deseos, descubriendo peligros y aliados inesperados.",
+      "sinopsis": "El intrépido arqueólogo Tadeo se embarca en una aventura para encontrar una lámpara legendaria que concede deseos, enfrentándose a peligros y trampas antiguas.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1187326,
@@ -283,7 +392,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-ultima-tormenta-12261_252",
       "trailer_url": "https://www.youtube.com/results?search_query=La%20%C3%9Altima%20Tormenta%20trailer%20espanol",
-      "sinopsis": "En un futuro cercano, una tormenta sobrenatural amenaza con destruir la humanidad y un grupo de científicos debe encontrar la forma de detenerla.",
+      "sinopsis": "En un futuro cercano, una tormenta cataclísmica amenaza con destruir la humanidad y un grupo de supervivientes lucha por encontrar refugio y esperanza.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 105485,
@@ -352,8 +461,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:00",
-                "15:00",
                 "16:15",
                 "17:15",
                 "18:30",
@@ -364,8 +471,6 @@
             }
           ],
           "horarios": [
-            "14:00",
-            "15:00",
             "16:15",
             "17:15",
             "18:30",
@@ -425,7 +530,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote vuelve a intentar robar los productos de ACME, mientras la compañía despliega ingeniosas trampas para frustrar sus planes.",
+      "sinopsis": "El Coyote, cansado de los planes fallidos de la ACME, decide enfrentarse a la empresa en una serie de ingeniosas y cómicas batallas.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
@@ -554,7 +659,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-noche-del-demonio-estan-entre-nosotros-12203_252",
       "trailer_url": "https://www.youtube.com/watch?v=orvNgTGq6cg",
-      "sinopsis": "Una serie de extraños asesinatos revela que un demonio se ha infiltrado entre la gente común, y un grupo de investigadores debe detenerlo antes de que sea demasiado tarde.",
+      "sinopsis": "Un pequeño pueblo es asediado por una presencia demoníaca que se oculta entre sus habitantes, desatando una noche de terror y paranoia.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1291595,
@@ -622,7 +727,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:30",
                 "16:50",
                 "19:10",
                 "21:30"
@@ -630,7 +734,6 @@
             }
           ],
           "horarios": [
-            "14:30",
             "16:50",
             "19:10",
             "21:30"
@@ -679,7 +782,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/impacto-mortal-12226_252",
       "trailer_url": "https://www.youtube.com/watch?v=lNEuVhB0D9U",
-      "sinopsis": "Una nave espacial sufre un accidente y sus sobrevivientes deben luchar contra una criatura mortal que acecha en los restos del impacto.",
+      "sinopsis": "Una nave espacial sufre un accidente que desencadena una cadena de eventos mortales, obligando a la tripulación a luchar por su supervivencia.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 402051,
@@ -733,118 +836,6 @@
       }
     },
     {
-      "titulo": "Hechizo de Amor: La Magia Continúa",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003074?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Fantasía",
-      "clasificacion": "+14",
-      "duracion": "130 min",
-      "director": "Susanne Bier",
-      "actores": "Sandra Bullock, Nicole Kidman, Joey King, Maisie Williams, Xolo Maridueña, Lee Pace",
-      "estreno": "",
-      "sinopsis": "Nos transporta de vuelta a un mundo envuelto en travesuras bajo la luz de la luna y una poderosa magia ancestral. Las hermanas Owens deberán enfrentarse a la oscura maldición que amenaza con destruir a su familia de una vez por todas, en un evento cinematográfico imperdible lleno de diversión, magia y caos.",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://youtu.be/tXK7p_atLVA?si=ZqoczvtzVQOCbFaW",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "17:00",
-                "19:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:00",
-            "19:40"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:30",
-                "19:00",
-                "21:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:30",
-            "19:00",
-            "21:30"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1302904,
-        "titulo_tmdb": "Prácticamente magia 2",
-        "voto": 6.6,
-        "votos": 13,
-        "url_tmdb": "https://www.themoviedb.org/movie/1302904",
-        "imdb_id": "tt32588798",
-        "url_imdb": "https://www.imdb.com/title/tt32588798/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/tnbyrsN7cu2An3By6UDOHrq21CK.jpg",
-        "director": "Susanne Bier",
-        "reparto": [
-          {
-            "nombre": "Sandra Bullock",
-            "personaje": "Sally Owens"
-          },
-          {
-            "nombre": "Nicole Kidman",
-            "personaje": "Gillian Owens"
-          },
-          {
-            "nombre": "Joey King",
-            "personaje": "Kylie Owens"
-          },
-          {
-            "nombre": "Maisie Williams",
-            "personaje": "Antonia Owens"
-          },
-          {
-            "nombre": "Xolo Maridueña",
-            "personaje": "Gideon"
-          },
-          {
-            "nombre": "Lee Pace",
-            "personaje": "Ian Wright"
-          }
-        ],
-        "generos": [
-          "Romance",
-          "Fantasía",
-          "Comedia"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=UOmntM7mHI8",
-          "embed_id": "UOmntM7mHI8"
-        },
-        "sinopsis_tmdb": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
-        "estreno": "9 sep 2026",
-        "duracion_min": 130,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Practical Magic 2"
-      }
-    },
-    {
       "titulo": "Separada pero nunca sola",
       "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003052?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "genero": "Comedia",
@@ -870,13 +861,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "13:50",
                 "15:50"
               ]
             }
           ],
           "horarios": [
-            "13:50",
             "15:50"
           ]
         }
@@ -1072,8 +1061,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:00",
-                "15:00",
                 "16:15",
                 "17:15",
                 "18:30",
@@ -1084,8 +1071,6 @@
             }
           ],
           "horarios": [
-            "14:00",
-            "15:00",
             "16:15",
             "17:15",
             "18:30",
@@ -1122,7 +1107,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:30",
                 "16:50",
                 "19:10",
                 "21:30"
@@ -1130,7 +1114,6 @@
             }
           ],
           "horarios": [
-            "14:30",
             "16:50",
             "19:10",
             "21:30"
@@ -1164,13 +1147,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "13:50",
                 "15:50"
               ]
             }
           ],
           "horarios": [
-            "13:50",
             "15:50"
           ]
         },
@@ -1183,13 +1164,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:50",
                 "17:50"
               ]
             }
           ],
           "horarios": [
-            "14:50",
             "17:50"
           ]
         },
