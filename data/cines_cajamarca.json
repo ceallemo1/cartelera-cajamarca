@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-09 17:00",
+  "actualizado": "2026-09-09 20:00",
   "fecha_objetivo": "2026-09-09",
   "peliculas": [
     {
@@ -20,14 +20,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:50",
                 "20:10",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "17:50",
             "20:10",
             "22:30"
           ]
@@ -79,7 +77,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/impacto-mortal-12226_252",
       "trailer_url": "https://www.youtube.com/watch?v=lNEuVhB0D9U",
-      "sinopsis": "Un thriller de acción en el que un agente secreto debe detener una serie de explosiones mortales que amenazan con destruir una ciudad entera.",
+      "sinopsis": "Un thriller de acción en el que un grupo de especialistas debe detener una amenaza biológica que podría aniquilar a la humanidad.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 402051,
@@ -147,14 +145,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "18:00",
                 "20:00",
                 "22:00"
               ]
             }
           ],
           "horarios": [
-            "18:00",
             "20:00",
             "22:00"
           ]
@@ -210,7 +206,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/separada-pero-nunca-sola-12236_252",
       "trailer_url": "https://www.youtube.com/watch?v=BZkIHbUkh8k",
-      "sinopsis": "Una comedia romántica que sigue a una mujer que, tras una separación, descubre que la amistad y el amor propio la acompañan siempre, aunque esté sola.",
+      "sinopsis": "Una comedia romántica que sigue a una mujer que, tras una separación, descubre que la amistad y la familia pueden llenar el vacío de la soledad.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1744851,
@@ -273,7 +269,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:10",
                 "18:30",
                 "19:30",
                 "20:50",
@@ -282,7 +277,6 @@
             }
           ],
           "horarios": [
-            "17:10",
             "18:30",
             "19:30",
             "20:50",
@@ -340,13 +334,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote de los dibujos animados vuelve a enfrentarse a la infame compañía ACME, usando ingeniosos artilugios para intentar atrapar al Correcaminos.",
+      "sinopsis": "El astuto Coyote se enfrenta una vez más a los ingeniosos trucos de la compañía ACME en una serie de persecuciones cómicas y desastrosas.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
         "titulo_tmdb": "Coyote vs. Acme",
         "voto": 7.7,
-        "votos": 252,
+        "votos": 265,
         "url_tmdb": "https://www.themoviedb.org/movie/1204680",
         "imdb_id": "tt1756855",
         "url_imdb": "https://www.imdb.com/title/tt1756855/",
@@ -412,14 +406,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:50",
                 "19:10",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "16:50",
             "19:10",
             "21:30"
           ]
@@ -473,7 +465,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-noche-del-demonio-estan-entre-nosotros-12203_252",
       "trailer_url": "https://www.youtube.com/watch?v=orvNgTGq6cg",
-      "sinopsis": "En una pequeña localidad, extrañas desapariciones revelan la presencia de un demonio que se oculta entre los habitantes, desatando una noche de terror.",
+      "sinopsis": "Una película de terror donde una pequeña comunidad descubre que un demonio ancestral se ha infiltrado entre sus habitantes, desatando el caos.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1291595,
@@ -571,13 +563,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/spider-man-un-nuevo-dia-12132_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Spider%20Man%3A%20Un%20Nuevo%20Dia%20trailer%20espanol",
-      "sinopsis": "Peter Parker, recién graduado, se enfrenta a nuevos desafíos como Spider-Man mientras protege la ciudad y descubre una amenaza que cambiará su vida.",
+      "sinopsis": "Peter Parker, recién graduado, debe equilibrar su vida como estudiante y como Spider-Man mientras enfrenta una nueva amenaza que pone a prueba sus límites.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 969681,
         "titulo_tmdb": "Spider-Man: Brand New Day",
         "voto": 7.9,
-        "votos": 2534,
+        "votos": 2545,
         "url_tmdb": "https://www.themoviedb.org/movie/969681",
         "imdb_id": "tt22084616",
         "url_imdb": "https://www.imdb.com/title/tt22084616/",
@@ -841,7 +833,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:10",
                 "18:30",
                 "19:30",
                 "20:50",
@@ -850,7 +841,6 @@
             }
           ],
           "horarios": [
-            "17:10",
             "18:30",
             "19:30",
             "20:50",
@@ -866,14 +856,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:50",
                 "20:10",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "17:50",
             "20:10",
             "22:30"
           ]
@@ -887,14 +875,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:50",
                 "19:10",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "16:50",
             "19:10",
             "21:30"
           ]
@@ -908,14 +894,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "18:00",
                 "20:00",
                 "22:00"
               ]
             }
           ],
           "horarios": [
-            "18:00",
             "20:00",
             "22:00"
           ]
