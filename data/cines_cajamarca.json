@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-10 17:00",
+  "actualizado": "2026-09-10 20:00",
   "fecha_objetivo": "2026-09-10",
   "peliculas": [
     {
@@ -75,8 +75,8 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/zona-cero-12246_252",
       "trailer_url": "https://www.youtube.com/watch?v=DdSod74AsBY",
-      "sinopsis": "Un detective investiga una serie de crímenes en una zona de exclusividad donde la violencia y la corrupción se entrelazan.",
-      "puntaje": "6.3",
+      "sinopsis": "Un thriller que sigue a un grupo de sobrevivientes atrapados en el epicentro de una catástrofe nuclear, luchando por encontrar una salida mientras descubren oscuros secretos del lugar.",
+      "puntaje": "",
       "tmdb": {
         "tmdb_id": 507244,
         "titulo_tmdb": "Afterburn (Zona cero)",
@@ -148,13 +148,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:00",
                 "19:40"
               ]
             }
           ],
           "horarios": [
-            "17:00",
             "19:40"
           ]
         },
@@ -187,13 +185,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/hechizo-de-amor-la-magia-continua-12253_252",
       "trailer_url": "https://youtu.be/tXK7p_atLVA?si=ZqoczvtzVQOCbFaW",
-      "sinopsis": "La joven bruja regresa para enfrentar nuevos retos románticos mientras descubre que la magia del amor es más poderosa de lo que imaginaba.",
+      "sinopsis": "Continuación de la comedia romántica donde dos jóvenes magos deben combinar sus poderes para salvar su relación y evitar que una antigua maldición destruya su mundo.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1302904,
         "titulo_tmdb": "Prácticamente magia 2",
         "voto": 6.6,
-        "votos": 13,
+        "votos": 18,
         "url_tmdb": "https://www.themoviedb.org/movie/1302904",
         "imdb_id": "tt32588798",
         "url_imdb": "https://www.imdb.com/title/tt32588798/",
@@ -245,107 +243,6 @@
       }
     },
     {
-      "titulo": "Tadeo Y La Lámpara Maravillosa",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002974?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "17:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:50"
-          ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30"
-          ]
-        }
-      ],
-      "genero": "Animado",
-      "duracion": "100 minutos",
-      "clasificacion": "Todos",
-      "director": "Enrique Gato",
-      "actores": "Óscar Barberán, Michelle Jenner, Luis Posada, Joseph Balderrama, Trevor White",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/tadeo-y-la-lampara-maravillosa-12257_252",
-      "trailer_url": "https://youtu.be/cpHujWfNLnE?si=maVSFUCeRYSM6NLM",
-      "sinopsis": "El intrépido arqueólogo Tadeo se embarca en una aventura para encontrar una lámpara legendaria que concede deseos, enfrentándose a peligros y trampas antiguas.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1187326,
-        "titulo_tmdb": "Tadeo Jones y La Lámpara Maravillosa",
-        "voto": 6.6,
-        "votos": 9,
-        "url_tmdb": "https://www.themoviedb.org/movie/1187326",
-        "imdb_id": "tt36164852",
-        "url_imdb": "https://www.imdb.com/title/tt36164852/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
-        "director": "Enrique Gato",
-        "reparto": [
-          {
-            "nombre": "Óscar Barberán",
-            "personaje": "Tadeo Jones (voice)"
-          },
-          {
-            "nombre": "Michelle Jenner",
-            "personaje": "Sara Lavrof (voice)"
-          },
-          {
-            "nombre": "Luis Posada",
-            "personaje": "Momia (voice)"
-          },
-          {
-            "nombre": "Joseph Balderrama",
-            "personaje": "Mummy / Tupac (voice)"
-          },
-          {
-            "nombre": "Trevor White",
-            "personaje": "Tad (voice)"
-          }
-        ],
-        "generos": [
-          "Animación",
-          "Comedia",
-          "Familia"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=CDpJJHc7xMo",
-          "embed_id": "CDpJJHc7xMo"
-        },
-        "sinopsis_tmdb": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
-        "estreno": "26 ago 2026",
-        "duracion_min": 94,
-        "paises": [
-          "España"
-        ],
-        "idioma": "Español",
-        "titulo_original": "Tadeo Jones y La Lámpara Maravillosa"
-      }
-    },
-    {
       "titulo": "La Última Tormenta",
       "poster": "https://cdn.carteleracine.pe/cine/2026/9/la-ultima-tormenta-47768-1.jpg",
       "cines": [
@@ -392,58 +289,53 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-ultima-tormenta-12261_252",
       "trailer_url": "https://www.youtube.com/results?search_query=La%20%C3%9Altima%20Tormenta%20trailer%20espanol",
-      "sinopsis": "En un futuro cercano, una tormenta cataclísmica amenaza con destruir la humanidad y un grupo de supervivientes lucha por encontrar refugio y esperanza.",
+      "sinopsis": "En un futuro cercano, una tormenta sin precedentes desata fenómenos sobrenaturales que obligan a un equipo de científicos a descubrir la causa antes de que el mundo sea destruido.",
       "puntaje": "",
       "tmdb": {
-        "tmdb_id": 105485,
-        "titulo_tmdb": "Super Tormenta",
-        "voto": 5.3,
-        "votos": 68,
-        "url_tmdb": "https://www.themoviedb.org/movie/105485",
-        "imdb_id": "tt1887814",
-        "url_imdb": "https://www.imdb.com/title/tt1887814/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/zYT1ayJHcS8x0otYHJYZlr27Js.jpg",
-        "director": "Sheldon Wilson",
+        "tmdb_id": 1424965,
+        "titulo_tmdb": "Infierno bajo cero",
+        "voto": 2.0,
+        "votos": 1,
+        "url_tmdb": "https://www.themoviedb.org/movie/1424965",
+        "imdb_id": "tt34959976",
+        "url_imdb": "https://www.imdb.com/title/tt34959976/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/dQyyx00wZSiJlJEAT0oIo9NZVjn.jpg",
+        "director": "Taavi Vartia",
         "reparto": [
           {
-            "nombre": "David Sutcliffe",
-            "personaje": "Jason Newmar"
+            "nombre": "Thea Sofie Loch Næss",
+            "personaje": "Emily"
           },
           {
-            "nombre": "Mitch Pileggi",
-            "personaje": "Gunter MacGregor"
+            "nombre": "Νίκος Κουκάς",
+            "personaje": "Harry"
           },
           {
-            "nombre": "Brett Dier",
-            "personaje": "Will Newmar"
+            "nombre": "Mimi Roivainen",
+            "personaje": "Young Anna"
           },
           {
-            "nombre": "Leah Cairns",
-            "personaje": "Andrea Newmar"
-          },
-          {
-            "nombre": "Luisa d'Oliveira",
-            "personaje": "Megan MacGregor"
-          },
-          {
-            "nombre": "Erica Cerra",
-            "personaje": "Carolyn"
+            "nombre": "Jasmin Simonen",
+            "personaje": "Young Emily"
           }
         ],
         "generos": [
-          "Película de TV",
-          "Ciencia ficción",
-          "Acción"
+          "Drama",
+          "Suspense"
         ],
-        "trailer": {},
-        "sinopsis_tmdb": "El vórtice de alta presión del famoso Júpiter se ha ido. Cuando las tormentas gigantes comienzan a difundirse en América del Norte, se hace evidente que la tormenta colosal que flotaba alrededor de Júpiter ha llegado a la Tierra.",
-        "estreno": "29 dic 2011",
-        "duracion_min": 90,
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=yOFZdp58qOU",
+          "embed_id": "yOFZdp58qOU"
+        },
+        "sinopsis_tmdb": "Atrapada en una placa de hielo a la deriva en el Ártico, una patinadora artística lucha por sobrevivir mientras el hielo se fragmenta y la arrastra hacia aguas abiertas. Sin posibilidad de rescate, cada minuto es una batalla contra el frío extremo, el hambre y el agotamiento.",
+        "estreno": "20 ago 2026",
+        "duracion_min": 83,
         "paises": [
-          "Canadá"
+          "Finland",
+          "Greece"
         ],
         "idioma": "Inglés",
-        "titulo_original": "Mega Cyclone"
+        "titulo_original": "Ice Skater"
       }
     },
     {
@@ -461,8 +353,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:15",
-                "17:15",
                 "18:30",
                 "19:30",
                 "20:50",
@@ -471,8 +361,6 @@
             }
           ],
           "horarios": [
-            "16:15",
-            "17:15",
             "18:30",
             "19:30",
             "20:50",
@@ -530,13 +418,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El Coyote, cansado de los planes fallidos de la ACME, decide enfrentarse a la empresa en una serie de ingeniosas y cómicas batallas.",
+      "sinopsis": "El Coyote de los dibujos animados se enfrenta una vez más a los ingeniosos trucos de la empresa ACME, en una serie de persecuciones cómicas y explosivas.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
         "titulo_tmdb": "Coyote vs. Acme",
-        "voto": 7.7,
-        "votos": 276,
+        "voto": 7.6,
+        "votos": 287,
         "url_tmdb": "https://www.themoviedb.org/movie/1204680",
         "imdb_id": "tt1756855",
         "url_imdb": "https://www.imdb.com/title/tt1756855/",
@@ -659,13 +547,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-noche-del-demonio-estan-entre-nosotros-12203_252",
       "trailer_url": "https://www.youtube.com/watch?v=orvNgTGq6cg",
-      "sinopsis": "Un pequeño pueblo es asediado por una presencia demoníaca que se oculta entre sus habitantes, desatando una noche de terror y paranoia.",
+      "sinopsis": "Un grupo de adolescentes descubre que una entidad demoníaca se ha infiltrado en su escuela, y deben unir fuerzas para detenerla antes de que posea a todos.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1291595,
         "titulo_tmdb": "Insidious: Fuera del más allá",
         "voto": 6.5,
-        "votos": 130,
+        "votos": 132,
         "url_tmdb": "https://www.themoviedb.org/movie/1291595",
         "imdb_id": "tt32393988",
         "url_imdb": "https://www.imdb.com/title/tt32393988/",
@@ -727,14 +615,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:50",
                 "19:10",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "16:50",
             "19:10",
             "21:30"
           ]
@@ -782,7 +668,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/impacto-mortal-12226_252",
       "trailer_url": "https://www.youtube.com/watch?v=lNEuVhB0D9U",
-      "sinopsis": "Una nave espacial sufre un accidente que desencadena una cadena de eventos mortales, obligando a la tripulación a luchar por su supervivencia.",
+      "sinopsis": "Una impactante historia de supervivencia donde un meteorito golpea la Tierra, desencadenando una serie de eventos mortales que ponen a prueba la resistencia humana.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 402051,
@@ -833,87 +719,6 @@
         ],
         "idioma": "Español",
         "titulo_original": "Impacto mortal"
-      }
-    },
-    {
-      "titulo": "Separada pero nunca sola",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003052?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Comedia",
-      "clasificacion": "+14",
-      "duracion": "86 min",
-      "director": "Ani Alva Helfer",
-      "actores": "Emilia Drago, Nicolás Galindo, Joaquín de Orbegoso, Ximena Palomino, Armando Machuca",
-      "estreno": "",
-      "sinopsis": "Recién separada, Isabel busca rehacer su vida en un hotel paradisíaco junto a su mejor amiga. Para sacarse de encima a su ex esposo que insiste en volver, inventa un romance con un falso galán. Entre tantas mentiras y consejos disparatados, se desatará un divertido caos en los escenarios más hermosos de la selva peruana.",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=BZkIHbUkh8k",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "15:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:50"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1744851,
-        "titulo_tmdb": "Separada pero nunca sola",
-        "voto": null,
-        "votos": 0,
-        "url_tmdb": "https://www.themoviedb.org/movie/1744851",
-        "imdb_id": "",
-        "url_imdb": "",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/vhdFKjwbOSTJzjTbaYH1KKVX2v7.jpg",
-        "director": "Ani Alva Helfer",
-        "reparto": [
-          {
-            "nombre": "Emilia Drago",
-            "personaje": ""
-          },
-          {
-            "nombre": "Nicolás Galindo",
-            "personaje": ""
-          },
-          {
-            "nombre": "Joaquín de Orbegoso",
-            "personaje": ""
-          },
-          {
-            "nombre": "Ximena Palomino",
-            "personaje": ""
-          },
-          {
-            "nombre": "Armando Machuca",
-            "personaje": ""
-          }
-        ],
-        "generos": [
-          "Comedia"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "",
-        "estreno": "3 sep 2026",
-        "duracion_min": 100,
-        "paises": [
-          "Perú"
-        ],
-        "idioma": "Español",
-        "titulo_original": "Separada pero nunca sola"
       }
     },
     {
@@ -1041,6 +846,89 @@
           ]
         }
       ]
+    },
+    {
+      "titulo": "Tadeo y la Lámpara Maravillosa",
+      "poster": "https://www.movietime.com.pe/bucket/images/cine/891ee9f4-28d1-44ad-82f1-854ce953bbce.webp",
+      "genero": "",
+      "clasificacion": "APT",
+      "duracion": "94 min",
+      "sinopsis": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista de un objeto único: la lámpara maravillosa de Las mil y una noches.",
+      "director": "Enrique Gato",
+      "actores": "Óscar Barberán, Michelle Jenner, Luis Posada, Joseph Balderrama, Trevor White",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=6LCjjVj3oAY",
+      "fuente_peli": "Movie Time",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1187326,
+        "titulo_tmdb": "Tadeo Jones y La Lámpara Maravillosa",
+        "voto": 6.6,
+        "votos": 10,
+        "url_tmdb": "https://www.themoviedb.org/movie/1187326",
+        "imdb_id": "tt36164852",
+        "url_imdb": "https://www.imdb.com/title/tt36164852/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
+        "director": "Enrique Gato",
+        "reparto": [
+          {
+            "nombre": "Óscar Barberán",
+            "personaje": "Tadeo Jones (voice)"
+          },
+          {
+            "nombre": "Michelle Jenner",
+            "personaje": "Sara Lavrof (voice)"
+          },
+          {
+            "nombre": "Luis Posada",
+            "personaje": "Momia (voice)"
+          },
+          {
+            "nombre": "Joseph Balderrama",
+            "personaje": "Mummy / Tupac (voice)"
+          },
+          {
+            "nombre": "Trevor White",
+            "personaje": "Tad (voice)"
+          }
+        ],
+        "generos": [
+          "Animación",
+          "Comedia",
+          "Familia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=CDpJJHc7xMo",
+          "embed_id": "CDpJJHc7xMo"
+        },
+        "sinopsis_tmdb": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
+        "estreno": "26 ago 2026",
+        "duracion_min": 94,
+        "paises": [
+          "España"
+        ],
+        "idioma": "Español",
+        "titulo_original": "Tadeo Jones y La Lámpara Maravillosa"
+      }
     }
   ],
   "cines": [
@@ -1061,8 +949,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:15",
-                "17:15",
                 "18:30",
                 "19:30",
                 "20:50",
@@ -1071,8 +957,6 @@
             }
           ],
           "horarios": [
-            "16:15",
-            "17:15",
             "18:30",
             "19:30",
             "20:50",
@@ -1088,13 +972,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:00",
                 "19:40"
               ]
             }
           ],
           "horarios": [
-            "17:00",
             "19:40"
           ]
         },
@@ -1107,14 +989,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:50",
                 "19:10",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "16:50",
             "19:10",
             "21:30"
           ]
@@ -1136,40 +1016,6 @@
           "horarios": [
             "20:10",
             "22:30"
-          ]
-        },
-        {
-          "titulo": "Separada pero nunca sola",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003052?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Comedia",
-          "clasificacion": "+14",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "15:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:50"
-          ]
-        },
-        {
-          "titulo": "Tadeo Y La Lámpara Maravillosa",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002974?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Animación",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "17:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:50"
           ]
         },
         {
@@ -1472,7 +1318,7 @@
           "trailer_url": "https://youtu.be/7lQtPxVwz8A"
         },
         {
-          "titulo": "Tadeo Y La Lámpara Maravillosa",
+          "titulo": "Tadeo y la Lámpara Maravillosa",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/891ee9f4-28d1-44ad-82f1-854ce953bbce.webp",
           "genero": "",
           "clasificacion": "APT",
