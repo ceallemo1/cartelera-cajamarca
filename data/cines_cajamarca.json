@@ -2,13 +2,33 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-10 20:00",
-  "fecha_objetivo": "2026-09-10",
+  "actualizado": "2026-09-11 00:51",
+  "fecha_objetivo": "2026-09-11",
   "peliculas": [
     {
       "titulo": "Zona Cero",
       "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002971?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:25",
+                "20:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:25",
+            "20:50"
+          ]
+        },
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
@@ -27,44 +47,6 @@
           "horarios": [
             "22:20"
           ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "17:15",
-                "21:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:15",
-            "21:15"
-          ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:00",
-                "18:25",
-                "20:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:25",
-            "20:50"
-          ]
         }
       ],
       "genero": "Thriller",
@@ -75,7 +57,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/zona-cero-12246_252",
       "trailer_url": "https://www.youtube.com/watch?v=DdSod74AsBY",
-      "sinopsis": "Un thriller que sigue a un grupo de sobrevivientes atrapados en el epicentro de una catástrofe nuclear, luchando por encontrar una salida mientras descubren oscuros secretos del lugar.",
+      "sinopsis": "En una conferencia de biotecnología, un virus de mutación rápida se desata y el recinto queda sellado. Con el contagio en expansión y los infectados evolucionando en formas impredecibles, un grupo de sobrevivientes deberá abrirse paso en un encierro donde cada minuto cambia las reglas.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 507244,
@@ -134,9 +116,25 @@
       }
     },
     {
-      "titulo": "Hechizo de Amor: La Magia Continúa",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003074?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "titulo": "Tadeo Y La Lámpara Maravillosa",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002974?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30"
+          ]
+        },
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
@@ -148,98 +146,78 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "19:40"
+                "12:30",
+                "14:50",
+                "17:50"
               ]
             }
           ],
           "horarios": [
-            "19:40"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:30",
-                "19:00",
-                "21:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:30",
-            "19:00",
-            "21:30"
+            "12:30",
+            "14:50",
+            "17:50"
           ]
         }
       ],
-      "genero": "Comedia",
-      "duracion": "110 minutos",
-      "clasificacion": "12 Años",
-      "director": "Susanne Bier",
-      "actores": "Sandra Bullock, Nicole Kidman, Joey King, Maisie Williams, Xolo Maridueña, Lee Pace",
+      "genero": "Animado",
+      "duracion": "100 minutos",
+      "clasificacion": "Todos",
+      "director": "Enrique Gato",
+      "actores": "Óscar Barberán, Michelle Jenner, Luis Posada, Joseph Balderrama, Trevor White",
       "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/hechizo-de-amor-la-magia-continua-12253_252",
-      "trailer_url": "https://youtu.be/tXK7p_atLVA?si=ZqoczvtzVQOCbFaW",
-      "sinopsis": "Continuación de la comedia romántica donde dos jóvenes magos deben combinar sus poderes para salvar su relación y evitar que una antigua maldición destruya su mundo.",
+      "ficha": "https://www.carteleracine.pe/cajamarca/tadeo-y-la-lampara-maravillosa-12257_252",
+      "trailer_url": "https://youtu.be/cpHujWfNLnE?si=maVSFUCeRYSM6NLM",
+      "sinopsis": "Oli, la intrépida hija de dos años de Tadeo, lo ha convertido en un padre sobreprotector, y Momia se siente relegada por toda la atención que ella recibe. Cuando encuentran la lámpara mágica en el Palacio de Buckingham, Momia le pide viajar en el tiempo a Paititi, Perú, en 1502. Tadeo, Sara y todo el equipo tendrán que seguir a Momia al pasado antes de que cambie la historia. Su viaje los llevará ",
       "puntaje": "",
       "tmdb": {
-        "tmdb_id": 1302904,
-        "titulo_tmdb": "Prácticamente magia 2",
+        "tmdb_id": 1187326,
+        "titulo_tmdb": "Tadeo Jones y La Lámpara Maravillosa",
         "voto": 6.6,
-        "votos": 18,
-        "url_tmdb": "https://www.themoviedb.org/movie/1302904",
-        "imdb_id": "tt32588798",
-        "url_imdb": "https://www.imdb.com/title/tt32588798/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/tnbyrsN7cu2An3By6UDOHrq21CK.jpg",
-        "director": "Susanne Bier",
+        "votos": 10,
+        "url_tmdb": "https://www.themoviedb.org/movie/1187326",
+        "imdb_id": "tt36164852",
+        "url_imdb": "https://www.imdb.com/title/tt36164852/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
+        "director": "Enrique Gato",
         "reparto": [
           {
-            "nombre": "Sandra Bullock",
-            "personaje": "Sally Owens"
+            "nombre": "Óscar Barberán",
+            "personaje": "Tadeo Jones (voice)"
           },
           {
-            "nombre": "Nicole Kidman",
-            "personaje": "Gillian Owens"
+            "nombre": "Michelle Jenner",
+            "personaje": "Sara Lavrof (voice)"
           },
           {
-            "nombre": "Joey King",
-            "personaje": "Kylie Owens"
+            "nombre": "Luis Posada",
+            "personaje": "Momia (voice)"
           },
           {
-            "nombre": "Maisie Williams",
-            "personaje": "Antonia Owens"
+            "nombre": "Joseph Balderrama",
+            "personaje": "Mummy / Tupac (voice)"
           },
           {
-            "nombre": "Xolo Maridueña",
-            "personaje": "Gideon"
-          },
-          {
-            "nombre": "Lee Pace",
-            "personaje": "Ian Wright"
+            "nombre": "Trevor White",
+            "personaje": "Tad (voice)"
           }
         ],
         "generos": [
-          "Romance",
-          "Fantasía",
-          "Comedia"
+          "Animación",
+          "Comedia",
+          "Familia"
         ],
         "trailer": {
-          "url": "https://www.youtube.com/watch?v=UOmntM7mHI8",
-          "embed_id": "UOmntM7mHI8"
+          "url": "https://www.youtube.com/watch?v=CDpJJHc7xMo",
+          "embed_id": "CDpJJHc7xMo"
         },
-        "sinopsis_tmdb": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
-        "estreno": "9 sep 2026",
-        "duracion_min": 130,
+        "sinopsis_tmdb": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
+        "estreno": "26 ago 2026",
+        "duracion_min": 94,
         "paises": [
-          "Estados Unidos"
+          "España"
         ],
-        "idioma": "Inglés",
-        "titulo_original": "Practical Magic 2"
+        "idioma": "Español",
+        "titulo_original": "Tadeo Jones y La Lámpara Maravillosa"
       }
     },
     {
@@ -247,27 +225,9 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/9/la-ultima-tormenta-47768-1.jpg",
       "cines": [
         {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30",
-                "19:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30",
-            "19:30"
-          ]
-        },
-        {
           "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
             {
               "formato": "",
@@ -289,7 +249,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-ultima-tormenta-12261_252",
       "trailer_url": "https://www.youtube.com/results?search_query=La%20%C3%9Altima%20Tormenta%20trailer%20espanol",
-      "sinopsis": "En un futuro cercano, una tormenta sin precedentes desata fenómenos sobrenaturales que obligan a un equipo de científicos a descubrir la causa antes de que el mundo sea destruido.",
+      "sinopsis": "Atrapada en una placa de hielo a la deriva en el Ártico, una patinadora artística lucha por sobrevivir mientras el hielo se fragmenta y la arrastra hacia aguas abiertas. Sin posibilidad de rescate, cada minuto es una batalla contra el frío extremo, el hambre y el agotamiento.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1424965,
@@ -343,59 +303,12 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/8/coyote-vs-acme-47670-0.webp",
       "cines": [
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "18:30",
-                "19:30",
-                "20:50",
-                "21:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:30",
-            "19:30",
-            "20:50",
-            "21:50"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:45",
-                "17:45",
-                "19:45",
-                "21:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:45",
-            "17:45",
-            "19:45",
-            "21:45"
-          ]
-        },
-        {
           "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
             {
-              "formato": "",
+              "formato": "Doblada",
               "horarios": [
                 "15:00",
                 "17:00",
@@ -408,6 +321,43 @@
             "17:00",
             "21:45"
           ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "11:40",
+                "12:40",
+                "14:00",
+                "15:00",
+                "16:15",
+                "17:15",
+                "18:30",
+                "19:30",
+                "20:50",
+                "21:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "11:40",
+            "12:40",
+            "14:00",
+            "15:00",
+            "16:15",
+            "17:15",
+            "18:30",
+            "19:30",
+            "20:50",
+            "21:50"
+          ]
         }
       ],
       "genero": "Animado",
@@ -418,7 +368,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El Coyote de los dibujos animados se enfrenta una vez más a los ingeniosos trucos de la empresa ACME, en una serie de persecuciones cómicas y explosivas.",
+      "sinopsis": "Después de décadas fallando en atrapar al Correcaminos, el Coyote decide hacer lo impensado: demandar a ACME, la compañía responsable de todos los productos defectuosos que arruinaron sus planes. En el juicio más absurdo de la historia, la comedia y la animación se mezclan en una batalla legal que podría cambiar el destino del desierto… para siempre.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
@@ -480,6 +430,22 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-noche-del-demonio-estan-entre-nosotros-47638-0.webp",
       "cines": [
         {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "21:25"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:25"
+          ]
+        },
+        {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
           "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
@@ -499,44 +465,6 @@
             "20:10",
             "22:30"
           ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:15",
-                "18:15",
-                "20:15",
-                "22:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:15",
-            "18:15",
-            "20:15",
-            "22:15"
-          ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "21:25"
-              ]
-            }
-          ],
-          "horarios": [
-            "21:25"
-          ]
         }
       ],
       "genero": "Terror",
@@ -547,7 +475,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-noche-del-demonio-estan-entre-nosotros-12203_252",
       "trailer_url": "https://www.youtube.com/watch?v=orvNgTGq6cg",
-      "sinopsis": "Un grupo de adolescentes descubre que una entidad demoníaca se ha infiltrado en su escuela, y deben unir fuerzas para detenerla antes de que posea a todos.",
+      "sinopsis": "Una joven madre que cría a su hija en la casa donde creció y descubre que puede viajar al Más Allá. Cuando algo maligno la persigue, Gemma descubre una habilidad que lo cambia todo: no solo puede entrar al Más Allá, sino que también puede traer de vuelta al mundo real a quienes viven allí. Una vez que los demonios se dan cuenta de su poder, nuestro mundo se convierte en su patio de recreo.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1291595,
@@ -605,6 +533,22 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/8/impacto-mortal-47695-0.webp",
       "cines": [
         {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "17:25"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:25"
+          ]
+        },
+        {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
           "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
@@ -615,48 +559,20 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "12:10",
+                "14:30",
+                "16:50",
                 "19:10",
                 "21:30"
               ]
             }
           ],
           "horarios": [
+            "12:10",
+            "14:30",
+            "16:50",
             "19:10",
             "21:30"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "20:20",
-                "22:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "20:20",
-            "22:20"
-          ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "17:25"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:25"
           ]
         }
       ],
@@ -668,7 +584,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/impacto-mortal-12226_252",
       "trailer_url": "https://www.youtube.com/watch?v=lNEuVhB0D9U",
-      "sinopsis": "Una impactante historia de supervivencia donde un meteorito golpea la Tierra, desencadenando una serie de eventos mortales que ponen a prueba la resistencia humana.",
+      "sinopsis": "Un grupo de pasajeros internacionales que viaja de Los Ángeles a Shanghái se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones. Atrapados en medio del océano, deberán luchar por sobrevivir mientras una manada de depredadores acecha a su alrededor.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 402051,
@@ -722,120 +638,16 @@
       }
     },
     {
-      "titulo": "Tadeo el Explorador: Y la Lampara Maravillosa",
-      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/tadeooo.jpg",
-      "genero": "Dibujos",
-      "clasificacion": "Todo Espectador",
-      "duracion": "01:35",
-      "sinopsis": "Tadeo, Su Novia Sara y Sus Amigos Momia, Jeff y Belzoni Se Embarcan en una Aventura Tras Que Tadeo Desata Accidentalmente un Antiguo Hechizo.",
-      "director": "Enrique Gato",
-      "actores": "Óscar Barberán, Michelle Jenner, José Mota, José Corbacho, Pep Anton Muñoz, Miguel Ángel Jenner",
-      "estreno": "",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=GF9o6_iZ9Ug",
-      "fuente_peli": "Cinerama",
-      "cines": [
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "16:45",
-                "18:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "16:45",
-            "18:30"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 121734,
-        "titulo_tmdb": "Las aventuras de Tadeo Jones",
-        "voto": 6.3,
-        "votos": 633,
-        "url_tmdb": "https://www.themoviedb.org/movie/121734",
-        "imdb_id": "tt1764625",
-        "url_imdb": "https://www.imdb.com/title/tt1764625/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/hnJUhmknSFTmgA2pZHwId8ahBvq.jpg",
-        "director": "Enrique Gato",
-        "reparto": [
-          {
-            "nombre": "Óscar Barberán",
-            "personaje": "Tad Jones (voice)"
-          },
-          {
-            "nombre": "Michelle Jenner",
-            "personaje": "Sara Lavrof (voice)"
-          },
-          {
-            "nombre": "José Mota",
-            "personaje": "Freddy (voice)"
-          },
-          {
-            "nombre": "José Corbacho",
-            "personaje": "Freddy (catalan version) (voice)"
-          },
-          {
-            "nombre": "Pep Anton Muñoz",
-            "personaje": "Max Mordon (voice)"
-          },
-          {
-            "nombre": "Miguel Ángel Jenner",
-            "personaje": "Kopponen (voice)"
-          }
-        ],
-        "generos": [
-          "Animación",
-          "Comedia",
-          "Aventura",
-          "Familia"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=GF9o6_iZ9Ug",
-          "embed_id": "GF9o6_iZ9Ug"
-        },
-        "sinopsis_tmdb": "Adaptación del corto que ganó un Goya en 2004 y cuyo protagonista, Tadeo Jones, es una especie de Indiana Jones español. Tadeo es un simple trabajador de la construcción que reside en Chicago, pero posee un espíritu aventurero y soñador. Un buen día lo confunden con un popular arqueólogo y lo envían a Perú para realizar un duro cometido. Allí tendrá que frenar a una organización de maleantes que se dedica a robar tesoros y, que en esta ocasión, pretenden saquear una mítica ciudad Inca que acaba de ser descubierta.  Pero en esta trepidante aventura Tadeo no estará solo ya que tendrá la ayuda de su fiel perrito Jeff; Sara (Michelle Jenner, 'Extraterrestre'), la guapa profesora de arqueología; Freddy (José Mota, 'La Chispa de la vida') un extraño guía peruano que lleva una chaqueta \"multiusos\"; un loro que no sabe hablar, y un caza recompensas. ¿Serán capaces Tadeo y sus compañeros de salvar a esta emblemática ciudad?",
-        "estreno": "10 ago 2012",
-        "duracion_min": 90,
-        "paises": [
-          "Francia",
-          "España"
-        ],
-        "idioma": "Español",
-        "titulo_original": "Las aventuras de Tadeo Jones"
-      }
-    },
-    {
-      "titulo": "Los Juegos del Hambre Bonus (Dob)",
-      "poster": "https://www.movietime.com.pe/bucket/images/cine/7834ae66-eced-4f9c-9dd1-bef7f19ba6b9.jpeg",
-      "genero": "",
-      "clasificacion": "+14",
-      "duracion": "146 min",
-      "sinopsis": "El reestreno de la película vendrá acompañado al inicio un contenido exclusivo con imágenes inéditas de la nueva entrega de LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA (THE HUNGER GAMES: SUNRISE ON THE REAPING).\n\nLo que en el pasado fueron los Estados Unidos, ahora es una nación llamada Panem; un imponente Capitolio ejerce un control riguroso sobre los 12 distritos que lo rodean y que están aisl",
-      "director": "",
-      "actores": "",
-      "estreno": "",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://youtu.be/7lQtPxVwz8A",
-      "fuente_peli": "Movie Time",
+      "titulo": "Los Juegos del Hambre",
+      "poster": "https://cdn.carteleracine.pe/cine/2012/3/los-juegos-del-hambre-47763-0.webp",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
             {
-              "formato": "",
+              "formato": "Doblada",
               "horarios": [
                 "19:00"
               ]
@@ -845,27 +657,283 @@
             "19:00"
           ]
         }
-      ]
+      ],
+      "genero": "Ciencia Ficción",
+      "duracion": "142 minutos",
+      "clasificacion": "12 Años",
+      "director": "Gary Ross",
+      "actores": "Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson, Elizabeth Banks, Lenny Kravitz",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/los-juegos-del-hambre-3682_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Los%20Juegos%20del%20Hambre%20trailer%20espanol",
+      "sinopsis": "Lo que en el pasado fueron los Estados Unidos, ahora es una nación llamada Panem; un imponente Capitolio ejerce un control riguroso sobre los 12 distritos que lo rodean y que están aislados entre sí. Cada distrito se ve obligado a enviar anualmente un chico y una chica entre los doce y los dieciocho años para que participen en los Hunger Games, unos juegos que son transmitidos en directo por la televisión. Se trata de una lucha a muerte, en la que sólo puede haber un superviviente. Katniss Everdeen, una joven de dieciséis años, decide sustituir a su hermana en los juegos; pero para ella, que ya ha visto la muerte de cerca, la lucha por la supervivencia es su segunda naturaleza.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 70160,
+        "titulo_tmdb": "Los Juegos del Hambre",
+        "voto": 7.2,
+        "votos": 23689,
+        "url_tmdb": "https://www.themoviedb.org/movie/70160",
+        "imdb_id": "tt1392170",
+        "url_imdb": "https://www.imdb.com/title/tt1392170/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/qSEn7KsGchT7qB08HlviyeTPrEr.jpg",
+        "director": "Gary Ross",
+        "reparto": [
+          {
+            "nombre": "Jennifer Lawrence",
+            "personaje": "Katniss Everdeen"
+          },
+          {
+            "nombre": "Josh Hutcherson",
+            "personaje": "Peeta Mellark"
+          },
+          {
+            "nombre": "Liam Hemsworth",
+            "personaje": "Gale Hawthorne"
+          },
+          {
+            "nombre": "Woody Harrelson",
+            "personaje": "Haymitch Abernathy"
+          },
+          {
+            "nombre": "Elizabeth Banks",
+            "personaje": "Effie Trinket"
+          },
+          {
+            "nombre": "Lenny Kravitz",
+            "personaje": "Cinna"
+          }
+        ],
+        "generos": [
+          "Ciencia ficción",
+          "Aventura",
+          "Acción",
+          "Suspense"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=y0hE3fDJCFA",
+          "embed_id": "y0hE3fDJCFA"
+        },
+        "sinopsis_tmdb": "Lo que en el pasado fueron los Estados Unidos, ahora es una nación llamada Panem; un imponente Capitolio ejerce un control riguroso sobre los 12 distritos que lo rodean y que están aislados entre sí. Cada distrito se ve obligado a enviar anualmente un chico y una chica entre los doce y los dieciocho años para que participen en los Hunger Games, unos juegos que son transmitidos en directo por la televisión. Se trata de una lucha a muerte, en la que sólo puede haber un superviviente. Katniss Everdeen, una joven de dieciséis años, decide sustituir a su hermana en los juegos; pero para ella, que ya ha visto la muerte de cerca, la lucha por la supervivencia es su segunda naturaleza.",
+        "estreno": "12 mar 2012",
+        "duracion_min": 142,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "The Hunger Games"
+      }
     },
     {
-      "titulo": "Tadeo y la Lámpara Maravillosa",
-      "poster": "https://www.movietime.com.pe/bucket/images/cine/891ee9f4-28d1-44ad-82f1-854ce953bbce.webp",
-      "genero": "",
-      "clasificacion": "APT",
-      "duracion": "94 min",
-      "sinopsis": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista de un objeto único: la lámpara maravillosa de Las mil y una noches.",
-      "director": "Enrique Gato",
-      "actores": "Óscar Barberán, Michelle Jenner, Luis Posada, Joseph Balderrama, Trevor White",
+      "titulo": "Hechizo de Amor: La Magia Continúa",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003074?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Fantasía",
+      "clasificacion": "+14",
+      "duracion": "130 min",
+      "director": "Susanne Bier",
+      "actores": "Sandra Bullock, Nicole Kidman, Joey King, Maisie Williams, Xolo Maridueña, Lee Pace",
       "estreno": "",
+      "sinopsis": "Nos transporta de vuelta a un mundo envuelto en travesuras bajo la luz de la luna y una poderosa magia ancestral. Las hermanas Owens deberán enfrentarse a la oscura maldición que amenaza con destruir a su familia de una vez por todas, en un evento cinematográfico imperdible lleno de diversión, magia y caos.",
       "puntaje": "",
       "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=6LCjjVj3oAY",
-      "fuente_peli": "Movie Time",
+      "trailer_url": "https://youtu.be/tXK7p_atLVA?si=ZqoczvtzVQOCbFaW",
+      "fuente_peli": "Cineplanet",
       "cines": [
         {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "17:00",
+                "19:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:00",
+            "19:40"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1302904,
+        "titulo_tmdb": "Prácticamente magia 2",
+        "voto": 6.6,
+        "votos": 18,
+        "url_tmdb": "https://www.themoviedb.org/movie/1302904",
+        "imdb_id": "tt32588798",
+        "url_imdb": "https://www.imdb.com/title/tt32588798/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/tnbyrsN7cu2An3By6UDOHrq21CK.jpg",
+        "director": "Susanne Bier",
+        "reparto": [
+          {
+            "nombre": "Sandra Bullock",
+            "personaje": "Sally Owens"
+          },
+          {
+            "nombre": "Nicole Kidman",
+            "personaje": "Gillian Owens"
+          },
+          {
+            "nombre": "Joey King",
+            "personaje": "Kylie Owens"
+          },
+          {
+            "nombre": "Maisie Williams",
+            "personaje": "Antonia Owens"
+          },
+          {
+            "nombre": "Xolo Maridueña",
+            "personaje": "Gideon"
+          },
+          {
+            "nombre": "Lee Pace",
+            "personaje": "Ian Wright"
+          }
+        ],
+        "generos": [
+          "Romance",
+          "Fantasía",
+          "Comedia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=UOmntM7mHI8",
+          "embed_id": "UOmntM7mHI8"
+        },
+        "sinopsis_tmdb": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
+        "estreno": "9 sep 2026",
+        "duracion_min": 130,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Practical Magic 2"
+      }
+    },
+    {
+      "titulo": "Separada pero nunca sola",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003052?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Comedia",
+      "clasificacion": "+14",
+      "duracion": "86 min",
+      "director": "Ani Alva Helfer",
+      "actores": "Emilia Drago, Nicolás Galindo, Joaquín de Orbegoso, Ximena Palomino, Armando Machuca",
+      "estreno": "",
+      "sinopsis": "Recién separada, Isabel busca rehacer su vida en un hotel paradisíaco junto a su mejor amiga. Para sacarse de encima a su ex esposo que insiste en volver, inventa un romance con un falso galán. Entre tantas mentiras y consejos disparatados, se desatará un divertido caos en los escenarios más hermosos de la selva peruana.",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=BZkIHbUkh8k",
+      "fuente_peli": "Cineplanet",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "11:50",
+                "13:50",
+                "15:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "11:50",
+            "13:50",
+            "15:50"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1744851,
+        "titulo_tmdb": "Separada pero nunca sola",
+        "voto": null,
+        "votos": 0,
+        "url_tmdb": "https://www.themoviedb.org/movie/1744851",
+        "imdb_id": "",
+        "url_imdb": "",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/vhdFKjwbOSTJzjTbaYH1KKVX2v7.jpg",
+        "director": "Ani Alva Helfer",
+        "reparto": [
+          {
+            "nombre": "Emilia Drago",
+            "personaje": ""
+          },
+          {
+            "nombre": "Nicolás Galindo",
+            "personaje": ""
+          },
+          {
+            "nombre": "Joaquín de Orbegoso",
+            "personaje": ""
+          },
+          {
+            "nombre": "Ximena Palomino",
+            "personaje": ""
+          },
+          {
+            "nombre": "Armando Machuca",
+            "personaje": ""
+          }
+        ],
+        "generos": [
+          "Comedia"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "",
+        "estreno": "3 sep 2026",
+        "duracion_min": 100,
+        "paises": [
+          "Perú"
+        ],
+        "idioma": "Español",
+        "titulo_original": "Separada pero nunca sola"
+      }
+    }
+  ],
+  "cines": [
+    {
+      "cine": "Movie Time Cajamarca",
+      "cine_slug": "movietime-cajamarca-cajamarca-s448",
+      "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+      "peliculas": [
+        {
+          "titulo": "Zona Cero",
+          "poster": "",
+          "genero": "Thriller",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:25",
+                "20:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:25",
+            "20:50"
+          ]
+        },
+        {
+          "titulo": "Tadeo Y La Lámpara Maravillosa",
+          "poster": "",
+          "genero": "Animado",
+          "clasificacion": "Todos",
           "formatos": [
             {
               "formato": "",
@@ -877,61 +945,99 @@
           "horarios": [
             "15:30"
           ]
+        },
+        {
+          "titulo": "La Última Tormenta",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/9/la-ultima-tormenta-47768-1.jpg",
+          "genero": "Acción",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "19:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:30"
+          ]
+        },
+        {
+          "titulo": "Coyote vs. ACME",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/coyote-vs-acme-47670-0.webp",
+          "genero": "Animado",
+          "clasificacion": "7 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "15:00",
+                "17:00",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:00",
+            "21:45"
+          ]
+        },
+        {
+          "titulo": "La Noche Del Demonio: Están Entre Nosotros",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-noche-del-demonio-estan-entre-nosotros-47638-0.webp",
+          "genero": "Terror",
+          "clasificacion": "18 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "21:25"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:25"
+          ]
+        },
+        {
+          "titulo": "Impacto Mortal",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/impacto-mortal-47695-0.webp",
+          "genero": "Acción",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "17:25"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:25"
+          ]
+        },
+        {
+          "titulo": "Los Juegos del Hambre",
+          "poster": "https://cdn.carteleracine.pe/cine/2012/3/los-juegos-del-hambre-47763-0.webp",
+          "genero": "Ciencia Ficción",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "19:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:00"
+          ]
         }
       ],
-      "tmdb": {
-        "tmdb_id": 1187326,
-        "titulo_tmdb": "Tadeo Jones y La Lámpara Maravillosa",
-        "voto": 6.6,
-        "votos": 10,
-        "url_tmdb": "https://www.themoviedb.org/movie/1187326",
-        "imdb_id": "tt36164852",
-        "url_imdb": "https://www.imdb.com/title/tt36164852/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
-        "director": "Enrique Gato",
-        "reparto": [
-          {
-            "nombre": "Óscar Barberán",
-            "personaje": "Tadeo Jones (voice)"
-          },
-          {
-            "nombre": "Michelle Jenner",
-            "personaje": "Sara Lavrof (voice)"
-          },
-          {
-            "nombre": "Luis Posada",
-            "personaje": "Momia (voice)"
-          },
-          {
-            "nombre": "Joseph Balderrama",
-            "personaje": "Mummy / Tupac (voice)"
-          },
-          {
-            "nombre": "Trevor White",
-            "personaje": "Tad (voice)"
-          }
-        ],
-        "generos": [
-          "Animación",
-          "Comedia",
-          "Familia"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=CDpJJHc7xMo",
-          "embed_id": "CDpJJHc7xMo"
-        },
-        "sinopsis_tmdb": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
-        "estreno": "26 ago 2026",
-        "duracion_min": 94,
-        "paises": [
-          "España"
-        ],
-        "idioma": "Español",
-        "titulo_original": "Tadeo Jones y La Lámpara Maravillosa"
-      }
-    }
-  ],
-  "cines": [
+      "cine_original": "CAJAMARCA - MOVIE TIME"
+    },
     {
       "cine": "CinePlanet Cajamarca Real Plaza",
       "cine_slug": "cp-cajamarca",
@@ -949,6 +1055,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "11:40",
+                "12:40",
+                "14:00",
+                "15:00",
+                "16:15",
+                "17:15",
                 "18:30",
                 "19:30",
                 "20:50",
@@ -957,6 +1069,12 @@
             }
           ],
           "horarios": [
+            "11:40",
+            "12:40",
+            "14:00",
+            "15:00",
+            "16:15",
+            "17:15",
             "18:30",
             "19:30",
             "20:50",
@@ -972,11 +1090,13 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "17:00",
                 "19:40"
               ]
             }
           ],
           "horarios": [
+            "17:00",
             "19:40"
           ]
         },
@@ -989,12 +1109,18 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "12:10",
+                "14:30",
+                "16:50",
                 "19:10",
                 "21:30"
               ]
             }
           ],
           "horarios": [
+            "12:10",
+            "14:30",
+            "16:50",
             "19:10",
             "21:30"
           ]
@@ -1019,6 +1145,48 @@
           ]
         },
         {
+          "titulo": "Separada pero nunca sola",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003052?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Comedia",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "11:50",
+                "13:50",
+                "15:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "11:50",
+            "13:50",
+            "15:50"
+          ]
+        },
+        {
+          "titulo": "Tadeo Y La Lámpara Maravillosa",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002974?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Animación",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "12:30",
+                "14:50",
+                "17:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "12:30",
+            "14:50",
+            "17:50"
+          ]
+        },
+        {
           "titulo": "Zona Cero",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002971?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Terror",
@@ -1040,335 +1208,21 @@
     },
     {
       "cine": "Cinerama Cajamarca MegaPlaza",
-      "cine_slug": "cinerama-cajamarca-megaplaza",
-      "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+      "direccion": "",
+      "peliculas": [],
+      "sin_programacion": true,
+      "nota": "No se pudo consultar su cartelera. Suele tener funciones a diario.",
+      "no_consultado": true,
       "url": "https://www.cinerama.com.pe/cines",
-      "fuente_cine": "Cinerama",
-      "peliculas": [
-        {
-          "titulo": "Coyote vs. ACME",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/coyogtw.jpg",
-          "genero": "Animado",
-          "clasificacion": "Todo Espectador",
-          "duracion": "01:44",
-          "sinopsis": "Una Historia Ambientada en el Almacén de Acme, el Fabricante de Todo Lo Que Utilizan los Personajes de los Looney Tunes.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:45",
-                "17:45",
-                "19:45",
-                "21:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:45",
-            "17:45",
-            "19:45",
-            "21:45"
-          ]
-        },
-        {
-          "titulo": "Hechizo de Amor: La Magia Continúa",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/hech.jpg",
-          "genero": "Comedia",
-          "clasificacion": "Todo Espectador",
-          "duracion": "01:46",
-          "sinopsis": "Una Familia Multigeneracional de Brujas, Condenada a No Tener Amor Durante Siglos, Intenta Romper el Hechizo Enfrentándose a Oscuros Secretos y Sacrificándose Unas Por Otras.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:30",
-                "19:00",
-                "21:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:30",
-            "19:00",
-            "21:30"
-          ]
-        },
-        {
-          "titulo": "Impacto Mortal",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/afuas.jpg",
-          "genero": "Accion",
-          "clasificacion": "Todo Espectador",
-          "duracion": "01:46",
-          "sinopsis": "Un Grupo de Pasajeros Internacionales en Ruta de los Ángeles a Shanghai Se Ven Obligados a Realizar un Aterrizaje de Emergencia en Aguas Infestadas de Tiburones. Ahora Deben Superar el Frenesí de los Tiburones Merodeantes.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "20:20",
-                "22:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "20:20",
-            "22:20"
-          ]
-        },
-        {
-          "titulo": "La Noche Del Demonio: Están Entre Nosotros",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/nocg.jpg",
-          "genero": "Terror",
-          "clasificacion": "Mayores de 18",
-          "duracion": "01:46",
-          "sinopsis": "Amelia Eve Interpreta a Gemma, una Joven Madre Que Cría a Su Hija en la Casa Donde Creció y Descubre Que Puede Viajar Al Más Allá, el Reino Purgatorial de las Almas Perdidas en el Corazón del Universo de Insidious. Cuando Algo Maligno la Persigue, Gemma Descubre una Habilidad Que Lo Cambia Todo: No Solo Puede Entrar Al Más Allá, Sino Que También Puede Traer de Vuelta Al Mundo Real a Quienes Viven ",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:15",
-                "18:15",
-                "20:15",
-                "22:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:15",
-            "18:15",
-            "20:15",
-            "22:15"
-          ]
-        },
-        {
-          "titulo": "La Última Tormenta",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/torme.jpg",
-          "genero": "Accion",
-          "clasificacion": "Todo Espectador",
-          "duracion": "01:35",
-          "sinopsis": "Atrapada en una Placa de Hielo a la Deriva en el Ártico, una Patinadora Artística Lucha Por Sobrevivir Mientras el Hielo Se Fragmenta y la Arrastra Hacia Aguas Abiertas.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30",
-                "19:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30",
-            "19:30"
-          ]
-        },
-        {
-          "titulo": "Tadeo el Explorador: Y la Lampara Maravillosa",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/tadeooo.jpg",
-          "genero": "Dibujos",
-          "clasificacion": "Todo Espectador",
-          "duracion": "01:35",
-          "sinopsis": "Tadeo, Su Novia Sara y Sus Amigos Momia, Jeff y Belzoni Se Embarcan en una Aventura Tras Que Tadeo Desata Accidentalmente un Antiguo Hechizo.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "16:45",
-                "18:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "16:45",
-            "18:30"
-          ]
-        },
-        {
-          "titulo": "Zona Cero",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/zonacer.jpg",
-          "genero": "Accion",
-          "clasificacion": "Todo Espectador",
-          "duracion": "02:05",
-          "sinopsis": "En una Conferencia de Biotecnología, un Virus de Mutación Rápida Se Desata y el Recinto Queda Sellado. Con el Contagio en Expansión y los Infectados Evolucionando en Formas Impredecibles, un Grupo de Sobrevivientes Deberá Abrirse Paso en un Encierro Donde Cada Minuto Cambia las Reglas.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "17:15",
-                "21:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:15",
-            "21:15"
-          ]
-        }
-      ]
-    },
-    {
-      "cine": "Movie Time Cajamarca",
-      "cine_slug": "movietime-cajamarca",
-      "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-      "url": "https://www.movietime.com.pe/cinemas/cajamarca",
-      "fuente_cine": "Movie Time",
-      "peliculas": [
-        {
-          "titulo": "Coyote vs. ACME",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/980f6987-4dcf-4d9b-b746-b7366ba93692.png",
-          "genero": "",
-          "clasificacion": "APT",
-          "duracion": "103 min",
-          "sinopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "17:00",
-                "21:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "17:00",
-            "21:45"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=DIqJb0LwSho"
-        },
-        {
-          "titulo": "Impacto Mortal",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/2df4c334-ddc7-4a89-9ea7-b275ce407624.jpeg",
-          "genero": "",
-          "clasificacion": "+14",
-          "duracion": "106 min",
-          "sinopsis": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "17:25"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:25"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=wtTgTP-liyQ"
-        },
-        {
-          "titulo": "La Noche Del Demonio: Están Entre Nosotros",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/d808a2f7-faca-4e68-ae75-f52db0689ba3.jpeg",
-          "genero": "",
-          "clasificacion": "+14",
-          "duracion": "106 min",
-          "sinopsis": "Una joven madre que cría a su hija en la casa donde creció y descubre que puede viajar al Más Allá. Cuando algo maligno la persigue, Gemma descubre una habilidad que lo cambia todo: no solo puede entrar al Más Allá, sino que también puede traer de vuelta al mundo real a quienes viven allí. Una vez que los demonios se dan cuenta de su poder, nuestro mundo se convierte en su patio de recreo.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "21:25"
-              ]
-            }
-          ],
-          "horarios": [
-            "21:25"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=9efsBOK-k1M"
-        },
-        {
-          "titulo": "La Última Tormenta",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/10615c3c-9932-4544-adb0-004c2b41dc7c.png",
-          "genero": "",
-          "clasificacion": "+14",
-          "duracion": "93 min",
-          "sinopsis": "Atrapada en una placa de hielo a la deriva en el Ártico, una patinadora artística lucha por sobrevivir mientras el hielo se fragmenta y la arrastra hacia aguas abiertas. Sin posibilidad de rescate, cada minuto es una batalla contra el frío extremo, el hambre y el agotamiento.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "19:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:30"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=823inoufXEI"
-        },
-        {
-          "titulo": "Los Juegos del Hambre Bonus (Dob)",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/7834ae66-eced-4f9c-9dd1-bef7f19ba6b9.jpeg",
-          "genero": "",
-          "clasificacion": "+14",
-          "duracion": "146 min",
-          "sinopsis": "El reestreno de la película vendrá acompañado al inicio un contenido exclusivo con imágenes inéditas de la nueva entrega de LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA (THE HUNGER GAMES: SUNRISE ON THE REAPING).\n\nLo que en el pasado fueron los Estados Unidos, ahora es una nación llamada Panem; un imponente Capitolio ejerce un control riguroso sobre los 12 distritos que lo rodean y que están aisl",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "19:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:00"
-          ],
-          "trailer_url": "https://youtu.be/7lQtPxVwz8A"
-        },
-        {
-          "titulo": "Tadeo y la Lámpara Maravillosa",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/891ee9f4-28d1-44ad-82f1-854ce953bbce.webp",
-          "genero": "",
-          "clasificacion": "APT",
-          "duracion": "94 min",
-          "sinopsis": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista de un objeto único: la lámpara maravillosa de Las mil y una noches.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=6LCjjVj3oAY"
-        },
-        {
-          "titulo": "Zona Cero",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/379aac7e-dc38-48ab-a6a2-003a80858417.jpeg",
-          "genero": "",
-          "clasificacion": "+14",
-          "duracion": "122 min",
-          "sinopsis": "En una conferencia de biotecnología, un virus de mutación rápida se desata y el recinto queda sellado. Con el contagio en expansión y los infectados evolucionando en formas impredecibles, un grupo de sobrevivientes deberá abrirse paso en un encierro donde cada minuto cambia las reglas.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:00",
-                "18:25",
-                "20:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:25",
-            "20:50"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=_Ru4_LzLg_E"
-        }
-      ]
+      "cine_original": "Cajamarca Megaplaza (Cinerama)"
     }
   ],
   "estado": "ok",
-  "motor": "groq",
   "fuentes_extra": [
-    "Cineplanet",
-    "Cinerama",
-    "Movie Time"
+    "Cineplanet"
+  ],
+  "notas": [
+    "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
   ]
 }
