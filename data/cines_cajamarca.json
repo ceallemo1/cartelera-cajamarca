@@ -2,13 +2,33 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-12 08:00",
+  "actualizado": "2026-09-12 10:27",
   "fecha_objetivo": "2026-09-12",
   "peliculas": [
     {
       "titulo": "Zona Cero",
       "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002971?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:25",
+                "20:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:25",
+            "20:50"
+          ]
+        },
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
@@ -53,26 +73,6 @@
             "17:15",
             "21:15"
           ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:00",
-                "18:25",
-                "20:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:25",
-            "20:50"
-          ]
         }
       ],
       "genero": "Thriller",
@@ -83,7 +83,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/zona-cero-12246_252",
       "trailer_url": "https://www.youtube.com/watch?v=DdSod74AsBY",
-      "sinopsis": "Un thriller de desastres que sigue a un equipo de rescate mientras intentan sobrevivir y salvar a los supervivientes en una zona devastada por una explosión nuclear.",
+      "sinopsis": "En una conferencia de biotecnología, un virus de mutación rápida se desata y el recinto queda sellado. Con el contagio en expansión y los infectados evolucionando en formas impredecibles, un grupo de sobrevivientes deberá abrirse paso en un encierro donde cada minuto cambia las reglas.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 507244,
@@ -193,7 +193,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/hechizo-de-amor-la-magia-continua-12253_252",
       "trailer_url": "https://youtu.be/tXK7p_atLVA?si=ZqoczvtzVQOCbFaW",
-      "sinopsis": "Continuación de la comedia romántica mágica, donde dos jóvenes hechiceros deben reencontrar la chispa del amor mientras enfrentan nuevos encantamientos y rivalidades.",
+      "sinopsis": "Nos transporta de vuelta a un mundo envuelto en travesuras bajo la luz de la luna y una poderosa magia ancestral. Las hermanas Owens deberán enfrentarse a la oscura maldición que amenaza con destruir a su familia de una vez por todas, en un evento cinematográfico imperdible lleno de diversión, magia y caos.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1302904,
@@ -255,6 +255,24 @@
       "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002974?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "cines": [
         {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "13:35",
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "13:35",
+            "15:30"
+          ]
+        },
+        {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
           "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
@@ -276,38 +294,6 @@
             "14:30",
             "16:40"
           ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30"
-          ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "13:35"
-              ]
-            }
-          ],
-          "horarios": [
-            "13:35"
-          ]
         }
       ],
       "genero": "Animado",
@@ -318,7 +304,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/tadeo-y-la-lampara-maravillosa-12257_252",
       "trailer_url": "https://youtu.be/cpHujWfNLnE?si=maVSFUCeRYSM6NLM",
-      "sinopsis": "El torpe pero valiente Tadeo descubre una lámpara antigua que concede deseos, desatando una serie de aventuras cómicas y peligrosas en busca de un tesoro legendario.",
+      "sinopsis": "Oli, la intrépida hija de dos años de Tadeo, lo ha convertido en un padre sobreprotector, y Momia se siente relegada por toda la atención que ella recibe. Cuando encuentran la lámpara mágica en el Palacio de Buckingham, Momia le pide viajar en el tiempo a Paititi, Perú, en 1502. Tadeo, Sara y todo el equipo tendrán que seguir a Momia al pasado antes de que cambie la historia. Su viaje los llevará ",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1187326,
@@ -376,6 +362,22 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/9/la-ultima-tormenta-47768-1.jpg",
       "cines": [
         {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "19:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:30"
+          ]
+        },
+        {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
           "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
@@ -392,22 +394,6 @@
             "15:30",
             "19:30"
           ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "19:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:30"
-          ]
         }
       ],
       "genero": "Acción",
@@ -418,7 +404,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-ultima-tormenta-12261_252",
       "trailer_url": "https://www.youtube.com/results?search_query=La%20%C3%9Altima%20Tormenta%20trailer%20espanol",
-      "sinopsis": "En un futuro cercano, una tormenta sobrenatural amenaza con destruir la humanidad, y un grupo de científicos debe descifrar su origen para detenerla.",
+      "sinopsis": "Atrapada en una placa de hielo a la deriva en el Ártico, una patinadora artística lucha por sobrevivir mientras el hielo se fragmenta y la arrastra hacia aguas abiertas. Sin posibilidad de rescate, cada minuto es una batalla contra el frío extremo, el hambre y el agotamiento.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1424965,
@@ -471,6 +457,33 @@
       "titulo": "Coyote vs. ACME",
       "poster": "https://cdn.carteleracine.pe/cine/2026/8/coyote-vs-acme-47670-0.webp",
       "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "13:00"
+              ]
+            },
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "15:00",
+                "17:00",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "13:00",
+            "15:00",
+            "17:00",
+            "21:45"
+          ]
+        },
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
@@ -529,42 +542,6 @@
             "19:45",
             "21:45"
           ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "17:00",
-                "21:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "17:00",
-            "21:45"
-          ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "13:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "13:00"
-          ]
         }
       ],
       "genero": "Animado",
@@ -575,7 +552,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote vuelve a enfrentarse a la empresa ACME en una serie de persecuciones y trampas, intentando finalmente capturar al Correcaminos.",
+      "sinopsis": "Después de décadas fallando en atrapar al Correcaminos, el Coyote decide hacer lo impensado: demandar a ACME, la compañía responsable de todos los productos defectuosos que arruinaron sus planes. En el juicio más absurdo de la historia, la comedia y la animación se mezclan en una batalla legal que podría cambiar el destino del desierto… para siempre.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
@@ -637,6 +614,22 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-noche-del-demonio-estan-entre-nosotros-47638-0.webp",
       "cines": [
         {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "21:25"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:25"
+          ]
+        },
+        {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
           "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
@@ -678,22 +671,6 @@
             "20:15",
             "22:15"
           ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "21:25"
-              ]
-            }
-          ],
-          "horarios": [
-            "21:25"
-          ]
         }
       ],
       "genero": "Terror",
@@ -704,7 +681,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-noche-del-demonio-estan-entre-nosotros-12203_252",
       "trailer_url": "https://www.youtube.com/watch?v=orvNgTGq6cg",
-      "sinopsis": "Una joven descubre que un antiguo culto demoníaco está infiltrado en su ciudad, y debe luchar contra fuerzas oscuras que se ocultan entre la gente común.",
+      "sinopsis": "Una joven madre que cría a su hija en la casa donde creció y descubre que puede viajar al Más Allá. Cuando algo maligno la persigue, Gemma descubre una habilidad que lo cambia todo: no solo puede entrar al Más Allá, sino que también puede traer de vuelta al mundo real a quienes viven allí. Una vez que los demonios se dan cuenta de su poder, nuestro mundo se convierte en su patio de recreo.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1291595,
@@ -762,6 +739,22 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/8/impacto-mortal-47695-0.webp",
       "cines": [
         {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "17:25"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:25"
+          ]
+        },
+        {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
           "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
@@ -799,22 +792,6 @@
             "20:20",
             "22:20"
           ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "17:25"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:25"
-          ]
         }
       ],
       "genero": "Acción",
@@ -825,7 +802,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/impacto-mortal-12226_252",
       "trailer_url": "https://www.youtube.com/watch?v=lNEuVhB0D9U",
-      "sinopsis": "Un grupo de astronautas se enfrenta a una colisión catastrófica en el espacio, luchando por sobrevivir mientras la nave se desintegra a su alrededor.",
+      "sinopsis": "Un grupo de pasajeros internacionales que viaja de Los Ángeles a Shanghái se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones. Atrapados en medio del océano, deberán luchar por sobrevivir mientras una manada de depredadores acecha a su alrededor.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 402051,
@@ -876,6 +853,93 @@
         ],
         "idioma": "Español",
         "titulo_original": "Impacto mortal"
+      }
+    },
+    {
+      "titulo": "Los Juegos del Hambre",
+      "poster": "https://cdn.carteleracine.pe/cine/2012/3/los-juegos-del-hambre-47763-0.webp",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "19:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:00"
+          ]
+        }
+      ],
+      "genero": "Ciencia Ficción",
+      "duracion": "142 minutos",
+      "clasificacion": "12 Años",
+      "director": "Gary Ross",
+      "actores": "Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson, Elizabeth Banks, Lenny Kravitz",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/los-juegos-del-hambre-3682_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Los%20Juegos%20del%20Hambre%20trailer%20espanol",
+      "sinopsis": "Lo que en el pasado fueron los Estados Unidos, ahora es una nación llamada Panem; un imponente Capitolio ejerce un control riguroso sobre los 12 distritos que lo rodean y que están aislados entre sí. Cada distrito se ve obligado a enviar anualmente un chico y una chica entre los doce y los dieciocho años para que participen en los Hunger Games, unos juegos que son transmitidos en directo por la televisión. Se trata de una lucha a muerte, en la que sólo puede haber un superviviente. Katniss Everdeen, una joven de dieciséis años, decide sustituir a su hermana en los juegos; pero para ella, que ya ha visto la muerte de cerca, la lucha por la supervivencia es su segunda naturaleza.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 70160,
+        "titulo_tmdb": "Los Juegos del Hambre",
+        "voto": 7.2,
+        "votos": 23695,
+        "url_tmdb": "https://www.themoviedb.org/movie/70160",
+        "imdb_id": "tt1392170",
+        "url_imdb": "https://www.imdb.com/title/tt1392170/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/qSEn7KsGchT7qB08HlviyeTPrEr.jpg",
+        "director": "Gary Ross",
+        "reparto": [
+          {
+            "nombre": "Jennifer Lawrence",
+            "personaje": "Katniss Everdeen"
+          },
+          {
+            "nombre": "Josh Hutcherson",
+            "personaje": "Peeta Mellark"
+          },
+          {
+            "nombre": "Liam Hemsworth",
+            "personaje": "Gale Hawthorne"
+          },
+          {
+            "nombre": "Woody Harrelson",
+            "personaje": "Haymitch Abernathy"
+          },
+          {
+            "nombre": "Elizabeth Banks",
+            "personaje": "Effie Trinket"
+          },
+          {
+            "nombre": "Lenny Kravitz",
+            "personaje": "Cinna"
+          }
+        ],
+        "generos": [
+          "Ciencia ficción",
+          "Aventura",
+          "Acción",
+          "Suspense"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=y0hE3fDJCFA",
+          "embed_id": "y0hE3fDJCFA"
+        },
+        "sinopsis_tmdb": "Lo que en el pasado fueron los Estados Unidos, ahora es una nación llamada Panem; un imponente Capitolio ejerce un control riguroso sobre los 12 distritos que lo rodean y que están aislados entre sí. Cada distrito se ve obligado a enviar anualmente un chico y una chica entre los doce y los dieciocho años para que participen en los Hunger Games, unos juegos que son transmitidos en directo por la televisión. Se trata de una lucha a muerte, en la que sólo puede haber un superviviente. Katniss Everdeen, una joven de dieciséis años, decide sustituir a su hermana en los juegos; pero para ella, que ya ha visto la muerte de cerca, la lucha por la supervivencia es su segunda naturaleza.",
+        "estreno": "12 mar 2012",
+        "duracion_min": 142,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "The Hunger Games"
       }
     },
     {
@@ -1055,29 +1119,141 @@
         "idioma": "Español",
         "titulo_original": "Las aventuras de Tadeo Jones"
       }
-    },
+    }
+  ],
+  "cines": [
     {
-      "titulo": "Los Juegos del Hambre Bonus (Dob)",
-      "poster": "https://www.movietime.com.pe/bucket/images/cine/7834ae66-eced-4f9c-9dd1-bef7f19ba6b9.jpeg",
-      "genero": "",
-      "clasificacion": "+14",
-      "duracion": "146 min",
-      "sinopsis": "El reestreno de la película vendrá acompañado al inicio un contenido exclusivo con imágenes inéditas de la nueva entrega de LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA (THE HUNGER GAMES: SUNRISE ON THE REAPING).\n\nLo que en el pasado fueron los Estados Unidos, ahora es una nación llamada Panem; un imponente Capitolio ejerce un control riguroso sobre los 12 distritos que lo rodean y que están aisl",
-      "director": "",
-      "actores": "",
-      "estreno": "",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://youtu.be/7lQtPxVwz8A",
-      "fuente_peli": "Movie Time",
-      "cines": [
+      "cine": "Movie Time Cajamarca",
+      "cine_slug": "movietime-cajamarca-cajamarca-s448",
+      "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+      "peliculas": [
         {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "titulo": "Zona Cero",
+          "poster": "",
+          "genero": "Thriller",
+          "clasificacion": "12 Años",
           "formatos": [
             {
               "formato": "",
+              "horarios": [
+                "16:00",
+                "18:25",
+                "20:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:25",
+            "20:50"
+          ]
+        },
+        {
+          "titulo": "Tadeo Y La Lámpara Maravillosa",
+          "poster": "",
+          "genero": "Animado",
+          "clasificacion": "Todos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "13:35",
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "13:35",
+            "15:30"
+          ]
+        },
+        {
+          "titulo": "La Última Tormenta",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/9/la-ultima-tormenta-47768-1.jpg",
+          "genero": "Acción",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "19:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:30"
+          ]
+        },
+        {
+          "titulo": "Coyote vs. ACME",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/coyote-vs-acme-47670-0.webp",
+          "genero": "Animado",
+          "clasificacion": "7 Años",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "13:00"
+              ]
+            },
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "15:00",
+                "17:00",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "13:00",
+            "15:00",
+            "17:00",
+            "21:45"
+          ]
+        },
+        {
+          "titulo": "La Noche Del Demonio: Están Entre Nosotros",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-noche-del-demonio-estan-entre-nosotros-47638-0.webp",
+          "genero": "Terror",
+          "clasificacion": "18 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "21:25"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:25"
+          ]
+        },
+        {
+          "titulo": "Impacto Mortal",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/impacto-mortal-47695-0.webp",
+          "genero": "Acción",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "17:25"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:25"
+          ]
+        },
+        {
+          "titulo": "Los Juegos del Hambre",
+          "poster": "https://cdn.carteleracine.pe/cine/2012/3/los-juegos-del-hambre-47763-0.webp",
+          "genero": "Ciencia Ficción",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
               "horarios": [
                 "19:00"
               ]
@@ -1087,10 +1263,9 @@
             "19:00"
           ]
         }
-      ]
-    }
-  ],
-  "cines": [
+      ],
+      "cine_original": "CAJAMARCA - MOVIE TIME"
+    },
     {
       "cine": "CinePlanet Cajamarca Real Plaza",
       "cine_slug": "cp-cajamarca",
@@ -1426,210 +1601,11 @@
           ]
         }
       ]
-    },
-    {
-      "cine": "Movie Time Cajamarca",
-      "cine_slug": "movietime-cajamarca",
-      "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-      "url": "https://www.movietime.com.pe/cinemas/cajamarca",
-      "fuente_cine": "Movie Time",
-      "peliculas": [
-        {
-          "titulo": "Coyote vs. ACME",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/980f6987-4dcf-4d9b-b746-b7366ba93692.png",
-          "genero": "",
-          "clasificacion": "APT",
-          "duracion": "103 min",
-          "sinopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "17:00",
-                "21:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "17:00",
-            "21:45"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=DIqJb0LwSho"
-        },
-        {
-          "titulo": "Coyote vs. ACME",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/185a3db6-7474-4876-b1db-21abb900683e.png",
-          "genero": "",
-          "clasificacion": "APT",
-          "duracion": "103 min",
-          "sinopsis": "¡DISFRÚTALA A UN SUPER PRECIO EN FUNCIÓN MATINÉ!\n\nDespués de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. p",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "13:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "13:00"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=DIqJb0LwSho"
-        },
-        {
-          "titulo": "Impacto Mortal",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/2df4c334-ddc7-4a89-9ea7-b275ce407624.jpeg",
-          "genero": "",
-          "clasificacion": "+14",
-          "duracion": "106 min",
-          "sinopsis": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "17:25"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:25"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=wtTgTP-liyQ"
-        },
-        {
-          "titulo": "La Noche Del Demonio: Están Entre Nosotros",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/d808a2f7-faca-4e68-ae75-f52db0689ba3.jpeg",
-          "genero": "",
-          "clasificacion": "+14",
-          "duracion": "106 min",
-          "sinopsis": "Una joven madre que cría a su hija en la casa donde creció y descubre que puede viajar al Más Allá. Cuando algo maligno la persigue, Gemma descubre una habilidad que lo cambia todo: no solo puede entrar al Más Allá, sino que también puede traer de vuelta al mundo real a quienes viven allí. Una vez que los demonios se dan cuenta de su poder, nuestro mundo se convierte en su patio de recreo.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "21:25"
-              ]
-            }
-          ],
-          "horarios": [
-            "21:25"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=9efsBOK-k1M"
-        },
-        {
-          "titulo": "La Última Tormenta",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/10615c3c-9932-4544-adb0-004c2b41dc7c.png",
-          "genero": "",
-          "clasificacion": "+14",
-          "duracion": "93 min",
-          "sinopsis": "Atrapada en una placa de hielo a la deriva en el Ártico, una patinadora artística lucha por sobrevivir mientras el hielo se fragmenta y la arrastra hacia aguas abiertas. Sin posibilidad de rescate, cada minuto es una batalla contra el frío extremo, el hambre y el agotamiento.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "19:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:30"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=823inoufXEI"
-        },
-        {
-          "titulo": "Los Juegos del Hambre Bonus (Dob)",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/7834ae66-eced-4f9c-9dd1-bef7f19ba6b9.jpeg",
-          "genero": "",
-          "clasificacion": "+14",
-          "duracion": "146 min",
-          "sinopsis": "El reestreno de la película vendrá acompañado al inicio un contenido exclusivo con imágenes inéditas de la nueva entrega de LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA (THE HUNGER GAMES: SUNRISE ON THE REAPING).\n\nLo que en el pasado fueron los Estados Unidos, ahora es una nación llamada Panem; un imponente Capitolio ejerce un control riguroso sobre los 12 distritos que lo rodean y que están aisl",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "19:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:00"
-          ],
-          "trailer_url": "https://youtu.be/7lQtPxVwz8A"
-        },
-        {
-          "titulo": "Tadeo Y La Lámpara Maravillosa",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/891ee9f4-28d1-44ad-82f1-854ce953bbce.webp",
-          "genero": "",
-          "clasificacion": "APT",
-          "duracion": "94 min",
-          "sinopsis": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista de un objeto único: la lámpara maravillosa de Las mil y una noches.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=6LCjjVj3oAY"
-        },
-        {
-          "titulo": "Tadeo Y La Lámpara Maravillosa",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/cde1a87d-4f12-4399-840a-725fb3ada886.png",
-          "genero": "",
-          "clasificacion": "APT",
-          "duracion": "94 min",
-          "sinopsis": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista de un objeto único: la lámpara maravillosa de Las mil y una noches.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "13:35"
-              ]
-            }
-          ],
-          "horarios": [
-            "13:35"
-          ],
-          "trailer_url": ""
-        },
-        {
-          "titulo": "Zona Cero",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/379aac7e-dc38-48ab-a6a2-003a80858417.jpeg",
-          "genero": "",
-          "clasificacion": "+14",
-          "duracion": "122 min",
-          "sinopsis": "En una conferencia de biotecnología, un virus de mutación rápida se desata y el recinto queda sellado. Con el contagio en expansión y los infectados evolucionando en formas impredecibles, un grupo de sobrevivientes deberá abrirse paso en un encierro donde cada minuto cambia las reglas.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:00",
-                "18:25",
-                "20:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:25",
-            "20:50"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=_Ru4_LzLg_E"
-        }
-      ]
     }
   ],
   "estado": "ok",
-  "motor": "groq",
   "fuentes_extra": [
     "Cineplanet",
-    "Cinerama",
-    "Movie Time"
+    "Cinerama"
   ]
 }
