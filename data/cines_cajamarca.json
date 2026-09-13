@@ -2,20 +2,23 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-13 08:00",
+  "actualizado": "2026-09-13 11:00",
   "fecha_objetivo": "2026-09-13",
   "peliculas": [
     {
       "titulo": "Zona Cero",
-      "poster": "",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002971?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "cines": [
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "11:40",
                 "14:20",
@@ -61,8 +64,8 @@
       "actores": "Jun Ji-hyun, Koo Kyo-hwan, Ji Chang-wook, Kim Shin-rock, Shin Hyun-bin, Go Soo y Kim Hyung-mook.",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/zona-cero-12246_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Zona%20Cero%20trailer%20espanol",
-      "sinopsis": "Un equipo de rescate se enfrenta a una catástrofe nuclear en la zona más peligrosa de la ciudad.",
+      "trailer_url": "https://www.youtube.com/watch?v=DdSod74AsBY",
+      "sinopsis": "Un thriller que sigue a un equipo de rescate que debe sobrevivir a una explosión nuclear y sus consecuencias en una ciudad devastada.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 507244,
@@ -121,102 +124,19 @@
       }
     },
     {
-      "titulo": "Hechizo de Amor: La Magia Continúa",
-      "poster": "",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
-          "formatos": [
-            {
-              "formato": "2D - Doblada",
-              "horarios": [
-                "18:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:50"
-          ]
-        }
-      ],
-      "genero": "Comedia",
-      "duracion": "110 minutos",
-      "clasificacion": "12 Años",
-      "director": "Susanne Bier",
-      "actores": "Sandra Bullock, Nicole Kidman, Joey King, Maisie Williams, Xolo Maridueña, Lee Pace",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/hechizo-de-amor-la-magia-continua-12253_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Hechizo%20de%20Amor%3A%20La%20Magia%20Contin%C3%BAa%20trailer%20espanol",
-      "sinopsis": "La joven bruja Lily descubre que su primer hechizo de amor tiene consecuencias inesperadas y debe aprender a controlar la magia que la rodea.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1302904,
-        "titulo_tmdb": "Hechizo de amor: La magia continúa",
-        "voto": 6.3,
-        "votos": 30,
-        "url_tmdb": "https://www.themoviedb.org/movie/1302904",
-        "imdb_id": "tt32588798",
-        "url_imdb": "https://www.imdb.com/title/tt32588798/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/cQjtzBXcTMzHqvo7zmpJvcBFRdC.jpg",
-        "director": "Susanne Bier",
-        "reparto": [
-          {
-            "nombre": "Sandra Bullock",
-            "personaje": "Sally Owens"
-          },
-          {
-            "nombre": "Nicole Kidman",
-            "personaje": "Gillian Owens"
-          },
-          {
-            "nombre": "Joey King",
-            "personaje": "Kylie Owens"
-          },
-          {
-            "nombre": "Maisie Williams",
-            "personaje": "Antonia Owens"
-          },
-          {
-            "nombre": "Xolo Maridueña",
-            "personaje": "Gideon"
-          },
-          {
-            "nombre": "Lee Pace",
-            "personaje": "Ian Wright"
-          }
-        ],
-        "generos": [
-          "Romance",
-          "Fantasía",
-          "Comedia"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=UOmntM7mHI8",
-          "embed_id": "UOmntM7mHI8"
-        },
-        "sinopsis_tmdb": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
-        "estreno": "9 sep 2026",
-        "duracion_min": 130,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Practical Magic 2"
-      }
-    },
-    {
       "titulo": "Tadeo Y La Lámpara Maravillosa",
-      "poster": "",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002974?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "cines": [
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "12:10",
                 "14:30",
@@ -270,8 +190,8 @@
       "actores": "Óscar Barberán, Michelle Jenner, Luis Posada, Joseph Balderrama, Trevor White",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/tadeo-y-la-lampara-maravillosa-12257_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Tadeo%20Y%20La%20L%C3%A1mpara%20Maravillosa%20trailer%20espanol",
-      "sinopsis": "El intrépido arqueólogo Tadeo Jones se embarca en una nueva aventura para encontrar una lámpara legendaria que concede deseos.",
+      "trailer_url": "https://youtu.be/cpHujWfNLnE?si=maVSFUCeRYSM6NLM",
+      "sinopsis": "El torpe pero entrañable Tadeo descubre una lámpara antigua que concede deseos, desatando una serie de aventuras y peligros inesperados.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1187326,
@@ -330,11 +250,14 @@
       "cines": [
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "11:30",
                 "12:40",
@@ -406,14 +329,14 @@
       "actores": "Will Forte, Lana Condor, John Cena, Tone Bell, Martha Kelly, Luis Guzmán",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Coyote%20vs.%20ACME%20trailer%20espanol",
-      "sinopsis": "El astuto Coyote vuelve a intentar robar los productos de ACME, pero esta vez se enfrenta a trampas más ingeniosas y a la intervención de la ley.",
+      "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
+      "sinopsis": "El astuto Coyote se enfrenta una vez más a los ingeniosos trucos de la compañía ACME en una serie de persecuciones cómicas y explosivas.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
         "titulo_tmdb": "Coyote vs. Acme",
         "voto": 7.6,
-        "votos": 332,
+        "votos": 343,
         "url_tmdb": "https://www.themoviedb.org/movie/1204680",
         "imdb_id": "tt1756855",
         "url_imdb": "https://www.imdb.com/title/tt1756855/",
@@ -470,11 +393,14 @@
       "cines": [
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "20:10",
                 "22:30"
@@ -510,14 +436,14 @@
       "actores": "Sam Spruell, Lin Shaye, Maisie Richardson, Brandon Perea",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-noche-del-demonio-estan-entre-nosotros-12203_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=La%20Noche%20Del%20Demonio%3A%20Est%C3%A1n%20Entre%20Nosotros%20trailer%20espanol",
-      "sinopsis": "Una serie de extraños asesinatos revela que un demonio está entre los habitantes de un pequeño pueblo, desatando el terror nocturno.",
+      "trailer_url": "https://www.youtube.com/watch?v=orvNgTGq6cg",
+      "sinopsis": "Una joven descubre que un antiguo culto demoníaco está infiltrado en su ciudad, y debe luchar para proteger a sus seres queridos de una amenaza sobrenatural.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1291595,
         "titulo_tmdb": "Insidious: Fuera del más allá",
         "voto": 6.5,
-        "votos": 144,
+        "votos": 148,
         "url_tmdb": "https://www.themoviedb.org/movie/1291595",
         "imdb_id": "tt32393988",
         "url_imdb": "https://www.imdb.com/title/tt32393988/",
@@ -570,11 +496,14 @@
       "cines": [
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "17:50",
                 "21:30"
@@ -610,8 +539,8 @@
       "actores": "Aaron Eckhart - Ben Kingsley - Angus Sampson",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/impacto-mortal-12226_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Impacto%20Mortal%20trailer%20espanol",
-      "sinopsis": "Una nave espacial sufre un accidente y sus ocupantes deben sobrevivir a un impactante choque contra un planeta hostil.",
+      "trailer_url": "https://www.youtube.com/watch?v=lNEuVhB0D9U",
+      "sinopsis": "Un grupo de mercenarios es enviado a una zona remota donde un meteorito trae consigo una criatura letal que los acecha uno a uno.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 402051,
@@ -665,16 +594,120 @@
       }
     },
     {
-      "titulo": "Separada pero Nunca Sola",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/8/separada-pero-nunca-sola-47708-0.webp",
+      "titulo": "Hechizo de Amor: La Magia Continúa",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003074?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Fantasía",
+      "clasificacion": "+14",
+      "duracion": "130 min",
+      "director": "Susanne Bier",
+      "actores": "Sandra Bullock, Nicole Kidman, Joey King, Maisie Williams, Xolo Maridueña, Lee Pace",
+      "estreno": "",
+      "sinopsis": "Nos transporta de vuelta a un mundo envuelto en travesuras bajo la luz de la luna y una poderosa magia ancestral. Las hermanas Owens deberán enfrentarse a la oscura maldición que amenaza con destruir a su familia de una vez por todas, en un evento cinematográfico imperdible lleno de diversión, magia y caos.",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://youtu.be/tXK7p_atLVA?si=ZqoczvtzVQOCbFaW",
+      "fuente_peli": "Cineplanet",
       "cines": [
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "18:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:50"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1302904,
+        "titulo_tmdb": "Hechizo de amor: La magia continúa",
+        "voto": 6.3,
+        "votos": 32,
+        "url_tmdb": "https://www.themoviedb.org/movie/1302904",
+        "imdb_id": "tt32588798",
+        "url_imdb": "https://www.imdb.com/title/tt32588798/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/cQjtzBXcTMzHqvo7zmpJvcBFRdC.jpg",
+        "director": "Susanne Bier",
+        "reparto": [
+          {
+            "nombre": "Sandra Bullock",
+            "personaje": "Sally Owens"
+          },
+          {
+            "nombre": "Nicole Kidman",
+            "personaje": "Gillian Owens"
+          },
+          {
+            "nombre": "Joey King",
+            "personaje": "Kylie Owens"
+          },
+          {
+            "nombre": "Maisie Williams",
+            "personaje": "Antonia Owens"
+          },
+          {
+            "nombre": "Xolo Maridueña",
+            "personaje": "Gideon"
+          },
+          {
+            "nombre": "Lee Pace",
+            "personaje": "Ian Wright"
+          }
+        ],
+        "generos": [
+          "Romance",
+          "Fantasía",
+          "Comedia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=UOmntM7mHI8",
+          "embed_id": "UOmntM7mHI8"
+        },
+        "sinopsis_tmdb": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
+        "estreno": "9 sep 2026",
+        "duracion_min": 130,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Practical Magic 2"
+      }
+    },
+    {
+      "titulo": "Separada pero nunca sola",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003052?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Comedia",
+      "clasificacion": "+14",
+      "duracion": "86 min",
+      "director": "Ani Alva Helfer",
+      "actores": "Emilia Drago, Nicolás Galindo, Joaquín de Orbegoso, Ximena Palomino, Armando Machuca",
+      "estreno": "",
+      "sinopsis": "Recién separada, Isabel busca rehacer su vida en un hotel paradisíaco junto a su mejor amiga. Para sacarse de encima a su ex esposo que insiste en volver, inventa un romance con un falso galán. Entre tantas mentiras y consejos disparatados, se desatará un divertido caos en los escenarios más hermosos de la selva peruana.",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=BZkIHbUkh8k",
+      "fuente_peli": "Cineplanet",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "11:50",
                 "13:50",
@@ -689,16 +722,6 @@
           ]
         }
       ],
-      "genero": "Comedia",
-      "duracion": "90 minutos",
-      "clasificacion": "12 Años",
-      "director": "Ani Alva Helfer",
-      "actores": "Armando Machuca, Emilia Drago, Nicolás Galindo",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/separada-pero-nunca-sola-12236_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Separada%20pero%20Nunca%20Sola%20trailer%20espanol",
-      "sinopsis": "Dos hermanas separadas por la vida descubren que, a pesar de la distancia, su vínculo sigue intacto y se apoyan mutuamente en momentos difíciles.",
-      "puntaje": "",
       "tmdb": {
         "tmdb_id": 1744851,
         "titulo_tmdb": "Separada pero nunca sola",
@@ -861,80 +884,20 @@
   "cines": [
     {
       "cine": "CinePlanet Cajamarca Real Plaza",
-      "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-      "direccion": "Av. Vía de Evitamiento Norte",
+      "cine_slug": "cp-cajamarca",
+      "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+      "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+      "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+      "fuente_cine": "Cineplanet",
       "peliculas": [
         {
-          "titulo": "Zona Cero",
-          "poster": "",
-          "genero": "Thriller",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "2D - Doblada",
-              "horarios": [
-                "11:40",
-                "14:20",
-                "17:00",
-                "19:40",
-                "22:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "11:40",
-            "14:20",
-            "17:00",
-            "19:40",
-            "22:20"
-          ]
-        },
-        {
-          "titulo": "Hechizo de Amor: La Magia Continúa",
-          "poster": "",
-          "genero": "Comedia",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "2D - Doblada",
-              "horarios": [
-                "18:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:50"
-          ]
-        },
-        {
-          "titulo": "Tadeo Y La Lámpara Maravillosa",
-          "poster": "",
-          "genero": "Animado",
-          "clasificacion": "Todos",
-          "formatos": [
-            {
-              "formato": "2D - Doblada",
-              "horarios": [
-                "12:10",
-                "14:30",
-                "16:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "12:10",
-            "14:30",
-            "16:40"
-          ]
-        },
-        {
           "titulo": "Coyote vs. ACME",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/coyote-vs-acme-47670-0.webp",
-          "genero": "Animado",
-          "clasificacion": "7 Años",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002921?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Animación",
+          "clasificacion": "APT",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "11:30",
                 "12:40",
@@ -963,32 +926,30 @@
           ]
         },
         {
-          "titulo": "La Noche Del Demonio: Están Entre Nosotros",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/la-noche-del-demonio-estan-entre-nosotros-47638-0.webp",
-          "genero": "Terror",
-          "clasificacion": "18 Años",
+          "titulo": "Hechizo de Amor: La Magia Continúa",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003074?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Fantasía",
+          "clasificacion": "+14",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "20:10",
-                "22:30"
+                "18:50"
               ]
             }
           ],
           "horarios": [
-            "20:10",
-            "22:30"
+            "18:50"
           ]
         },
         {
           "titulo": "Impacto Mortal",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/impacto-mortal-47695-0.webp",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002945?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Acción",
-          "clasificacion": "12 Años",
+          "clasificacion": "+14",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "17:50",
                 "21:30"
@@ -1001,13 +962,32 @@
           ]
         },
         {
-          "titulo": "Separada pero Nunca Sola",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/separada-pero-nunca-sola-47708-0.webp",
-          "genero": "Comedia",
-          "clasificacion": "12 Años",
+          "titulo": "La Noche Del Demonio: Están Entre Nosotros",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003049?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Terror",
+          "clasificacion": "+14",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "20:10",
+                "22:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "20:10",
+            "22:30"
+          ]
+        },
+        {
+          "titulo": "Separada pero nunca sola",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003052?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Comedia",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "11:50",
                 "13:50",
@@ -1020,9 +1000,55 @@
             "13:50",
             "15:50"
           ]
+        },
+        {
+          "titulo": "Tadeo Y La Lámpara Maravillosa",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002974?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Animación",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "12:10",
+                "14:30",
+                "16:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "12:10",
+            "14:30",
+            "16:40"
+          ]
+        },
+        {
+          "titulo": "Zona Cero",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002971?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Terror",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "11:40",
+                "14:20",
+                "17:00",
+                "19:40",
+                "22:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "11:40",
+            "14:20",
+            "17:00",
+            "19:40",
+            "22:20"
+          ]
         }
       ],
-      "cine_original": "CAJAMARCA - CINEPLANET"
+      "cine_original": "CP Cajamarca"
     },
     {
       "cine": "Cinerama Cajamarca MegaPlaza",
@@ -1235,10 +1261,11 @@
   ],
   "estado": "ok",
   "motor": "groq",
+  "fuentes_extra": [
+    "Cineplanet",
+    "Movie Time"
+  ],
   "notas": [
     "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
-  ],
-  "fuentes_extra": [
-    "Movie Time"
   ]
 }
