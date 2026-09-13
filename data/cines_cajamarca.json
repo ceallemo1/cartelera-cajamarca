@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-13 11:09",
+  "actualizado": "2026-09-13 13:46",
   "fecha_objetivo": "2026-09-13",
   "peliculas": [
     {
@@ -40,7 +40,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "11:40",
                 "14:20",
                 "17:00",
                 "19:40",
@@ -49,7 +48,6 @@
             }
           ],
           "horarios": [
-            "11:40",
             "14:20",
             "17:00",
             "19:40",
@@ -156,14 +154,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "12:10",
                 "14:30",
                 "16:40"
               ]
             }
           ],
           "horarios": [
-            "12:10",
             "14:30",
             "16:40"
           ]
@@ -350,7 +346,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "11:30",
                 "12:40",
                 "14:00",
                 "15:00",
@@ -364,7 +359,6 @@
             }
           ],
           "horarios": [
-            "11:30",
             "12:40",
             "14:00",
             "15:00",
@@ -851,14 +845,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "11:50",
                 "13:50",
                 "15:50"
               ]
             }
           ],
           "horarios": [
-            "11:50",
             "13:50",
             "15:50"
           ]
@@ -1073,7 +1065,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "11:30",
                 "12:40",
                 "14:00",
                 "15:00",
@@ -1087,7 +1078,6 @@
             }
           ],
           "horarios": [
-            "11:30",
             "12:40",
             "14:00",
             "15:00",
@@ -1163,14 +1153,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "11:50",
                 "13:50",
                 "15:50"
               ]
             }
           ],
           "horarios": [
-            "11:50",
             "13:50",
             "15:50"
           ]
@@ -1184,14 +1172,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "12:10",
                 "14:30",
                 "16:40"
               ]
             }
           ],
           "horarios": [
-            "12:10",
             "14:30",
             "16:40"
           ]
@@ -1205,7 +1191,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "11:40",
                 "14:20",
                 "17:00",
                 "19:40",
@@ -1214,7 +1199,6 @@
             }
           ],
           "horarios": [
-            "11:40",
             "14:20",
             "17:00",
             "19:40",
