@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-16 06:42",
+  "actualizado": "2026-09-16 07:00",
   "fecha_objetivo": "2026-09-16",
   "peliculas": [
     {
@@ -63,7 +63,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/zona-cero-12246_252",
       "trailer_url": "https://www.youtube.com/watch?v=DdSod74AsBY",
-      "sinopsis": "Un thriller de desastre que sigue a los supervivientes atrapados en el epicentro de una explosión nuclear y sus intentos de escapar de la radiación.",
+      "sinopsis": "Un thriller que sigue a un grupo de supervivientes atrapados en una zona desierta tras un desastre nuclear.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 507244,
@@ -171,7 +171,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/tadeo-y-la-lampara-maravillosa-12257_252",
       "trailer_url": "https://youtu.be/cpHujWfNLnE?si=maVSFUCeRYSM6NLM",
-      "sinopsis": "El torpe pero entrañable Tadeo descubre una lámpara mágica que lo lleva a una aventura llena de deseos inesperados y peligros sobrenaturales.",
+      "sinopsis": "Tadeo descubre una lámpara mágica que lo lleva a una aventura llena de criaturas fantásticas y peligros inesperados.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1187326,
@@ -290,7 +290,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote vuelve a enfrentarse a la corporación ACME, usando ingeniosas trampas y gadgets para intentar capturar al Correcaminos una vez más.",
+      "sinopsis": "El astuto Coyote se enfrenta a la temible compañía ACME en una serie de ingeniosas y cómicas batallas por la supremacía del desierto.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
@@ -397,7 +397,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-noche-del-demonio-estan-entre-nosotros-12203_252",
       "trailer_url": "https://www.youtube.com/watch?v=orvNgTGq6cg",
-      "sinopsis": "Una joven descubre que una serie de asesinatos están vinculados a una antigua secta demoníaca que se oculta entre la gente común.",
+      "sinopsis": "Un grupo de adolescentes descubre que una entidad demoníaca se ha infiltrado en su escuela, desatando una lucha por sobrevivir.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1291595,
@@ -500,7 +500,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/impacto-mortal-12226_252",
       "trailer_url": "https://www.youtube.com/watch?v=lNEuVhB0D9U",
-      "sinopsis": "Un grupo de astronautas sufre un accidente en el espacio y debe luchar contra una entidad alienígena que los acecha dentro de la nave.",
+      "sinopsis": "Una explosión en una base militar desencadena una cadena de eventos mortales que ponen en riesgo a toda la población.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 402051,
