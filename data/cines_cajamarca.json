@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-16 11:00",
+  "actualizado": "2026-09-16 17:00",
   "fecha_objetivo": "2026-09-16",
   "peliculas": [
     {
@@ -20,7 +20,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:20",
                 "17:00",
                 "19:40",
                 "22:20"
@@ -28,7 +27,6 @@
             }
           ],
           "horarios": [
-            "14:20",
             "17:00",
             "19:40",
             "22:20"
@@ -81,7 +79,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/zona-cero-12246_252",
       "trailer_url": "https://www.youtube.com/watch?v=DdSod74AsBY",
-      "sinopsis": "Un thriller postapocalíptico que sigue a un grupo de supervivientes que descubren los oscuros secretos de una zona contaminada.",
+      "sinopsis": "Un thriller que sigue a un grupo de sobrevivientes atrapados en un edificio abandonado tras un devastador ataque biológico.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 507244,
@@ -191,13 +189,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/hechizo-de-amor-la-magia-continua-12253_252",
       "trailer_url": "https://youtu.be/tXK7p_atLVA?si=ZqoczvtzVQOCbFaW",
-      "sinopsis": "Continuación de la comedia romántica mágica donde dos jóvenes hechiceros intentan salvar su relación mientras enfrentan nuevos encantamientos.",
+      "sinopsis": "Continuación de la comedia romántica mágica, donde dos jóvenes hechiceros intentan salvar su relación mientras descubren nuevos encantamientos.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1302904,
         "titulo_tmdb": "Prácticamente magia 2",
         "voto": 6.1,
-        "votos": 51,
+        "votos": 52,
         "url_tmdb": "https://www.themoviedb.org/movie/1302904",
         "imdb_id": "tt32588798",
         "url_imdb": "https://www.imdb.com/title/tt32588798/",
@@ -263,13 +261,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:30",
                 "16:40"
               ]
             }
           ],
           "horarios": [
-            "14:30",
             "16:40"
           ]
         },
@@ -298,7 +294,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/tadeo-y-la-lampara-maravillosa-12257_252",
       "trailer_url": "https://youtu.be/cpHujWfNLnE?si=maVSFUCeRYSM6NLM",
-      "sinopsis": "Tadeo, el carismático ladrón, se embarca en una aventura para encontrar una lámpara legendaria que concede deseos, desatando caos y humor.",
+      "sinopsis": "El torpe pero entrañable Tadeo descubre una lámpara antigua que concede deseos, desatando una serie de aventuras y peligros inesperados.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1187326,
@@ -398,7 +394,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-ultima-tormenta-12261_252",
       "trailer_url": "https://www.youtube.com/results?search_query=La%20%C3%9Altima%20Tormenta%20trailer%20espanol",
-      "sinopsis": "Una épica de ciencia ficción donde la humanidad lucha contra una tormenta cósmica que amenaza con destruir el planeta.",
+      "sinopsis": "En un futuro cercano, una tormenta sobrenatural amenaza con destruir la humanidad y un pequeño equipo debe encontrar la fuente para detenerla.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1424965,
@@ -462,8 +458,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:00",
-                "15:00",
                 "16:15",
                 "17:15",
                 "18:30",
@@ -474,8 +468,6 @@
             }
           ],
           "horarios": [
-            "14:00",
-            "15:00",
             "16:15",
             "17:15",
             "18:30",
@@ -535,7 +527,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote se enfrenta una vez más a los ingeniosos trucos de la empresa ACME en una serie de persecuciones disparatadas.",
+      "sinopsis": "El astuto Coyote se enfrenta una vez más a los ingeniosos trucos de la compañía ACME en una serie de persecuciones cómicas y explosivas.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
@@ -664,13 +656,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-noche-del-demonio-estan-entre-nosotros-12203_252",
       "trailer_url": "https://www.youtube.com/watch?v=orvNgTGq6cg",
-      "sinopsis": "Un grupo de adolescentes descubre que una presencia demoníaca se oculta entre ellos, desatando terror y paranoia en su comunidad.",
+      "sinopsis": "Una joven descubre que un demonio se ha infiltrado en su comunidad, y debe unir a sus vecinos para combatir la amenaza que acecha entre ellos.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1291595,
         "titulo_tmdb": "Insidious: Fuera del más allá",
         "voto": 6.5,
-        "votos": 152,
+        "votos": 153,
         "url_tmdb": "https://www.themoviedb.org/movie/1291595",
         "imdb_id": "tt32393988",
         "url_imdb": "https://www.imdb.com/title/tt32393988/",
@@ -785,7 +777,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/impacto-mortal-12226_252",
       "trailer_url": "https://www.youtube.com/watch?v=lNEuVhB0D9U",
-      "sinopsis": "Un intenso thriller de acción donde un agente secreto debe detener una amenaza biotecnológica que podría acabar con la humanidad.",
+      "sinopsis": "Un grupo de científicos lucha por sobrevivir después de que un meteorito impacta la Tierra, desatando criaturas mortales y caos global.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 402051,
@@ -836,87 +828,6 @@
         ],
         "idioma": "Español",
         "titulo_original": "Impacto mortal"
-      }
-    },
-    {
-      "titulo": "Separada pero nunca sola",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003052?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Comedia",
-      "clasificacion": "+14",
-      "duracion": "86 min",
-      "director": "Ani Alva Helfer",
-      "actores": "Emilia Drago, Nicolás Galindo, Joaquín de Orbegoso, Ximena Palomino, Armando Machuca",
-      "estreno": "",
-      "sinopsis": "Recién separada, Isabel busca rehacer su vida en un hotel paradisíaco junto a su mejor amiga. Para sacarse de encima a su ex esposo que insiste en volver, inventa un romance con un falso galán. Entre tantas mentiras y consejos disparatados, se desatará un divertido caos en los escenarios más hermosos de la selva peruana.",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=BZkIHbUkh8k",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "15:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:50"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1744851,
-        "titulo_tmdb": "Separada pero nunca sola",
-        "voto": null,
-        "votos": 0,
-        "url_tmdb": "https://www.themoviedb.org/movie/1744851",
-        "imdb_id": "",
-        "url_imdb": "",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/vhdFKjwbOSTJzjTbaYH1KKVX2v7.jpg",
-        "director": "Ani Alva Helfer",
-        "reparto": [
-          {
-            "nombre": "Emilia Drago",
-            "personaje": ""
-          },
-          {
-            "nombre": "Nicolás Galindo",
-            "personaje": ""
-          },
-          {
-            "nombre": "Joaquín de Orbegoso",
-            "personaje": ""
-          },
-          {
-            "nombre": "Ximena Palomino",
-            "personaje": ""
-          },
-          {
-            "nombre": "Armando Machuca",
-            "personaje": ""
-          }
-        ],
-        "generos": [
-          "Comedia"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "",
-        "estreno": "3 sep 2026",
-        "duracion_min": 100,
-        "paises": [
-          "Perú"
-        ],
-        "idioma": "Español",
-        "titulo_original": "Separada pero nunca sola"
       }
     },
     {
@@ -1064,8 +975,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:00",
-                "15:00",
                 "16:15",
                 "17:15",
                 "18:30",
@@ -1076,8 +985,6 @@
             }
           ],
           "horarios": [
-            "14:00",
-            "15:00",
             "16:15",
             "17:15",
             "18:30",
@@ -1142,23 +1049,6 @@
           ]
         },
         {
-          "titulo": "Separada pero nunca sola",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003052?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Comedia",
-          "clasificacion": "+14",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "15:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:50"
-          ]
-        },
-        {
           "titulo": "Tadeo Y La Lámpara Maravillosa",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002974?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Animación",
@@ -1167,13 +1057,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:30",
                 "16:40"
               ]
             }
           ],
           "horarios": [
-            "14:30",
             "16:40"
           ]
         },
@@ -1186,7 +1074,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:20",
                 "17:00",
                 "19:40",
                 "22:20"
@@ -1194,7 +1081,6 @@
             }
           ],
           "horarios": [
-            "14:20",
             "17:00",
             "19:40",
             "22:20"
