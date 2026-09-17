@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-17 07:00",
+  "actualizado": "2026-09-17 08:00",
   "fecha_objetivo": "2026-09-17",
   "peliculas": [
     {
@@ -65,7 +65,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "Una unidad de élite se enfrenta a una amenaza bioterrorista que ha convertido a la población de una ciudad en zombis sedientos de sangre.",
+      "sinopsis": "La teniente Alice se enfrenta a una nueva amenaza bioterrorista en una ciudad sumida en la oscuridad, mientras lucha contra hordas de zombis y descubre oscuros secretos corporativos.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -177,7 +177,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/codigo-venganza-12252_252",
       "trailer_url": "https://www.youtube.com/watch?v=qdlvcbtHSuo",
-      "sinopsis": "Un hacker experto se ve envuelto en una conspiración criminal y debe usar sus habilidades para vengar la muerte de su hermano.",
+      "sinopsis": "Un hacker experto se ve envuelto en una conspiración mortal cuando un misterioso mensaje le obliga a vengar la muerte de su familia, desatando una guerra cibernética.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 188834,
@@ -286,7 +286,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote vuelve a intentar atrapar al Correcaminos usando los ingeniosos y peligrosos inventos de la compañía ACME.",
+      "sinopsis": "El astuto Coyote intenta una vez más atrapar al veloz Correcaminos usando los ingeniosos y a menudo fallidos inventos de la empresa ACME.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
@@ -395,7 +395,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/zona-cero-12246_252",
       "trailer_url": "https://www.youtube.com/watch?v=DdSod74AsBY",
-      "sinopsis": "Un grupo de supervivientes lucha por escapar de una zona contaminada donde una misteriosa radiación ha desatado mutaciones mortales.",
+      "sinopsis": "Un equipo de científicos y soldados debe sobrevivir en una zona contaminada donde una extraña radiación desata criaturas mutantes y altera la realidad.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 507244,
@@ -512,8 +512,8 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/one-piece-la-pelicula-12240_252",
       "trailer_url": "https://youtu.be/FnQ_ALoBAhk?si=o5ijmTXVfqqrmeFz",
-      "sinopsis": "Luffy y su tripulación se embarcan en una aventura épica para encontrar el legendario One Piece y convertirse en el Rey de los Piratas.",
-      "puntaje": "",
+      "sinopsis": "Luffy y su tripulación se embarcan en una aventura épica para encontrar el legendario One Piece, enfrentándose a poderosos enemigos y revelando misterios del pasado.",
+      "puntaje": "7.5",
       "tmdb": {
         "tmdb_id": 19576,
         "titulo_tmdb": "One Piece: La película",
@@ -616,8 +616,8 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/guardianes-del-museo-2-los-tesoros-de-egipto-12274_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Guardianes%20del%20Museo%202%20Los%20Tesoros%20de%20Egipto%20trailer%20espanol",
-      "sinopsis": "Los guardianes del museo deben viajar al antiguo Egipto para impedir que un antiguo mal resurja y robe los tesoros sagrados.",
-      "puntaje": "",
+      "sinopsis": "Larry y su equipo regresan al museo para impedir que una antigua maldición egipcia libere un poder destructivo, mientras descubren tesoros y secretos de la civilización faraónica.",
+      "puntaje": "6.4",
       "tmdb": {
         "tmdb_id": 1264821,
         "titulo_tmdb": "Gatos en el museo 2: Tesoros de Egipto",
