@@ -2,13 +2,35 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-17 11:00",
+  "actualizado": "2026-09-17 11:52",
   "fecha_objetivo": "2026-09-17",
   "peliculas": [
     {
       "titulo": "Resident Evil: Noche Cero",
       "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003067?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "15:30",
+                "17:25",
+                "19:20",
+                "21:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "17:25",
+            "19:20",
+            "21:15"
+          ]
+        },
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
@@ -33,28 +55,6 @@
             "20:20",
             "22:30"
           ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30",
-                "17:25",
-                "19:20",
-                "21:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30",
-            "17:25",
-            "19:20",
-            "21:15"
-          ]
         }
       ],
       "genero": "Terror",
@@ -65,7 +65,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "La agente Alice se enfrenta a una nueva amenaza bioterrorista en una ciudad sumida en la oscuridad, mientras lucha por sobrevivir y detener al virus.",
+      "sinopsis": "Sigue a un desafortunado mensajero encargado de entregar un paquete a un hospital remoto. Pronto se encuentra atrapado en medio de una epidemia y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -128,6 +128,22 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/9/codigo-venganza-47759-1.jpg",
       "cines": [
         {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "18:05"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:05"
+          ]
+        },
+        {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
           "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
@@ -151,22 +167,6 @@
             "19:20",
             "21:30"
           ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "18:05"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:05"
-          ]
         }
       ],
       "genero": "Acción",
@@ -177,7 +177,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/codigo-venganza-12252_252",
       "trailer_url": "https://www.youtube.com/watch?v=qdlvcbtHSuo",
-      "sinopsis": "Un hacker experto se ve envuelto en una conspiración mortal y debe usar sus habilidades para vengar la muerte de su familia.",
+      "sinopsis": "Después de que su jefe multimillonario sea asesinado frente a él, el agente de seguridad Cole Reed es incriminado por el homicidio y queda al borde de la bancarrota e injusticia. Perseguido por fuerzas internacionales, Reed debe limpiar su nombre y descubrir la conspiración detrás del asesinato, en una carrera contra el tiempo con acción intensa en alta mar y entornos corporativos letales",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 188834,
@@ -233,6 +233,26 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/8/coyote-vs-acme-47670-0.webp",
       "cines": [
         {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "15:40",
+                "17:40",
+                "19:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:40",
+            "17:40",
+            "19:40"
+          ]
+        },
+        {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
           "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
@@ -256,26 +276,6 @@
             "20:00",
             "22:20"
           ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:40",
-                "17:40",
-                "19:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:40",
-            "17:40",
-            "19:40"
-          ]
         }
       ],
       "genero": "Animado",
@@ -286,7 +286,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote intenta robar los últimos productos de ACME, pero el ingenioso Correcaminos y los artilugios de la compañía le ponen constantes trampas.",
+      "sinopsis": "Después de décadas fallando en atrapar al Correcaminos, el Coyote decide hacer lo impensado: demandar a ACME, la compañía responsable de todos los productos defectuosos que arruinaron sus planes. En el juicio más absurdo de la historia, la comedia y la animación se mezclan en una batalla legal que podría cambiar el destino del desierto… para siempre.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
@@ -348,6 +348,24 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/8/zona-cero-47734-0.webp",
       "cines": [
         {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "20:00",
+                "21:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "20:00",
+            "21:40"
+          ]
+        },
+        {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
           "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
@@ -367,24 +385,6 @@
             "19:10",
             "21:50"
           ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "20:00",
-                "21:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "20:00",
-            "21:40"
-          ]
         }
       ],
       "genero": "Thriller",
@@ -395,7 +395,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/zona-cero-12246_252",
       "trailer_url": "https://www.youtube.com/watch?v=DdSod74AsBY",
-      "sinopsis": "Un grupo de científicos queda atrapado en una instalación subterránea donde una explosión desencadena fenómenos sobrenaturales que ponen en riesgo sus vidas.",
+      "sinopsis": "En una conferencia de biotecnología, un virus de mutación rápida se desata y el recinto queda sellado. Con el contagio en expansión y los infectados evolucionando en formas impredecibles, un grupo de sobrevivientes deberá abrirse paso en un encierro donde cada minuto cambia las reglas.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 507244,
@@ -458,6 +458,22 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/8/one-piece-la-pelicula-47727-0.webp",
       "cines": [
         {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "16:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:50"
+          ]
+        },
+        {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
           "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
@@ -486,22 +502,6 @@
             "18:00",
             "19:30"
           ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:50"
-          ]
         }
       ],
       "genero": "Animado",
@@ -512,7 +512,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/one-piece-la-pelicula-12240_252",
       "trailer_url": "https://youtu.be/FnQ_ALoBAhk?si=o5ijmTXVfqqrmeFz",
-      "sinopsis": "Luffy y su tripulación se embarcan en una aventura épica para encontrar un legendario tesoro que podría cambiar el destino del mundo pirata.",
+      "sinopsis": "Woonan, el Gran Pirata del Oro, llegó a poseer un tercio del oro del mundo. Cuando su era llegó a su fin, nació el mito de que se había desvanecido junto a su oro en una isla misteriosa, un destino que los piratas de hoy todavía intentan rastrear. A bordo del Going Merry, la hambrienta e impulsiva tripulación de Luffy sufre el robo de su tesoro. Para recuperarlo, destrozan la embarcación de los la",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 19576,
@@ -573,6 +573,22 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/9/guardianes-del-museo-2-los-tesoros-de-egipto-47807-0.webp",
       "cines": [
         {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00"
+          ]
+        },
+        {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
           "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
@@ -590,22 +606,6 @@
           "horarios": [
             "14:40"
           ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00"
-          ]
         }
       ],
       "genero": "Animado",
@@ -616,7 +616,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/guardianes-del-museo-2-los-tesoros-de-egipto-12274_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Guardianes%20del%20Museo%202%20Los%20Tesoros%20de%20Egipto%20trailer%20espanol",
-      "sinopsis": "Los Guardianes del Museo regresan para proteger una valiosa reliquia egipcia, enfrentándose a ladrones y a una maldición que revive los peligros del Antiguo Egipto.",
+      "sinopsis": "Hace dos años, nuestros personajes salvaron a la Mona Lisa. Maurice, el ratón, está ansioso por demostrar una vez más de lo que es capaz. Vincent y Cleopatra son los padres de dos traviesos gatitos y están deseando vivir nuevas aventuras. Su próximo viaje los llevará a competir entre ellos. Todo comienza cuando Maurice explora el sótano abandonado de un edificio y encuentra un antiguo papiro con u",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1264821,
@@ -835,6 +835,128 @@
   ],
   "cines": [
     {
+      "cine": "Movie Time Cajamarca",
+      "cine_slug": "movietime-cajamarca-cajamarca-s448",
+      "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+      "peliculas": [
+        {
+          "titulo": "Resident Evil: Noche Cero",
+          "poster": "",
+          "genero": "Terror",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "15:30",
+                "17:25",
+                "19:20",
+                "21:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "17:25",
+            "19:20",
+            "21:15"
+          ]
+        },
+        {
+          "titulo": "Código Venganza",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/9/codigo-venganza-47759-1.jpg",
+          "genero": "Acción",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "18:05"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:05"
+          ]
+        },
+        {
+          "titulo": "Coyote vs. ACME",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/coyote-vs-acme-47670-0.webp",
+          "genero": "Animado",
+          "clasificacion": "7 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "15:40",
+                "17:40",
+                "19:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:40",
+            "17:40",
+            "19:40"
+          ]
+        },
+        {
+          "titulo": "Zona Cero",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/zona-cero-47734-0.webp",
+          "genero": "Thriller",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "20:00",
+                "21:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "20:00",
+            "21:40"
+          ]
+        },
+        {
+          "titulo": "One Piece La Película",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/one-piece-la-pelicula-47727-0.webp",
+          "genero": "Animado",
+          "clasificacion": "Todos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "16:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:50"
+          ]
+        },
+        {
+          "titulo": "Guardianes del Museo 2 Los Tesoros de Egipto",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/9/guardianes-del-museo-2-los-tesoros-de-egipto-47807-0.webp",
+          "genero": "Animado",
+          "clasificacion": "Todos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00"
+          ]
+        }
+      ],
+      "cine_original": "CAJAMARCA - MOVIE TIME"
+    },
+    {
       "cine": "CinePlanet Cajamarca Real Plaza",
       "cine_slug": "cp-cajamarca",
       "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
@@ -1022,154 +1144,11 @@
       "no_consultado": true,
       "url": "https://www.cinerama.com.pe/cines",
       "cine_original": "Cajamarca Megaplaza (Cinerama)"
-    },
-    {
-      "cine": "Movie Time Cajamarca",
-      "cine_slug": "movietime-cajamarca",
-      "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-      "url": "https://www.movietime.com.pe/cinemas/cajamarca",
-      "fuente_cine": "Movie Time",
-      "peliculas": [
-        {
-          "titulo": "Coyote vs. ACME",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/980f6987-4dcf-4d9b-b746-b7366ba93692.png",
-          "genero": "",
-          "clasificacion": "APT",
-          "duracion": "103 min",
-          "sinopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:40",
-                "17:40",
-                "19:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:40",
-            "17:40",
-            "19:40"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=DIqJb0LwSho"
-        },
-        {
-          "titulo": "Código Venganza",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/ddeeb251-7d8c-47d6-ba05-5ad5c8f7de40.jpeg",
-          "genero": "",
-          "clasificacion": "+14",
-          "duracion": "95 min",
-          "sinopsis": "Después de que su jefe multimillonario sea asesinado frente a él, el agente de seguridad Cole Reed es incriminado por el homicidio y queda al borde de la bancarrota e injusticia. Perseguido por fuerzas internacionales, Reed debe limpiar su nombre y descubrir la conspiración detrás del asesinato, en una carrera contra el tiempo con acción intensa en alta mar y entornos corporativos letales",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "18:05"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:05"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=rVKgndIEJkU"
-        },
-        {
-          "titulo": "Guardianes del Museo 2 Los Tesoros de Egipto",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/1fbd0e54-b3d6-4b7b-a5df-389fb82340c8.jpeg",
-          "genero": "",
-          "clasificacion": "APT",
-          "duracion": "90 min",
-          "sinopsis": "Hace dos años, nuestros personajes salvaron a la Mona Lisa. Maurice, el ratón, está ansioso por demostrar una vez más de lo que es capaz. Vincent y Cleopatra son los padres de dos traviesos gatitos y están deseando vivir nuevas aventuras. Su próximo viaje los llevará a competir entre ellos. Todo comienza cuando Maurice explora el sótano abandonado de un edificio y encuentra un antiguo papiro con u",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00"
-          ],
-          "trailer_url": ""
-        },
-        {
-          "titulo": "One Piece La Película",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/b2d8c400-d961-4dee-aa5b-b65c7c4e5eb0.jpeg",
-          "genero": "",
-          "clasificacion": "APT",
-          "duracion": "57 min",
-          "sinopsis": "Woonan, el Gran Pirata del Oro, llegó a poseer un tercio del oro del mundo. Cuando su era llegó a su fin, nació el mito de que se había desvanecido junto a su oro en una isla misteriosa, un destino que los piratas de hoy todavía intentan rastrear. A bordo del Going Merry, la hambrienta e impulsiva tripulación de Luffy sufre el robo de su tesoro. Para recuperarlo, destrozan la embarcación de los la",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:50"
-          ],
-          "trailer_url": ""
-        },
-        {
-          "titulo": "Resident Evil: Noche Cero",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/1a14ac98-e6bb-41bd-a9f4-870b4a6682c7.jpeg",
-          "genero": "",
-          "clasificacion": "+14",
-          "duracion": "93 min",
-          "sinopsis": "Sigue a un desafortunado mensajero encargado de entregar un paquete a un hospital remoto. Pronto se encuentra atrapado en medio de una epidemia y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30",
-                "17:25",
-                "19:20",
-                "21:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30",
-            "17:25",
-            "19:20",
-            "21:15"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=8iKTeIV2xgE"
-        },
-        {
-          "titulo": "Zona Cero",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/379aac7e-dc38-48ab-a6a2-003a80858417.jpeg",
-          "genero": "",
-          "clasificacion": "+14",
-          "duracion": "122 min",
-          "sinopsis": "En una conferencia de biotecnología, un virus de mutación rápida se desata y el recinto queda sellado. Con el contagio en expansión y los infectados evolucionando en formas impredecibles, un grupo de sobrevivientes deberá abrirse paso en un encierro donde cada minuto cambia las reglas.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "20:00",
-                "21:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "20:00",
-            "21:40"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=_Ru4_LzLg_E"
-        }
-      ]
     }
   ],
   "estado": "ok",
-  "motor": "groq",
   "fuentes_extra": [
-    "Cineplanet",
-    "Movie Time"
+    "Cineplanet"
   ],
   "notas": [
     "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
