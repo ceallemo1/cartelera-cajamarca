@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-17 08:00",
+  "actualizado": "2026-09-17 11:00",
   "fecha_objetivo": "2026-09-17",
   "peliculas": [
     {
@@ -65,7 +65,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "La teniente Alice se enfrenta a una nueva amenaza bioterrorista en una ciudad sumida en la oscuridad, mientras lucha contra hordas de zombis y descubre oscuros secretos corporativos.",
+      "sinopsis": "La agente Alice se enfrenta a una nueva amenaza bioterrorista en una ciudad sumida en la oscuridad, mientras lucha por sobrevivir y detener al virus.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -177,7 +177,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/codigo-venganza-12252_252",
       "trailer_url": "https://www.youtube.com/watch?v=qdlvcbtHSuo",
-      "sinopsis": "Un hacker experto se ve envuelto en una conspiración mortal cuando un misterioso mensaje le obliga a vengar la muerte de su familia, desatando una guerra cibernética.",
+      "sinopsis": "Un hacker experto se ve envuelto en una conspiración mortal y debe usar sus habilidades para vengar la muerte de su familia.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 188834,
@@ -286,7 +286,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote intenta una vez más atrapar al veloz Correcaminos usando los ingeniosos y a menudo fallidos inventos de la empresa ACME.",
+      "sinopsis": "El astuto Coyote intenta robar los últimos productos de ACME, pero el ingenioso Correcaminos y los artilugios de la compañía le ponen constantes trampas.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
@@ -395,7 +395,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/zona-cero-12246_252",
       "trailer_url": "https://www.youtube.com/watch?v=DdSod74AsBY",
-      "sinopsis": "Un equipo de científicos y soldados debe sobrevivir en una zona contaminada donde una extraña radiación desata criaturas mutantes y altera la realidad.",
+      "sinopsis": "Un grupo de científicos queda atrapado en una instalación subterránea donde una explosión desencadena fenómenos sobrenaturales que ponen en riesgo sus vidas.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 507244,
@@ -512,13 +512,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/one-piece-la-pelicula-12240_252",
       "trailer_url": "https://youtu.be/FnQ_ALoBAhk?si=o5ijmTXVfqqrmeFz",
-      "sinopsis": "Luffy y su tripulación se embarcan en una aventura épica para encontrar el legendario One Piece, enfrentándose a poderosos enemigos y revelando misterios del pasado.",
-      "puntaje": "7.5",
+      "sinopsis": "Luffy y su tripulación se embarcan en una aventura épica para encontrar un legendario tesoro que podría cambiar el destino del mundo pirata.",
+      "puntaje": "",
       "tmdb": {
         "tmdb_id": 19576,
         "titulo_tmdb": "One Piece: La película",
-        "voto": 7.1,
-        "votos": 406,
+        "voto": 7.0,
+        "votos": 407,
         "url_tmdb": "https://www.themoviedb.org/movie/19576",
         "imdb_id": "tt0814243",
         "url_imdb": "https://www.imdb.com/title/tt0814243/",
@@ -616,8 +616,8 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/guardianes-del-museo-2-los-tesoros-de-egipto-12274_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Guardianes%20del%20Museo%202%20Los%20Tesoros%20de%20Egipto%20trailer%20espanol",
-      "sinopsis": "Larry y su equipo regresan al museo para impedir que una antigua maldición egipcia libere un poder destructivo, mientras descubren tesoros y secretos de la civilización faraónica.",
-      "puntaje": "6.4",
+      "sinopsis": "Los Guardianes del Museo regresan para proteger una valiosa reliquia egipcia, enfrentándose a ladrones y a una maldición que revive los peligros del Antiguo Egipto.",
+      "puntaje": "",
       "tmdb": {
         "tmdb_id": 1264821,
         "titulo_tmdb": "Gatos en el museo 2: Tesoros de Egipto",
