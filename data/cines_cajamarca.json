@@ -2,23 +2,131 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-18 08:00",
+  "actualizado": "2026-09-18 11:00",
   "fecha_objetivo": "2026-09-18",
   "peliculas": [
     {
-      "titulo": "Código: Venganza",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002972?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Acción",
-      "clasificacion": "+14",
-      "duracion": "96 min",
-      "director": "Eric Weston",
-      "actores": "Robert Davi, Costas Mandylor, Joey DePinto, Richard C. Sarafian, Frank Stallone Jr., Frank D'Amico",
+      "titulo": "Resident Evil: Noche Cero",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003067?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:00",
+                "18:10",
+                "20:20",
+                "22:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:10",
+            "20:20",
+            "22:30"
+          ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30",
+                "17:25",
+                "19:20",
+                "21:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "17:25",
+            "19:20",
+            "21:15"
+          ]
+        }
+      ],
+      "genero": "Terror",
+      "duracion": "90 minutos",
+      "clasificacion": "12 Años",
+      "director": "Zach Cregger",
+      "actores": "Austin Abrams, Zach Cherry, Kali Reis y Paul Walter Hauser",
       "estreno": "",
-      "sinopsis": "Después de que su jefe multimillonario sea asesinado frente a él, el agente de seguridad Cole Reed es incriminado por el homicidio y queda al borde de la bancarrota e injusticia. Perseguido por fuerzas internacionales, Reed debe limpiar su nombre y descubrir la conspiración detrás del asesinato, en una carrera contra el tiempo con acción intensa en alta mar y entornos corporativos letales",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=qdlvcbtHSuo",
-      "fuente_peli": "Cineplanet",
+      "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
+      "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
+      "sinopsis": "La agente Alice se enfrenta a una nueva amenaza bioterrorista en una ciudad sumida en la oscuridad.",
+      "puntaje": "5.3",
+      "tmdb": {
+        "tmdb_id": 1423191,
+        "titulo_tmdb": "Resident Evil",
+        "voto": 7.7,
+        "votos": 69,
+        "url_tmdb": "https://www.themoviedb.org/movie/1423191",
+        "imdb_id": "tt35538033",
+        "url_imdb": "https://www.imdb.com/title/tt35538033/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
+        "director": "Zach Cregger",
+        "reparto": [
+          {
+            "nombre": "Austin Abrams",
+            "personaje": "Bryan"
+          },
+          {
+            "nombre": "Zach Cherry",
+            "personaje": "Dave"
+          },
+          {
+            "nombre": "Kali Reis",
+            "personaje": "Pauline"
+          },
+          {
+            "nombre": "Paul Walter Hauser",
+            "personaje": "Carl"
+          },
+          {
+            "nombre": "Johnno Wilson",
+            "personaje": "Max"
+          },
+          {
+            "nombre": "Shaun W. Loeser",
+            "personaje": "Puker"
+          }
+        ],
+        "generos": [
+          "Terror",
+          "Ciencia ficción",
+          "Aventura"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=d6oszs7f5aI",
+          "embed_id": "d6oszs7f5aI"
+        },
+        "sinopsis_tmdb": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+        "estreno": "16 sep 2026",
+        "duracion_min": 93,
+        "paises": [
+          "Estados Unidos",
+          "Alemania",
+          "Francia"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Resident Evil"
+      }
+    },
+    {
+      "titulo": "Código Venganza",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/9/codigo-venganza-47759-1.jpg",
       "cines": [
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
@@ -62,6 +170,16 @@
           ]
         }
       ],
+      "genero": "Acción",
+      "duracion": "95 minutos",
+      "clasificacion": "12 Años",
+      "director": "Jean-François Richet",
+      "actores": "Robert Davi, Costas Mandylor, Joey DePinto, Richard C. Sarafian, Frank Stallone Jr., Frank D'Amico",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/codigo-venganza-12252_252",
+      "trailer_url": "https://www.youtube.com/watch?v=qdlvcbtHSuo",
+      "sinopsis": "Un exsoldado busca venganza contra la corporación que destruyó su vida, desatando una serie de asesinatos.",
+      "puntaje": "",
       "tmdb": {
         "tmdb_id": 188834,
         "titulo_tmdb": "Código de venganza",
@@ -112,19 +230,8 @@
       }
     },
     {
-      "titulo": "Coyote vs Acme",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002921?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Familiar",
-      "clasificacion": "APT",
-      "duracion": "103 min",
-      "director": "David Green",
-      "actores": "Will Forte, Lana Condor, John Cena, Tone Bell, Martha Kelly, Luis Guzmán",
-      "estreno": "",
-      "sinopsis": "Después de décadas fallando en atrapar al Correcaminos, el Coyote decide hacer lo impensado: demandar a ACME, la compañía responsable de todos los productos defectuosos que arruinaron sus planes. En el juicio más absurdo de la historia, la comedia y la animación se mezclan en una batalla legal que podría cambiar el destino del desierto… para siempre.",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "fuente_peli": "Cineplanet",
+      "titulo": "Coyote vs. ACME",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/coyote-vs-acme-47670-0.webp",
       "cines": [
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
@@ -172,11 +279,21 @@
           ]
         }
       ],
+      "genero": "Animado",
+      "duracion": "103 minutos",
+      "clasificacion": "7 Años",
+      "director": "Dave Green",
+      "actores": "Will Forte, Lana Condor, John Cena, Tone Bell, Martha Kelly, Luis Guzmán",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
+      "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
+      "sinopsis": "El astuto Coyote vuelve a intentar atrapar al Correcaminos usando los ingeniosos productos de ACME.",
+      "puntaje": "6.5",
       "tmdb": {
         "tmdb_id": 1204680,
         "titulo_tmdb": "Coyote vs. Acme",
         "voto": 7.5,
-        "votos": 431,
+        "votos": 433,
         "url_tmdb": "https://www.themoviedb.org/movie/1204680",
         "imdb_id": "tt1756855",
         "url_imdb": "https://www.imdb.com/title/tt1756855/",
@@ -228,19 +345,233 @@
       }
     },
     {
-      "titulo": "Guardianes del Museo 2 Los Tesoros de Egipto",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003106?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Animación",
-      "clasificacion": "APT",
-      "duracion": "90 min",
-      "director": "Василий Ровенский",
-      "actores": "Роман Курцын, Дарья Блохина, Снежана Самохина, Диомид Виноградов",
+      "titulo": "Zona Cero",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/zona-cero-47734-0.webp",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "19:10",
+                "21:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:10",
+            "21:50"
+          ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "20:00",
+                "21:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "20:00",
+            "21:40"
+          ]
+        }
+      ],
+      "genero": "Thriller",
+      "duracion": "123 minutos",
+      "clasificacion": "12 Años",
+      "director": "Yeon Sang-ho",
+      "actores": "Jun Ji-hyun, Koo Kyo-hwan, Ji Chang-wook, Kim Shin-rock, Shin Hyun-bin, Go Soo y Kim Hyung-mook.",
       "estreno": "",
-      "sinopsis": "Hace dos años, nuestros personajes salvaron a la Mona Lisa. Maurice, el ratón, está ansioso por demostrar una vez más de lo que es capaz. Vincent y Cleopatra son los padres de dos traviesos gatitos y están deseando vivir nuevas aventuras. Su próximo viaje los llevará a competir entre ellos. Todo comienza cuando Maurice explora el sótano abandonado de un edificio y encuentra un antiguo papiro con u",
+      "ficha": "https://www.carteleracine.pe/cajamarca/zona-cero-12246_252",
+      "trailer_url": "https://www.youtube.com/watch?v=DdSod74AsBY",
+      "sinopsis": "Un equipo de élite se adentra en una zona contaminada para detener una catástrofe nuclear inminente.",
       "puntaje": "",
-      "ficha": "",
-      "trailer_url": "",
-      "fuente_peli": "Cineplanet",
+      "tmdb": {
+        "tmdb_id": 507244,
+        "titulo_tmdb": "Afterburn (Zona cero)",
+        "voto": 6.2,
+        "votos": 342,
+        "url_tmdb": "https://www.themoviedb.org/movie/507244",
+        "imdb_id": "tt1210027",
+        "url_imdb": "https://www.imdb.com/title/tt1210027/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/soZdshVi2nQpCWqQkS8qumUNNqO.jpg",
+        "director": "J.J. Perry",
+        "reparto": [
+          {
+            "nombre": "Dave Bautista",
+            "personaje": "Jake"
+          },
+          {
+            "nombre": "Ольга Куриленко",
+            "personaje": "Drea"
+          },
+          {
+            "nombre": "Kristofer Hivju",
+            "personaje": "General Volkov"
+          },
+          {
+            "nombre": "Samuel L. Jackson",
+            "personaje": "Valentine"
+          },
+          {
+            "nombre": "Daniel Bernhardt",
+            "personaje": "Gorynych"
+          },
+          {
+            "nombre": "Simon Merrells",
+            "personaje": "Tank Commander"
+          }
+        ],
+        "generos": [
+          "Acción",
+          "Ciencia ficción",
+          "Comedia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=QeEPiSMsrBQ",
+          "embed_id": "QeEPiSMsrBQ"
+        },
+        "sinopsis_tmdb": "Un grupo de cazadores de tesoros postapocalípticos busca reliquias antiguas en una Tierra que ha quedado casi medio destruida por una enorme erupción solar.",
+        "estreno": "20 ago 2025",
+        "duracion_min": 106,
+        "paises": [
+          "Estados Unidos",
+          "Reino Unido"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Afterburn"
+      }
+    },
+    {
+      "titulo": "One Piece La Película",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/one-piece-la-pelicula-47727-0.webp",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR SUBTITULAD",
+              "horarios": [
+                "15:00",
+                "18:00",
+                "19:30"
+              ]
+            },
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "16:30",
+            "18:00",
+            "19:30"
+          ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:50"
+          ]
+        }
+      ],
+      "genero": "Animado",
+      "duracion": "60 minutos",
+      "clasificacion": "Todos",
+      "director": "Atsuji Shimizu",
+      "actores": "Akemi Okamura, Kappei Yamaguchi y Kazuya Nakai.",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/one-piece-la-pelicula-12240_252",
+      "trailer_url": "https://youtu.be/FnQ_ALoBAhk?si=o5ijmTXVfqqrmeFz",
+      "sinopsis": "Luffy y su tripulación se enfrentan a una poderosa amenaza que pone en riesgo el mundo de los piratas.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 19576,
+        "titulo_tmdb": "One Piece: La película",
+        "voto": 7.1,
+        "votos": 408,
+        "url_tmdb": "https://www.themoviedb.org/movie/19576",
+        "imdb_id": "tt0814243",
+        "url_imdb": "https://www.imdb.com/title/tt0814243/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/g8Gaj5qlM0S0NTZSP05ETs7aFst.jpg",
+        "director": "志水淳児",
+        "reparto": [
+          {
+            "nombre": "Mayumi Tanaka",
+            "personaje": "Monkey D. Luffy (voice)"
+          },
+          {
+            "nombre": "Kazuya Nakai",
+            "personaje": "Roronoa Zoro (voice)"
+          },
+          {
+            "nombre": "Akemi Okamura",
+            "personaje": "Nami (voice)"
+          },
+          {
+            "nombre": "Kappei Yamaguchi",
+            "personaje": "Usopp (voice)"
+          },
+          {
+            "nombre": "Yuka Imai",
+            "personaje": "Tobio (voice)"
+          },
+          {
+            "nombre": "Takeshi Aono",
+            "personaje": "Ganzo (voice)"
+          }
+        ],
+        "generos": [
+          "Acción",
+          "Animación",
+          "Aventura",
+          "Comedia",
+          "Fantasía"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Luffy y sus compañeros recataran a Tobio de la guarida de un pirata. Más tarde mientras prosiguen su viaje, decidiran ir a la isla dorada donde vivirán una gran aventura.",
+        "estreno": "4 mar 2000",
+        "duracion_min": 51,
+        "paises": [
+          "Japón"
+        ],
+        "idioma": "Japonés",
+        "titulo_original": "ワンピース"
+      }
+    },
+    {
+      "titulo": "Guardianes del Museo 2 Los Tesoros de Egipto",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/9/guardianes-del-museo-2-los-tesoros-de-egipto-47807-0.webp",
       "cines": [
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
@@ -278,6 +609,16 @@
           ]
         }
       ],
+      "genero": "Animado",
+      "duracion": "90 minutos",
+      "clasificacion": "Todos",
+      "director": "Vasiliy Rovenskiy",
+      "actores": "Роман Курцын, Дарья Блохина, Снежана Самохина, Диомид Виноградов",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/guardianes-del-museo-2-los-tesoros-de-egipto-12274_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Guardianes%20del%20Museo%202%20Los%20Tesoros%20de%20Egipto%20trailer%20espanol",
+      "sinopsis": "Los guardianes del museo viajan al antiguo Egipto para recuperar artefactos robados y evitar una maldición.",
+      "puntaje": "5.5",
       "tmdb": {
         "tmdb_id": 1264821,
         "titulo_tmdb": "Gatos en el museo 2: Tesoros de Egipto",
@@ -407,242 +748,6 @@
       }
     },
     {
-      "titulo": "One Piece: La Película",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003105?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Anime",
-      "clasificacion": "APT",
-      "duracion": "57 min",
-      "director": "志水淳児",
-      "actores": "Mayumi Tanaka, Kazuya Nakai, Akemi Okamura, Kappei Yamaguchi, Yuka Imai, Takeshi Aono",
-      "estreno": "",
-      "sinopsis": "Woonan, el Gran Pirata del Oro, llegó a poseer un tercio del oro del mundo. Cuando su era llegó a su fin, nació el mito de que se había desvanecido junto a su oro en una isla misteriosa, un destino que los piratas de hoy todavía intentan rastrear. A bordo del Going Merry, la hambrienta e impulsiva tripulación de Luffy sufre el robo de su tesoro. Para recuperarlo, destrozan la embarcación de los la",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://youtu.be/FnQ_ALoBAhk?si=o5ijmTXVfqqrmeFz",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR SUBTITULAD",
-              "horarios": [
-                "15:00",
-                "18:00",
-                "19:30"
-              ]
-            },
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "16:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "16:30",
-            "18:00",
-            "19:30"
-          ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:50"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 19576,
-        "titulo_tmdb": "One Piece: La película",
-        "voto": 7.1,
-        "votos": 408,
-        "url_tmdb": "https://www.themoviedb.org/movie/19576",
-        "imdb_id": "tt0814243",
-        "url_imdb": "https://www.imdb.com/title/tt0814243/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/g8Gaj5qlM0S0NTZSP05ETs7aFst.jpg",
-        "director": "志水淳児",
-        "reparto": [
-          {
-            "nombre": "Mayumi Tanaka",
-            "personaje": "Monkey D. Luffy (voice)"
-          },
-          {
-            "nombre": "Kazuya Nakai",
-            "personaje": "Roronoa Zoro (voice)"
-          },
-          {
-            "nombre": "Akemi Okamura",
-            "personaje": "Nami (voice)"
-          },
-          {
-            "nombre": "Kappei Yamaguchi",
-            "personaje": "Usopp (voice)"
-          },
-          {
-            "nombre": "Yuka Imai",
-            "personaje": "Tobio (voice)"
-          },
-          {
-            "nombre": "Takeshi Aono",
-            "personaje": "Ganzo (voice)"
-          }
-        ],
-        "generos": [
-          "Acción",
-          "Animación",
-          "Aventura",
-          "Comedia",
-          "Fantasía"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Luffy y sus compañeros recataran a Tobio de la guarida de un pirata. Más tarde mientras prosiguen su viaje, decidiran ir a la isla dorada donde vivirán una gran aventura.",
-        "estreno": "4 mar 2000",
-        "duracion_min": 51,
-        "paises": [
-          "Japón"
-        ],
-        "idioma": "Japonés",
-        "titulo_original": "ワンピース"
-      }
-    },
-    {
-      "titulo": "Resident Evil Noche Cero",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003067?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Terror",
-      "clasificacion": "+14",
-      "duracion": "94 min",
-      "director": "Zach Cregger",
-      "actores": "Austin Abrams, Zach Cherry, Kali Reis, Paul Walter Hauser, Johnno Wilson, Shaun W. Loeser",
-      "estreno": "",
-      "sinopsis": "Sigue a un desafortunado mensajero encargado de entregar un paquete a un hospital remoto. Pronto se encuentra atrapado en medio de una epidemia y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "16:00",
-                "18:10",
-                "20:20",
-                "22:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:10",
-            "20:20",
-            "22:30"
-          ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30",
-                "17:25",
-                "19:20",
-                "21:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30",
-            "17:25",
-            "19:20",
-            "21:15"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1423191,
-        "titulo_tmdb": "Resident Evil",
-        "voto": 7.7,
-        "votos": 56,
-        "url_tmdb": "https://www.themoviedb.org/movie/1423191",
-        "imdb_id": "tt35538033",
-        "url_imdb": "https://www.imdb.com/title/tt35538033/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
-        "director": "Zach Cregger",
-        "reparto": [
-          {
-            "nombre": "Austin Abrams",
-            "personaje": "Bryan"
-          },
-          {
-            "nombre": "Zach Cherry",
-            "personaje": "Dave"
-          },
-          {
-            "nombre": "Kali Reis",
-            "personaje": "Pauline"
-          },
-          {
-            "nombre": "Paul Walter Hauser",
-            "personaje": "Carl"
-          },
-          {
-            "nombre": "Johnno Wilson",
-            "personaje": "Max"
-          },
-          {
-            "nombre": "Shaun W. Loeser",
-            "personaje": "Puker"
-          }
-        ],
-        "generos": [
-          "Terror",
-          "Ciencia ficción",
-          "Aventura"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=d6oszs7f5aI",
-          "embed_id": "d6oszs7f5aI"
-        },
-        "sinopsis_tmdb": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-        "estreno": "16 sep 2026",
-        "duracion_min": 93,
-        "paises": [
-          "Estados Unidos",
-          "Alemania",
-          "Francia"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Resident Evil"
-      }
-    },
-    {
       "titulo": "Tadeo y la Lampara Maravillosa",
       "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002974?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "genero": "Animación",
@@ -727,117 +832,6 @@
         "idioma": "Español",
         "titulo_original": "Tadeo Jones y La Lámpara Maravillosa"
       }
-    },
-    {
-      "titulo": "Zona Cero",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002971?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Terror",
-      "clasificacion": "+14",
-      "duracion": "123 min",
-      "director": "J.J. Perry",
-      "actores": "Dave Bautista, Ольга Куриленко, Kristofer Hivju, Samuel L. Jackson, Daniel Bernhardt, Simon Merrells",
-      "estreno": "",
-      "sinopsis": "En una conferencia de biotecnología, un virus de mutación rápida se desata y el recinto queda sellado. Con el contagio en expansión y los infectados evolucionando en formas impredecibles, un grupo de sobrevivientes deberá abrirse paso en un encierro donde cada minuto cambia las reglas.",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=DdSod74AsBY",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "19:10",
-                "21:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:10",
-            "21:50"
-          ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "20:00",
-                "21:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "20:00",
-            "21:40"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 507244,
-        "titulo_tmdb": "Afterburn (Zona cero)",
-        "voto": 6.2,
-        "votos": 342,
-        "url_tmdb": "https://www.themoviedb.org/movie/507244",
-        "imdb_id": "tt1210027",
-        "url_imdb": "https://www.imdb.com/title/tt1210027/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/soZdshVi2nQpCWqQkS8qumUNNqO.jpg",
-        "director": "J.J. Perry",
-        "reparto": [
-          {
-            "nombre": "Dave Bautista",
-            "personaje": "Jake"
-          },
-          {
-            "nombre": "Ольга Куриленко",
-            "personaje": "Drea"
-          },
-          {
-            "nombre": "Kristofer Hivju",
-            "personaje": "General Volkov"
-          },
-          {
-            "nombre": "Samuel L. Jackson",
-            "personaje": "Valentine"
-          },
-          {
-            "nombre": "Daniel Bernhardt",
-            "personaje": "Gorynych"
-          },
-          {
-            "nombre": "Simon Merrells",
-            "personaje": "Tank Commander"
-          }
-        ],
-        "generos": [
-          "Acción",
-          "Ciencia ficción",
-          "Comedia"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=QeEPiSMsrBQ",
-          "embed_id": "QeEPiSMsrBQ"
-        },
-        "sinopsis_tmdb": "Un grupo de cazadores de tesoros postapocalípticos busca reliquias antiguas en una Tierra que ha quedado casi medio destruida por una enorme erupción solar.",
-        "estreno": "20 ago 2025",
-        "duracion_min": 106,
-        "paises": [
-          "Estados Unidos",
-          "Reino Unido"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Afterburn"
-      }
     }
   ],
   "cines": [
@@ -850,7 +844,7 @@
       "fuente_cine": "Cineplanet",
       "peliculas": [
         {
-          "titulo": "Código: Venganza",
+          "titulo": "Código Venganza",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002972?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Acción",
           "clasificacion": "+14",
@@ -873,7 +867,7 @@
           ]
         },
         {
-          "titulo": "Coyote vs Acme",
+          "titulo": "Coyote vs. ACME",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002921?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Familiar",
           "clasificacion": "APT",
@@ -930,7 +924,7 @@
           ]
         },
         {
-          "titulo": "One Piece: La Película",
+          "titulo": "One Piece La Película",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003105?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Anime",
           "clasificacion": "APT",
@@ -958,7 +952,7 @@
           ]
         },
         {
-          "titulo": "Resident Evil Noche Cero",
+          "titulo": "Resident Evil: Noche Cero",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003067?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Terror",
           "clasificacion": "+14",
@@ -1038,7 +1032,7 @@
       "fuente_cine": "Movie Time",
       "peliculas": [
         {
-          "titulo": "Coyote vs Acme",
+          "titulo": "Coyote vs. ACME",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/980f6987-4dcf-4d9b-b746-b7366ba93692.png",
           "genero": "",
           "clasificacion": "APT",
@@ -1062,7 +1056,7 @@
           "trailer_url": "https://www.youtube.com/watch?v=DIqJb0LwSho"
         },
         {
-          "titulo": "Código: Venganza",
+          "titulo": "Código Venganza",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/ddeeb251-7d8c-47d6-ba05-5ad5c8f7de40.jpeg",
           "genero": "",
           "clasificacion": "+14",
@@ -1102,7 +1096,7 @@
           "trailer_url": ""
         },
         {
-          "titulo": "One Piece: La Película",
+          "titulo": "One Piece La Película",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/b2d8c400-d961-4dee-aa5b-b65c7c4e5eb0.jpeg",
           "genero": "",
           "clasificacion": "APT",
@@ -1122,7 +1116,7 @@
           "trailer_url": ""
         },
         {
-          "titulo": "Resident Evil Noche Cero",
+          "titulo": "Resident Evil: Noche Cero",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/1a14ac98-e6bb-41bd-a9f4-870b4a6682c7.jpeg",
           "genero": "",
           "clasificacion": "+14",
