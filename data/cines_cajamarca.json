@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-18 00:50",
+  "actualizado": "2026-09-18 07:01",
   "fecha_objetivo": "2026-09-18",
   "peliculas": [
     {
@@ -43,6 +43,22 @@
             "17:10",
             "19:20",
             "21:30"
+          ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "18:05"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:05"
           ]
         }
       ],
@@ -134,6 +150,26 @@
             "20:00",
             "22:20"
           ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:40",
+                "17:40",
+                "19:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:40",
+            "17:40",
+            "19:40"
+          ]
         }
       ],
       "tmdb": {
@@ -223,6 +259,22 @@
           ],
           "horarios": [
             "14:40"
+          ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00"
           ]
         }
       ],
@@ -398,6 +450,22 @@
             "18:00",
             "19:30"
           ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:50"
+          ]
         }
       ],
       "tmdb": {
@@ -493,13 +561,35 @@
             "20:20",
             "22:30"
           ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30",
+                "17:25",
+                "19:20",
+                "21:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "17:25",
+            "19:20",
+            "21:15"
+          ]
         }
       ],
       "tmdb": {
         "tmdb_id": 1423191,
         "titulo_tmdb": "Resident Evil",
-        "voto": 7.9,
-        "votos": 51,
+        "voto": 7.7,
+        "votos": 56,
         "url_tmdb": "https://www.themoviedb.org/movie/1423191",
         "imdb_id": "tt35538033",
         "url_imdb": "https://www.imdb.com/title/tt35538033/",
@@ -591,7 +681,7 @@
         "tmdb_id": 1187326,
         "titulo_tmdb": "Tadeo Jones y La Lámpara Maravillosa",
         "voto": 6.5,
-        "votos": 11,
+        "votos": 12,
         "url_tmdb": "https://www.themoviedb.org/movie/1187326",
         "imdb_id": "tt36164852",
         "url_imdb": "https://www.imdb.com/title/tt36164852/",
@@ -672,6 +762,24 @@
           "horarios": [
             "19:10",
             "21:50"
+          ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "20:00",
+                "21:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "20:00",
+            "21:40"
           ]
         }
       ],
@@ -912,15 +1020,6 @@
       "cine_original": "CP Cajamarca"
     },
     {
-      "cine": "Movie Time Cajamarca",
-      "cine_slug": "movietime-cajamarca-cajamarca-s448",
-      "direccion": "",
-      "peliculas": [],
-      "sin_programacion": true,
-      "nota": "La fuente no publica funciones de esta sala hoy.",
-      "cine_original": "Cajamarca (Movie Time)"
-    },
-    {
       "cine": "Cinerama Cajamarca MegaPlaza",
       "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
       "direccion": "",
@@ -930,11 +1029,154 @@
       "no_consultado": true,
       "url": "https://www.cinerama.com.pe/cines",
       "cine_original": "Cajamarca Megaplaza (Cinerama)"
+    },
+    {
+      "cine": "Movie Time Cajamarca",
+      "cine_slug": "movietime-cajamarca",
+      "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+      "url": "https://www.movietime.com.pe/cinemas/cajamarca",
+      "fuente_cine": "Movie Time",
+      "peliculas": [
+        {
+          "titulo": "Coyote vs Acme",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/980f6987-4dcf-4d9b-b746-b7366ba93692.png",
+          "genero": "",
+          "clasificacion": "APT",
+          "duracion": "103 min",
+          "sinopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:40",
+                "17:40",
+                "19:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:40",
+            "17:40",
+            "19:40"
+          ],
+          "trailer_url": "https://www.youtube.com/watch?v=DIqJb0LwSho"
+        },
+        {
+          "titulo": "Código: Venganza",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/ddeeb251-7d8c-47d6-ba05-5ad5c8f7de40.jpeg",
+          "genero": "",
+          "clasificacion": "+14",
+          "duracion": "95 min",
+          "sinopsis": "Después de que su jefe multimillonario sea asesinado frente a él, el agente de seguridad Cole Reed es incriminado por el homicidio y queda al borde de la bancarrota e injusticia. Perseguido por fuerzas internacionales, Reed debe limpiar su nombre y descubrir la conspiración detrás del asesinato, en una carrera contra el tiempo con acción intensa en alta mar y entornos corporativos letales",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "18:05"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:05"
+          ],
+          "trailer_url": "https://www.youtube.com/watch?v=rVKgndIEJkU"
+        },
+        {
+          "titulo": "Guardianes del Museo 2 Los Tesoros de Egipto",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/1fbd0e54-b3d6-4b7b-a5df-389fb82340c8.jpeg",
+          "genero": "",
+          "clasificacion": "APT",
+          "duracion": "90 min",
+          "sinopsis": "Hace dos años, nuestros personajes salvaron a la Mona Lisa. Maurice, el ratón, está ansioso por demostrar una vez más de lo que es capaz. Vincent y Cleopatra son los padres de dos traviesos gatitos y están deseando vivir nuevas aventuras. Su próximo viaje los llevará a competir entre ellos. Todo comienza cuando Maurice explora el sótano abandonado de un edificio y encuentra un antiguo papiro con u",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00"
+          ],
+          "trailer_url": ""
+        },
+        {
+          "titulo": "One Piece: La Película",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/b2d8c400-d961-4dee-aa5b-b65c7c4e5eb0.jpeg",
+          "genero": "",
+          "clasificacion": "APT",
+          "duracion": "57 min",
+          "sinopsis": "Woonan, el Gran Pirata del Oro, llegó a poseer un tercio del oro del mundo. Cuando su era llegó a su fin, nació el mito de que se había desvanecido junto a su oro en una isla misteriosa, un destino que los piratas de hoy todavía intentan rastrear. A bordo del Going Merry, la hambrienta e impulsiva tripulación de Luffy sufre el robo de su tesoro. Para recuperarlo, destrozan la embarcación de los la",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:50"
+          ],
+          "trailer_url": ""
+        },
+        {
+          "titulo": "Resident Evil Noche Cero",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/1a14ac98-e6bb-41bd-a9f4-870b4a6682c7.jpeg",
+          "genero": "",
+          "clasificacion": "+14",
+          "duracion": "93 min",
+          "sinopsis": "Sigue a un desafortunado mensajero encargado de entregar un paquete a un hospital remoto. Pronto se encuentra atrapado en medio de una epidemia y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30",
+                "17:25",
+                "19:20",
+                "21:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "17:25",
+            "19:20",
+            "21:15"
+          ],
+          "trailer_url": "https://www.youtube.com/watch?v=8iKTeIV2xgE"
+        },
+        {
+          "titulo": "Zona Cero",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/379aac7e-dc38-48ab-a6a2-003a80858417.jpeg",
+          "genero": "",
+          "clasificacion": "+14",
+          "duracion": "122 min",
+          "sinopsis": "En una conferencia de biotecnología, un virus de mutación rápida se desata y el recinto queda sellado. Con el contagio en expansión y los infectados evolucionando en formas impredecibles, un grupo de sobrevivientes deberá abrirse paso en un encierro donde cada minuto cambia las reglas.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "20:00",
+                "21:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "20:00",
+            "21:40"
+          ],
+          "trailer_url": "https://www.youtube.com/watch?v=_Ru4_LzLg_E"
+        }
+      ]
     }
   ],
   "estado": "ok",
+  "motor": "groq",
   "fuentes_extra": [
-    "Cineplanet"
+    "Cineplanet",
+    "Movie Time"
   ],
   "notas": [
     "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
