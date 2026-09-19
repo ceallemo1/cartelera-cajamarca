@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-19 07:00",
+  "actualizado": "2026-09-19 08:00",
   "fecha_objetivo": "2026-09-19",
   "peliculas": [
     {
@@ -99,7 +99,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "La agente Alice se enfrenta a una nueva amenaza bioterrorista en una ciudad sumida en la oscuridad.",
+      "sinopsis": "Una agente de Umbrella debe enfrentarse a una nueva amenaza biológica en una ciudad sumida en la oscuridad.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -236,7 +236,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/codigo-venganza-12252_252",
       "trailer_url": "https://www.youtube.com/watch?v=qdlvcbtHSuo",
-      "sinopsis": "Un hacker busca venganza contra la corporación que destruyó su vida, desatando una guerra cibernética.",
+      "sinopsis": "Un hacker recluta a un grupo de expertos para vengarse de la corporación que destruyó su vida.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 188834,
@@ -385,7 +385,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote vuelve a intentar atrapar al Correcaminos usando los ingeniosos inventos de la empresa ACME.",
+      "sinopsis": "El astuto Coyote intenta una vez más atrapar al Correcaminos usando los ingeniosos inventos de la empresa ACME.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
@@ -512,7 +512,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/zona-cero-12246_252",
       "trailer_url": "https://www.youtube.com/watch?v=DdSod74AsBY",
-      "sinopsis": "En una zona desolada, un grupo de supervivientes lucha contra criaturas mutantes y secretos del pasado.",
+      "sinopsis": "En una zona desolada, un equipo de supervivientes lucha contra criaturas mutantes y un misterio que amenaza al mundo.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 507244,
@@ -618,8 +618,8 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/one-piece-la-pelicula-12240_252",
       "trailer_url": "https://youtu.be/FnQ_ALoBAhk?si=o5ijmTXVfqqrmeFz",
-      "sinopsis": "Luffy y su tripulación se embarcan en una aventura épica para encontrar el legendario One Piece y salvar el mundo.",
-      "puntaje": "6.7",
+      "sinopsis": "Luffy y su tripulación se embarcan en una aventura épica para detener a un poderoso enemigo que busca el legendario One Piece.",
+      "puntaje": "",
       "tmdb": {
         "tmdb_id": 19576,
         "titulo_tmdb": "One Piece: La película",
@@ -706,8 +706,8 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/tadeo-y-la-lampara-maravillosa-12257_252",
       "trailer_url": "https://youtu.be/cpHujWfNLnE?si=maVSFUCeRYSM6NLM",
-      "sinopsis": "Tadeo descubre una lámpara mágica que lo lleva a una serie de peligrosas y cómicas pruebas para salvar a su familia.",
-      "puntaje": "6.5",
+      "sinopsis": "Tadeo descubre una lámpara mágica que lo lleva a una serie de peligrosas y cómicas peripecias en busca de un deseo.",
+      "puntaje": "",
       "tmdb": {
         "tmdb_id": 1187326,
         "titulo_tmdb": "Tadeo Jones y La Lámpara Maravillosa",
@@ -843,8 +843,8 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/guardianes-del-museo-2-los-tesoros-de-egipto-12274_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Guardianes%20del%20Museo%202%20Los%20Tesoros%20de%20Egipto%20trailer%20espanol",
-      "sinopsis": "Los guardianes del museo deben proteger un antiguo tesoro egipcio mientras enfrentan a ladrones y trampas mortales.",
-      "puntaje": "5.8",
+      "sinopsis": "Los guardianes del museo deben viajar al antiguo Egipto para impedir que un antiguo mal libere sus tesoros al mundo moderno.",
+      "puntaje": "",
       "tmdb": {
         "tmdb_id": 1264821,
         "titulo_tmdb": "Gatos en el museo 2: Tesoros de Egipto",
