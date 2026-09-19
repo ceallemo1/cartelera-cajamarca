@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-18 17:00",
+  "actualizado": "2026-09-18 20:00",
   "fecha_objetivo": "2026-09-18",
   "peliculas": [
     {
@@ -20,7 +20,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
                 "18:10",
                 "20:20",
                 "22:30"
@@ -28,7 +27,6 @@
             }
           ],
           "horarios": [
-            "16:00",
             "18:10",
             "20:20",
             "22:30"
@@ -95,13 +93,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "Una nueva amenaza bioterrorista obliga a la heroína Alice a enfrentarse a una conspiración que busca desatar el virus T‑virus en la noche más oscura.",
-      "puntaje": "5.5",
+      "sinopsis": "La agente Alice se enfrenta a una nueva amenaza bioterrorista en una ciudad sumida en la oscuridad, mientras descubre oscuros secretos de la corporación Umbrella.",
+      "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
         "titulo_tmdb": "Resident Evil",
-        "voto": 7.7,
-        "votos": 69,
+        "voto": 7.6,
+        "votos": 97,
         "url_tmdb": "https://www.themoviedb.org/movie/1423191",
         "imdb_id": "tt35538033",
         "url_imdb": "https://www.imdb.com/title/tt35538033/",
@@ -212,7 +210,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/codigo-venganza-12252_252",
       "trailer_url": "https://www.youtube.com/watch?v=qdlvcbtHSuo",
-      "sinopsis": "Un ex‑agente de élite se ve envuelto en una red de traiciones mientras busca venganza contra quienes destruyeron su vida.",
+      "sinopsis": "Un hacker experto se ve envuelto en una conspiración mortal y debe usar sus habilidades para vengar la muerte de su hermano y detener a un poderoso sindicato criminal.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 188834,
@@ -337,13 +335,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote vuelve a intentar atrapar al Correcaminos usando los ingeniosos y peligrosos productos de la empresa ACME.",
-      "puntaje": "6.3",
+      "sinopsis": "El astuto Coyote intenta una vez más robar un cohete de ACME, pero los ingeniosos planes del Correcaminos y los trucos del propio ACME lo ponen en aprietos.",
+      "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
         "titulo_tmdb": "Coyote vs. Acme",
-        "voto": 7.5,
-        "votos": 433,
+        "voto": 7.6,
+        "votos": 444,
         "url_tmdb": "https://www.themoviedb.org/movie/1204680",
         "imdb_id": "tt1756855",
         "url_imdb": "https://www.imdb.com/title/tt1756855/",
@@ -462,7 +460,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/zona-cero-12246_252",
       "trailer_url": "https://www.youtube.com/watch?v=DdSod74AsBY",
-      "sinopsis": "Un equipo de especialistas debe infiltrarse en una zona contaminada para detener una catástrofe nuclear inminente.",
+      "sinopsis": "Un grupo de científicos queda atrapado en una instalación subterránea después de un accidente nuclear, luchando por sobrevivir mientras descubren horrores ocultos bajo la tierra.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 507244,
@@ -533,12 +531,6 @@
           "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "16:30"
-              ]
-            },
-            {
               "formato": "2D REGULAR SUBTITULAD",
               "horarios": [
                 "18:00",
@@ -547,7 +539,6 @@
             }
           ],
           "horarios": [
-            "16:30",
             "18:00",
             "19:30"
           ]
@@ -577,8 +568,8 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/one-piece-la-pelicula-12240_252",
       "trailer_url": "https://youtu.be/FnQ_ALoBAhk?si=o5ijmTXVfqqrmeFz",
-      "sinopsis": "Luffy y su tripulación se embarcan en una aventura épica para encontrar el legendario One Piece y proteger el mundo de una amenaza ancestral.",
-      "puntaje": "6.7",
+      "sinopsis": "Luffy y su tripulación navegan hacia el legendario One Piece, enfrentándose a poderosos enemigos y revelando misterios del pasado mientras buscan el tesoro definitivo.",
+      "puntaje": "",
       "tmdb": {
         "tmdb_id": 19576,
         "titulo_tmdb": "One Piece: La película",
@@ -634,91 +625,6 @@
       }
     },
     {
-      "titulo": "Tadeo Y La Lámpara Maravillosa",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/9/tadeo-y-la-lampara-maravillosa-47787-0.webp",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "16:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:50"
-          ]
-        }
-      ],
-      "genero": "Animado",
-      "duracion": "100 minutos",
-      "clasificacion": "Todos",
-      "director": "Enrique Gato",
-      "actores": "Óscar Barberán, Michelle Jenner, Luis Posada, Joseph Balderrama, Trevor White",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/tadeo-y-la-lampara-maravillosa-12257_252",
-      "trailer_url": "https://youtu.be/cpHujWfNLnE?si=maVSFUCeRYSM6NLM",
-      "sinopsis": "Tadeo descubre una lámpara mágica que lo transporta a un mundo de fantasía, donde debe resolver enigmas para volver a casa.",
-      "puntaje": "6.2",
-      "tmdb": {
-        "tmdb_id": 1187326,
-        "titulo_tmdb": "Tadeo Jones y La Lámpara Maravillosa",
-        "voto": 6.5,
-        "votos": 12,
-        "url_tmdb": "https://www.themoviedb.org/movie/1187326",
-        "imdb_id": "tt36164852",
-        "url_imdb": "https://www.imdb.com/title/tt36164852/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
-        "director": "Enrique Gato",
-        "reparto": [
-          {
-            "nombre": "Óscar Barberán",
-            "personaje": "Tadeo Jones (voice)"
-          },
-          {
-            "nombre": "Michelle Jenner",
-            "personaje": "Sara Lavrof (voice)"
-          },
-          {
-            "nombre": "Luis Posada",
-            "personaje": "Momia (voice)"
-          },
-          {
-            "nombre": "Joseph Balderrama",
-            "personaje": "Mummy / Tupac (voice)"
-          },
-          {
-            "nombre": "Trevor White",
-            "personaje": "Tad (voice)"
-          }
-        ],
-        "generos": [
-          "Animación",
-          "Comedia",
-          "Familia"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=CDpJJHc7xMo",
-          "embed_id": "CDpJJHc7xMo"
-        },
-        "sinopsis_tmdb": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
-        "estreno": "26 ago 2026",
-        "duracion_min": 94,
-        "paises": [
-          "España"
-        ],
-        "idioma": "Español",
-        "titulo_original": "Tadeo Jones y La Lámpara Maravillosa"
-      }
-    },
-    {
       "titulo": "Guardianes del Museo 2 Los Tesoros de Egipto",
       "poster": "https://cdn.carteleracine.pe/cine/2026/9/guardianes-del-museo-2-los-tesoros-de-egipto-47807-0.webp",
       "cines": [
@@ -765,8 +671,8 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/guardianes-del-museo-2-los-tesoros-de-egipto-12274_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Guardianes%20del%20Museo%202%20Los%20Tesoros%20de%20Egipto%20trailer%20espanol",
-      "sinopsis": "Los Guardianes del Museo regresan, esta vez para proteger los tesoros del antiguo Egipto de una peligrosa organización criminal.",
-      "puntaje": "5.9",
+      "sinopsis": "Los guardianes del museo regresan, esta vez viajando al antiguo Egipto para proteger un tesoro milenario de una organización criminal que busca desatar su poder.",
+      "puntaje": "",
       "tmdb": {
         "tmdb_id": 1264821,
         "titulo_tmdb": "Gatos en el museo 2: Tesoros de Egipto",
@@ -1062,12 +968,6 @@
           "clasificacion": "APT",
           "formatos": [
             {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "16:30"
-              ]
-            },
-            {
               "formato": "2D REGULAR SUBTITULAD",
               "horarios": [
                 "18:00",
@@ -1076,7 +976,6 @@
             }
           ],
           "horarios": [
-            "16:30",
             "18:00",
             "19:30"
           ]
@@ -1090,7 +989,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
                 "18:10",
                 "20:20",
                 "22:30"
@@ -1098,27 +996,9 @@
             }
           ],
           "horarios": [
-            "16:00",
             "18:10",
             "20:20",
             "22:30"
-          ]
-        },
-        {
-          "titulo": "Tadeo Y La Lámpara Maravillosa",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002974?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Animación",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "16:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:50"
           ]
         },
         {
