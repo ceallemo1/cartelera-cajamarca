@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-20 07:00",
+  "actualizado": "2026-09-20 08:00",
   "fecha_objetivo": "2026-09-20",
   "peliculas": [
     {
@@ -71,7 +71,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "La agente Alice se enfrenta a una horda de zombis en una noche siniestra mientras descubre oscuros secretos de la corporación Umbrella.",
+      "sinopsis": "La agente Alice se enfrenta a una nueva amenaza bioterrorista en una ciudad sumida en la oscuridad, mientras lucha por sobrevivir y descubrir la verdad detrás del brote.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -210,7 +210,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote intenta una vez más atrapar al Correcaminos usando los ingeniosos y peligrosos inventos de la empresa ACME.",
+      "sinopsis": "El astuto Coyote persigue al veloz Correcaminos usando los ingeniosos (y fallidos) inventos de la compañía ACME, en una serie de cómicas persecuciones.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
@@ -319,7 +319,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/zona-cero-12246_252",
       "trailer_url": "https://www.youtube.com/watch?v=DdSod74AsBY",
-      "sinopsis": "Un grupo de supervivientes lucha por escapar de una zona contaminada donde una extraña radiación desencadena fenómenos paranormales.",
+      "sinopsis": "En una zona desolada y contaminada, un grupo de supervivientes lucha por encontrar recursos y enfrentar peligros tanto humanos como mutantes.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 507244,
@@ -425,8 +425,8 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/one-piece-la-pelicula-12240_252",
       "trailer_url": "https://youtu.be/FnQ_ALoBAhk?si=o5ijmTXVfqqrmeFz",
-      "sinopsis": "Luffy y su tripulación se embarcan en una aventura épica para encontrar el legendario One Piece y proteger el mundo de una amenaza ancestral.",
-      "puntaje": "6.8",
+      "sinopsis": "Luffy y su tripulación del Sombrero de Paja se embarcan en una aventura épica para detener una amenaza que pone en riesgo el mundo entero.",
+      "puntaje": "",
       "tmdb": {
         "tmdb_id": 19576,
         "titulo_tmdb": "One Piece: La película",
@@ -547,8 +547,8 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/guardianes-del-museo-2-los-tesoros-de-egipto-12274_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Guardianes%20del%20Museo%202%20Los%20Tesoros%20de%20Egipto%20trailer%20espanol",
-      "sinopsis": "Los Guardianes del Museo regresan para proteger un antiguo tesoro egipcio que ha sido robado, enfrentándose a una misteriosa secta que busca desatar su poder.",
-      "puntaje": "5.9",
+      "sinopsis": "Los Guardianes del Museo regresan, esta vez viajando al antiguo Egipto para proteger valiosos tesoros de una misteriosa organización que busca apropiarse de ellos.",
+      "puntaje": "",
       "tmdb": {
         "tmdb_id": 1264821,
         "titulo_tmdb": "Gatos en el museo 2: Tesoros de Egipto",
