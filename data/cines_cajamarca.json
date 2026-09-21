@@ -2,73 +2,20 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-20 20:00",
-  "fecha_objetivo": "2026-09-20",
+  "actualizado": "2026-09-21 01:12",
+  "fecha_objetivo": "2026-09-21",
   "peliculas": [
     {
       "titulo": "Resident Evil: Noche Cero",
       "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003067?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "cines": [
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "19:00",
-                "20:20",
-                "22:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:00",
-            "20:20",
-            "22:30"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "16:00",
-                "17:00",
-                "18:00",
-                "19:00",
-                "20:00",
-                "21:00",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "16:00",
-            "17:00",
-            "18:00",
-            "19:00",
-            "20:00",
-            "21:00",
-            "22:00"
-          ]
-        },
-        {
           "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
             {
-              "formato": "",
+              "formato": "Doblada",
               "horarios": [
                 "15:30",
                 "17:25",
@@ -85,6 +32,33 @@
             "19:20",
             "21:15"
           ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:00",
+                "18:10",
+                "19:00",
+                "20:20",
+                "22:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:10",
+            "19:00",
+            "20:20",
+            "22:30"
+          ]
         }
       ],
       "genero": "Terror",
@@ -95,13 +69,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "Alice y su equipo luchan contra hordas de zombis mientras descubren una conspiración bioterrorista en una ciudad sumida en la oscuridad.",
+      "sinopsis": "Sigue a un desafortunado mensajero encargado de entregar un paquete a un hospital remoto. Pronto se encuentra atrapado en medio de una epidemia y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
         "titulo_tmdb": "Resident Evil",
-        "voto": 7.3,
-        "votos": 207,
+        "voto": 7.4,
+        "votos": 224,
         "url_tmdb": "https://www.themoviedb.org/movie/1423191",
         "imdb_id": "tt35538033",
         "url_imdb": "https://www.imdb.com/title/tt35538033/",
@@ -155,189 +129,54 @@
       }
     },
     {
-      "titulo": "Código Venganza",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/9/codigo-venganza-47759-1.jpg",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "19:20",
-                "21:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:20",
-            "21:30"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:15",
-                "18:15",
-                "20:15",
-                "22:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:15",
-            "18:15",
-            "20:15",
-            "22:15"
-          ]
-        }
-      ],
-      "genero": "Acción",
-      "duracion": "95 minutos",
-      "clasificacion": "12 Años",
-      "director": "Jean-François Richet",
-      "actores": "Robert Davi, Costas Mandylor, Joey DePinto, Richard C. Sarafian, Frank Stallone Jr., Frank D'Amico",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/codigo-venganza-12252_252",
-      "trailer_url": "https://www.youtube.com/watch?v=qdlvcbtHSuo",
-      "sinopsis": "Un exagente de inteligencia busca venganza contra la organización que destruyó su vida, usando habilidades de hacking y combate.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 188834,
-        "titulo_tmdb": "Código de venganza",
-        "voto": 3.3,
-        "votos": 6,
-        "url_tmdb": "https://www.themoviedb.org/movie/188834",
-        "imdb_id": "tt0311284",
-        "url_imdb": "https://www.imdb.com/title/tt0311284/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/qplSfNUwaQJ4RwT2NNjNEFIdhQK.jpg",
-        "director": "Eric Weston",
-        "reparto": [
-          {
-            "nombre": "Robert Davi",
-            "personaje": "Nick"
-          },
-          {
-            "nombre": "Costas Mandylor",
-            "personaje": "Tony"
-          },
-          {
-            "nombre": "Joey DePinto",
-            "personaje": "Vince"
-          },
-          {
-            "nombre": "Richard C. Sarafian",
-            "personaje": ""
-          },
-          {
-            "nombre": "Frank Stallone Jr.",
-            "personaje": "Spilotri"
-          },
-          {
-            "nombre": "Frank D'Amico",
-            "personaje": "Tommy Crapisi"
-          }
-        ],
-        "generos": [
-          "Acción",
-          "Crimen"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Un respetado hombre de negocios se ve atrapado en mitad de una guerra entre dos familias rivales del crimen organizado. Tendrá que elegir entre ser fiel a la tradición familiar o ser fiel a sí mismo.",
-        "estreno": "1 dic 2002",
-        "duracion_min": 88,
-        "paises": [],
-        "idioma": "Inglés",
-        "titulo_original": "Hitters"
-      }
-    },
-    {
       "titulo": "Coyote vs. ACME",
       "poster": "https://cdn.carteleracine.pe/cine/2026/8/coyote-vs-acme-47670-0.webp",
       "cines": [
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "20:00",
-                "22:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "20:00",
-            "22:20"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "19:15",
-                "21:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:15",
-            "21:15"
-          ]
-        },
-        {
           "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
             {
-              "formato": "",
+              "formato": "Doblada",
               "horarios": [
                 "15:40",
-                "18:00",
+                "17:50",
                 "19:40"
               ]
             }
           ],
           "horarios": [
             "15:40",
-            "18:00",
+            "17:50",
             "19:40"
           ]
         },
         {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "13:40"
+                "15:20",
+                "16:40",
+                "17:40",
+                "20:00",
+                "22:20"
               ]
             }
           ],
           "horarios": [
-            "13:40"
+            "15:20",
+            "16:40",
+            "17:40",
+            "20:00",
+            "22:20"
           ]
         }
       ],
@@ -349,13 +188,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote intenta una vez más atrapar al Correcaminos con los ingeniosos y peligrosos productos de la empresa ACME.",
+      "sinopsis": "Después de décadas fallando en atrapar al Correcaminos, el Coyote decide hacer lo impensado: demandar a ACME, la compañía responsable de todos los productos defectuosos que arruinaron sus planes. En el juicio más absurdo de la historia, la comedia y la animación se mezclan en una batalla legal que podría cambiar el destino del desierto… para siempre.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
         "titulo_tmdb": "Coyote vs. Acme",
         "voto": 7.6,
-        "votos": 462,
+        "votos": 467,
         "url_tmdb": "https://www.themoviedb.org/movie/1204680",
         "imdb_id": "tt1756855",
         "url_imdb": "https://www.imdb.com/title/tt1756855/",
@@ -411,6 +250,24 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/8/zona-cero-47734-0.webp",
       "cines": [
         {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "20:00",
+                "21:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "20:00",
+            "21:40"
+          ]
+        },
+        {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
           "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
@@ -430,42 +287,6 @@
             "19:10",
             "21:50"
           ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "19:30",
-                "21:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:30",
-            "21:45"
-          ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "20:00",
-                "21:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "20:00",
-            "21:40"
-          ]
         }
       ],
       "genero": "Thriller",
@@ -476,7 +297,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/zona-cero-12246_252",
       "trailer_url": "https://www.youtube.com/watch?v=DdSod74AsBY",
-      "sinopsis": "Un grupo de supervivientes debe enfrentar una zona contaminada por una misteriosa radiación que transforma a la gente en criaturas hostiles.",
+      "sinopsis": "En una conferencia de biotecnología, un virus de mutación rápida se desata y el recinto queda sellado. Con el contagio en expansión y los infectados evolucionando en formas impredecibles, un grupo de sobrevivientes deberá abrirse paso en un encierro donde cada minuto cambia las reglas.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 507244,
@@ -535,31 +356,117 @@
       }
     },
     {
-      "titulo": "Guardianes del Museo 2 Los Tesoros de Egipto",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/9/guardianes-del-museo-2-los-tesoros-de-egipto-47807-0.webp",
+      "titulo": "One Piece La Película",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/one-piece-la-pelicula-47727-0.webp",
       "cines": [
         {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
             {
-              "formato": "",
+              "formato": "Doblada",
               "horarios": [
-                "15:15",
-                "17:15"
+                "16:50"
               ]
             }
           ],
           "horarios": [
-            "15:15",
-            "17:15"
+            "16:50"
           ]
         },
         {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR SUBTITULAD",
+              "horarios": [
+                "15:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:10"
+          ]
+        }
+      ],
+      "genero": "Animado",
+      "duracion": "60 minutos",
+      "clasificacion": "Todos",
+      "director": "Atsuji Shimizu",
+      "actores": "Akemi Okamura, Kappei Yamaguchi y Kazuya Nakai.",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/one-piece-la-pelicula-12240_252",
+      "trailer_url": "https://youtu.be/FnQ_ALoBAhk?si=o5ijmTXVfqqrmeFz",
+      "sinopsis": "Woonan, el Gran Pirata del Oro, llegó a poseer un tercio del oro del mundo. Cuando su era llegó a su fin, nació el mito de que se había desvanecido junto a su oro en una isla misteriosa, un destino que los piratas de hoy todavía intentan rastrear. A bordo del Going Merry, la hambrienta e impulsiva tripulación de Luffy sufre el robo de su tesoro. Para recuperarlo, destrozan la embarcación de los la",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 19576,
+        "titulo_tmdb": "One Piece: La película",
+        "voto": 7.1,
+        "votos": 408,
+        "url_tmdb": "https://www.themoviedb.org/movie/19576",
+        "imdb_id": "tt0814243",
+        "url_imdb": "https://www.imdb.com/title/tt0814243/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/g8Gaj5qlM0S0NTZSP05ETs7aFst.jpg",
+        "director": "志水淳児",
+        "reparto": [
+          {
+            "nombre": "Mayumi Tanaka",
+            "personaje": "Monkey D. Luffy (voice)"
+          },
+          {
+            "nombre": "Kazuya Nakai",
+            "personaje": "Roronoa Zoro (voice)"
+          },
+          {
+            "nombre": "Akemi Okamura",
+            "personaje": "Nami (voice)"
+          },
+          {
+            "nombre": "Kappei Yamaguchi",
+            "personaje": "Usopp (voice)"
+          },
+          {
+            "nombre": "Yuka Imai",
+            "personaje": "Tobio (voice)"
+          },
+          {
+            "nombre": "Takeshi Aono",
+            "personaje": "Ganzo (voice)"
+          }
+        ],
+        "generos": [
+          "Acción",
+          "Animación",
+          "Aventura",
+          "Comedia",
+          "Fantasía"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Luffy y sus compañeros recataran a Tobio de la guarida de un pirata. Más tarde mientras prosiguen su viaje, decidiran ir a la isla dorada donde vivirán una gran aventura.",
+        "estreno": "4 mar 2000",
+        "duracion_min": 51,
+        "paises": [
+          "Japón"
+        ],
+        "idioma": "Japonés",
+        "titulo_original": "ワンピース"
+      }
+    },
+    {
+      "titulo": "Guardianes del Museo 2 Los Tesoros de Egipto",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/9/guardianes-del-museo-2-los-tesoros-de-egipto-47807-0.webp",
+      "cines": [
+        {
           "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
             {
               "formato": "",
@@ -573,19 +480,22 @@
           ]
         },
         {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "13:10"
+                "14:50"
               ]
             }
           ],
           "horarios": [
-            "13:10"
+            "14:50"
           ]
         }
       ],
@@ -597,8 +507,8 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/guardianes-del-museo-2-los-tesoros-de-egipto-12274_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Guardianes%20del%20Museo%202%20Los%20Tesoros%20de%20Egipto%20trailer%20espanol",
-      "sinopsis": "Los guardianes del museo deben proteger los tesoros egipcios de una antigua maldición mientras viajan al pasado para evitar el desastre.",
-      "puntaje": "6.4",
+      "sinopsis": "Hace dos años, nuestros personajes salvaron a la Mona Lisa. Maurice, el ratón, está ansioso por demostrar una vez más de lo que es capaz. Vincent y Cleopatra son los padres de dos traviesos gatitos y están deseando vivir nuevas aventuras. Su próximo viaje los llevará a competir entre ellos. Todo comienza cuando Maurice explora el sótano abandonado de un edificio y encuentra un antiguo papiro con u",
+      "puntaje": "",
       "tmdb": {
         "tmdb_id": 1264821,
         "titulo_tmdb": "Gatos en el museo 2: Tesoros de Egipto",
@@ -639,6 +549,96 @@
         ],
         "idioma": "Ruso",
         "titulo_original": "Коты Эрмитажа 2. Тайна египетского зала"
+      }
+    },
+    {
+      "titulo": "Código: Venganza",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002972?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Acción",
+      "clasificacion": "+14",
+      "duracion": "96 min",
+      "director": "Eric Weston",
+      "actores": "Robert Davi, Costas Mandylor, Joey DePinto, Richard C. Sarafian, Frank Stallone Jr., Frank D'Amico",
+      "estreno": "",
+      "sinopsis": "Después de que su jefe multimillonario sea asesinado frente a él, el agente de seguridad Cole Reed es incriminado por el homicidio y queda al borde de la bancarrota e injusticia. Perseguido por fuerzas internacionales, Reed debe limpiar su nombre y descubrir la conspiración detrás del asesinato, en una carrera contra el tiempo con acción intensa en alta mar y entornos corporativos letales",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=qdlvcbtHSuo",
+      "fuente_peli": "Cineplanet",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:00",
+                "17:10",
+                "19:20",
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:10",
+            "19:20",
+            "21:30"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 188834,
+        "titulo_tmdb": "Código de venganza",
+        "voto": 3.3,
+        "votos": 6,
+        "url_tmdb": "https://www.themoviedb.org/movie/188834",
+        "imdb_id": "tt0311284",
+        "url_imdb": "https://www.imdb.com/title/tt0311284/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/qplSfNUwaQJ4RwT2NNjNEFIdhQK.jpg",
+        "director": "Eric Weston",
+        "reparto": [
+          {
+            "nombre": "Robert Davi",
+            "personaje": "Nick"
+          },
+          {
+            "nombre": "Costas Mandylor",
+            "personaje": "Tony"
+          },
+          {
+            "nombre": "Joey DePinto",
+            "personaje": "Vince"
+          },
+          {
+            "nombre": "Richard C. Sarafian",
+            "personaje": ""
+          },
+          {
+            "nombre": "Frank Stallone Jr.",
+            "personaje": "Spilotri"
+          },
+          {
+            "nombre": "Frank D'Amico",
+            "personaje": "Tommy Crapisi"
+          }
+        ],
+        "generos": [
+          "Acción",
+          "Crimen"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Un respetado hombre de negocios se ve atrapado en mitad de una guerra entre dos familias rivales del crimen organizado. Tendrá que elegir entre ser fiel a la tradición familiar o ser fiel a sí mismo.",
+        "estreno": "1 dic 2002",
+        "duracion_min": 88,
+        "paises": [],
+        "idioma": "Inglés",
+        "titulo_original": "Hitters"
       }
     },
     {
@@ -728,118 +728,171 @@
       }
     },
     {
-      "titulo": "Tadeo el Explorador: Y la Lampara Maravillosa",
-      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/tadeooo.jpg",
-      "genero": "Dibujos",
-      "clasificacion": "Todo Espectador",
-      "duracion": "01:35",
-      "sinopsis": "Tadeo, Su Novia Sara y Sus Amigos Momia, Jeff y Belzoni Se Embarcan en una Aventura Tras Que Tadeo Desata Accidentalmente un Antiguo Hechizo.",
+      "titulo": "Tadeo y la Lampara Maravillosa",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002974?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Animación",
+      "clasificacion": "APT",
+      "duracion": "95 min",
       "director": "Enrique Gato",
-      "actores": "Óscar Barberán, Michelle Jenner, José Mota, José Corbacho, Pep Anton Muñoz, Miguel Ángel Jenner",
+      "actores": "Óscar Barberán, Michelle Jenner, Luis Posada, Joseph Balderrama, Trevor White",
       "estreno": "",
+      "sinopsis": "Oli, la intrépida hija de dos años de Tadeo, lo ha convertido en un padre sobreprotector, y Momia se siente relegada por toda la atención que ella recibe. Cuando encuentran la lámpara mágica en el Palacio de Buckingham, Momia le pide viajar en el tiempo a Paititi, Perú, en 1502. Tadeo, Sara y todo el equipo tendrán que seguir a Momia al pasado antes de que cambie la historia. Su viaje los llevará ",
       "puntaje": "",
       "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=GF9o6_iZ9Ug",
-      "fuente_peli": "Cinerama",
+      "trailer_url": "https://youtu.be/cpHujWfNLnE?si=maVSFUCeRYSM6NLM",
+      "fuente_peli": "Cineplanet",
       "cines": [
         {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
-                "17:30"
+                "16:55"
               ]
             }
           ],
           "horarios": [
-            "15:30",
-            "17:30"
+            "16:55"
           ]
         }
       ],
       "tmdb": {
-        "tmdb_id": 121734,
-        "titulo_tmdb": "Las aventuras de Tadeo Jones",
-        "voto": 6.3,
-        "votos": 636,
-        "url_tmdb": "https://www.themoviedb.org/movie/121734",
-        "imdb_id": "tt1764625",
-        "url_imdb": "https://www.imdb.com/title/tt1764625/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/hnJUhmknSFTmgA2pZHwId8ahBvq.jpg",
+        "tmdb_id": 1187326,
+        "titulo_tmdb": "Tadeo Jones y La Lámpara Maravillosa",
+        "voto": 6.5,
+        "votos": 12,
+        "url_tmdb": "https://www.themoviedb.org/movie/1187326",
+        "imdb_id": "tt36164852",
+        "url_imdb": "https://www.imdb.com/title/tt36164852/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
         "director": "Enrique Gato",
         "reparto": [
           {
             "nombre": "Óscar Barberán",
-            "personaje": "Tad Jones (voice)"
+            "personaje": "Tadeo Jones (voice)"
           },
           {
             "nombre": "Michelle Jenner",
             "personaje": "Sara Lavrof (voice)"
           },
           {
-            "nombre": "José Mota",
-            "personaje": "Freddy (voice)"
+            "nombre": "Luis Posada",
+            "personaje": "Momia (voice)"
           },
           {
-            "nombre": "José Corbacho",
-            "personaje": "Freddy (catalan version) (voice)"
+            "nombre": "Joseph Balderrama",
+            "personaje": "Mummy / Tupac (voice)"
           },
           {
-            "nombre": "Pep Anton Muñoz",
-            "personaje": "Max Mordon (voice)"
-          },
-          {
-            "nombre": "Miguel Ángel Jenner",
-            "personaje": "Kopponen (voice)"
+            "nombre": "Trevor White",
+            "personaje": "Tad (voice)"
           }
         ],
         "generos": [
           "Animación",
           "Comedia",
-          "Aventura",
           "Familia"
         ],
         "trailer": {
-          "url": "https://www.youtube.com/watch?v=GF9o6_iZ9Ug",
-          "embed_id": "GF9o6_iZ9Ug"
+          "url": "https://www.youtube.com/watch?v=CDpJJHc7xMo",
+          "embed_id": "CDpJJHc7xMo"
         },
-        "sinopsis_tmdb": "Adaptación del corto que ganó un Goya en 2004 y cuyo protagonista, Tadeo Jones, es una especie de Indiana Jones español. Tadeo es un simple trabajador de la construcción que reside en Chicago, pero posee un espíritu aventurero y soñador. Un buen día lo confunden con un popular arqueólogo y lo envían a Perú para realizar un duro cometido. Allí tendrá que frenar a una organización de maleantes que se dedica a robar tesoros y, que en esta ocasión, pretenden saquear una mítica ciudad Inca que acaba de ser descubierta.  Pero en esta trepidante aventura Tadeo no estará solo ya que tendrá la ayuda de su fiel perrito Jeff; Sara (Michelle Jenner, 'Extraterrestre'), la guapa profesora de arqueología; Freddy (José Mota, 'La Chispa de la vida') un extraño guía peruano que lleva una chaqueta \"multiusos\"; un loro que no sabe hablar, y un caza recompensas. ¿Serán capaces Tadeo y sus compañeros de salvar a esta emblemática ciudad?",
-        "estreno": "10 ago 2012",
-        "duracion_min": 90,
+        "sinopsis_tmdb": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
+        "estreno": "26 ago 2026",
+        "duracion_min": 94,
         "paises": [
-          "Francia",
           "España"
         ],
         "idioma": "Español",
-        "titulo_original": "Las aventuras de Tadeo Jones"
+        "titulo_original": "Tadeo Jones y La Lámpara Maravillosa"
       }
-    },
+    }
+  ],
+  "cines": [
     {
-      "titulo": "One Piece: La Película (DOB)",
-      "poster": "https://www.movietime.com.pe/bucket/images/cine/b2d8c400-d961-4dee-aa5b-b65c7c4e5eb0.jpeg",
-      "genero": "",
-      "clasificacion": "APT",
-      "duracion": "57 min",
-      "sinopsis": "Woonan, el Gran Pirata del Oro, llegó a poseer un tercio del oro del mundo. Cuando su era llegó a su fin, nació el mito de que se había desvanecido junto a su oro en una isla misteriosa, un destino que los piratas de hoy todavía intentan rastrear. A bordo del Going Merry, la hambrienta e impulsiva tripulación de Luffy sufre el robo de su tesoro. Para recuperarlo, destrozan la embarcación de los la",
-      "director": "鎌谷悠",
-      "actores": "Akemi Okamura, Yuriko Yamaguchi, Maaya Sakamoto, Takehito Koyasu, Mayumi Tanaka, Hiroaki Hirata",
-      "estreno": "",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "",
-      "fuente_peli": "Movie Time",
-      "cines": [
+      "cine": "Movie Time Cajamarca",
+      "cine_slug": "movietime-cajamarca-cajamarca-s448",
+      "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+      "peliculas": [
         {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "titulo": "Resident Evil: Noche Cero",
+          "poster": "",
+          "genero": "Terror",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "15:30",
+                "17:25",
+                "18:00",
+                "19:20",
+                "21:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "17:25",
+            "18:00",
+            "19:20",
+            "21:15"
+          ]
+        },
+        {
+          "titulo": "Coyote vs. ACME",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/coyote-vs-acme-47670-0.webp",
+          "genero": "Animado",
+          "clasificacion": "7 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "15:40",
+                "17:50",
+                "19:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:40",
+            "17:50",
+            "19:40"
+          ]
+        },
+        {
+          "titulo": "Zona Cero",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/zona-cero-47734-0.webp",
+          "genero": "Thriller",
+          "clasificacion": "12 Años",
           "formatos": [
             {
               "formato": "",
+              "horarios": [
+                "20:00",
+                "21:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "20:00",
+            "21:40"
+          ]
+        },
+        {
+          "titulo": "One Piece La Película",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/one-piece-la-pelicula-47727-0.webp",
+          "genero": "Animado",
+          "clasificacion": "Todos",
+          "formatos": [
+            {
+              "formato": "Doblada",
               "horarios": [
                 "16:50"
               ]
@@ -848,62 +901,27 @@
           "horarios": [
             "16:50"
           ]
+        },
+        {
+          "titulo": "Guardianes del Museo 2 Los Tesoros de Egipto",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/9/guardianes-del-museo-2-los-tesoros-de-egipto-47807-0.webp",
+          "genero": "Animado",
+          "clasificacion": "Todos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00"
+          ]
         }
       ],
-      "tmdb": {
-        "tmdb_id": 1659389,
-        "titulo_tmdb": "One Piece: Heroínas",
-        "voto": 6.6,
-        "votos": 24,
-        "url_tmdb": "https://www.themoviedb.org/movie/1659389",
-        "imdb_id": "tt41295042",
-        "url_imdb": "https://www.imdb.com/title/tt41295042/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/hbRXvcckbdKMhCea1JalPnSQQge.jpg",
-        "director": "鎌谷悠",
-        "reparto": [
-          {
-            "nombre": "Akemi Okamura",
-            "personaje": "Nami (voice)"
-          },
-          {
-            "nombre": "Yuriko Yamaguchi",
-            "personaje": "Robin (voice)"
-          },
-          {
-            "nombre": "Maaya Sakamoto",
-            "personaje": "Miucha (voice)"
-          },
-          {
-            "nombre": "Takehito Koyasu",
-            "personaje": "Lebno (voice)"
-          },
-          {
-            "nombre": "Mayumi Tanaka",
-            "personaje": "Luffy (voice)"
-          },
-          {
-            "nombre": "Hiroaki Hirata",
-            "personaje": "Sanji (voice)"
-          }
-        ],
-        "generos": [
-          "Animación",
-          "Acción",
-          "Comedia"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Nami vuelve a la tienda cuando unos zapatos de mala calidad le hacen daño en los pies. El diseñador Lebno se ofrece a arreglarlos, a cambio de que ella desfile en su pasarela.",
-        "estreno": "5 jul 2026",
-        "duracion_min": 24,
-        "paises": [
-          "Japón"
-        ],
-        "idioma": "Japonés",
-        "titulo_original": "ONE PIECE HEROINES"
-      }
-    }
-  ],
-  "cines": [
+      "cine_original": "CAJAMARCA - MOVIE TIME"
+    },
     {
       "cine": "CinePlanet Cajamarca Real Plaza",
       "cine_slug": "cp-cajamarca",
@@ -913,7 +931,7 @@
       "fuente_cine": "Cineplanet",
       "peliculas": [
         {
-          "titulo": "Código Venganza",
+          "titulo": "Código: Venganza",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002972?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Acción",
           "clasificacion": "+14",
@@ -921,12 +939,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:00",
+                "17:10",
                 "19:20",
                 "21:30"
               ]
             }
           ],
           "horarios": [
+            "15:00",
+            "17:10",
             "19:20",
             "21:30"
           ]
@@ -940,14 +962,37 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:20",
+                "16:40",
+                "17:40",
                 "20:00",
                 "22:20"
               ]
             }
           ],
           "horarios": [
+            "15:20",
+            "16:40",
+            "17:40",
             "20:00",
             "22:20"
+          ]
+        },
+        {
+          "titulo": "Guardianes del Museo 2 Los Tesoros de Egipto",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003106?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Animación",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:50"
           ]
         },
         {
@@ -968,6 +1013,23 @@
           ]
         },
         {
+          "titulo": "One Piece La Película",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003105?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Anime",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR SUBTITULAD",
+              "horarios": [
+                "15:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:10"
+          ]
+        },
+        {
           "titulo": "Resident Evil: Noche Cero",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003067?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Terror",
@@ -976,6 +1038,8 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:00",
+                "18:10",
                 "19:00",
                 "20:20",
                 "22:30"
@@ -983,9 +1047,28 @@
             }
           ],
           "horarios": [
+            "16:00",
+            "18:10",
             "19:00",
             "20:20",
             "22:30"
+          ]
+        },
+        {
+          "titulo": "Tadeo y la Lampara Maravillosa",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002974?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Animación",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:55"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:55"
           ]
         },
         {
@@ -1012,324 +1095,21 @@
     },
     {
       "cine": "Cinerama Cajamarca MegaPlaza",
-      "cine_slug": "cinerama-cajamarca-megaplaza",
-      "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+      "direccion": "",
+      "peliculas": [],
+      "sin_programacion": true,
+      "nota": "No se pudo consultar su cartelera. Suele tener funciones a diario.",
+      "no_consultado": true,
       "url": "https://www.cinerama.com.pe/cines",
-      "fuente_cine": "Cinerama",
-      "peliculas": [
-        {
-          "titulo": "Código Venganza",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/yryrwy5y5y5wywrty.jpg",
-          "genero": "Accion",
-          "clasificacion": "Todo Espectador",
-          "duracion": "01:40",
-          "sinopsis": "Cole Reed (Jason Statham) Es un Exagente de las Fuerzas Especiales y Ex Policía de Nueva York Que Después de Pasar Varios Años en el Campo de Batalla, Ha Construido una Nueva Vida Más Discreta Trabajando en el Sector de la Seguridad Privada.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:15",
-                "18:15",
-                "20:15",
-                "22:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:15",
-            "18:15",
-            "20:15",
-            "22:15"
-          ]
-        },
-        {
-          "titulo": "Coyote vs. ACME",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/coyogtw.jpg",
-          "genero": "Animado",
-          "clasificacion": "Todo Espectador",
-          "duracion": "01:44",
-          "sinopsis": "Una Historia Ambientada en el Almacén de Acme, el Fabricante de Todo Lo Que Utilizan los Personajes de los Looney Tunes.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "19:15",
-                "21:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:15",
-            "21:15"
-          ]
-        },
-        {
-          "titulo": "Guardianes del Museo 2 Los Tesoros de Egipto",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/asdrthertyh.jpg",
-          "genero": "Dibujos",
-          "clasificacion": "Todo Espectador",
-          "duracion": "03:35",
-          "sinopsis": "Han Pasado Dos Años Desde Que Se Salvó el Hermitage y Se Robó la Mona Lisa. Maurice el Ratón Sueña Con Nuevas Hazañas, Vicente y Cleopatra Han Adquirido Dos Gatitos Inquietos y También Anhelan Aventuras.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:15",
-                "17:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:15",
-            "17:15"
-          ]
-        },
-        {
-          "titulo": "Resident Evil: Noche Cero",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/rexs.jpg",
-          "genero": "Terror",
-          "clasificacion": "Todo Espectador",
-          "duracion": "01:35",
-          "sinopsis": "Sigue a un Desafortunado Mensajero Encargado de Entregar un Paquete a un Hospital Remoto. Pronto Se Encuentra Atrapado en Medio de una Epidemia y Debe Luchar Contra Hordas de Criaturas Mutantes Para Sobrevivir.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "16:00",
-                "17:00",
-                "18:00",
-                "19:00",
-                "20:00",
-                "21:00",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "16:00",
-            "17:00",
-            "18:00",
-            "19:00",
-            "20:00",
-            "21:00",
-            "22:00"
-          ]
-        },
-        {
-          "titulo": "Tadeo el Explorador: Y la Lampara Maravillosa",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/tadeooo.jpg",
-          "genero": "Dibujos",
-          "clasificacion": "Todo Espectador",
-          "duracion": "01:35",
-          "sinopsis": "Tadeo, Su Novia Sara y Sus Amigos Momia, Jeff y Belzoni Se Embarcan en una Aventura Tras Que Tadeo Desata Accidentalmente un Antiguo Hechizo.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30",
-                "17:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30",
-            "17:30"
-          ]
-        },
-        {
-          "titulo": "Zona Cero",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/zonacer.jpg",
-          "genero": "Accion",
-          "clasificacion": "Todo Espectador",
-          "duracion": "02:05",
-          "sinopsis": "En una Conferencia de Biotecnología, un Virus de Mutación Rápida Se Desata y el Recinto Queda Sellado. Con el Contagio en Expansión y los Infectados Evolucionando en Formas Impredecibles, un Grupo de Sobrevivientes Deberá Abrirse Paso en un Encierro Donde Cada Minuto Cambia las Reglas.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "19:30",
-                "21:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:30",
-            "21:45"
-          ]
-        }
-      ]
-    },
-    {
-      "cine": "Movie Time Cajamarca",
-      "cine_slug": "movietime-cajamarca",
-      "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-      "url": "https://www.movietime.com.pe/cinemas/cajamarca",
-      "fuente_cine": "Movie Time",
-      "peliculas": [
-        {
-          "titulo": "Coyote vs. ACME",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/980f6987-4dcf-4d9b-b746-b7366ba93692.png",
-          "genero": "",
-          "clasificacion": "APT",
-          "duracion": "103 min",
-          "sinopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:40",
-                "18:00",
-                "19:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:40",
-            "18:00",
-            "19:40"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=DIqJb0LwSho"
-        },
-        {
-          "titulo": "Coyote vs. ACME",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/185a3db6-7474-4876-b1db-21abb900683e.png",
-          "genero": "",
-          "clasificacion": "APT",
-          "duracion": "103 min",
-          "sinopsis": "¡DISFRÚTALA A UN SUPER PRECIO EN FUNCIÓN MATINÉ!\n\nDespués de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. p",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "13:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "13:40"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=DIqJb0LwSho"
-        },
-        {
-          "titulo": "Guardianes del Museo 2 Los Tesoros de Egipto",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/1fbd0e54-b3d6-4b7b-a5df-389fb82340c8.jpeg",
-          "genero": "",
-          "clasificacion": "APT",
-          "duracion": "90 min",
-          "sinopsis": "Hace dos años, nuestros personajes salvaron a la Mona Lisa. Maurice, el ratón, está ansioso por demostrar una vez más de lo que es capaz. Vincent y Cleopatra son los padres de dos traviesos gatitos y están deseando vivir nuevas aventuras. Su próximo viaje los llevará a competir entre ellos. Todo comienza cuando Maurice explora el sótano abandonado de un edificio y encuentra un antiguo papiro con u",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00"
-          ],
-          "trailer_url": ""
-        },
-        {
-          "titulo": "Guardianes del Museo 2 Los Tesoros de Egipto",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/663765ce-ad9c-4af1-8202-cfec0ec487c2.png",
-          "genero": "",
-          "clasificacion": "APT",
-          "duracion": "90 min",
-          "sinopsis": "Hace dos años, nuestros personajes salvaron a la Mona Lisa. Maurice, el ratón, está ansioso por demostrar una vez más de lo que es capaz. Vincent y Cleopatra son los padres de dos traviesos gatitos y están deseando vivir nuevas aventuras. Su próximo viaje los llevará a competir entre ellos. Todo comienza cuando Maurice explora el sótano abandonado de un edificio y encuentra un antiguo papiro con u",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "13:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "13:10"
-          ],
-          "trailer_url": ""
-        },
-        {
-          "titulo": "One Piece: La Película (DOB)",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/b2d8c400-d961-4dee-aa5b-b65c7c4e5eb0.jpeg",
-          "genero": "",
-          "clasificacion": "APT",
-          "duracion": "57 min",
-          "sinopsis": "Woonan, el Gran Pirata del Oro, llegó a poseer un tercio del oro del mundo. Cuando su era llegó a su fin, nació el mito de que se había desvanecido junto a su oro en una isla misteriosa, un destino que los piratas de hoy todavía intentan rastrear. A bordo del Going Merry, la hambrienta e impulsiva tripulación de Luffy sufre el robo de su tesoro. Para recuperarlo, destrozan la embarcación de los la",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:50"
-          ],
-          "trailer_url": ""
-        },
-        {
-          "titulo": "Resident Evil: Noche Cero",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/1a14ac98-e6bb-41bd-a9f4-870b4a6682c7.jpeg",
-          "genero": "",
-          "clasificacion": "+14",
-          "duracion": "93 min",
-          "sinopsis": "Sigue a un desafortunado mensajero encargado de entregar un paquete a un hospital remoto. Pronto se encuentra atrapado en medio de una epidemia y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30",
-                "17:25",
-                "18:00",
-                "19:20",
-                "21:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30",
-            "17:25",
-            "18:00",
-            "19:20",
-            "21:15"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=8iKTeIV2xgE"
-        },
-        {
-          "titulo": "Zona Cero",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/379aac7e-dc38-48ab-a6a2-003a80858417.jpeg",
-          "genero": "",
-          "clasificacion": "+14",
-          "duracion": "122 min",
-          "sinopsis": "En una conferencia de biotecnología, un virus de mutación rápida se desata y el recinto queda sellado. Con el contagio en expansión y los infectados evolucionando en formas impredecibles, un grupo de sobrevivientes deberá abrirse paso en un encierro donde cada minuto cambia las reglas.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "20:00",
-                "21:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "20:00",
-            "21:40"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=_Ru4_LzLg_E"
-        }
-      ]
+      "cine_original": "Cajamarca Megaplaza (Cinerama)"
     }
   ],
   "estado": "ok",
-  "motor": "groq",
   "fuentes_extra": [
-    "Cineplanet",
-    "Cinerama",
-    "Movie Time"
+    "Cineplanet"
+  ],
+  "notas": [
+    "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
   ]
 }
