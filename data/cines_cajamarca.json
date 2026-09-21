@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-20 17:00",
+  "actualizado": "2026-09-20 20:00",
   "fecha_objetivo": "2026-09-20",
   "peliculas": [
     {
@@ -20,8 +20,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
-                "18:10",
                 "19:00",
                 "20:20",
                 "22:30"
@@ -29,8 +27,6 @@
             }
           ],
           "horarios": [
-            "16:00",
-            "18:10",
             "19:00",
             "20:20",
             "22:30"
@@ -99,7 +95,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "Una agente de Umbrella, Alice, se enfrenta a una nueva amenaza biotecnológica en una noche donde los muertos vivientes acechan la ciudad.",
+      "sinopsis": "Alice y su equipo luchan contra hordas de zombis mientras descubren una conspiración bioterrorista en una ciudad sumida en la oscuridad.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -173,14 +169,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:10",
                 "19:20",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "17:10",
             "19:20",
             "21:30"
           ]
@@ -216,7 +210,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/codigo-venganza-12252_252",
       "trailer_url": "https://www.youtube.com/watch?v=qdlvcbtHSuo",
-      "sinopsis": "Un hacker talentoso se ve envuelto en una conspiración mortal cuando su hermano es secuestrado y debe usar sus habilidades para vengarse.",
+      "sinopsis": "Un exagente de inteligencia busca venganza contra la organización que destruyó su vida, usando habilidades de hacking y combate.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 188834,
@@ -282,16 +276,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:40",
-                "17:40",
                 "20:00",
                 "22:20"
               ]
             }
           ],
           "horarios": [
-            "16:40",
-            "17:40",
             "20:00",
             "22:20"
           ]
@@ -359,7 +349,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote intenta una vez más atrapar al Correcaminos usando los ingeniosos y peligrosos productos de la empresa ACME.",
+      "sinopsis": "El astuto Coyote intenta una vez más atrapar al Correcaminos con los ingeniosos y peligrosos productos de la empresa ACME.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
@@ -486,7 +476,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/zona-cero-12246_252",
       "trailer_url": "https://www.youtube.com/watch?v=DdSod74AsBY",
-      "sinopsis": "Un grupo de supervivientes lucha por escapar de una zona contaminada por una misteriosa radiación que transforma a la gente en criaturas hostiles.",
+      "sinopsis": "Un grupo de supervivientes debe enfrentar una zona contaminada por una misteriosa radiación que transforma a la gente en criaturas hostiles.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 507244,
@@ -542,91 +532,6 @@
         ],
         "idioma": "Inglés",
         "titulo_original": "Afterburn"
-      }
-    },
-    {
-      "titulo": "Tadeo Y La Lámpara Maravillosa",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/9/tadeo-y-la-lampara-maravillosa-47787-0.webp",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "16:55"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:55"
-          ]
-        }
-      ],
-      "genero": "Animado",
-      "duracion": "100 minutos",
-      "clasificacion": "Todos",
-      "director": "Enrique Gato",
-      "actores": "Óscar Barberán, Michelle Jenner, Luis Posada, Joseph Balderrama, Trevor White",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/tadeo-y-la-lampara-maravillosa-12257_252",
-      "trailer_url": "https://youtu.be/cpHujWfNLnE?si=maVSFUCeRYSM6NLM",
-      "sinopsis": "Tadeo descubre una lámpara mágica que lo transporta a un mundo de fantasía, donde debe enfrentarse a peligros y resolver enigmas para volver a casa.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1187326,
-        "titulo_tmdb": "Tadeo Jones y La Lámpara Maravillosa",
-        "voto": 6.5,
-        "votos": 12,
-        "url_tmdb": "https://www.themoviedb.org/movie/1187326",
-        "imdb_id": "tt36164852",
-        "url_imdb": "https://www.imdb.com/title/tt36164852/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
-        "director": "Enrique Gato",
-        "reparto": [
-          {
-            "nombre": "Óscar Barberán",
-            "personaje": "Tadeo Jones (voice)"
-          },
-          {
-            "nombre": "Michelle Jenner",
-            "personaje": "Sara Lavrof (voice)"
-          },
-          {
-            "nombre": "Luis Posada",
-            "personaje": "Momia (voice)"
-          },
-          {
-            "nombre": "Joseph Balderrama",
-            "personaje": "Mummy / Tupac (voice)"
-          },
-          {
-            "nombre": "Trevor White",
-            "personaje": "Tad (voice)"
-          }
-        ],
-        "generos": [
-          "Animación",
-          "Comedia",
-          "Familia"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=CDpJJHc7xMo",
-          "embed_id": "CDpJJHc7xMo"
-        },
-        "sinopsis_tmdb": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
-        "estreno": "26 ago 2026",
-        "duracion_min": 94,
-        "paises": [
-          "España"
-        ],
-        "idioma": "Español",
-        "titulo_original": "Tadeo Jones y La Lámpara Maravillosa"
       }
     },
     {
@@ -692,8 +597,8 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/guardianes-del-museo-2-los-tesoros-de-egipto-12274_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Guardianes%20del%20Museo%202%20Los%20Tesoros%20de%20Egipto%20trailer%20espanol",
-      "sinopsis": "Los Guardianes del Museo regresan, esta vez viajando al antiguo Egipto para impedir que un ladrón saquee los tesoros más valiosos de la historia.",
-      "puntaje": "",
+      "sinopsis": "Los guardianes del museo deben proteger los tesoros egipcios de una antigua maldición mientras viajan al pasado para evitar el desastre.",
+      "puntaje": "6.4",
       "tmdb": {
         "tmdb_id": 1264821,
         "titulo_tmdb": "Gatos en el museo 2: Tesoros de Egipto",
@@ -1016,14 +921,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:10",
                 "19:20",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "17:10",
             "19:20",
             "21:30"
           ]
@@ -1037,16 +940,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:40",
-                "17:40",
                 "20:00",
                 "22:20"
               ]
             }
           ],
           "horarios": [
-            "16:40",
-            "17:40",
             "20:00",
             "22:20"
           ]
@@ -1077,8 +976,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
-                "18:10",
                 "19:00",
                 "20:20",
                 "22:30"
@@ -1086,28 +983,9 @@
             }
           ],
           "horarios": [
-            "16:00",
-            "18:10",
             "19:00",
             "20:20",
             "22:30"
-          ]
-        },
-        {
-          "titulo": "Tadeo Y La Lámpara Maravillosa",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002974?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Animación",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "16:55"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:55"
           ]
         },
         {
