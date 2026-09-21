@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-21 08:00",
+  "actualizado": "2026-09-21 11:00",
   "fecha_objetivo": "2026-09-21",
   "peliculas": [
     {
@@ -69,13 +69,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "La agente Alice se enfrenta a una nueva amenaza bioterrorista en una ciudad sumida en la oscuridad, mientras lucha contra hordas de zombis y descubre oscuros secretos corporativos.",
+      "sinopsis": "Una nueva amenaza bioterrorista surge cuando un virus mortal se libera en una ciudad, obligando a la protagonista a enfrentarse a hordas de zombis y a su propio pasado.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
         "titulo_tmdb": "Resident Evil",
-        "voto": 7.4,
-        "votos": 224,
+        "voto": 7.3,
+        "votos": 243,
         "url_tmdb": "https://www.themoviedb.org/movie/1423191",
         "imdb_id": "tt35538033",
         "url_imdb": "https://www.imdb.com/title/tt35538033/",
@@ -87,15 +87,15 @@
             "personaje": "Bryan"
           },
           {
-            "nombre": "Zach Cherry",
-            "personaje": "Dave"
+            "nombre": "Paul Walter Hauser",
+            "personaje": "Paul"
           },
           {
             "nombre": "Kali Reis",
-            "personaje": "Pauline"
+            "personaje": "Maxine"
           },
           {
-            "nombre": "Paul Walter Hauser",
+            "nombre": "Zach Cherry",
             "personaje": "Carl"
           },
           {
@@ -188,13 +188,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote intenta una vez más atrapar al Correcaminos usando los ingeniosos (y fallidos) inventos de la empresa ACME.",
+      "sinopsis": "El astuto Coyote vuelve a intentar atrapar al Correcaminos usando los ingeniosos y peligrosos inventos de la empresa ACME, con resultados cómicamente desastrosos.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
         "titulo_tmdb": "Coyote vs. Acme",
         "voto": 7.6,
-        "votos": 467,
+        "votos": 468,
         "url_tmdb": "https://www.themoviedb.org/movie/1204680",
         "imdb_id": "tt1756855",
         "url_imdb": "https://www.imdb.com/title/tt1756855/",
@@ -297,7 +297,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/zona-cero-12246_252",
       "trailer_url": "https://www.youtube.com/watch?v=DdSod74AsBY",
-      "sinopsis": "En un futuro postapocalíptico, un grupo de sobrevivientes se adentra en la zona más peligrosa del planeta para encontrar un recurso que podría salvar a la humanidad.",
+      "sinopsis": "En una zona desolada y contaminada, un grupo de sobrevivientes lucha por encontrar recursos mientras descubren oscuros secretos que podrían cambiar el destino de la humanidad.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 507244,
@@ -403,7 +403,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/one-piece-la-pelicula-12240_252",
       "trailer_url": "https://youtu.be/FnQ_ALoBAhk?si=o5ijmTXVfqqrmeFz",
-      "sinopsis": "Luffy y su tripulación navegan hacia el último isla del Grand Line para descubrir un misterio que cambiará el destino del mundo pirata.",
+      "sinopsis": "Los piratas del Sombrero de Paja se embarcan en una aventura épica para detener una amenaza que pone en riesgo el mundo entero y descubrir el verdadero significado de la amistad.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 19576,
@@ -507,7 +507,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/guardianes-del-museo-2-los-tesoros-de-egipto-12274_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Guardianes%20del%20Museo%202%20Los%20Tesoros%20de%20Egipto%20trailer%20espanol",
-      "sinopsis": "Larry Daley y sus amigos viajan al antiguo Egipto para impedir que un antiguo mal sea desatado, mientras intentan salvar los tesoros del museo.",
+      "sinopsis": "Los guardianes del museo se enfrentan a una nueva amenaza cuando un antiguo artefacto egipcio cobra vida, obligándolos a viajar a Egipto para salvar los tesoros y el mundo.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1264821,
