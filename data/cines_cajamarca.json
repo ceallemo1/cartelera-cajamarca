@@ -2,20 +2,23 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-21 07:40",
+  "actualizado": "2026-09-21 08:00",
   "fecha_objetivo": "2026-09-21",
   "peliculas": [
     {
       "titulo": "Resident Evil: Noche Cero",
-      "poster": "",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003067?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "cines": [
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "16:00",
                 "18:10",
@@ -65,7 +68,7 @@
       "actores": "Austin Abrams, Zach Cherry, Kali Reis y Paul Walter Hauser",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Resident%20Evil%3A%20Noche%20Cero%20trailer%20espanol",
+      "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
       "sinopsis": "La agente Alice se enfrenta a una nueva amenaza bioterrorista en una ciudad sumida en la oscuridad, mientras lucha contra hordas de zombis y descubre oscuros secretos corporativos.",
       "puntaje": "",
       "tmdb": {
@@ -126,102 +129,19 @@
       }
     },
     {
-      "titulo": "Código Venganza",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/9/codigo-venganza-47759-1.jpg",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
-          "formatos": [
-            {
-              "formato": "2D - Doblada",
-              "horarios": [
-                "15:00",
-                "17:10",
-                "19:20",
-                "21:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "17:10",
-            "19:20",
-            "21:30"
-          ]
-        }
-      ],
-      "genero": "Acción",
-      "duracion": "95 minutos",
-      "clasificacion": "12 Años",
-      "director": "Jean-François Richet",
-      "actores": "Robert Davi, Costas Mandylor, Joey DePinto, Richard C. Sarafian, Frank Stallone Jr., Frank D'Amico",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/codigo-venganza-12252_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=C%C3%B3digo%20Venganza%20trailer%20espanol",
-      "sinopsis": "Un hacker experto se ve envuelto en una conspiración mortal y debe usar sus habilidades para vengar la muerte de su hermano, enfrentándose a una organización criminal implacable.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 188834,
-        "titulo_tmdb": "Código de venganza",
-        "voto": 3.3,
-        "votos": 6,
-        "url_tmdb": "https://www.themoviedb.org/movie/188834",
-        "imdb_id": "tt0311284",
-        "url_imdb": "https://www.imdb.com/title/tt0311284/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/qplSfNUwaQJ4RwT2NNjNEFIdhQK.jpg",
-        "director": "Eric Weston",
-        "reparto": [
-          {
-            "nombre": "Robert Davi",
-            "personaje": "Nick"
-          },
-          {
-            "nombre": "Costas Mandylor",
-            "personaje": "Tony"
-          },
-          {
-            "nombre": "Joey DePinto",
-            "personaje": "Vince"
-          },
-          {
-            "nombre": "Richard C. Sarafian",
-            "personaje": ""
-          },
-          {
-            "nombre": "Frank Stallone Jr.",
-            "personaje": "Spilotri"
-          },
-          {
-            "nombre": "Frank D'Amico",
-            "personaje": "Tommy Crapisi"
-          }
-        ],
-        "generos": [
-          "Acción",
-          "Crimen"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Un respetado hombre de negocios se ve atrapado en mitad de una guerra entre dos familias rivales del crimen organizado. Tendrá que elegir entre ser fiel a la tradición familiar o ser fiel a sí mismo.",
-        "estreno": "1 dic 2002",
-        "duracion_min": 88,
-        "paises": [],
-        "idioma": "Inglés",
-        "titulo_original": "Hitters"
-      }
-    },
-    {
       "titulo": "Coyote vs. ACME",
       "poster": "https://cdn.carteleracine.pe/cine/2026/8/coyote-vs-acme-47670-0.webp",
       "cines": [
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "15:20",
                 "16:40",
@@ -267,8 +187,8 @@
       "actores": "Will Forte, Lana Condor, John Cena, Tone Bell, Martha Kelly, Luis Guzmán",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Coyote%20vs.%20ACME%20trailer%20espanol",
-      "sinopsis": "El astuto Coyote intenta una vez más atrapar al Correcaminos usando los ingeniosos y peligrosos inventos de la empresa ACME, en una serie de persecuciones cómicas y caóticas.",
+      "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
+      "sinopsis": "El astuto Coyote intenta una vez más atrapar al Correcaminos usando los ingeniosos (y fallidos) inventos de la empresa ACME.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
@@ -331,11 +251,14 @@
       "cines": [
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "19:10",
                 "21:50"
@@ -373,8 +296,8 @@
       "actores": "Jun Ji-hyun, Koo Kyo-hwan, Ji Chang-wook, Kim Shin-rock, Shin Hyun-bin, Go Soo y Kim Hyung-mook.",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/zona-cero-12246_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Zona%20Cero%20trailer%20espanol",
-      "sinopsis": "Un grupo de supervivientes queda atrapado en una zona contaminada por radiación, donde deben enfrentar mutantes y descubrir la verdad detrás del desastre que los rodea.",
+      "trailer_url": "https://www.youtube.com/watch?v=DdSod74AsBY",
+      "sinopsis": "En un futuro postapocalíptico, un grupo de sobrevivientes se adentra en la zona más peligrosa del planeta para encontrar un recurso que podría salvar a la humanidad.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 507244,
@@ -438,11 +361,14 @@
       "cines": [
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "2D - Subtitulada",
+              "formato": "2D REGULAR SUBTITULAD",
               "horarios": [
                 "15:10"
               ]
@@ -476,8 +402,8 @@
       "actores": "Akemi Okamura, Kappei Yamaguchi y Kazuya Nakai.",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/one-piece-la-pelicula-12240_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=One%20Piece%20La%20Pel%C3%ADcula%20trailer%20espanol",
-      "sinopsis": "Luffy y su tripulación del Sombrero de Paja se embarcan en una aventura épica para detener una amenaza que podría destruir el mundo, mientras buscan el legendario tesoro One Piece.",
+      "trailer_url": "https://youtu.be/FnQ_ALoBAhk?si=o5ijmTXVfqqrmeFz",
+      "sinopsis": "Luffy y su tripulación navegan hacia el último isla del Grand Line para descubrir un misterio que cambiará el destino del mundo pirata.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 19576,
@@ -534,16 +460,212 @@
       }
     },
     {
-      "titulo": "Impacto Mortal",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/8/impacto-mortal-47695-0.webp",
+      "titulo": "Guardianes del Museo 2 Los Tesoros de Egipto",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/9/guardianes-del-museo-2-los-tesoros-de-egipto-47807-0.webp",
       "cines": [
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:50"
+          ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00"
+          ]
+        }
+      ],
+      "genero": "Animado",
+      "duracion": "90 minutos",
+      "clasificacion": "Todos",
+      "director": "Vasiliy Rovenskiy",
+      "actores": "Роман Курцын, Дарья Блохина, Снежана Самохина, Диомид Виноградов",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/guardianes-del-museo-2-los-tesoros-de-egipto-12274_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Guardianes%20del%20Museo%202%20Los%20Tesoros%20de%20Egipto%20trailer%20espanol",
+      "sinopsis": "Larry Daley y sus amigos viajan al antiguo Egipto para impedir que un antiguo mal sea desatado, mientras intentan salvar los tesoros del museo.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1264821,
+        "titulo_tmdb": "Gatos en el museo 2: Tesoros de Egipto",
+        "voto": 6.0,
+        "votos": 3,
+        "url_tmdb": "https://www.themoviedb.org/movie/1264821",
+        "imdb_id": "tt30224625",
+        "url_imdb": "https://www.imdb.com/title/tt30224625/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/cmox8x2F12Fc6v50SpzBc5KWuZS.jpg",
+        "director": "Василий Ровенский",
+        "reparto": [
+          {
+            "nombre": "Роман Курцын",
+            "personaje": ""
+          },
+          {
+            "nombre": "Дарья Блохина",
+            "personaje": ""
+          },
+          {
+            "nombre": "Снежана Самохина",
+            "personaje": ""
+          },
+          {
+            "nombre": "Диомид Виноградов",
+            "personaje": ""
+          }
+        ],
+        "generos": [
+          "Animación"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Hace dos años, nuestros personajes, el ratón Maurice, y los gatos Vincent y Cleopatra, salvaron la Mona Lisa. Ahora están ansiosos por vivir nuevas aventuras. Maurice encuentra un antiguo papiro que revela la ubicación de un Genio egipcio, quien solo concede un deseo cada mil años. Todos los personajes quieren algo diferente, por lo que compiten para llegar al Genio primero. Durante su viaje por Egipto, visitan las Pirámides, navegan por el Nilo y exploran los túneles secretos de Luxor. A pesar de enfrentarse a peligros, descubren que no necesitan al Genio para cumplir sus deseos, ya que la verdadera riqueza está en la amistad y el trabajo en equipo. Por otro lado, Keisuke Fujiki, un neurocirujano, es acusado injustamente de empujar a su novia desde la azotea del hospital. Ahora es un fugitivo que busca descubrir la verdad detrás de la muerte de su novia.",
+        "estreno": "26 mar 2026",
+        "duracion_min": 90,
+        "paises": [
+          "Russia"
+        ],
+        "idioma": "Ruso",
+        "titulo_original": "Коты Эрмитажа 2. Тайна египетского зала"
+      }
+    },
+    {
+      "titulo": "Código: Venganza",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002972?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Acción",
+      "clasificacion": "+14",
+      "duracion": "96 min",
+      "director": "Eric Weston",
+      "actores": "Robert Davi, Costas Mandylor, Joey DePinto, Richard C. Sarafian, Frank Stallone Jr., Frank D'Amico",
+      "estreno": "",
+      "sinopsis": "Después de que su jefe multimillonario sea asesinado frente a él, el agente de seguridad Cole Reed es incriminado por el homicidio y queda al borde de la bancarrota e injusticia. Perseguido por fuerzas internacionales, Reed debe limpiar su nombre y descubrir la conspiración detrás del asesinato, en una carrera contra el tiempo con acción intensa en alta mar y entornos corporativos letales",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=qdlvcbtHSuo",
+      "fuente_peli": "Cineplanet",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:00",
+                "17:10",
+                "19:20",
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:10",
+            "19:20",
+            "21:30"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 188834,
+        "titulo_tmdb": "Código de venganza",
+        "voto": 3.3,
+        "votos": 6,
+        "url_tmdb": "https://www.themoviedb.org/movie/188834",
+        "imdb_id": "tt0311284",
+        "url_imdb": "https://www.imdb.com/title/tt0311284/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/qplSfNUwaQJ4RwT2NNjNEFIdhQK.jpg",
+        "director": "Eric Weston",
+        "reparto": [
+          {
+            "nombre": "Robert Davi",
+            "personaje": "Nick"
+          },
+          {
+            "nombre": "Costas Mandylor",
+            "personaje": "Tony"
+          },
+          {
+            "nombre": "Joey DePinto",
+            "personaje": "Vince"
+          },
+          {
+            "nombre": "Richard C. Sarafian",
+            "personaje": ""
+          },
+          {
+            "nombre": "Frank Stallone Jr.",
+            "personaje": "Spilotri"
+          },
+          {
+            "nombre": "Frank D'Amico",
+            "personaje": "Tommy Crapisi"
+          }
+        ],
+        "generos": [
+          "Acción",
+          "Crimen"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Un respetado hombre de negocios se ve atrapado en mitad de una guerra entre dos familias rivales del crimen organizado. Tendrá que elegir entre ser fiel a la tradición familiar o ser fiel a sí mismo.",
+        "estreno": "1 dic 2002",
+        "duracion_min": 88,
+        "paises": [],
+        "idioma": "Inglés",
+        "titulo_original": "Hitters"
+      }
+    },
+    {
+      "titulo": "Impacto Mortal",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002945?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Acción",
+      "clasificacion": "+14",
+      "duracion": "107 min",
+      "director": "Raúl García",
+      "actores": "Ricardo Vázquez, Rolando D'Lugo, Coraly Santaliz, Laura Hernández, Cristóbal Sánchez, Franchie Guadalupe",
+      "estreno": "",
+      "sinopsis": "Un grupo de pasajeros internacionales que viaja de Los Ángeles a Shanghái se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones. Atrapados en medio del océano, deberán luchar por sobrevivir mientras una manada de depredadores acecha a su alrededor.",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=lNEuVhB0D9U",
+      "fuente_peli": "Cineplanet",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "21:10"
               ]
@@ -554,16 +676,6 @@
           ]
         }
       ],
-      "genero": "Acción",
-      "duracion": "105 minutos",
-      "clasificacion": "12 Años",
-      "director": "Renny Harlina",
-      "actores": "Aaron Eckhart - Ben Kingsley - Angus Sampson",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/impacto-mortal-12226_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Impacto%20Mortal%20trailer%20espanol",
-      "sinopsis": "Un equipo de élite debe detener a un asesino imparable que utiliza armas de alta tecnología para ejecutar una serie de ataques mortales en una gran ciudad.",
-      "puntaje": "",
       "tmdb": {
         "tmdb_id": 402051,
         "titulo_tmdb": "Impacto mortal",
@@ -616,16 +728,30 @@
       }
     },
     {
-      "titulo": "Tadeo Y La Lámpara Maravillosa",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/9/tadeo-y-la-lampara-maravillosa-47787-0.webp",
+      "titulo": "Tadeo y la Lampara Maravillosa",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002974?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Animación",
+      "clasificacion": "APT",
+      "duracion": "95 min",
+      "director": "Enrique Gato",
+      "actores": "Óscar Barberán, Michelle Jenner, Luis Posada, Joseph Balderrama, Trevor White",
+      "estreno": "",
+      "sinopsis": "Oli, la intrépida hija de dos años de Tadeo, lo ha convertido en un padre sobreprotector, y Momia se siente relegada por toda la atención que ella recibe. Cuando encuentran la lámpara mágica en el Palacio de Buckingham, Momia le pide viajar en el tiempo a Paititi, Perú, en 1502. Tadeo, Sara y todo el equipo tendrán que seguir a Momia al pasado antes de que cambie la historia. Su viaje los llevará ",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://youtu.be/cpHujWfNLnE?si=maVSFUCeRYSM6NLM",
+      "fuente_peli": "Cineplanet",
       "cines": [
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "16:55"
               ]
@@ -636,16 +762,6 @@
           ]
         }
       ],
-      "genero": "Animado",
-      "duracion": "100 minutos",
-      "clasificacion": "Todos",
-      "director": "Enrique Gato",
-      "actores": "Óscar Barberán, Michelle Jenner, Luis Posada, Joseph Balderrama, Trevor White",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/tadeo-y-la-lampara-maravillosa-12257_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Tadeo%20Y%20La%20L%C3%A1mpara%20Maravillosa%20trailer%20espanol",
-      "sinopsis": "Tadeo, el intrépido arqueólogo, se embarca en una nueva expedición para encontrar una lámpara mágica que concede deseos, enfrentándose a peligrosos enemigos y trampas ancestrales.",
-      "puntaje": "",
       "tmdb": {
         "tmdb_id": 1187326,
         "titulo_tmdb": "Tadeo Jones y La Lámpara Maravillosa",
@@ -696,136 +812,25 @@
         "idioma": "Español",
         "titulo_original": "Tadeo Jones y La Lámpara Maravillosa"
       }
-    },
-    {
-      "titulo": "Guardianes del Museo 2 Los Tesoros de Egipto",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/9/guardianes-del-museo-2-los-tesoros-de-egipto-47807-0.webp",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
-          "formatos": [
-            {
-              "formato": "2D - Doblada",
-              "horarios": [
-                "14:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:50"
-          ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00"
-          ]
-        }
-      ],
-      "genero": "Animado",
-      "duracion": "90 minutos",
-      "clasificacion": "Todos",
-      "director": "Vasiliy Rovenskiy",
-      "actores": "Роман Курцын, Дарья Блохина, Снежана Самохина, Диомид Виноградов",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/guardianes-del-museo-2-los-tesoros-de-egipto-12274_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Guardianes%20del%20Museo%202%20Los%20Tesoros%20de%20Egipto%20trailer%20espanol",
-      "sinopsis": "Los guardias del museo, liderados por Larry, deben viajar a Egipto para recuperar artefactos robados y evitar que una antigua maldición cause caos en el mundo moderno.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1264821,
-        "titulo_tmdb": "Gatos en el museo 2: Tesoros de Egipto",
-        "voto": 6.0,
-        "votos": 3,
-        "url_tmdb": "https://www.themoviedb.org/movie/1264821",
-        "imdb_id": "tt30224625",
-        "url_imdb": "https://www.imdb.com/title/tt30224625/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/cmox8x2F12Fc6v50SpzBc5KWuZS.jpg",
-        "director": "Василий Ровенский",
-        "reparto": [
-          {
-            "nombre": "Роман Курцын",
-            "personaje": ""
-          },
-          {
-            "nombre": "Дарья Блохина",
-            "personaje": ""
-          },
-          {
-            "nombre": "Снежана Самохина",
-            "personaje": ""
-          },
-          {
-            "nombre": "Диомид Виноградов",
-            "personaje": ""
-          }
-        ],
-        "generos": [
-          "Animación"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Hace dos años, nuestros personajes, el ratón Maurice, y los gatos Vincent y Cleopatra, salvaron la Mona Lisa. Ahora están ansiosos por vivir nuevas aventuras. Maurice encuentra un antiguo papiro que revela la ubicación de un Genio egipcio, quien solo concede un deseo cada mil años. Todos los personajes quieren algo diferente, por lo que compiten para llegar al Genio primero. Durante su viaje por Egipto, visitan las Pirámides, navegan por el Nilo y exploran los túneles secretos de Luxor. A pesar de enfrentarse a peligros, descubren que no necesitan al Genio para cumplir sus deseos, ya que la verdadera riqueza está en la amistad y el trabajo en equipo. Por otro lado, Keisuke Fujiki, un neurocirujano, es acusado injustamente de empujar a su novia desde la azotea del hospital. Ahora es un fugitivo que busca descubrir la verdad detrás de la muerte de su novia.",
-        "estreno": "26 mar 2026",
-        "duracion_min": 90,
-        "paises": [
-          "Russia"
-        ],
-        "idioma": "Ruso",
-        "titulo_original": "Коты Эрмитажа 2. Тайна египетского зала"
-      }
     }
   ],
   "cines": [
     {
       "cine": "CinePlanet Cajamarca Real Plaza",
-      "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-      "direccion": "Av. Vía de Evitamiento Norte",
+      "cine_slug": "cp-cajamarca",
+      "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+      "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+      "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+      "fuente_cine": "Cineplanet",
       "peliculas": [
         {
-          "titulo": "Resident Evil: Noche Cero",
-          "poster": "",
-          "genero": "Terror",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "2D - Doblada",
-              "horarios": [
-                "16:00",
-                "18:10",
-                "19:00",
-                "20:20",
-                "22:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:10",
-            "19:00",
-            "20:20",
-            "22:30"
-          ]
-        },
-        {
-          "titulo": "Código Venganza",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/9/codigo-venganza-47759-1.jpg",
+          "titulo": "Código: Venganza",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002972?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Acción",
-          "clasificacion": "12 Años",
+          "clasificacion": "+14",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "15:00",
                 "17:10",
@@ -843,12 +848,12 @@
         },
         {
           "titulo": "Coyote vs. ACME",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/coyote-vs-acme-47670-0.webp",
-          "genero": "Animado",
-          "clasificacion": "7 Años",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002921?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Familiar",
+          "clasificacion": "APT",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "15:20",
                 "16:40",
@@ -867,49 +872,30 @@
           ]
         },
         {
-          "titulo": "Zona Cero",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/zona-cero-47734-0.webp",
-          "genero": "Thriller",
-          "clasificacion": "12 Años",
+          "titulo": "Guardianes del Museo 2 Los Tesoros de Egipto",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003106?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Animación",
+          "clasificacion": "APT",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "19:10",
-                "21:50"
+                "14:50"
               ]
             }
           ],
           "horarios": [
-            "19:10",
-            "21:50"
-          ]
-        },
-        {
-          "titulo": "One Piece La Película",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/one-piece-la-pelicula-47727-0.webp",
-          "genero": "Animado",
-          "clasificacion": "Todos",
-          "formatos": [
-            {
-              "formato": "2D - Subtitulada",
-              "horarios": [
-                "15:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:10"
+            "14:50"
           ]
         },
         {
           "titulo": "Impacto Mortal",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/impacto-mortal-47695-0.webp",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002945?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Acción",
-          "clasificacion": "12 Años",
+          "clasificacion": "+14",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "21:10"
               ]
@@ -920,13 +906,55 @@
           ]
         },
         {
-          "titulo": "Tadeo Y La Lámpara Maravillosa",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/9/tadeo-y-la-lampara-maravillosa-47787-0.webp",
-          "genero": "Animado",
-          "clasificacion": "Todos",
+          "titulo": "One Piece La Película",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003105?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Anime",
+          "clasificacion": "APT",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "2D REGULAR SUBTITULAD",
+              "horarios": [
+                "15:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:10"
+          ]
+        },
+        {
+          "titulo": "Resident Evil: Noche Cero",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003067?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Terror",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:00",
+                "18:10",
+                "19:00",
+                "20:20",
+                "22:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:10",
+            "19:00",
+            "20:20",
+            "22:30"
+          ]
+        },
+        {
+          "titulo": "Tadeo y la Lampara Maravillosa",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002974?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Animación",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "16:55"
               ]
@@ -937,24 +965,26 @@
           ]
         },
         {
-          "titulo": "Guardianes del Museo 2 Los Tesoros de Egipto",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/9/guardianes-del-museo-2-los-tesoros-de-egipto-47807-0.webp",
-          "genero": "Animado",
-          "clasificacion": "Todos",
+          "titulo": "Zona Cero",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002971?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Terror",
+          "clasificacion": "+14",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:50"
+                "19:10",
+                "21:50"
               ]
             }
           ],
           "horarios": [
-            "14:50"
+            "19:10",
+            "21:50"
           ]
         }
       ],
-      "cine_original": "CAJAMARCA - CINEPLANET"
+      "cine_original": "CP Cajamarca"
     },
     {
       "cine": "Cinerama Cajamarca MegaPlaza",
@@ -1093,10 +1123,11 @@
   ],
   "estado": "ok",
   "motor": "groq",
+  "fuentes_extra": [
+    "Cineplanet",
+    "Movie Time"
+  ],
   "notas": [
     "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
-  ],
-  "fuentes_extra": [
-    "Movie Time"
   ]
 }
