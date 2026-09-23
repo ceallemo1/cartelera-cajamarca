@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-22 17:00",
+  "actualizado": "2026-09-22 20:00",
   "fecha_objetivo": "2026-09-22",
   "peliculas": [
     {
@@ -20,8 +20,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
-                "18:10",
                 "19:00",
                 "20:20",
                 "22:30"
@@ -29,8 +27,6 @@
             }
           ],
           "horarios": [
-            "16:00",
-            "18:10",
             "19:00",
             "20:20",
             "22:30"
@@ -69,8 +65,8 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "La agente de Umbrella, Alicia Marcus, lidera un equipo de élite para infiltrarse en una instalación secreta y detener una amenaza biotecnológica que podría desatar un apocalipsis zombi.",
-      "puntaje": "5.3",
+      "sinopsis": "La agente Alice se enfrenta a una horda de zombis en una ciudad sumida en la oscuridad tras un brote viral.",
+      "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
         "titulo_tmdb": "Resident Evil",
@@ -143,16 +139,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:40",
-                "17:40",
                 "20:00",
                 "22:20"
               ]
             }
           ],
           "horarios": [
-            "16:40",
-            "17:40",
             "20:00",
             "22:20"
           ]
@@ -186,8 +178,8 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote contrata a la empresa ACME para atrapar al veloz Correcaminos, pero sus ingeniosos planes siempre terminan en cómicos fracasos.",
-      "puntaje": "6.5",
+      "sinopsis": "El astuto Coyote vuelve a intentar atrapar al Correcaminos usando los ingeniosos y peligrosos inventos de la empresa ACME.",
+      "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
         "titulo_tmdb": "Coyote vs. Acme",
@@ -295,7 +287,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/zona-cero-12246_252",
       "trailer_url": "https://www.youtube.com/watch?v=DdSod74AsBY",
-      "sinopsis": "En una zona desolada, un grupo de sobrevivientes debe enfrentarse a criaturas mutantes y a sus propios demonios internos mientras buscan una salida del infierno terrestre.",
+      "sinopsis": "Un grupo de supervivientes lucha por escapar de una zona contaminada donde la radiación ha desatado criaturas mutantes.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 507244,
@@ -379,14 +371,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:10",
                 "19:20",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "17:10",
             "19:20",
             "21:30"
           ]
@@ -525,92 +515,6 @@
         ],
         "idioma": "Español",
         "titulo_original": "Impacto mortal"
-      }
-    },
-    {
-      "titulo": "Tadeo y la Lampara Maravillosa",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002974?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Animación",
-      "clasificacion": "APT",
-      "duracion": "95 min",
-      "director": "Enrique Gato",
-      "actores": "Óscar Barberán, Michelle Jenner, Luis Posada, Joseph Balderrama, Trevor White",
-      "estreno": "",
-      "sinopsis": "Oli, la intrépida hija de dos años de Tadeo, lo ha convertido en un padre sobreprotector, y Momia se siente relegada por toda la atención que ella recibe. Cuando encuentran la lámpara mágica en el Palacio de Buckingham, Momia le pide viajar en el tiempo a Paititi, Perú, en 1502. Tadeo, Sara y todo el equipo tendrán que seguir a Momia al pasado antes de que cambie la historia. Su viaje los llevará ",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://youtu.be/cpHujWfNLnE?si=maVSFUCeRYSM6NLM",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "16:55"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:55"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1187326,
-        "titulo_tmdb": "Tadeo Jones y La Lámpara Maravillosa",
-        "voto": 6.5,
-        "votos": 12,
-        "url_tmdb": "https://www.themoviedb.org/movie/1187326",
-        "imdb_id": "tt36164852",
-        "url_imdb": "https://www.imdb.com/title/tt36164852/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
-        "director": "Enrique Gato",
-        "reparto": [
-          {
-            "nombre": "Óscar Barberán",
-            "personaje": "Tadeo Jones (voice)"
-          },
-          {
-            "nombre": "Michelle Jenner",
-            "personaje": "Sara Lavrof (voice)"
-          },
-          {
-            "nombre": "Luis Posada",
-            "personaje": "Momia (voice)"
-          },
-          {
-            "nombre": "Joseph Balderrama",
-            "personaje": "Mummy / Tupac (voice)"
-          },
-          {
-            "nombre": "Trevor White",
-            "personaje": "Tad (voice)"
-          }
-        ],
-        "generos": [
-          "Animación",
-          "Comedia",
-          "Familia"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=CDpJJHc7xMo",
-          "embed_id": "CDpJJHc7xMo"
-        },
-        "sinopsis_tmdb": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
-        "estreno": "26 ago 2026",
-        "duracion_min": 94,
-        "paises": [
-          "España"
-        ],
-        "idioma": "Español",
-        "titulo_original": "Tadeo Jones y La Lámpara Maravillosa"
       }
     },
     {
@@ -790,14 +694,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:10",
                 "19:20",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "17:10",
             "19:20",
             "21:30"
           ]
@@ -811,16 +713,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:40",
-                "17:40",
                 "20:00",
                 "22:20"
               ]
             }
           ],
           "horarios": [
-            "16:40",
-            "17:40",
             "20:00",
             "22:20"
           ]
@@ -851,8 +749,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
-                "18:10",
                 "19:00",
                 "20:20",
                 "22:30"
@@ -860,28 +756,9 @@
             }
           ],
           "horarios": [
-            "16:00",
-            "18:10",
             "19:00",
             "20:20",
             "22:30"
-          ]
-        },
-        {
-          "titulo": "Tadeo y la Lampara Maravillosa",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002974?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Animación",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "16:55"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:55"
           ]
         },
         {
