@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-24 08:00",
+  "actualizado": "2026-09-24 11:00",
   "fecha_objetivo": "2026-09-24",
   "peliculas": [
     {
@@ -61,13 +61,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Una joven descubre que su familia guarda un oscuro secreto ligado a una criatura legendaria que acecha en los bosques.",
+      "sinopsis": "Una joven descubre que su familia guarda un oscuro secreto ligado a una criatura legendaria que amenaza su pueblo.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
         "titulo_tmdb": "En el corazón de la bestia",
         "voto": 7.7,
-        "votos": 26,
+        "votos": 27,
         "url_tmdb": "https://www.themoviedb.org/movie/1263337",
         "imdb_id": "tt7526136",
         "url_imdb": "https://www.imdb.com/title/tt7526136/",
@@ -163,7 +163,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "La heroína Alice regresa a Raccoon City para enfrentar una nueva amenaza bioterrorista que desata una plaga mortal.",
+      "sinopsis": "La heroína Alice regresa a Raccoon City para enfrentar una nueva ola de zombis y descubrir la verdad detrás de la corporación Umbrella.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -276,13 +276,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote de los Looney Tunes vuelve a intentar robar los productos de ACME, pero sus planes siempre terminan en cómicas catástrofes.",
+      "sinopsis": "El astuto Coyote intenta una vez más atrapar al Correcaminos usando los extravagantes inventos de la empresa ACME, con resultados cómicos y desastrosos.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
         "titulo_tmdb": "Coyote vs. Acme",
-        "voto": 7.6,
-        "votos": 502,
+        "voto": 7.5,
+        "votos": 505,
         "url_tmdb": "https://www.themoviedb.org/movie/1204680",
         "imdb_id": "tt1756855",
         "url_imdb": "https://www.imdb.com/title/tt1756855/",
@@ -339,7 +339,7 @@
       "genero": "Acción",
       "clasificacion": "APT",
       "duracion": "184 min",
-      "director": "Anthony Russo, Joe Russo",
+      "director": "Joe Russo, Anthony Russo",
       "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
       "estreno": "",
       "sinopsis": "El épico final de la Saga del Infinito regresa a las salas de cine como Avengers: Endgame: Bonus el 24 de septiembre de 2026. Después de que unos acontecimientos devastadores acabaran con la mitad de la población mundial, los héroes que quedan luchan por seguir adelante. Finalmente, deben unirse para restablecer el orden y la armonía en el universo y traer de vuelta a sus seres queridos en un dram",
@@ -410,7 +410,7 @@
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
         "poster_tmdb": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-        "director": "Anthony Russo, Joe Russo",
+        "director": "Joe Russo, Anthony Russo",
         "reparto": [
           {
             "nombre": "Robert Downey Jr.",
