@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-24 07:00",
+  "actualizado": "2026-09-24 08:00",
   "fecha_objetivo": "2026-09-24",
   "peliculas": [
     {
@@ -61,7 +61,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Un joven descubre que su corazón late al ritmo de una criatura legendaria que amenaza su aldea, y debe decidir entre el amor y la supervivencia.",
+      "sinopsis": "Una joven descubre que su familia guarda un oscuro secreto ligado a una criatura legendaria que acecha en los bosques.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
@@ -163,7 +163,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "La heroína Alice regresa a Raccoon City para enfrentar una nueva ola de zombis y descubrir el origen de la corporación Umbrella.",
+      "sinopsis": "La heroína Alice regresa a Raccoon City para enfrentar una nueva amenaza bioterrorista que desata una plaga mortal.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -276,7 +276,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote de los dibujos animados vuelve a intentar atrapar al Correcaminos usando los ingeniosos (y fallidos) productos de la empresa ACME.",
+      "sinopsis": "El astuto Coyote de los Looney Tunes vuelve a intentar robar los productos de ACME, pero sus planes siempre terminan en cómicas catástrofes.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
