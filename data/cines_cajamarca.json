@@ -2,13 +2,31 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-24 11:00",
+  "actualizado": "2026-09-24 12:03",
   "fecha_objetivo": "2026-09-24",
   "peliculas": [
     {
       "titulo": "El Corazón de la Bestia",
       "poster": "https://cdn.carteleracine.pe/cine/2026/8/en-el-corazon-de-la-bestia-47709-1.jpg",
       "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "19:00",
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:00",
+            "21:00"
+          ]
+        },
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
@@ -33,24 +51,6 @@
             "20:10",
             "22:30"
           ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "19:00",
-                "21:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:00",
-            "21:00"
-          ]
         }
       ],
       "genero": "Acción",
@@ -61,7 +61,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Una joven descubre que su familia guarda un oscuro secreto ligado a una criatura legendaria que amenaza su pueblo.",
+      "sinopsis": "Tras un aterrador accidente aéreo, el oficial de Fuerzas Especiales James Belmont (Brad Pitt) y su perro de combate, Odin, quedan varados en lo profundo de la naturaleza salvaje de Alaska. Juntos, se ven obligados a librar una brutal lucha por sobrevivir frente a los elementos.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
@@ -110,6 +110,26 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/9/resident-evil-noche-cero-47798-0.webp",
       "cines": [
         {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "17:10",
+                "19:05",
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:10",
+            "19:05",
+            "21:00"
+          ]
+        },
+        {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
           "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
@@ -133,26 +153,6 @@
             "20:00",
             "22:10"
           ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "17:10",
-                "19:05",
-                "21:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:10",
-            "19:05",
-            "21:00"
-          ]
         }
       ],
       "genero": "Terror",
@@ -163,7 +163,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "La heroína Alice regresa a Raccoon City para enfrentar una nueva ola de zombis y descubrir la verdad detrás de la corporación Umbrella.",
+      "sinopsis": "Sigue a un desafortunado mensajero encargado de entregar un paquete a un hospital remoto. Pronto se encuentra atrapado en medio de una epidemia y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -227,6 +227,24 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/8/coyote-vs-acme-47670-0.webp",
       "cines": [
         {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "15:00",
+                "17:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:00"
+          ]
+        },
+        {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
           "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
@@ -248,24 +266,6 @@
             "17:10",
             "19:30"
           ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "17:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "17:00"
-          ]
         }
       ],
       "genero": "Animado",
@@ -276,7 +276,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote intenta una vez más atrapar al Correcaminos usando los extravagantes inventos de la empresa ACME, con resultados cómicos y desastrosos.",
+      "sinopsis": "Después de décadas fallando en atrapar al Correcaminos, el Coyote decide hacer lo impensado: demandar a ACME, la compañía responsable de todos los productos defectuosos que arruinaron sus planes. En el juicio más absurdo de la historia, la comedia y la animación se mezclan en una batalla legal que podría cambiar el destino del desierto… para siempre.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
@@ -334,6 +334,96 @@
       }
     },
     {
+      "titulo": "Avengers: Endgame",
+      "poster": "https://cdn.carteleracine.pe/cine/2019/1/avengers-endgame-47703-0.webp",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "14:35",
+                "18:00",
+                "21:25"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:35",
+            "18:00",
+            "21:25"
+          ]
+        }
+      ],
+      "genero": "Acción",
+      "duracion": "185 minutos",
+      "clasificacion": "12 Años",
+      "director": "Anthony Russo,Joe Russo",
+      "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/avengers-endgame-6958_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Avengers%3A%20Endgame%20trailer%20espanol",
+      "sinopsis": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 299534,
+        "titulo_tmdb": "Vengadores: Endgame",
+        "voto": 8.2,
+        "votos": 28759,
+        "url_tmdb": "https://www.themoviedb.org/movie/299534",
+        "imdb_id": "tt4154796",
+        "url_imdb": "https://www.imdb.com/title/tt4154796/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+        "director": "Joe Russo, Anthony Russo",
+        "reparto": [
+          {
+            "nombre": "Robert Downey Jr.",
+            "personaje": "Tony Stark / Iron Man"
+          },
+          {
+            "nombre": "Chris Evans",
+            "personaje": "Steve Rogers / Captain America"
+          },
+          {
+            "nombre": "Mark Ruffalo",
+            "personaje": "Bruce Banner / Hulk"
+          },
+          {
+            "nombre": "Chris Hemsworth",
+            "personaje": "Thor"
+          },
+          {
+            "nombre": "Scarlett Johansson",
+            "personaje": "Natasha Romanoff / Black Widow"
+          },
+          {
+            "nombre": "Jeremy Renner",
+            "personaje": "Clint Barton / Hawkeye"
+          }
+        ],
+        "generos": [
+          "Aventura",
+          "Ciencia ficción",
+          "Acción"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=Ib847Q7C9AU",
+          "embed_id": "Ib847Q7C9AU"
+        },
+        "sinopsis_tmdb": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+        "estreno": "24 abr 2019",
+        "duracion_min": 181,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Avengers: Endgame"
+      }
+    },
+    {
       "titulo": "Avengers Endgame Bonus",
       "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003092?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "genero": "Acción",
@@ -378,26 +468,6 @@
             "18:00",
             "20:40",
             "21:40"
-          ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "14:35",
-                "18:00",
-                "21:25"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:35",
-            "18:00",
-            "21:25"
           ]
         }
       ],
@@ -541,42 +611,97 @@
         "idioma": "Inglés",
         "titulo_original": "Hitters"
       }
-    },
+    }
+  ],
+  "cines": [
     {
-      "titulo": "Súper Bebé",
-      "poster": "https://www.movietime.com.pe/bucket/images/cine/c21e8d26-d42d-415b-a56d-37ca9deca457.jpeg",
-      "genero": "",
-      "clasificacion": "APT",
-      "duracion": "81 min",
-      "sinopsis": "Wille, de diez años, siempre ha soñado con convertirse en superhéroe y acabar con criminales junto a su padre policía. Sin embargo, su sueño se ve truncado con el nacimiento de su hermano pequeño, Charlie. El pequeño no solo acapara toda la atención, sino que Wille también descubre que Charlie tiene superpoderes...",
-      "director": "",
-      "actores": "",
-      "estreno": "",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://youtu.be/QvpcAX8rE-4",
-      "fuente_peli": "Movie Time",
-      "cines": [
+      "cine": "Movie Time Cajamarca",
+      "cine_slug": "movietime-cajamarca-cajamarca-s448",
+      "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+      "peliculas": [
         {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "titulo": "El Corazón de la Bestia",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/en-el-corazon-de-la-bestia-47709-1.jpg",
+          "genero": "Acción",
+          "clasificacion": "7 Años",
           "formatos": [
             {
-              "formato": "",
+              "formato": "Doblada",
               "horarios": [
-                "15:30"
+                "19:00",
+                "21:00"
               ]
             }
           ],
           "horarios": [
-            "15:30"
+            "19:00",
+            "21:00"
+          ]
+        },
+        {
+          "titulo": "Resident Evil: Noche Cero",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/9/resident-evil-noche-cero-47798-0.webp",
+          "genero": "Terror",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "17:10",
+                "19:05",
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:10",
+            "19:05",
+            "21:00"
+          ]
+        },
+        {
+          "titulo": "Coyote vs. ACME",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/coyote-vs-acme-47670-0.webp",
+          "genero": "Animado",
+          "clasificacion": "7 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "15:00",
+                "17:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:00"
+          ]
+        },
+        {
+          "titulo": "Avengers: Endgame",
+          "poster": "https://cdn.carteleracine.pe/cine/2019/1/avengers-endgame-47703-0.webp",
+          "genero": "Acción",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "14:35",
+                "18:00",
+                "21:25"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:35",
+            "18:00",
+            "21:25"
           ]
         }
-      ]
-    }
-  ],
-  "cines": [
+      ],
+      "cine_original": "CAJAMARCA - MOVIE TIME"
+    },
     {
       "cine": "CinePlanet Cajamarca Real Plaza",
       "cine_slug": "cp-cajamarca",
@@ -714,134 +839,11 @@
       "no_consultado": true,
       "url": "https://www.cinerama.com.pe/cines",
       "cine_original": "Cajamarca Megaplaza (Cinerama)"
-    },
-    {
-      "cine": "Movie Time Cajamarca",
-      "cine_slug": "movietime-cajamarca",
-      "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-      "url": "https://www.movietime.com.pe/cinemas/cajamarca",
-      "fuente_cine": "Movie Time",
-      "peliculas": [
-        {
-          "titulo": "Avengers Endgame Bonus",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/b515ef8a-4882-4eb3-9bdc-191c9dadc95d.png",
-          "genero": "",
-          "clasificacion": "APT",
-          "duracion": "185 min",
-          "sinopsis": "El épico final de la Saga del Infinito regresa a las salas de cine como Avengers: Endgame: Bonus el 24 de septiembre de 2026. Después de que unos acontecimientos devastadores acabaran con la mitad de la población mundial, los héroes que quedan luchan por seguir adelante. Finalmente, deben unirse para restablecer el orden y la armonía en el universo y traer de vuelta a sus seres queridos en un dram",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "14:35",
-                "18:00",
-                "21:25"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:35",
-            "18:00",
-            "21:25"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=u7QErIFCc7k"
-        },
-        {
-          "titulo": "Coyote vs. ACME",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/980f6987-4dcf-4d9b-b746-b7366ba93692.png",
-          "genero": "",
-          "clasificacion": "APT",
-          "duracion": "103 min",
-          "sinopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "17:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "17:00"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=DIqJb0LwSho"
-        },
-        {
-          "titulo": "El Corazón de la Bestia",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/d027eaf3-8113-465c-a06b-759de8d415a5.jpeg",
-          "genero": "",
-          "clasificacion": "+14",
-          "duracion": "101 min",
-          "sinopsis": "Tras un aterrador accidente aéreo, el oficial de Fuerzas Especiales James Belmont (Brad Pitt) y su perro de combate, Odin, quedan varados en lo profundo de la naturaleza salvaje de Alaska. Juntos, se ven obligados a librar una brutal lucha por sobrevivir frente a los elementos.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "19:00",
-                "21:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:00",
-            "21:00"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=OAGoEmCirOY"
-        },
-        {
-          "titulo": "Resident Evil: Noche Cero",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/1a14ac98-e6bb-41bd-a9f4-870b4a6682c7.jpeg",
-          "genero": "",
-          "clasificacion": "+14",
-          "duracion": "93 min",
-          "sinopsis": "Sigue a un desafortunado mensajero encargado de entregar un paquete a un hospital remoto. Pronto se encuentra atrapado en medio de una epidemia y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "17:10",
-                "19:05",
-                "21:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:10",
-            "19:05",
-            "21:00"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=8iKTeIV2xgE"
-        },
-        {
-          "titulo": "Súper Bebé",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/c21e8d26-d42d-415b-a56d-37ca9deca457.jpeg",
-          "genero": "",
-          "clasificacion": "APT",
-          "duracion": "81 min",
-          "sinopsis": "Wille, de diez años, siempre ha soñado con convertirse en superhéroe y acabar con criminales junto a su padre policía. Sin embargo, su sueño se ve truncado con el nacimiento de su hermano pequeño, Charlie. El pequeño no solo acapara toda la atención, sino que Wille también descubre que Charlie tiene superpoderes...",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30"
-          ],
-          "trailer_url": "https://youtu.be/QvpcAX8rE-4"
-        }
-      ]
     }
   ],
   "estado": "ok",
-  "motor": "groq",
   "fuentes_extra": [
-    "Cineplanet",
-    "Movie Time"
+    "Cineplanet"
   ],
   "notas": [
     "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
