@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-25 08:00",
+  "actualizado": "2026-09-25 11:00",
   "fecha_objetivo": "2026-09-25",
   "peliculas": [
     {
@@ -63,7 +63,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Una joven descubre que su padre, desaparecido hace años, es una criatura legendaria que protege a la humanidad de una amenaza sobrenatural.",
+      "sinopsis": "Una joven descubre que su familia guarda un oscuro secreto: un monstruo legendario que protege un antiguo tesoro bajo la ciudad.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
@@ -169,7 +169,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "La protagonista, Alice, regresa a Raccoon City para detener una nueva ola de infectados y descubrir el origen de la corporación Umbrella.",
+      "sinopsis": "Tras un brote de la infección T‑virus, un grupo de sobrevivientes debe infiltrarse en una instalación secreta para detener una amenaza biológica que se desata en la noche.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -282,7 +282,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote intenta una vez más robar los productos de ACME, mientras el ingenioso Correcaminos lo frustra con sus ingeniosas trampas.",
+      "sinopsis": "El astuto Coyote planea su mayor atraco contra la corporación ACME, mientras el ingenioso Correcaminos lo persigue con sus icónicos trucos.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
@@ -409,7 +409,7 @@
         "tmdb_id": 299534,
         "titulo_tmdb": "Vengadores: Endgame",
         "voto": 8.2,
-        "votos": 28765,
+        "votos": 28767,
         "url_tmdb": "https://www.themoviedb.org/movie/299534",
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
