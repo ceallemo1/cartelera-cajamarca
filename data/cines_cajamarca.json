@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-25 07:00",
+  "actualizado": "2026-09-25 08:00",
   "fecha_objetivo": "2026-09-25",
   "peliculas": [
     {
@@ -63,13 +63,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Una joven descubre que su padre, desaparecido hace años, es en realidad una criatura legendaria que protege a la humanidad de amenazas sobrenaturales.",
+      "sinopsis": "Una joven descubre que su padre, desaparecido hace años, es una criatura legendaria que protege a la humanidad de una amenaza sobrenatural.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
         "titulo_tmdb": "En el corazón de la bestia",
         "voto": 8.0,
-        "votos": 36,
+        "votos": 39,
         "url_tmdb": "https://www.themoviedb.org/movie/1263337",
         "imdb_id": "tt7526136",
         "url_imdb": "https://www.imdb.com/title/tt7526136/",
@@ -169,7 +169,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "En esta entrega, la protagonista Alice se enfrenta a una nueva amenaza biotecnológica que convierte a la población de Raccoon City en una pesadilla nocturna.",
+      "sinopsis": "La protagonista, Alice, regresa a Raccoon City para detener una nueva ola de infectados y descubrir el origen de la corporación Umbrella.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -282,7 +282,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote intenta una vez más robar los productos de ACME, mientras la liebre Speedy se convierte en su inesperado aliado para frustrar sus planes.",
+      "sinopsis": "El astuto Coyote intenta una vez más robar los productos de ACME, mientras el ingenioso Correcaminos lo frustra con sus ingeniosas trampas.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
