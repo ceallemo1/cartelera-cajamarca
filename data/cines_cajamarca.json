@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-24 17:00",
+  "actualizado": "2026-09-24 21:02",
   "fecha_objetivo": "2026-09-24",
   "peliculas": [
     {
@@ -20,16 +20,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
-                "17:50",
                 "20:10",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "15:30",
-            "17:50",
             "20:10",
             "22:30"
           ]
@@ -83,7 +79,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Un aventurero descubre una criatura legendaria cuyo corazón posee poderes sobrenaturales, desatando una lucha entre la humanidad y la bestia.",
+      "sinopsis": "Un joven descubre que su corazón late al ritmo de una criatura legendaria, desatando una lucha entre la humanidad y la bestia interior.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
@@ -142,16 +138,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:20",
-                "17:40",
                 "20:00",
                 "22:10"
               ]
             }
           ],
           "horarios": [
-            "15:20",
-            "17:40",
             "20:00",
             "22:10"
           ]
@@ -207,7 +199,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "En esta entrega de la saga, la protagonista Alice enfrenta una nueva amenaza bioterrorista que se desata durante una noche siniestra.",
+      "sinopsis": "Tras un brote viral, la heroína Alice debe sobrevivir a una noche siniestra en una instalación de investigación infestada de zombis.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -281,15 +273,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:50",
-                "17:10",
                 "19:30"
               ]
             }
           ],
           "horarios": [
-            "14:50",
-            "17:10",
             "19:30"
           ]
         },
@@ -338,13 +326,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote vuelve a intentar atrapar al Correcaminos usando los ingeniosos productos de la compañía ACME, con resultados desastrosos.",
+      "sinopsis": "El astuto Coyote intenta robar un cohete de ACME, pero sus planes se complican cuando el ingenioso Correcaminos lo persigue.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
         "titulo_tmdb": "Coyote vs. Acme",
         "voto": 7.5,
-        "votos": 505,
+        "votos": 504,
         "url_tmdb": "https://www.themoviedb.org/movie/1204680",
         "imdb_id": "tt1756855",
         "url_imdb": "https://www.imdb.com/title/tt1756855/",
@@ -443,7 +431,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/codigo-venganza-12252_252",
       "trailer_url": "https://www.youtube.com/watch?v=qdlvcbtHSuo",
-      "sinopsis": "Un exagente de inteligencia crea un plan de venganza cibernética contra la organización que destruyó su vida.",
+      "sinopsis": "Un exagente de élite regresa al mundo del espionaje para vengar la muerte de su compañero, enfrentándose a una red criminal global.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 188834,
@@ -520,21 +508,17 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:00",
                 "20:40"
               ]
             },
             {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
-                "18:00",
                 "21:40"
               ]
             }
           ],
           "horarios": [
-            "17:00",
-            "18:00",
             "20:40",
             "21:40"
           ]
@@ -948,21 +932,17 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:00",
                 "20:40"
               ]
             },
             {
               "formato": "3D REGULAR DOBLADA",
               "horarios": [
-                "18:00",
                 "21:40"
               ]
             }
           ],
           "horarios": [
-            "17:00",
-            "18:00",
             "20:40",
             "21:40"
           ]
@@ -993,15 +973,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:50",
-                "17:10",
                 "19:30"
               ]
             }
           ],
           "horarios": [
-            "14:50",
-            "17:10",
             "19:30"
           ]
         },
@@ -1014,16 +990,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
-                "17:50",
                 "20:10",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "15:30",
-            "17:50",
             "20:10",
             "22:30"
           ]
@@ -1037,16 +1009,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:20",
-                "17:40",
                 "20:00",
                 "22:10"
               ]
             }
           ],
           "horarios": [
-            "15:20",
-            "17:40",
             "20:00",
             "22:10"
           ]
