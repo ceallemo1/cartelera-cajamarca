@@ -2,12 +2,12 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-26 01:05",
+  "actualizado": "2026-09-26 11:17",
   "fecha_objetivo": "2026-09-26",
   "peliculas": [
     {
       "titulo": "El Corazón de la Bestia",
-      "poster": "",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002975?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
@@ -28,6 +28,31 @@
             "19:00",
             "21:00"
           ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:30",
+                "17:50",
+                "20:10",
+                "22:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "17:50",
+            "20:10",
+            "22:30"
+          ]
         }
       ],
       "genero": "Acción",
@@ -37,14 +62,14 @@
       "actores": "Brad Pitt, J.K. Simmons, Anna Lambe, Justin Melnick, Shaun DeZern",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=El%20Coraz%C3%B3n%20de%20la%20Bestia%20trailer%20espanol",
-      "sinopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+      "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
+      "sinopsis": "Tras un aterrador accidente aéreo, el oficial de Fuerzas Especiales James Belmont (Brad Pitt) y su perro de combate, Odin, quedan varados en lo profundo de la naturaleza salvaje de Alaska. Juntos, se ven obligados a librar una brutal lucha por sobrevivir frente a los elementos.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
         "titulo_tmdb": "En el corazón de la bestia",
         "voto": 7.7,
-        "votos": 51,
+        "votos": 55,
         "url_tmdb": "https://www.themoviedb.org/movie/1263337",
         "imdb_id": "tt7526136",
         "url_imdb": "https://www.imdb.com/title/tt7526136/",
@@ -203,6 +228,31 @@
             "19:05",
             "21:00"
           ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:20",
+                "17:40",
+                "20:00",
+                "22:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:20",
+            "17:40",
+            "20:00",
+            "22:10"
+          ]
         }
       ],
       "genero": "Terror",
@@ -212,14 +262,14 @@
       "actores": "Austin Abrams, Zach Cherry, Kali Reis y Paul Walter Hauser",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Resident%20Evil%3A%20Noche%20Cero%20trailer%20espanol",
-      "sinopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
+      "sinopsis": "Sigue a un desafortunado mensajero encargado de entregar un paquete a un hospital remoto. Pronto se encuentra atrapado en medio de una epidemia y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
         "titulo_tmdb": "Resident Evil",
         "voto": 7.3,
-        "votos": 468,
+        "votos": 482,
         "url_tmdb": "https://www.themoviedb.org/movie/1423191",
         "imdb_id": "tt35538033",
         "url_imdb": "https://www.imdb.com/title/tt35538033/",
@@ -300,6 +350,29 @@
             "15:00",
             "17:00"
           ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:50",
+                "17:10",
+                "19:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:50",
+            "17:10",
+            "19:30"
+          ]
         }
       ],
       "genero": "Animado",
@@ -309,14 +382,14 @@
       "actores": "Will Forte, Lana Condor, John Cena, Tone Bell, Martha Kelly, Luis Guzmán",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Coyote%20vs.%20ACME%20trailer%20espanol",
-      "sinopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+      "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
+      "sinopsis": "Después de décadas fallando en atrapar al Correcaminos, el Coyote decide hacer lo impensado: demandar a ACME, la compañía responsable de todos los productos defectuosos que arruinaron sus planes. En el juicio más absurdo de la historia, la comedia y la animación se mezclan en una batalla legal que podría cambiar el destino del desierto… para siempre.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
         "titulo_tmdb": "Coyote vs. Acme",
         "voto": 7.6,
-        "votos": 518,
+        "votos": 521,
         "url_tmdb": "https://www.themoviedb.org/movie/1204680",
         "imdb_id": "tt1756855",
         "url_imdb": "https://www.imdb.com/title/tt1756855/",
@@ -404,12 +477,12 @@
         "tmdb_id": 299534,
         "titulo_tmdb": "Vengadores: Endgame",
         "voto": 8.2,
-        "votos": 28778,
+        "votos": 28785,
         "url_tmdb": "https://www.themoviedb.org/movie/299534",
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
         "poster_tmdb": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-        "director": "Joe Russo, Anthony Russo",
+        "director": "Anthony Russo, Joe Russo",
         "reparto": [
           {
             "nombre": "Robert Downey Jr.",
@@ -461,7 +534,7 @@
       "genero": "Acción",
       "clasificacion": "APT",
       "duracion": "184 min",
-      "director": "Joe Russo, Anthony Russo",
+      "director": "Anthony Russo, Joe Russo",
       "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
       "estreno": "",
       "sinopsis": "El épico final de la Saga del Infinito regresa a las salas de cine como Avengers: Endgame: Bonus el 24 de septiembre de 2026. Después de que unos acontecimientos devastadores acabaran con la mitad de la población mundial, los héroes que quedan luchan por seguir adelante. Finalmente, deben unirse para restablecer el orden y la armonía en el universo y traer de vuelta a sus seres queridos en un dram",
@@ -485,11 +558,20 @@
                 "18:00",
                 "21:40"
               ]
+            },
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "17:00",
+                "20:40"
+              ]
             }
           ],
           "horarios": [
             "14:20",
+            "17:00",
             "18:00",
+            "20:40",
             "21:40"
           ]
         }
@@ -498,12 +580,12 @@
         "tmdb_id": 299534,
         "titulo_tmdb": "Vengadores: Endgame",
         "voto": 8.2,
-        "votos": 28778,
+        "votos": 28783,
         "url_tmdb": "https://www.themoviedb.org/movie/299534",
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
         "poster_tmdb": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-        "director": "Joe Russo, Anthony Russo",
+        "director": "Anthony Russo, Joe Russo",
         "reparto": [
           {
             "nombre": "Robert Downey Jr.",
@@ -547,6 +629,92 @@
         ],
         "idioma": "Inglés",
         "titulo_original": "Avengers: Endgame"
+      }
+    },
+    {
+      "titulo": "Código: Venganza",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002972?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Acción",
+      "clasificacion": "+14",
+      "duracion": "96 min",
+      "director": "Eric Weston",
+      "actores": "Robert Davi, Costas Mandylor, Joey DePinto, Richard C. Sarafian, Frank Stallone Jr., Frank D'Amico",
+      "estreno": "",
+      "sinopsis": "Después de que su jefe multimillonario sea asesinado frente a él, el agente de seguridad Cole Reed es incriminado por el homicidio y queda al borde de la bancarrota e injusticia. Perseguido por fuerzas internacionales, Reed debe limpiar su nombre y descubrir la conspiración detrás del asesinato, en una carrera contra el tiempo con acción intensa en alta mar y entornos corporativos letales",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=qdlvcbtHSuo",
+      "fuente_peli": "Cineplanet",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:40",
+                "21:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:40",
+            "21:50"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 188834,
+        "titulo_tmdb": "Código de venganza",
+        "voto": 3.3,
+        "votos": 6,
+        "url_tmdb": "https://www.themoviedb.org/movie/188834",
+        "imdb_id": "tt0311284",
+        "url_imdb": "https://www.imdb.com/title/tt0311284/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/qplSfNUwaQJ4RwT2NNjNEFIdhQK.jpg",
+        "director": "Eric Weston",
+        "reparto": [
+          {
+            "nombre": "Robert Davi",
+            "personaje": "Nick"
+          },
+          {
+            "nombre": "Costas Mandylor",
+            "personaje": "Tony"
+          },
+          {
+            "nombre": "Joey DePinto",
+            "personaje": "Vince"
+          },
+          {
+            "nombre": "Richard C. Sarafian",
+            "personaje": ""
+          },
+          {
+            "nombre": "Frank Stallone Jr.",
+            "personaje": "Spilotri"
+          },
+          {
+            "nombre": "Frank D'Amico",
+            "personaje": "Tommy Crapisi"
+          }
+        ],
+        "generos": [
+          "Acción",
+          "Crimen"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Un respetado hombre de negocios se ve atrapado en mitad de una guerra entre dos familias rivales del crimen organizado. Tendrá que elegir entre ser fiel a la tradición familiar o ser fiel a sí mismo.",
+        "estreno": "1 dic 2002",
+        "duracion_min": 88,
+        "paises": [],
+        "idioma": "Inglés",
+        "titulo_original": "Hitters"
       }
     }
   ],
@@ -686,12 +854,107 @@
                 "18:00",
                 "21:40"
               ]
+            },
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "17:00",
+                "20:40"
+              ]
             }
           ],
           "horarios": [
             "14:20",
+            "17:00",
             "18:00",
+            "20:40",
             "21:40"
+          ]
+        },
+        {
+          "titulo": "Código: Venganza",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002972?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:40",
+                "21:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:40",
+            "21:50"
+          ]
+        },
+        {
+          "titulo": "Coyote vs. ACME",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002921?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Familiar",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:50",
+                "17:10",
+                "19:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:50",
+            "17:10",
+            "19:30"
+          ]
+        },
+        {
+          "titulo": "El Corazón de la Bestia",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002975?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:30",
+                "17:50",
+                "20:10",
+                "22:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "17:50",
+            "20:10",
+            "22:30"
+          ]
+        },
+        {
+          "titulo": "Resident Evil: Noche Cero",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003067?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Terror",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:20",
+                "17:40",
+                "20:00",
+                "22:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:20",
+            "17:40",
+            "20:00",
+            "22:10"
           ]
         }
       ],
