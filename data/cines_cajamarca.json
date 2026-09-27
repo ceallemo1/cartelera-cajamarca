@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-27 09:07",
+  "actualizado": "2026-09-27 11:00",
   "fecha_objetivo": "2026-09-27",
   "peliculas": [
     {
@@ -85,7 +85,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Un aventurero descubre una criatura legendaria que guarda un secreto ancestral, desatando una lucha entre la humanidad y la bestia.",
+      "sinopsis": "Un aventurero se adentra en una selva misteriosa para encontrar a una criatura legendaria que guarda un secreto sobre su propia identidad.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
@@ -217,7 +217,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "En una noche siniestra, los supervivientes de la corporación Umbrella se enfrentan a una nueva ola de zombis y mutantes en una ciudad desierta.",
+      "sinopsis": "En una noche siniestra, los supervivientes de la corporación Umbrella deben luchar contra una nueva ola de zombis y criaturas mutantes.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -364,7 +364,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote vuelve a intentar atrapar al Correcaminos usando los ingeniosos (y fallidos) inventos de la empresa ACME.",
+      "sinopsis": "El astuto Coyote vuelve a intentar capturar al Correcaminos usando los ingeniosos (y fallidos) inventos de la empresa ACME.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
@@ -471,7 +471,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/codigo-venganza-12252_252",
       "trailer_url": "https://www.youtube.com/watch?v=qdlvcbtHSuo",
-      "sinopsis": "Un hacker busca venganza contra la corporación que destruyó su vida, infiltrándose en sus sistemas y desatando una guerra cibernética.",
+      "sinopsis": "Un hacker vengativo se infiltra en los sistemas más seguros del mundo para vengar la muerte de su familia, desatando una guerra cibernética.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 188834,
