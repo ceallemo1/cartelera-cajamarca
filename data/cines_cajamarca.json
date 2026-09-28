@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-28 01:43",
+  "actualizado": "2026-09-28 07:00",
   "fecha_objetivo": "2026-09-28",
   "peliculas": [
     {
@@ -51,13 +51,31 @@
             "20:40",
             "21:40"
           ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "18:00",
+                "21:25"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:00",
+            "21:25"
+          ]
         }
       ],
       "tmdb": {
         "tmdb_id": 299534,
         "titulo_tmdb": "Vengadores: Endgame",
         "voto": 8.2,
-        "votos": 28822,
+        "votos": 28827,
         "url_tmdb": "https://www.themoviedb.org/movie/299534",
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
@@ -231,13 +249,31 @@
             "17:10",
             "19:30"
           ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "17:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:00"
+          ]
         }
       ],
       "tmdb": {
         "tmdb_id": 1204680,
         "titulo_tmdb": "Coyote vs. Acme",
         "voto": 7.6,
-        "votos": 544,
+        "votos": 550,
         "url_tmdb": "https://www.themoviedb.org/movie/1204680",
         "imdb_id": "tt1756855",
         "url_imdb": "https://www.imdb.com/title/tt1756855/",
@@ -295,7 +331,7 @@
       "clasificacion": "+14",
       "duracion": "102 min",
       "director": "David Ayer",
-      "actores": "Brad Pitt, J.K. Simmons, Anna Lambe, Justin Melnick, Shaun DeZern, Uber",
+      "actores": "Brad Pitt, J.K. Simmons, Anna Lambe, Justin Melnick, Shaun DeZern",
       "estreno": "",
       "sinopsis": "Tras un aterrador accidente aéreo, el oficial de Fuerzas Especiales James Belmont (Brad Pitt) y su perro de combate, Odin, quedan varados en lo profundo de la naturaleza salvaje de Alaska. Juntos, se ven obligados a librar una brutal lucha por sobrevivir frente a los elementos.",
       "puntaje": "",
@@ -326,6 +362,26 @@
             "17:50",
             "20:10",
             "22:30"
+          ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "19:00",
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "19:00",
+            "21:00"
           ]
         }
       ],
@@ -359,10 +415,6 @@
           {
             "nombre": "Shaun DeZern",
             "personaje": "Military Soldier"
-          },
-          {
-            "nombre": "Uber",
-            "personaje": "Odin"
           }
         ],
         "generos": [
@@ -422,6 +474,26 @@
             "20:00",
             "22:10"
           ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:10",
+                "19:05",
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:10",
+            "19:05",
+            "21:00"
+          ]
         }
       ],
       "tmdb": {
@@ -480,6 +552,39 @@
         "idioma": "Inglés",
         "titulo_original": "Resident Evil"
       }
+    },
+    {
+      "titulo": "Súper Bebé",
+      "poster": "https://www.movietime.com.pe/bucket/images/cine/c21e8d26-d42d-415b-a56d-37ca9deca457.jpeg",
+      "genero": "",
+      "clasificacion": "APT",
+      "duracion": "81 min",
+      "sinopsis": "Wille, de diez años, siempre ha soñado con convertirse en superhéroe y acabar con criminales junto a su padre policía. Sin embargo, su sueño se ve truncado con el nacimiento de su hermano pequeño, Charlie. El pequeño no solo acapara toda la atención, sino que Wille también descubre que Charlie tiene superpoderes...",
+      "director": "",
+      "actores": "",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://youtu.be/QvpcAX8rE-4",
+      "fuente_peli": "Movie Time",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30"
+          ]
+        }
+      ]
     }
   ],
   "cines": [
@@ -611,15 +716,6 @@
       "cine_original": "CP Cajamarca"
     },
     {
-      "cine": "Movie Time Cajamarca",
-      "cine_slug": "movietime-cajamarca-cajamarca-s448",
-      "direccion": "",
-      "peliculas": [],
-      "sin_programacion": true,
-      "nota": "La fuente no publica funciones de esta sala hoy.",
-      "cine_original": "Cajamarca (Movie Time)"
-    },
-    {
       "cine": "Cinerama Cajamarca MegaPlaza",
       "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
       "direccion": "",
@@ -629,11 +725,134 @@
       "no_consultado": true,
       "url": "https://www.cinerama.com.pe/cines",
       "cine_original": "Cajamarca Megaplaza (Cinerama)"
+    },
+    {
+      "cine": "Movie Time Cajamarca",
+      "cine_slug": "movietime-cajamarca",
+      "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+      "url": "https://www.movietime.com.pe/cinemas/cajamarca",
+      "fuente_cine": "Movie Time",
+      "peliculas": [
+        {
+          "titulo": "Avengers Endgame Bonus",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/b515ef8a-4882-4eb3-9bdc-191c9dadc95d.png",
+          "genero": "",
+          "clasificacion": "APT",
+          "duracion": "185 min",
+          "sinopsis": "El épico final de la Saga del Infinito regresa a las salas de cine como Avengers: Endgame: Bonus el 24 de septiembre de 2026. Después de que unos acontecimientos devastadores acabaran con la mitad de la población mundial, los héroes que quedan luchan por seguir adelante. Finalmente, deben unirse para restablecer el orden y la armonía en el universo y traer de vuelta a sus seres queridos en un dram",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "18:00",
+                "21:25"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:00",
+            "21:25"
+          ],
+          "trailer_url": "https://www.youtube.com/watch?v=u7QErIFCc7k"
+        },
+        {
+          "titulo": "Coyote vs Acme",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/980f6987-4dcf-4d9b-b746-b7366ba93692.png",
+          "genero": "",
+          "clasificacion": "APT",
+          "duracion": "103 min",
+          "sinopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "17:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:00"
+          ],
+          "trailer_url": "https://www.youtube.com/watch?v=DIqJb0LwSho"
+        },
+        {
+          "titulo": "El Corazon de la Bestia",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/d027eaf3-8113-465c-a06b-759de8d415a5.jpeg",
+          "genero": "",
+          "clasificacion": "+14",
+          "duracion": "101 min",
+          "sinopsis": "Tras un aterrador accidente aéreo, el oficial de Fuerzas Especiales James Belmont (Brad Pitt) y su perro de combate, Odin, quedan varados en lo profundo de la naturaleza salvaje de Alaska. Juntos, se ven obligados a librar una brutal lucha por sobrevivir frente a los elementos.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "19:00",
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "19:00",
+            "21:00"
+          ],
+          "trailer_url": "https://www.youtube.com/watch?v=OAGoEmCirOY"
+        },
+        {
+          "titulo": "Resident Evil Noche Cero",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/1a14ac98-e6bb-41bd-a9f4-870b4a6682c7.jpeg",
+          "genero": "",
+          "clasificacion": "+14",
+          "duracion": "93 min",
+          "sinopsis": "Sigue a un desafortunado mensajero encargado de entregar un paquete a un hospital remoto. Pronto se encuentra atrapado en medio de una epidemia y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:10",
+                "19:05",
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:10",
+            "19:05",
+            "21:00"
+          ],
+          "trailer_url": "https://www.youtube.com/watch?v=8iKTeIV2xgE"
+        },
+        {
+          "titulo": "Súper Bebé",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/c21e8d26-d42d-415b-a56d-37ca9deca457.jpeg",
+          "genero": "",
+          "clasificacion": "APT",
+          "duracion": "81 min",
+          "sinopsis": "Wille, de diez años, siempre ha soñado con convertirse en superhéroe y acabar con criminales junto a su padre policía. Sin embargo, su sueño se ve truncado con el nacimiento de su hermano pequeño, Charlie. El pequeño no solo acapara toda la atención, sino que Wille también descubre que Charlie tiene superpoderes...",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30"
+          ],
+          "trailer_url": "https://youtu.be/QvpcAX8rE-4"
+        }
+      ]
     }
   ],
   "estado": "ok",
+  "motor": "groq",
   "fuentes_extra": [
-    "Cineplanet"
+    "Cineplanet",
+    "Movie Time"
   ],
   "notas": [
     "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
