@@ -2,9 +2,510 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-28 08:00",
+  "actualizado": "2026-09-28 11:00",
   "fecha_objetivo": "2026-09-28",
   "peliculas": [
+    {
+      "titulo": "El Corazón de la Bestia",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002975?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:30",
+                "17:50",
+                "20:10",
+                "22:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "17:50",
+            "20:10",
+            "22:30"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:00",
+                "20:00",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:00",
+            "20:00",
+            "22:00"
+          ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "19:00",
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "19:00",
+            "21:00"
+          ]
+        }
+      ],
+      "genero": "Acción",
+      "duracion": "101 minutos",
+      "clasificacion": "7 Años",
+      "director": "David Ayer",
+      "actores": "Brad Pitt, J.K. Simmons, Anna Lambe, Justin Melnick, Shaun DeZern",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
+      "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
+      "sinopsis": "Un joven descubre que su corazón late al ritmo de una criatura legendaria, desatando una lucha interna entre su humanidad y la bestia que lleva dentro.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1263337,
+        "titulo_tmdb": "En el corazón de la bestia",
+        "voto": 7.7,
+        "votos": 110,
+        "url_tmdb": "https://www.themoviedb.org/movie/1263337",
+        "imdb_id": "tt7526136",
+        "url_imdb": "https://www.imdb.com/title/tt7526136/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
+        "director": "David Ayer",
+        "reparto": [
+          {
+            "nombre": "Brad Pitt",
+            "personaje": "James Belmont"
+          },
+          {
+            "nombre": "J.K. Simmons",
+            "personaje": "Watkins"
+          },
+          {
+            "nombre": "Anna Lambe",
+            "personaje": "Amber"
+          },
+          {
+            "nombre": "Justin Melnick",
+            "personaje": "Military Soldier"
+          },
+          {
+            "nombre": "Shaun DeZern",
+            "personaje": "Military Soldier"
+          }
+        ],
+        "generos": [
+          "Aventura",
+          "Suspense"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=Rh24D89hFMg",
+          "embed_id": "Rh24D89hFMg"
+        },
+        "sinopsis_tmdb": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+        "estreno": "19 sep 2026",
+        "duracion_min": 101,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Heart of the Beast"
+      }
+    },
+    {
+      "titulo": "Resident Evil: Noche Cero",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/9/resident-evil-noche-cero-47798-0.webp",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:20",
+                "17:40",
+                "20:00",
+                "22:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:20",
+            "17:40",
+            "20:00",
+            "22:10"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:15",
+                "18:15",
+                "20:15",
+                "22:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:15",
+            "18:15",
+            "20:15",
+            "22:15"
+          ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:10",
+                "19:05",
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:10",
+            "19:05",
+            "21:00"
+          ]
+        }
+      ],
+      "genero": "Terror",
+      "duracion": "90 minutos",
+      "clasificacion": "12 Años",
+      "director": "Zach Cregger",
+      "actores": "Austin Abrams, Zach Cherry, Kali Reis y Paul Walter Hauser",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
+      "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
+      "sinopsis": "Tras un brote viral, la protagonista Alice se enfrenta a hordas de zombis en una noche siniestra mientras busca una cura para la infección.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1423191,
+        "titulo_tmdb": "Resident Evil",
+        "voto": 7.3,
+        "votos": 564,
+        "url_tmdb": "https://www.themoviedb.org/movie/1423191",
+        "imdb_id": "tt35538033",
+        "url_imdb": "https://www.imdb.com/title/tt35538033/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
+        "director": "Zach Cregger",
+        "reparto": [
+          {
+            "nombre": "Austin Abrams",
+            "personaje": "Bryan"
+          },
+          {
+            "nombre": "Paul Walter Hauser",
+            "personaje": "Paul"
+          },
+          {
+            "nombre": "Kali Reis",
+            "personaje": "Maxine"
+          },
+          {
+            "nombre": "Zach Cherry",
+            "personaje": "Carl"
+          },
+          {
+            "nombre": "Johnno Wilson",
+            "personaje": "Officer Wilson"
+          },
+          {
+            "nombre": "Shaun W. Loeser",
+            "personaje": "Puker"
+          }
+        ],
+        "generos": [
+          "Terror",
+          "Ciencia ficción",
+          "Aventura"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=d6oszs7f5aI",
+          "embed_id": "d6oszs7f5aI"
+        },
+        "sinopsis_tmdb": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+        "estreno": "16 sep 2026",
+        "duracion_min": 93,
+        "paises": [
+          "Estados Unidos",
+          "Alemania",
+          "Francia"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Resident Evil"
+      }
+    },
+    {
+      "titulo": "Coyote vs. ACME",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/coyote-vs-acme-47670-0.webp",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:50",
+                "17:10",
+                "19:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:50",
+            "17:10",
+            "19:30"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:30",
+                "19:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:30",
+            "19:30"
+          ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "17:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:00"
+          ]
+        }
+      ],
+      "genero": "Animado",
+      "duracion": "103 minutos",
+      "clasificacion": "7 Años",
+      "director": "Dave Green",
+      "actores": "Will Forte, Lana Condor, John Cena, Tone Bell, Martha Kelly, Luis Guzmán",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
+      "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
+      "sinopsis": "El astuto Coyote intenta robar un cohete de la empresa ACME, pero sus planes se ven frustrados una y otra vez por los ingeniosos trucos del Conejo.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1204680,
+        "titulo_tmdb": "Coyote vs. Acme",
+        "voto": 7.6,
+        "votos": 550,
+        "url_tmdb": "https://www.themoviedb.org/movie/1204680",
+        "imdb_id": "tt1756855",
+        "url_imdb": "https://www.imdb.com/title/tt1756855/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/vWFz9spZFBkJvForuYrKK2ntOLB.jpg",
+        "director": "David Green",
+        "reparto": [
+          {
+            "nombre": "Will Forte",
+            "personaje": "Kevin Avery"
+          },
+          {
+            "nombre": "Lana Condor",
+            "personaje": "Paige Avery"
+          },
+          {
+            "nombre": "John Cena",
+            "personaje": "Buddy Crane"
+          },
+          {
+            "nombre": "Tone Bell",
+            "personaje": "Sal Maltese"
+          },
+          {
+            "nombre": "Martha Kelly",
+            "personaje": "Dottie Jones"
+          },
+          {
+            "nombre": "Luis Guzmán",
+            "personaje": "Judge Troppogrosso"
+          }
+        ],
+        "generos": [
+          "Comedia",
+          "Aventura",
+          "Familia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=WQRoa6l4bwI",
+          "embed_id": "WQRoa6l4bwI"
+        },
+        "sinopsis_tmdb": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+        "estreno": "17 ago 2026",
+        "duracion_min": 103,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Coyote vs. Acme"
+      }
+    },
+    {
+      "titulo": "Código Venganza",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/9/codigo-venganza-47759-0.webp",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:40",
+                "21:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:40",
+            "21:50"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:30"
+          ]
+        }
+      ],
+      "genero": "Acción",
+      "duracion": "95 minutos",
+      "clasificacion": "12 Años",
+      "director": "Jean-François Richet",
+      "actores": "Robert Davi, Costas Mandylor, Joey DePinto, Richard C. Sarafian, Frank Stallone Jr., Frank D'Amico",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/codigo-venganza-12252_252",
+      "trailer_url": "https://www.youtube.com/watch?v=qdlvcbtHSuo",
+      "sinopsis": "Un hacker experto, conocido como Código, trama una venganza contra la corporación que destruyó su vida, utilizando su dominio del ciberespacio.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 188834,
+        "titulo_tmdb": "Código de venganza",
+        "voto": 3.3,
+        "votos": 6,
+        "url_tmdb": "https://www.themoviedb.org/movie/188834",
+        "imdb_id": "tt0311284",
+        "url_imdb": "https://www.imdb.com/title/tt0311284/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/qplSfNUwaQJ4RwT2NNjNEFIdhQK.jpg",
+        "director": "Eric Weston",
+        "reparto": [
+          {
+            "nombre": "Robert Davi",
+            "personaje": "Nick"
+          },
+          {
+            "nombre": "Costas Mandylor",
+            "personaje": "Tony"
+          },
+          {
+            "nombre": "Joey DePinto",
+            "personaje": "Vince"
+          },
+          {
+            "nombre": "Richard C. Sarafian",
+            "personaje": ""
+          },
+          {
+            "nombre": "Frank Stallone Jr.",
+            "personaje": "Spilotri"
+          },
+          {
+            "nombre": "Frank D'Amico",
+            "personaje": "Tommy Crapisi"
+          }
+        ],
+        "generos": [
+          "Acción",
+          "Crimen"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Un respetado hombre de negocios se ve atrapado en mitad de una guerra entre dos familias rivales del crimen organizado. Tendrá que elegir entre ser fiel a la tradición familiar o ser fiel a sí mismo.",
+        "estreno": "1 dic 2002",
+        "duracion_min": 88,
+        "paises": [],
+        "idioma": "Inglés",
+        "titulo_original": "Hitters"
+      }
+    },
     {
       "titulo": "Avengers Endgame Bonus",
       "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003092?referenceScheme=HeadOffice&allowPlaceHolder=true",
@@ -50,6 +551,28 @@
             "18:00",
             "20:40",
             "21:40"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:15",
+                "18:30",
+                "21:00",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:15",
+            "18:30",
+            "21:00",
+            "21:45"
           ]
         },
         {
@@ -127,430 +650,178 @@
       }
     },
     {
-      "titulo": "Código: Venganza",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002972?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Acción",
-      "clasificacion": "+14",
-      "duracion": "96 min",
-      "director": "Eric Weston",
-      "actores": "Robert Davi, Costas Mandylor, Joey DePinto, Richard C. Sarafian, Frank Stallone Jr., Frank D'Amico",
+      "titulo": "La Sombra del Exorcista",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/la%20som.jpg",
+      "genero": "Terror",
+      "clasificacion": "Mayores de 14",
+      "duracion": "01:30",
+      "sinopsis": "Mientras Realiza un Exorcismo No Autorizado a Su Padre, un Exorcista de Élite Sospecha Que la Entidad Con la Que Está Luchando Podría Ser un Ser Sagrado, Quizá Incluso Dios.",
+      "director": "Michael Peterson",
+      "actores": "Mark O'Brien, Shaun Johnston, Jacqueline Byers, Josh Cruddas, Adrian Hough, David Haysom",
       "estreno": "",
-      "sinopsis": "Después de que su jefe multimillonario sea asesinado frente a él, el agente de seguridad Cole Reed es incriminado por el homicidio y queda al borde de la bancarrota e injusticia. Perseguido por fuerzas internacionales, Reed debe limpiar su nombre y descubrir la conspiración detrás del asesinato, en una carrera contra el tiempo con acción intensa en alta mar y entornos corporativos letales",
       "puntaje": "",
       "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=qdlvcbtHSuo",
-      "fuente_peli": "Cineplanet",
+      "trailer_url": "",
+      "fuente_peli": "Cinerama",
       "cines": [
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "14:40",
-                "21:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:40",
-            "21:50"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 188834,
-        "titulo_tmdb": "Código de venganza",
-        "voto": 3.3,
-        "votos": 6,
-        "url_tmdb": "https://www.themoviedb.org/movie/188834",
-        "imdb_id": "tt0311284",
-        "url_imdb": "https://www.imdb.com/title/tt0311284/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/qplSfNUwaQJ4RwT2NNjNEFIdhQK.jpg",
-        "director": "Eric Weston",
-        "reparto": [
-          {
-            "nombre": "Robert Davi",
-            "personaje": "Nick"
-          },
-          {
-            "nombre": "Costas Mandylor",
-            "personaje": "Tony"
-          },
-          {
-            "nombre": "Joey DePinto",
-            "personaje": "Vince"
-          },
-          {
-            "nombre": "Richard C. Sarafian",
-            "personaje": ""
-          },
-          {
-            "nombre": "Frank Stallone Jr.",
-            "personaje": "Spilotri"
-          },
-          {
-            "nombre": "Frank D'Amico",
-            "personaje": "Tommy Crapisi"
-          }
-        ],
-        "generos": [
-          "Acción",
-          "Crimen"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Un respetado hombre de negocios se ve atrapado en mitad de una guerra entre dos familias rivales del crimen organizado. Tendrá que elegir entre ser fiel a la tradición familiar o ser fiel a sí mismo.",
-        "estreno": "1 dic 2002",
-        "duracion_min": 88,
-        "paises": [],
-        "idioma": "Inglés",
-        "titulo_original": "Hitters"
-      }
-    },
-    {
-      "titulo": "Coyote vs Acme",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002921?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Familiar",
-      "clasificacion": "APT",
-      "duracion": "103 min",
-      "director": "David Green",
-      "actores": "Will Forte, Lana Condor, John Cena, Tone Bell, Martha Kelly, Luis Guzmán",
-      "estreno": "",
-      "sinopsis": "Después de décadas fallando en atrapar al Correcaminos, el Coyote decide hacer lo impensado: demandar a ACME, la compañía responsable de todos los productos defectuosos que arruinaron sus planes. En el juicio más absurdo de la historia, la comedia y la animación se mezclan en una batalla legal que podría cambiar el destino del desierto… para siempre.",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "14:50",
-                "17:10",
-                "19:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:50",
-            "17:10",
-            "19:30"
-          ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
           "formatos": [
             {
               "formato": "",
               "horarios": [
                 "15:00",
-                "17:00"
+                "17:00",
+                "19:00"
               ]
             }
           ],
           "horarios": [
             "15:00",
-            "17:00"
+            "17:00",
+            "19:00"
           ]
         }
       ],
       "tmdb": {
-        "tmdb_id": 1204680,
-        "titulo_tmdb": "Coyote vs. Acme",
-        "voto": 7.6,
-        "votos": 550,
-        "url_tmdb": "https://www.themoviedb.org/movie/1204680",
-        "imdb_id": "tt1756855",
-        "url_imdb": "https://www.imdb.com/title/tt1756855/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/vWFz9spZFBkJvForuYrKK2ntOLB.jpg",
-        "director": "David Green",
+        "tmdb_id": 1227003,
+        "titulo_tmdb": "Shadow of God",
+        "voto": 5.7,
+        "votos": 47,
+        "url_tmdb": "https://www.themoviedb.org/movie/1227003",
+        "imdb_id": "tt30442140",
+        "url_imdb": "https://www.imdb.com/title/tt30442140/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/9rhDgD5lB3S0W1bqDiPs8asJW1G.jpg",
+        "director": "Michael Peterson",
         "reparto": [
           {
-            "nombre": "Will Forte",
-            "personaje": "Kevin Avery"
+            "nombre": "Mark O'Brien",
+            "personaje": "Mason Harper"
           },
           {
-            "nombre": "Lana Condor",
-            "personaje": "Paige Avery"
+            "nombre": "Shaun Johnston",
+            "personaje": "Angus Harper"
           },
           {
-            "nombre": "John Cena",
-            "personaje": "Buddy Crane"
+            "nombre": "Jacqueline Byers",
+            "personaje": "Tanis Green"
           },
           {
-            "nombre": "Tone Bell",
-            "personaje": "Sal Maltese"
+            "nombre": "Josh Cruddas",
+            "personaje": "Lucifer"
           },
           {
-            "nombre": "Martha Kelly",
-            "personaje": "Dottie Jones"
+            "nombre": "Adrian Hough",
+            "personaje": "Beau"
           },
           {
-            "nombre": "Luis Guzmán",
-            "personaje": "Judge Troppogrosso"
+            "nombre": "David Haysom",
+            "personaje": "Stan Nelson"
           }
         ],
         "generos": [
+          "Terror"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Mientras realiza un exorcismo no autorizado a su padre, un exorcista de élite sospecha que la entidad con la que está luchando podría ser un ser sagrado, quizá incluso Dios.",
+        "estreno": "26 mar 2025",
+        "duracion_min": 87,
+        "paises": [
+          "Canadá"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Shadow of God"
+      }
+    },
+    {
+      "titulo": "Tadeo el Explorador: Y la Lampara Maravillosa",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/tadeooo.jpg",
+      "genero": "Dibujos",
+      "clasificacion": "Todo Espectador",
+      "duracion": "01:35",
+      "sinopsis": "Tadeo, Su Novia Sara y Sus Amigos Momia, Jeff y Belzoni Se Embarcan en una Aventura Tras Que Tadeo Desata Accidentalmente un Antiguo Hechizo.",
+      "director": "Enrique Gato",
+      "actores": "Óscar Barberán, Michelle Jenner, José Mota, José Corbacho, Pep Anton Muñoz, Miguel Ángel Jenner",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=GF9o6_iZ9Ug",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 121734,
+        "titulo_tmdb": "Las aventuras de Tadeo Jones",
+        "voto": 6.3,
+        "votos": 636,
+        "url_tmdb": "https://www.themoviedb.org/movie/121734",
+        "imdb_id": "tt1764625",
+        "url_imdb": "https://www.imdb.com/title/tt1764625/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/hnJUhmknSFTmgA2pZHwId8ahBvq.jpg",
+        "director": "Enrique Gato",
+        "reparto": [
+          {
+            "nombre": "Óscar Barberán",
+            "personaje": "Tad Jones (voice)"
+          },
+          {
+            "nombre": "Michelle Jenner",
+            "personaje": "Sara Lavrof (voice)"
+          },
+          {
+            "nombre": "José Mota",
+            "personaje": "Freddy (voice)"
+          },
+          {
+            "nombre": "José Corbacho",
+            "personaje": "Freddy (catalan version) (voice)"
+          },
+          {
+            "nombre": "Pep Anton Muñoz",
+            "personaje": "Max Mordon (voice)"
+          },
+          {
+            "nombre": "Miguel Ángel Jenner",
+            "personaje": "Kopponen (voice)"
+          }
+        ],
+        "generos": [
+          "Animación",
           "Comedia",
           "Aventura",
           "Familia"
         ],
         "trailer": {
-          "url": "https://www.youtube.com/watch?v=WQRoa6l4bwI",
-          "embed_id": "WQRoa6l4bwI"
+          "url": "https://www.youtube.com/watch?v=GF9o6_iZ9Ug",
+          "embed_id": "GF9o6_iZ9Ug"
         },
-        "sinopsis_tmdb": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-        "estreno": "17 ago 2026",
-        "duracion_min": 103,
+        "sinopsis_tmdb": "Adaptación del corto que ganó un Goya en 2004 y cuyo protagonista, Tadeo Jones, es una especie de Indiana Jones español. Tadeo es un simple trabajador de la construcción que reside en Chicago, pero posee un espíritu aventurero y soñador. Un buen día lo confunden con un popular arqueólogo y lo envían a Perú para realizar un duro cometido. Allí tendrá que frenar a una organización de maleantes que se dedica a robar tesoros y, que en esta ocasión, pretenden saquear una mítica ciudad Inca que acaba de ser descubierta.  Pero en esta trepidante aventura Tadeo no estará solo ya que tendrá la ayuda de su fiel perrito Jeff; Sara (Michelle Jenner, 'Extraterrestre'), la guapa profesora de arqueología; Freddy (José Mota, 'La Chispa de la vida') un extraño guía peruano que lleva una chaqueta \"multiusos\"; un loro que no sabe hablar, y un caza recompensas. ¿Serán capaces Tadeo y sus compañeros de salvar a esta emblemática ciudad?",
+        "estreno": "10 ago 2012",
+        "duracion_min": 90,
         "paises": [
-          "Estados Unidos"
+          "Francia",
+          "España"
         ],
-        "idioma": "Inglés",
-        "titulo_original": "Coyote vs. Acme"
-      }
-    },
-    {
-      "titulo": "El Corazon de la Bestia",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002975?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Acción",
-      "clasificacion": "+14",
-      "duracion": "102 min",
-      "director": "David Ayer",
-      "actores": "Brad Pitt, J.K. Simmons, Anna Lambe, Justin Melnick, Shaun DeZern",
-      "estreno": "",
-      "sinopsis": "Tras un aterrador accidente aéreo, el oficial de Fuerzas Especiales James Belmont (Brad Pitt) y su perro de combate, Odin, quedan varados en lo profundo de la naturaleza salvaje de Alaska. Juntos, se ven obligados a librar una brutal lucha por sobrevivir frente a los elementos.",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "15:30",
-                "17:50",
-                "20:10",
-                "22:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30",
-            "17:50",
-            "20:10",
-            "22:30"
-          ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:00",
-                "19:00",
-                "21:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "19:00",
-            "21:00"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1263337,
-        "titulo_tmdb": "En el corazón de la bestia",
-        "voto": 7.7,
-        "votos": 105,
-        "url_tmdb": "https://www.themoviedb.org/movie/1263337",
-        "imdb_id": "tt7526136",
-        "url_imdb": "https://www.imdb.com/title/tt7526136/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
-        "director": "David Ayer",
-        "reparto": [
-          {
-            "nombre": "Brad Pitt",
-            "personaje": "James Belmont"
-          },
-          {
-            "nombre": "J.K. Simmons",
-            "personaje": "Watkins"
-          },
-          {
-            "nombre": "Anna Lambe",
-            "personaje": "Amber"
-          },
-          {
-            "nombre": "Justin Melnick",
-            "personaje": "Military Soldier"
-          },
-          {
-            "nombre": "Shaun DeZern",
-            "personaje": "Military Soldier"
-          }
-        ],
-        "generos": [
-          "Aventura",
-          "Suspense"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=Rh24D89hFMg",
-          "embed_id": "Rh24D89hFMg"
-        },
-        "sinopsis_tmdb": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-        "estreno": "19 sep 2026",
-        "duracion_min": 101,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Heart of the Beast"
-      }
-    },
-    {
-      "titulo": "Resident Evil Noche Cero",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003067?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Terror",
-      "clasificacion": "+14",
-      "duracion": "94 min",
-      "director": "Zach Cregger",
-      "actores": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson, Shaun W. Loeser",
-      "estreno": "",
-      "sinopsis": "Sigue a un desafortunado mensajero encargado de entregar un paquete a un hospital remoto. Pronto se encuentra atrapado en medio de una epidemia y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "15:20",
-                "17:40",
-                "20:00",
-                "22:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:20",
-            "17:40",
-            "20:00",
-            "22:10"
-          ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "17:10",
-                "19:05",
-                "21:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:10",
-            "19:05",
-            "21:00"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1423191,
-        "titulo_tmdb": "Resident Evil",
-        "voto": 7.3,
-        "votos": 556,
-        "url_tmdb": "https://www.themoviedb.org/movie/1423191",
-        "imdb_id": "tt35538033",
-        "url_imdb": "https://www.imdb.com/title/tt35538033/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
-        "director": "Zach Cregger",
-        "reparto": [
-          {
-            "nombre": "Austin Abrams",
-            "personaje": "Bryan"
-          },
-          {
-            "nombre": "Paul Walter Hauser",
-            "personaje": "Paul"
-          },
-          {
-            "nombre": "Kali Reis",
-            "personaje": "Maxine"
-          },
-          {
-            "nombre": "Zach Cherry",
-            "personaje": "Carl"
-          },
-          {
-            "nombre": "Johnno Wilson",
-            "personaje": "Officer Wilson"
-          },
-          {
-            "nombre": "Shaun W. Loeser",
-            "personaje": "Puker"
-          }
-        ],
-        "generos": [
-          "Terror",
-          "Ciencia ficción",
-          "Aventura"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=d6oszs7f5aI",
-          "embed_id": "d6oszs7f5aI"
-        },
-        "sinopsis_tmdb": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-        "estreno": "16 sep 2026",
-        "duracion_min": 93,
-        "paises": [
-          "Estados Unidos",
-          "Alemania",
-          "Francia"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Resident Evil"
+        "idioma": "Español",
+        "titulo_original": "Las aventuras de Tadeo Jones"
       }
     },
     {
@@ -627,7 +898,7 @@
           ]
         },
         {
-          "titulo": "Código: Venganza",
+          "titulo": "Código Venganza",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002972?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Acción",
           "clasificacion": "+14",
@@ -646,7 +917,7 @@
           ]
         },
         {
-          "titulo": "Coyote vs Acme",
+          "titulo": "Coyote vs. ACME",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002921?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Familiar",
           "clasificacion": "APT",
@@ -667,7 +938,7 @@
           ]
         },
         {
-          "titulo": "El Corazon de la Bestia",
+          "titulo": "El Corazón de la Bestia",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002975?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Acción",
           "clasificacion": "+14",
@@ -690,7 +961,7 @@
           ]
         },
         {
-          "titulo": "Resident Evil Noche Cero",
+          "titulo": "Resident Evil: Noche Cero",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003067?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Terror",
           "clasificacion": "+14",
@@ -717,14 +988,169 @@
     },
     {
       "cine": "Cinerama Cajamarca MegaPlaza",
-      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-      "direccion": "",
-      "peliculas": [],
-      "sin_programacion": true,
-      "nota": "No se pudo consultar su cartelera. Suele tener funciones a diario.",
-      "no_consultado": true,
+      "cine_slug": "cinerama-cajamarca-megaplaza",
+      "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
       "url": "https://www.cinerama.com.pe/cines",
-      "cine_original": "Cajamarca Megaplaza (Cinerama)"
+      "fuente_cine": "Cinerama",
+      "peliculas": [
+        {
+          "titulo": "Avengers Endgame Bonus",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/adve.jpg",
+          "genero": "Accion",
+          "clasificacion": "Todo Espectador",
+          "duracion": "03:03",
+          "sinopsis": "Después de los Eventos Devastadores de 'Avengers: Infinity War', el Universo Está en Ruinas Debido a las Acciones de Thanos, el Titán Loco. Con la Ayuda de los Aliados Que Quedaron, los Vengadores Deberán Reunirse una Vez Más Para Intentar Deshacer Sus Acciones y Restaurar el Orden en el Universo de una Vez Por Todas, Sin Importar Cuáles Son las Consecuencias... Cuarta y Última Entrega de la Saga ",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:15",
+                "18:30",
+                "21:00",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:15",
+            "18:30",
+            "21:00",
+            "21:45"
+          ]
+        },
+        {
+          "titulo": "Código Venganza",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/yryrwy5y5y5wywrty.jpg",
+          "genero": "Accion",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:40",
+          "sinopsis": "Cole Reed (Jason Statham) Es un Exagente de las Fuerzas Especiales y Ex Policía de Nueva York Que Después de Pasar Varios Años en el Campo de Batalla, Ha Construido una Nueva Vida Más Discreta Trabajando en el Sector de la Seguridad Privada.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:30"
+          ]
+        },
+        {
+          "titulo": "Coyote vs. ACME",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/coyogtw.jpg",
+          "genero": "Animado",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:44",
+          "sinopsis": "Una Historia Ambientada en el Almacén de Acme, el Fabricante de Todo Lo Que Utilizan los Personajes de los Looney Tunes.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:30",
+                "19:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:30",
+            "19:30"
+          ]
+        },
+        {
+          "titulo": "El Corazón de la Bestia",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/besyoisa.jpg",
+          "genero": "Drama",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:41",
+          "sinopsis": "Soldado Herido de Fuerzas Especiales y Su Perro Militar Luchan Por Sobrevivir en la Naturaleza Salvaje de Alaska Mientras Buscan el Camino a Casa.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:00",
+                "20:00",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:00",
+            "20:00",
+            "22:00"
+          ]
+        },
+        {
+          "titulo": "La Sombra del Exorcista",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/la%20som.jpg",
+          "genero": "Terror",
+          "clasificacion": "Mayores de 14",
+          "duracion": "01:30",
+          "sinopsis": "Mientras Realiza un Exorcismo No Autorizado a Su Padre, un Exorcista de Élite Sospecha Que la Entidad Con la Que Está Luchando Podría Ser un Ser Sagrado, Quizá Incluso Dios.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "17:00",
+                "19:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:00",
+            "19:00"
+          ]
+        },
+        {
+          "titulo": "Resident Evil: Noche Cero",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/rexs.jpg",
+          "genero": "Terror",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:35",
+          "sinopsis": "Sigue a un Desafortunado Mensajero Encargado de Entregar un Paquete a un Hospital Remoto. Pronto Se Encuentra Atrapado en Medio de una Epidemia y Debe Luchar Contra Hordas de Criaturas Mutantes Para Sobrevivir.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:15",
+                "18:15",
+                "20:15",
+                "22:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:15",
+            "18:15",
+            "20:15",
+            "22:15"
+          ]
+        },
+        {
+          "titulo": "Tadeo el Explorador: Y la Lampara Maravillosa",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/tadeooo.jpg",
+          "genero": "Dibujos",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:35",
+          "sinopsis": "Tadeo, Su Novia Sara y Sus Amigos Momia, Jeff y Belzoni Se Embarcan en una Aventura Tras Que Tadeo Desata Accidentalmente un Antiguo Hechizo.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30"
+          ]
+        }
+      ]
     },
     {
       "cine": "Movie Time Cajamarca",
@@ -756,7 +1182,7 @@
           "trailer_url": "https://www.youtube.com/watch?v=u7QErIFCc7k"
         },
         {
-          "titulo": "Coyote vs Acme",
+          "titulo": "Coyote vs. ACME",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/980f6987-4dcf-4d9b-b746-b7366ba93692.png",
           "genero": "",
           "clasificacion": "APT",
@@ -778,7 +1204,7 @@
           "trailer_url": "https://www.youtube.com/watch?v=DIqJb0LwSho"
         },
         {
-          "titulo": "El Corazon de la Bestia",
+          "titulo": "El Corazón de la Bestia",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/d027eaf3-8113-465c-a06b-759de8d415a5.jpeg",
           "genero": "",
           "clasificacion": "+14",
@@ -802,7 +1228,7 @@
           "trailer_url": "https://www.youtube.com/watch?v=OAGoEmCirOY"
         },
         {
-          "titulo": "Resident Evil Noche Cero",
+          "titulo": "Resident Evil: Noche Cero",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/1a14ac98-e6bb-41bd-a9f4-870b4a6682c7.jpeg",
           "genero": "",
           "clasificacion": "+14",
@@ -852,9 +1278,7 @@
   "motor": "groq",
   "fuentes_extra": [
     "Cineplanet",
+    "Cinerama",
     "Movie Time"
-  ],
-  "notas": [
-    "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
   ]
 }
