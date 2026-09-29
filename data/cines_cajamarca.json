@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-29 08:00",
+  "actualizado": "2026-09-29 11:00",
   "fecha_objetivo": "2026-09-29",
   "peliculas": [
     {
@@ -35,6 +35,28 @@
           ]
         },
         {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:00",
+                "20:00",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:00",
+            "20:00",
+            "22:00"
+          ]
+        },
+        {
           "cine": "Movie Time Cajamarca",
           "cine_slug": "movietime-cajamarca",
           "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
@@ -63,7 +85,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Una joven descubre que su familia guarda un oscuro secreto: un monstruo legendario que protege un antiguo tesoro bajo la ciudad.",
+      "sinopsis": "Una joven descubre que su padre, un científico desaparecido, está atrapado dentro de una criatura monstruosa que controla una aldea aislada.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
@@ -145,6 +167,28 @@
           ]
         },
         {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:15",
+                "18:15",
+                "20:15",
+                "22:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:15",
+            "18:15",
+            "20:15",
+            "22:15"
+          ]
+        },
+        {
           "cine": "Movie Time Cajamarca",
           "cine_slug": "movietime-cajamarca",
           "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
@@ -173,8 +217,8 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "Tras un brote de zombis, la protagonista regresa a Raccoon City para detener una nueva amenaza biotecnológica que amenaza con sumir al mundo en la oscuridad.",
-      "puntaje": "7.2",
+      "sinopsis": "Tras un brote en una instalación secreta, la protagonista Alice se adentra en una zona de cuarentena donde los muertos vivientes acechan y la corporación Umbrella oculta oscuros experimentos.",
+      "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
         "titulo_tmdb": "Resident Evil",
@@ -260,6 +304,24 @@
           ]
         },
         {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:30",
+                "19:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:30",
+            "19:30"
+          ]
+        },
+        {
           "cine": "Movie Time Cajamarca",
           "cine_slug": "movietime-cajamarca",
           "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
@@ -286,7 +348,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote vuelve a intentar robar los productos de ACME, mientras la compañía despliega ingeniosas trampas para detenerlo una vez más.",
+      "sinopsis": "El astuto Coyote intenta robar los codiciados productos de ACME, mientras el ingenioso Correcaminos le escapa una y otra vez con sus icónicas trampas fallidas.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
@@ -388,6 +450,28 @@
             "18:00",
             "20:40",
             "21:40"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:15",
+                "18:30",
+                "21:00",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:15",
+            "18:30",
+            "21:00",
+            "21:45"
           ]
         },
         {
@@ -499,6 +583,22 @@
             "14:40",
             "21:50"
           ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:30"
+          ]
         }
       ],
       "tmdb": {
@@ -548,6 +648,181 @@
         "paises": [],
         "idioma": "Inglés",
         "titulo_original": "Hitters"
+      }
+    },
+    {
+      "titulo": "La Sombra del Exorcista",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/la%20som.jpg",
+      "genero": "Terror",
+      "clasificacion": "Mayores de 14",
+      "duracion": "01:30",
+      "sinopsis": "Mientras Realiza un Exorcismo No Autorizado a Su Padre, un Exorcista de Élite Sospecha Que la Entidad Con la Que Está Luchando Podría Ser un Ser Sagrado, Quizá Incluso Dios.",
+      "director": "Michael Peterson",
+      "actores": "Mark O'Brien, Shaun Johnston, Jacqueline Byers, Josh Cruddas, Adrian Hough, David Haysom",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "17:00",
+                "19:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:00",
+            "19:00"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1227003,
+        "titulo_tmdb": "Shadow of God",
+        "voto": 5.7,
+        "votos": 47,
+        "url_tmdb": "https://www.themoviedb.org/movie/1227003",
+        "imdb_id": "tt30442140",
+        "url_imdb": "https://www.imdb.com/title/tt30442140/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/9rhDgD5lB3S0W1bqDiPs8asJW1G.jpg",
+        "director": "Michael Peterson",
+        "reparto": [
+          {
+            "nombre": "Mark O'Brien",
+            "personaje": "Mason Harper"
+          },
+          {
+            "nombre": "Shaun Johnston",
+            "personaje": "Angus Harper"
+          },
+          {
+            "nombre": "Jacqueline Byers",
+            "personaje": "Tanis Green"
+          },
+          {
+            "nombre": "Josh Cruddas",
+            "personaje": "Lucifer"
+          },
+          {
+            "nombre": "Adrian Hough",
+            "personaje": "Beau"
+          },
+          {
+            "nombre": "David Haysom",
+            "personaje": "Stan Nelson"
+          }
+        ],
+        "generos": [
+          "Terror"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Mientras realiza un exorcismo no autorizado a su padre, un exorcista de élite sospecha que la entidad con la que está luchando podría ser un ser sagrado, quizá incluso Dios.",
+        "estreno": "26 mar 2025",
+        "duracion_min": 87,
+        "paises": [
+          "Canadá"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Shadow of God"
+      }
+    },
+    {
+      "titulo": "Tadeo el Explorador: Y la Lampara Maravillosa",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/tadeooo.jpg",
+      "genero": "Dibujos",
+      "clasificacion": "Todo Espectador",
+      "duracion": "01:35",
+      "sinopsis": "Tadeo, Su Novia Sara y Sus Amigos Momia, Jeff y Belzoni Se Embarcan en una Aventura Tras Que Tadeo Desata Accidentalmente un Antiguo Hechizo.",
+      "director": "Enrique Gato",
+      "actores": "Óscar Barberán, Michelle Jenner, José Mota, José Corbacho, Pep Anton Muñoz, Miguel Ángel Jenner",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=GF9o6_iZ9Ug",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 121734,
+        "titulo_tmdb": "Las aventuras de Tadeo Jones",
+        "voto": 6.3,
+        "votos": 636,
+        "url_tmdb": "https://www.themoviedb.org/movie/121734",
+        "imdb_id": "tt1764625",
+        "url_imdb": "https://www.imdb.com/title/tt1764625/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/hnJUhmknSFTmgA2pZHwId8ahBvq.jpg",
+        "director": "Enrique Gato",
+        "reparto": [
+          {
+            "nombre": "Óscar Barberán",
+            "personaje": "Tad Jones (voice)"
+          },
+          {
+            "nombre": "Michelle Jenner",
+            "personaje": "Sara Lavrof (voice)"
+          },
+          {
+            "nombre": "José Mota",
+            "personaje": "Freddy (voice)"
+          },
+          {
+            "nombre": "José Corbacho",
+            "personaje": "Freddy (catalan version) (voice)"
+          },
+          {
+            "nombre": "Pep Anton Muñoz",
+            "personaje": "Max Mordon (voice)"
+          },
+          {
+            "nombre": "Miguel Ángel Jenner",
+            "personaje": "Kopponen (voice)"
+          }
+        ],
+        "generos": [
+          "Animación",
+          "Comedia",
+          "Aventura",
+          "Familia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=GF9o6_iZ9Ug",
+          "embed_id": "GF9o6_iZ9Ug"
+        },
+        "sinopsis_tmdb": "Adaptación del corto que ganó un Goya en 2004 y cuyo protagonista, Tadeo Jones, es una especie de Indiana Jones español. Tadeo es un simple trabajador de la construcción que reside en Chicago, pero posee un espíritu aventurero y soñador. Un buen día lo confunden con un popular arqueólogo y lo envían a Perú para realizar un duro cometido. Allí tendrá que frenar a una organización de maleantes que se dedica a robar tesoros y, que en esta ocasión, pretenden saquear una mítica ciudad Inca que acaba de ser descubierta.  Pero en esta trepidante aventura Tadeo no estará solo ya que tendrá la ayuda de su fiel perrito Jeff; Sara (Michelle Jenner, 'Extraterrestre'), la guapa profesora de arqueología; Freddy (José Mota, 'La Chispa de la vida') un extraño guía peruano que lleva una chaqueta \"multiusos\"; un loro que no sabe hablar, y un caza recompensas. ¿Serán capaces Tadeo y sus compañeros de salvar a esta emblemática ciudad?",
+        "estreno": "10 ago 2012",
+        "duracion_min": 90,
+        "paises": [
+          "Francia",
+          "España"
+        ],
+        "idioma": "Español",
+        "titulo_original": "Las aventuras de Tadeo Jones"
       }
     },
     {
@@ -714,14 +989,169 @@
     },
     {
       "cine": "Cinerama Cajamarca MegaPlaza",
-      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-      "direccion": "",
-      "peliculas": [],
-      "sin_programacion": true,
-      "nota": "No se pudo consultar su cartelera. Suele tener funciones a diario.",
-      "no_consultado": true,
+      "cine_slug": "cinerama-cajamarca-megaplaza",
+      "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
       "url": "https://www.cinerama.com.pe/cines",
-      "cine_original": "Cajamarca Megaplaza (Cinerama)"
+      "fuente_cine": "Cinerama",
+      "peliculas": [
+        {
+          "titulo": "Avengers Endgame Bonus",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/adve.jpg",
+          "genero": "Accion",
+          "clasificacion": "Todo Espectador",
+          "duracion": "03:03",
+          "sinopsis": "Después de los Eventos Devastadores de 'Avengers: Infinity War', el Universo Está en Ruinas Debido a las Acciones de Thanos, el Titán Loco. Con la Ayuda de los Aliados Que Quedaron, los Vengadores Deberán Reunirse una Vez Más Para Intentar Deshacer Sus Acciones y Restaurar el Orden en el Universo de una Vez Por Todas, Sin Importar Cuáles Son las Consecuencias... Cuarta y Última Entrega de la Saga ",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:15",
+                "18:30",
+                "21:00",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:15",
+            "18:30",
+            "21:00",
+            "21:45"
+          ]
+        },
+        {
+          "titulo": "Código: Venganza",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/yryrwy5y5y5wywrty.jpg",
+          "genero": "Accion",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:40",
+          "sinopsis": "Cole Reed (Jason Statham) Es un Exagente de las Fuerzas Especiales y Ex Policía de Nueva York Que Después de Pasar Varios Años en el Campo de Batalla, Ha Construido una Nueva Vida Más Discreta Trabajando en el Sector de la Seguridad Privada.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:30"
+          ]
+        },
+        {
+          "titulo": "Coyote vs. ACME",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/coyogtw.jpg",
+          "genero": "Animado",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:44",
+          "sinopsis": "Una Historia Ambientada en el Almacén de Acme, el Fabricante de Todo Lo Que Utilizan los Personajes de los Looney Tunes.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:30",
+                "19:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:30",
+            "19:30"
+          ]
+        },
+        {
+          "titulo": "El Corazón de la Bestia",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/besyoisa.jpg",
+          "genero": "Drama",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:41",
+          "sinopsis": "Soldado Herido de Fuerzas Especiales y Su Perro Militar Luchan Por Sobrevivir en la Naturaleza Salvaje de Alaska Mientras Buscan el Camino a Casa.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:00",
+                "20:00",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:00",
+            "20:00",
+            "22:00"
+          ]
+        },
+        {
+          "titulo": "La Sombra del Exorcista",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/la%20som.jpg",
+          "genero": "Terror",
+          "clasificacion": "Mayores de 14",
+          "duracion": "01:30",
+          "sinopsis": "Mientras Realiza un Exorcismo No Autorizado a Su Padre, un Exorcista de Élite Sospecha Que la Entidad Con la Que Está Luchando Podría Ser un Ser Sagrado, Quizá Incluso Dios.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "17:00",
+                "19:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:00",
+            "19:00"
+          ]
+        },
+        {
+          "titulo": "Resident Evil: Noche Cero",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/rexs.jpg",
+          "genero": "Terror",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:35",
+          "sinopsis": "Sigue a un Desafortunado Mensajero Encargado de Entregar un Paquete a un Hospital Remoto. Pronto Se Encuentra Atrapado en Medio de una Epidemia y Debe Luchar Contra Hordas de Criaturas Mutantes Para Sobrevivir.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:15",
+                "18:15",
+                "20:15",
+                "22:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:15",
+            "18:15",
+            "20:15",
+            "22:15"
+          ]
+        },
+        {
+          "titulo": "Tadeo el Explorador: Y la Lampara Maravillosa",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/tadeooo.jpg",
+          "genero": "Dibujos",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:35",
+          "sinopsis": "Tadeo, Su Novia Sara y Sus Amigos Momia, Jeff y Belzoni Se Embarcan en una Aventura Tras Que Tadeo Desata Accidentalmente un Antiguo Hechizo.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30"
+          ]
+        }
+      ]
     },
     {
       "cine": "Movie Time Cajamarca",
@@ -849,9 +1279,7 @@
   "motor": "groq",
   "fuentes_extra": [
     "Cineplanet",
+    "Cinerama",
     "Movie Time"
-  ],
-  "notas": [
-    "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
   ]
 }
