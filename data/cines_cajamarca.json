@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-28 17:00",
+  "actualizado": "2026-09-28 20:00",
   "fecha_objetivo": "2026-09-28",
   "peliculas": [
     {
@@ -20,16 +20,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
-                "17:50",
                 "20:10",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "15:30",
-            "17:50",
             "20:10",
             "22:30"
           ]
@@ -85,7 +81,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Un joven descubre que su corazón late al ritmo de una criatura legendaria, desatando una lucha entre la humanidad y la bestia interior.",
+      "sinopsis": "Un hombre descubre que su corazón alberga una criatura sobrenatural que lo lleva a una espiral de violencia.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
@@ -152,16 +148,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:20",
-                "17:40",
                 "20:00",
                 "22:10"
               ]
             }
           ],
           "horarios": [
-            "15:20",
-            "17:40",
             "20:00",
             "22:10"
           ]
@@ -217,13 +209,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "En una noche siniestra, la heroína Alice se enfrenta a hordas de zombis mientras busca la cura definitiva para el virus T.",
-      "puntaje": "6.2",
+      "sinopsis": "La heroína Alice se enfrenta a una horda de zombis en una noche sin fin mientras busca una cura para la infección.",
+      "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
         "titulo_tmdb": "Resident Evil",
         "voto": 7.3,
-        "votos": 564,
+        "votos": 575,
         "url_tmdb": "https://www.themoviedb.org/movie/1423191",
         "imdb_id": "tt35538033",
         "url_imdb": "https://www.imdb.com/title/tt35538033/",
@@ -291,13 +283,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:10",
                 "19:30"
               ]
             }
           ],
           "horarios": [
-            "17:10",
             "19:30"
           ]
         },
@@ -346,13 +336,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote intenta robar un cohete de ACME, pero sus planes se ven frustrados por el ingenioso Correcaminos.",
+      "sinopsis": "El astuto Coyote intenta atrapar al Correcaminos usando los ingeniosos inventos de la empresa ACME, pero siempre fracasa.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
         "titulo_tmdb": "Coyote vs. Acme",
         "voto": 7.6,
-        "votos": 550,
+        "votos": 551,
         "url_tmdb": "https://www.themoviedb.org/movie/1204680",
         "imdb_id": "tt1756855",
         "url_imdb": "https://www.imdb.com/title/tt1756855/",
@@ -451,7 +441,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/codigo-venganza-12252_252",
       "trailer_url": "https://www.youtube.com/watch?v=qdlvcbtHSuo",
-      "sinopsis": "Un ex agente de inteligencia crea un programa informático que busca venganza contra quienes lo traicionaron.",
+      "sinopsis": "Un hacker busca venganza contra la corporación que destruyó su vida, infiltrándose en sus sistemas con códigos mortales.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 188834,
@@ -508,7 +498,7 @@
       "genero": "Acción",
       "clasificacion": "APT",
       "duracion": "184 min",
-      "director": "Anthony Russo, Joe Russo",
+      "director": "Joe Russo, Anthony Russo",
       "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
       "estreno": "",
       "sinopsis": "Tras los devastadores sucesos de Avengers: Infinity War, el universo está en ruinas, pero de los que quedan, los Avengers se unirán una vez más para deshacer la destrucción de Thanos y restaurar el orden del mundo. INFINITY VISION es una certificación para cines de Formato Grande Premium (PLF, por sus siglas en inglés), que garantiza a los espectadores una experiencia cinematográfica excepcional. ",
@@ -528,21 +518,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:00",
                 "20:40",
                 "21:40"
-              ]
-            },
-            {
-              "formato": "3D REGULAR DOBLADA",
-              "horarios": [
-                "18:00"
               ]
             }
           ],
           "horarios": [
-            "17:00",
-            "18:00",
             "20:40",
             "21:40"
           ]
@@ -597,7 +578,7 @@
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
         "poster_tmdb": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-        "director": "Anthony Russo, Joe Russo",
+        "director": "Joe Russo, Anthony Russo",
         "reparto": [
           {
             "nombre": "Robert Downey Jr.",
@@ -870,21 +851,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:00",
                 "20:40",
                 "21:40"
-              ]
-            },
-            {
-              "formato": "3D REGULAR DOBLADA",
-              "horarios": [
-                "18:00"
               ]
             }
           ],
           "horarios": [
-            "17:00",
-            "18:00",
             "20:40",
             "21:40"
           ]
@@ -915,13 +887,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:10",
                 "19:30"
               ]
             }
           ],
           "horarios": [
-            "17:10",
             "19:30"
           ]
         },
@@ -934,16 +904,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
-                "17:50",
                 "20:10",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "15:30",
-            "17:50",
             "20:10",
             "22:30"
           ]
@@ -957,16 +923,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:20",
-                "17:40",
                 "20:00",
                 "22:10"
               ]
             }
           ],
           "horarios": [
-            "15:20",
-            "17:40",
             "20:00",
             "22:10"
           ]
