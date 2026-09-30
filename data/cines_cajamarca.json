@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-30 07:00",
+  "actualizado": "2026-09-30 08:00",
   "fecha_objetivo": "2026-09-30",
   "peliculas": [
     {
@@ -63,7 +63,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Una joven descubre que su abuelo, desaparecido hace años, es en realidad una criatura legendaria que protege a la humanidad de una amenaza sobrenatural.",
+      "sinopsis": "Una joven descubre que su familia guarda un oscuro secreto ligado a una criatura legendaria que amenaza su pueblo.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
@@ -173,7 +173,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "Tras una fuga de un laboratorio, una nueva cepa del virus T‑virus desata el caos en una ciudad, y la protagonista debe sobrevivir mientras busca una cura.",
+      "sinopsis": "Tras una devastadora infección, la protagonista regresa a Raccoon City para descubrir una conspiración que podría sumir al mundo en la oscuridad.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -286,7 +286,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote vuelve a intentar atrapar al Correcaminos usando los ingeniosos (y fallidos) inventos de la empresa ACME, en una serie de persecuciones cómicas.",
+      "sinopsis": "El astuto Coyote vuelve a intentar atrapar al Correcaminos usando los ingeniosos (y fallidos) inventos de la compañía ACME.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
