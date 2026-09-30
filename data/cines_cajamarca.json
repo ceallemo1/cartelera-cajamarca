@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-09-29 17:42",
+  "actualizado": "2026-09-29 20:00",
   "fecha_objetivo": "2026-09-29",
   "peliculas": [
     {
@@ -20,16 +20,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
-                "17:50",
                 "20:10",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "15:30",
-            "17:50",
             "20:10",
             "22:30"
           ]
@@ -87,7 +83,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Un joven descubre que su corazón late al ritmo de una criatura legendaria, obligándolo a confrontar su propia naturaleza salvaje.",
+      "sinopsis": "Tras un aterrador accidente aéreo, el oficial de Fuerzas Especiales James Belmont (Brad Pitt) y su perro de combate, Odin, quedan varados en lo profundo de la naturaleza salvaje de Alaska. Juntos, se ven obligados a librar una brutal lucha por sobrevivir frente a los elementos.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
@@ -154,16 +150,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:20",
-                "17:40",
                 "20:00",
                 "22:10"
               ]
             }
           ],
           "horarios": [
-            "15:20",
-            "17:40",
             "20:00",
             "22:10"
           ]
@@ -219,7 +211,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "Tras un brote viral, la protagonista Alice se adentra en una instalación abandonada donde la noche se vuelve mortal y los horrores de la corporación Umbrella resurgen.",
+      "sinopsis": "Sigue a un desafortunado mensajero encargado de entregar un paquete a un hospital remoto. Pronto se encuentra atrapado en medio de una epidemia y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -293,15 +285,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:50",
-                "17:10",
                 "19:30"
               ]
             }
           ],
           "horarios": [
-            "14:50",
-            "17:10",
             "19:30"
           ]
         },
@@ -350,7 +338,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/coyote-vs-acme-12215_252",
       "trailer_url": "https://www.youtube.com/watch?v=V_ueAlyvn6A",
-      "sinopsis": "El astuto Coyote intenta atrapar al veloz Correcaminos usando los ingeniosos pero fallidos inventos de la empresa ACME.",
+      "sinopsis": "Después de décadas fallando en atrapar al Correcaminos, el Coyote decide hacer lo impensado: demandar a ACME, la compañía responsable de todos los productos defectuosos que arruinaron sus planes. En el juicio más absurdo de la historia, la comedia y la animación se mezclan en una batalla legal que podría cambiar el destino del desierto… para siempre.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1204680,
@@ -422,13 +410,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:40",
                 "21:50"
               ]
             }
           ],
           "horarios": [
-            "14:40",
             "21:50"
           ]
         },
@@ -457,7 +443,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/codigo-venganza-12252_252",
       "trailer_url": "https://www.youtube.com/watch?v=qdlvcbtHSuo",
-      "sinopsis": "Un hacker vengativo crea un código mortal que desata una serie de ataques cibernéticos contra sus enemigos, poniendo en riesgo al mundo entero.",
+      "sinopsis": "Después de que su jefe multimillonario sea asesinado frente a él, el agente de seguridad Cole Reed es incriminado por el homicidio y queda al borde de la bancarrota e injusticia. Perseguido por fuerzas internacionales, Reed debe limpiar su nombre y descubrir la conspiración detrás del asesinato, en una carrera contra el tiempo con acción intensa en alta mar y entornos corporativos letales",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 188834,
@@ -514,7 +500,7 @@
       "genero": "Acción",
       "clasificacion": "APT",
       "duracion": "184 min",
-      "director": "Anthony Russo, Joe Russo",
+      "director": "Joe Russo, Anthony Russo",
       "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
       "estreno": "",
       "sinopsis": "Tras los devastadores sucesos de Avengers: Infinity War, el universo está en ruinas, pero de los que quedan, los Avengers se unirán una vez más para deshacer la destrucción de Thanos y restaurar el orden del mundo. INFINITY VISION es una certificación para cines de Formato Grande Premium (PLF, por sus siglas en inglés), que garantiza a los espectadores una experiencia cinematográfica excepcional. ",
@@ -534,23 +520,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:20",
-                "17:00",
                 "20:40",
                 "21:40"
-              ]
-            },
-            {
-              "formato": "3D REGULAR DOBLADA",
-              "horarios": [
-                "18:00"
               ]
             }
           ],
           "horarios": [
-            "14:20",
-            "17:00",
-            "18:00",
             "20:40",
             "21:40"
           ]
@@ -600,12 +575,12 @@
         "tmdb_id": 299534,
         "titulo_tmdb": "Vengadores: Endgame",
         "voto": 8.2,
-        "votos": 28845,
+        "votos": 28851,
         "url_tmdb": "https://www.themoviedb.org/movie/299534",
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
         "poster_tmdb": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-        "director": "Anthony Russo, Joe Russo",
+        "director": "Joe Russo, Anthony Russo",
         "reparto": [
           {
             "nombre": "Robert Downey Jr.",
@@ -878,23 +853,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:20",
-                "17:00",
                 "20:40",
                 "21:40"
-              ]
-            },
-            {
-              "formato": "3D REGULAR DOBLADA",
-              "horarios": [
-                "18:00"
               ]
             }
           ],
           "horarios": [
-            "14:20",
-            "17:00",
-            "18:00",
             "20:40",
             "21:40"
           ]
@@ -908,13 +872,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:40",
                 "21:50"
               ]
             }
           ],
           "horarios": [
-            "14:40",
             "21:50"
           ]
         },
@@ -927,15 +889,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:50",
-                "17:10",
                 "19:30"
               ]
             }
           ],
           "horarios": [
-            "14:50",
-            "17:10",
             "19:30"
           ]
         },
@@ -948,16 +906,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
-                "17:50",
                 "20:10",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "15:30",
-            "17:50",
             "20:10",
             "22:30"
           ]
@@ -971,16 +925,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:20",
-                "17:40",
                 "20:00",
                 "22:10"
               ]
             }
           ],
           "horarios": [
-            "15:20",
-            "17:40",
             "20:00",
             "22:10"
           ]
@@ -1279,7 +1229,6 @@
     }
   ],
   "estado": "ok",
-  "motor": "groq",
   "fuentes_extra": [
     "Cineplanet",
     "Cinerama",
