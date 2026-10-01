@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-01 08:00",
+  "actualizado": "2026-10-01 11:00",
   "fecha_objetivo": "2026-10-01",
   "peliculas": [
     {
@@ -53,7 +53,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-isla-olvidada-12290_252",
       "trailer_url": "https://youtu.be/UUEC_fVIu7U?si=9XpuKS9J5hMyvafl",
-      "sinopsis": "Un grupo de aventureros naufraga en una isla misteriosa donde el tiempo parece haberse detenido y deben descubrir sus secretos para sobrevivir.",
+      "sinopsis": "Un grupo de aventureros explora una isla misteriosa donde el tiempo parece haberse detenido y descubren secretos ancestrales.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1465063,
@@ -162,7 +162,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/amigo-por-ahi-no-es-12293_252",
       "trailer_url": "https://www.youtube.com/watch?v=EELh6UNFx_Q&t=4s",
-      "sinopsis": "Un joven descubre que su nuevo vecino, aparentemente amable, oculta intenciones peligrosas que pondrán a prueba su confianza.",
+      "sinopsis": "Un hombre solitario descubre que su nuevo vecino es mucho más extraño de lo que parece, desencadenando una serie de situaciones cómicas y peligrosas.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1744063,
@@ -252,7 +252,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/vertigo-2-punto-muerto-12297_252",
       "trailer_url": "https://www.youtube.com/watch?v=IRJGXHvc-Hs",
-      "sinopsis": "La secuela del thriller de suspenso donde el protagonista regresa al punto muerto de su pasado para desentrañar una conspiración que amenaza su vida.",
+      "sinopsis": "El detective vuelve a enfrentarse al asesino del pasado, mientras una conspiración mortal lleva al caso a un punto sin retorno.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1101412,
@@ -263,7 +263,7 @@
         "imdb_id": "tt31192372",
         "url_imdb": "https://www.imdb.com/title/tt31192372/",
         "poster_tmdb": "https://image.tmdb.org/t/p/w500/7ODJFeX9gp4QfK6aFItw4CCrPfr.jpg",
-        "director": "Michael Spierig, Peter Spierig",
+        "director": "Peter Spierig, Michael Spierig",
         "reparto": [
           {
             "nombre": "Harriet Slater",
@@ -359,7 +359,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "En una noche siniestra, los supervivientes de la corporación Umbrella deben enfrentarse a una nueva ola de zombis y a un virus aún más letal.",
+      "sinopsis": "Tras una fuga de un virus letal, un grupo de supervivientes debe enfrentarse a hordas de zombis en una noche donde la oscuridad oculta el peor de los peligros.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -474,13 +474,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Un guerrero legendario se enfrenta a una bestia ancestral que amenaza con destruir su reino, descubriendo su propia humanidad en el proceso.",
+      "sinopsis": "Un cazador de criaturas legendarias se adentra en la selva para capturar a una bestia mítica, descubriendo que el verdadero monstruo puede estar dentro de él.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
         "titulo_tmdb": "En el corazón de la bestia",
         "voto": 7.6,
-        "votos": 158,
+        "votos": 164,
         "url_tmdb": "https://www.themoviedb.org/movie/1263337",
         "imdb_id": "tt7526136",
         "url_imdb": "https://www.imdb.com/title/tt7526136/",
@@ -644,7 +644,7 @@
       "sinopsis": "Tras un inquietante accidente, la exitosa autora Verity Crawford no puede escribir. Lowen Ashleigh es contratada como su escritora fantasma, pero descubre verdades inquietantes sobre los Crawford mientras vive con ellos.",
       "puntaje": "",
       "ficha": "",
-      "trailer_url": "https://youtu.be/Juf4i1Ui-84?si=G1iBr4hRdokQrKID",
+      "trailer_url": "https://youtu.be/polZUYGu7Uw?si=7Qa8anHvRsa1FdlI",
       "fuente_peli": "Cineplanet",
       "cines": [
         {
@@ -847,7 +847,7 @@
       ]
     },
     {
-      "titulo": "Vertigo 2 (Dob)",
+      "titulo": "Vértigo 2 (Dob)",
       "poster": "https://www.movietime.com.pe/bucket/images/cine/4e38abeb-b0a0-4714-9e1c-0df6788158b1.jpeg",
       "genero": "",
       "clasificacion": "+14",
@@ -1196,7 +1196,7 @@
           "trailer_url": "https://www.youtube.com/watch?v=FPsmvtmJ6-w"
         },
         {
-          "titulo": "Vertigo 2 (Dob)",
+          "titulo": "Vértigo 2 (Dob)",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/4e38abeb-b0a0-4714-9e1c-0df6788158b1.jpeg",
           "genero": "",
           "clasificacion": "+14",
