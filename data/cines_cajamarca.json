@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-01 17:00",
+  "actualizado": "2026-10-01 20:00",
   "fecha_objetivo": "2026-10-01",
   "peliculas": [
     {
@@ -52,7 +52,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-isla-olvidada-12290_252",
       "trailer_url": "https://www.youtube.com/results?search_query=La%20Isla%20Olvidada%20trailer%20espanol",
-      "sinopsis": "Un grupo de aventureros explora una isla misteriosa donde el tiempo parece haberse detenido.",
+      "sinopsis": "Un grupo de aventureros explora una isla misteriosa donde el tiempo parece haberse detenido y descubren secretos que cambiarán sus vidas.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1465063,
@@ -126,14 +126,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:50",
                 "18:40",
                 "21:10"
               ]
             }
           ],
           "horarios": [
-            "15:50",
             "18:40",
             "21:10"
           ]
@@ -169,13 +167,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/verity-la-sombra-de-un-engano-12282_252",
       "trailer_url": "https://youtu.be/polZUYGu7Uw?si=7Qa8anHvRsa1FdlI",
-      "sinopsis": "Una detective investiga una serie de engaños que ocultan una conspiración mucho más profunda.",
+      "sinopsis": "Verity, una detective con un pasado oscuro, se enfrenta a una conspiración que oculta una traición que pondrá en riesgo a todo lo que ama.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1283515,
         "titulo_tmdb": "Verity. La sombra de un engaño",
-        "voto": 6.7,
-        "votos": 19,
+        "voto": 6.9,
+        "votos": 25,
         "url_tmdb": "https://www.themoviedb.org/movie/1283515",
         "imdb_id": "tt32261958",
         "url_imdb": "https://www.imdb.com/title/tt32261958/",
@@ -217,7 +215,7 @@
         },
         "sinopsis_tmdb": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
         "estreno": "30 sep 2026",
-        "duracion_min": 117,
+        "duracion_min": 114,
         "paises": [
           "Estados Unidos"
         ],
@@ -293,7 +291,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/amigo-por-ahi-no-es-12293_252",
       "trailer_url": "https://www.youtube.com/watch?v=EELh6UNFx_Q&t=4s",
-      "sinopsis": "Un niño descubre que su nuevo amigo no es lo que parece y debe enfrentar peligros inesperados.",
+      "sinopsis": "Un niño descubre que su nuevo amigo no es lo que parece y debe decidir si confiar en él o enfrentarse a peligros inesperados.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1744063,
@@ -360,16 +358,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
-                "18:10",
                 "20:20",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "16:00",
-            "18:10",
             "20:20",
             "22:30"
           ]
@@ -417,13 +411,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "La heroína de Resident Evil se enfrenta a una amenaza nocturna que pone en riesgo a la humanidad.",
+      "sinopsis": "En esta entrega, los supervivientes de la infección luchan contra una nueva amenaza nocturna que amenaza con destruir la última zona segura.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
         "titulo_tmdb": "Resident Evil",
         "voto": 7.3,
-        "votos": 649,
+        "votos": 657,
         "url_tmdb": "https://www.themoviedb.org/movie/1423191",
         "imdb_id": "tt35538033",
         "url_imdb": "https://www.imdb.com/title/tt35538033/",
@@ -491,14 +485,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:50",
                 "19:10",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "16:50",
             "19:10",
             "21:30"
           ]
@@ -548,13 +540,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Un guerrero busca el legendario Corazón de la Bestia para salvar a su pueblo de la destrucción.",
+      "sinopsis": "Un guerrero busca el legendario Corazón de la Bestia, un artefacto que otorga poder absoluto, mientras enfrenta a enemigos que desean el mismo poder.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
         "titulo_tmdb": "En el corazón de la bestia",
         "voto": 7.6,
-        "votos": 164,
+        "votos": 172,
         "url_tmdb": "https://www.themoviedb.org/movie/1263337",
         "imdb_id": "tt7526136",
         "url_imdb": "https://www.imdb.com/title/tt7526136/",
@@ -615,14 +607,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:50",
                 "20:00",
                 "22:10"
               ]
             }
           ],
           "horarios": [
-            "17:50",
             "20:00",
             "22:10"
           ]
@@ -636,7 +626,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/vertigo-2-punto-muerto-12297_252",
       "trailer_url": "https://www.youtube.com/watch?v=IRJGXHvc-Hs",
-      "sinopsis": "El thriller de acción continúa con el agente que debe detener una conspiración antes del punto muerto.",
+      "sinopsis": "El thriller de acción continúa con el protagonista atrapado en un punto muerto donde cada decisión puede ser fatal, intensificando la tensión de la primera entrega.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1101412,
@@ -690,39 +680,20 @@
       }
     },
     {
-      "titulo": "Avengers Endgame Bonus",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003092?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Acción",
-      "clasificacion": "APT",
-      "duracion": "184 min",
-      "director": "Joe Russo, Anthony Russo",
+      "titulo": "Avengers: Endgame Bonus",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/adve.jpg",
+      "genero": "Accion",
+      "clasificacion": "Todo Espectador",
+      "duracion": "03:03",
+      "sinopsis": "Después de los Eventos Devastadores de 'Avengers: Infinity War', el Universo Está en Ruinas Debido a las Acciones de Thanos, el Titán Loco. Con la Ayuda de los Aliados Que Quedaron, los Vengadores Deberán Reunirse una Vez Más Para Intentar Deshacer Sus Acciones y Restaurar el Orden en el Universo de una Vez Por Todas, Sin Importar Cuáles Son las Consecuencias... Cuarta y Última Entrega de la Saga ",
+      "director": "Anthony Russo, Joe Russo",
       "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
       "estreno": "",
-      "sinopsis": "Tras los devastadores sucesos de Avengers: Infinity War, el universo está en ruinas, pero de los que quedan, los Avengers se unirán una vez más para deshacer la destrucción de Thanos y restaurar el orden del mundo. INFINITY VISION es una certificación para cines de Formato Grande Premium (PLF, por sus siglas en inglés), que garantiza a los espectadores una experiencia cinematográfica excepcional. ",
       "puntaje": "",
       "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=u7QErIFCc7k",
-      "fuente_peli": "Cineplanet",
+      "trailer_url": "https://www.youtube.com/watch?v=Ib847Q7C9AU",
+      "fuente_peli": "Cinerama",
       "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "18:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:00"
-          ]
-        },
         {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
@@ -764,12 +735,12 @@
         "tmdb_id": 299534,
         "titulo_tmdb": "Vengadores: Endgame",
         "voto": 8.2,
-        "votos": 28868,
+        "votos": 28870,
         "url_tmdb": "https://www.themoviedb.org/movie/299534",
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
         "poster_tmdb": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-        "director": "Joe Russo, Anthony Russo",
+        "director": "Anthony Russo, Joe Russo",
         "reparto": [
           {
             "nombre": "Robert Downey Jr.",
@@ -1109,23 +1080,6 @@
           ]
         },
         {
-          "titulo": "Avengers Endgame Bonus",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003092?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Acción",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "18:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:00"
-          ]
-        },
-        {
           "titulo": "El Corazón de la Bestia",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002975?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Acción",
@@ -1134,14 +1088,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:50",
                 "19:10",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "16:50",
             "19:10",
             "21:30"
           ]
@@ -1155,16 +1107,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
-                "18:10",
                 "20:20",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "16:00",
-            "18:10",
             "20:20",
             "22:30"
           ]
@@ -1178,14 +1126,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:50",
                 "18:40",
                 "21:10"
               ]
             }
           ],
           "horarios": [
-            "15:50",
             "18:40",
             "21:10"
           ]
@@ -1199,14 +1145,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:50",
                 "20:00",
                 "22:10"
               ]
             }
           ],
           "horarios": [
-            "17:50",
             "20:00",
             "22:10"
           ]
@@ -1243,7 +1187,7 @@
           ]
         },
         {
-          "titulo": "Avengers Endgame Bonus",
+          "titulo": "Avengers: Endgame Bonus",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/adve.jpg",
           "genero": "Accion",
           "clasificacion": "Todo Espectador",
@@ -1410,7 +1354,7 @@
           "trailer_url": "https://www.youtube.com/watch?v=EELh6UNFx_Q"
         },
         {
-          "titulo": "Avengers Endgame Bonus",
+          "titulo": "Avengers: Endgame Bonus",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/b515ef8a-4882-4eb3-9bdc-191c9dadc95d.png",
           "genero": "",
           "clasificacion": "APT",
