@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-03 11:09",
+  "actualizado": "2026-10-03 14:11",
   "fecha_objetivo": "2026-10-03",
   "peliculas": [
     {
@@ -269,7 +269,7 @@
     },
     {
       "titulo": "Una Amistad Gigante",
-      "poster": "",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/9/una-amistad-gigante-47865-1.jpg",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
@@ -348,113 +348,6 @@
         ],
         "idioma": "Ruso",
         "titulo_original": "Красавица"
-      }
-    },
-    {
-      "titulo": "Vértigo 2: Punto Muerto",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/9/vertigo-2-punto-muerto-47866-1.jpg",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "20:55"
-              ]
-            }
-          ],
-          "horarios": [
-            "20:55"
-          ]
-        },
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "15:30",
-                "17:50",
-                "20:00",
-                "22:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30",
-            "17:50",
-            "20:00",
-            "22:10"
-          ]
-        }
-      ],
-      "genero": "Thriller",
-      "duracion": "100 minutos",
-      "clasificacion": "12 Años",
-      "director": "Michael Spierig, Peter Spierig",
-      "actores": "Harriet Slater, Arsema Thomas, Tom Brittney, Virginia Gardner.",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/vertigo-2-punto-muerto-12297_252",
-      "trailer_url": "https://www.youtube.com/watch?v=IRJGXHvc-Hs",
-      "sinopsis": "Tras sobrevivir a una experiencia extrema, un nuevo grupo de jóvenes se enfrenta a un desafío aún más peligroso en un entorno remoto en Tailandia. A cientos de metros de altura, sin escapatoria y con condiciones impredecibles, deberán luchar contra el miedo, el tiempo y sus propios límites para sobrevivir.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1101412,
-        "titulo_tmdb": "Fall 2: Deadpoint",
-        "voto": 6.1,
-        "votos": 57,
-        "url_tmdb": "https://www.themoviedb.org/movie/1101412",
-        "imdb_id": "tt31192372",
-        "url_imdb": "https://www.imdb.com/title/tt31192372/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/7ODJFeX9gp4QfK6aFItw4CCrPfr.jpg",
-        "director": "Michael Spierig, Peter Spierig",
-        "reparto": [
-          {
-            "nombre": "Harriet Slater",
-            "personaje": "Jax Hunter"
-          },
-          {
-            "nombre": "Arsema Thomas",
-            "personaje": "Luce"
-          },
-          {
-            "nombre": "Tom Brittney",
-            "personaje": "Jon Platt"
-          },
-          {
-            "nombre": "Virginia Gardner",
-            "personaje": "Shiloh Hunter"
-          },
-          {
-            "nombre": "สหจักร บุญธนกิจ",
-            "personaje": "Thai Barman"
-          },
-          {
-            "nombre": "Korakod Yensuk",
-            "personaje": "Large Woman"
-          }
-        ],
-        "generos": [
-          "Suspense"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Tras la muerte de su intrépida hermana Shiloh, Jax emprende una peligrosa escalada con una vieja amiga para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, en Tailandia, un aterrador desprendimiento de rocas las deja varadas a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia.",
-        "estreno": "1 sep 2026",
-        "duracion_min": 98,
-        "paises": [
-          "Reino Unido",
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Fall 2: Deadpoint"
       }
     },
     {
@@ -805,6 +698,113 @@
       }
     },
     {
+      "titulo": "Vértigo 2: Punto Muerto",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/9/vertigo-2-punto-muerto-47866-0.webp",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "20:55"
+              ]
+            }
+          ],
+          "horarios": [
+            "20:55"
+          ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:30",
+                "17:50",
+                "20:00",
+                "22:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "17:50",
+            "20:00",
+            "22:10"
+          ]
+        }
+      ],
+      "genero": "Thriller",
+      "duracion": "100 minutos",
+      "clasificacion": "12 Años",
+      "director": "Michael Spierig, Peter Spierig",
+      "actores": "Harriet Slater, Arsema Thomas, Tom Brittney, Virginia Gardner.",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/vertigo-2-punto-muerto-12297_252",
+      "trailer_url": "https://www.youtube.com/watch?v=IRJGXHvc-Hs",
+      "sinopsis": "Tras sobrevivir a una experiencia extrema, un nuevo grupo de jóvenes se enfrenta a un desafío aún más peligroso en un entorno remoto en Tailandia. A cientos de metros de altura, sin escapatoria y con condiciones impredecibles, deberán luchar contra el miedo, el tiempo y sus propios límites para sobrevivir.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1101412,
+        "titulo_tmdb": "Fall 2: Deadpoint",
+        "voto": 6.1,
+        "votos": 57,
+        "url_tmdb": "https://www.themoviedb.org/movie/1101412",
+        "imdb_id": "tt31192372",
+        "url_imdb": "https://www.imdb.com/title/tt31192372/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/7ODJFeX9gp4QfK6aFItw4CCrPfr.jpg",
+        "director": "Michael Spierig, Peter Spierig",
+        "reparto": [
+          {
+            "nombre": "Harriet Slater",
+            "personaje": "Jax Hunter"
+          },
+          {
+            "nombre": "Arsema Thomas",
+            "personaje": "Luce"
+          },
+          {
+            "nombre": "Tom Brittney",
+            "personaje": "Jon Platt"
+          },
+          {
+            "nombre": "Virginia Gardner",
+            "personaje": "Shiloh Hunter"
+          },
+          {
+            "nombre": "สหจักร บุญธนกิจ",
+            "personaje": "Thai Barman"
+          },
+          {
+            "nombre": "Korakod Yensuk",
+            "personaje": "Large Woman"
+          }
+        ],
+        "generos": [
+          "Suspense"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Tras la muerte de su intrépida hermana Shiloh, Jax emprende una peligrosa escalada con una vieja amiga para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, en Tailandia, un aterrador desprendimiento de rocas las deja varadas a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia.",
+        "estreno": "1 sep 2026",
+        "duracion_min": 98,
+        "paises": [
+          "Reino Unido",
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Fall 2: Deadpoint"
+      }
+    },
+    {
       "titulo": "Avengers: Endgame",
       "poster": "https://cdn.carteleracine.pe/cine/2019/1/avengers-endgame-47703-0.webp",
       "cines": [
@@ -839,7 +839,7 @@
         "tmdb_id": 299534,
         "titulo_tmdb": "Vengadores: Endgame",
         "voto": 8.2,
-        "votos": 28878,
+        "votos": 28883,
         "url_tmdb": "https://www.themoviedb.org/movie/299534",
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
@@ -1513,7 +1513,7 @@
         },
         {
           "titulo": "Una Amistad Gigante",
-          "poster": "",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/9/una-amistad-gigante-47865-1.jpg",
           "genero": "Aventura",
           "clasificacion": "12 Años",
           "formatos": [
@@ -1526,23 +1526,6 @@
           ],
           "horarios": [
             "15:30"
-          ]
-        },
-        {
-          "titulo": "Vértigo 2: Punto Muerto",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/9/vertigo-2-punto-muerto-47866-1.jpg",
-          "genero": "Thriller",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "20:55"
-              ]
-            }
-          ],
-          "horarios": [
-            "20:55"
           ]
         },
         {
@@ -1596,6 +1579,23 @@
           ],
           "horarios": [
             "13:20"
+          ]
+        },
+        {
+          "titulo": "Vértigo 2: Punto Muerto",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/9/vertigo-2-punto-muerto-47866-0.webp",
+          "genero": "Thriller",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "20:55"
+              ]
+            }
+          ],
+          "horarios": [
+            "20:55"
           ]
         },
         {
