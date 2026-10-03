@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-03 07:00",
+  "actualizado": "2026-10-03 08:00",
   "fecha_objetivo": "2026-10-03",
   "peliculas": [
     {
@@ -71,7 +71,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-isla-olvidada-12290_252",
       "trailer_url": "https://youtu.be/UUEC_fVIu7U?si=9XpuKS9J5hMyvafl",
-      "sinopsis": "Un grupo de exploradores descubre una isla misteriosa donde el tiempo parece haberse detenido y deben enfrentar sus propios recuerdos olvidados.",
+      "sinopsis": "Un grupo de aventureros descubre una isla misteriosa donde el tiempo parece haberse detenido y deben desentrañar sus secretos antes de quedar atrapados para siempre.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1465063,
@@ -180,7 +180,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/verity-la-sombra-de-un-engano-12282_252",
       "trailer_url": "https://youtu.be/polZUYGu7Uw?si=7Qa8anHvRsa1FdlI",
-      "sinopsis": "Una detective investiga una serie de crímenes que parecen estar ligados a una sombra del pasado, descubriendo una red de engaños que amenaza su propia identidad.",
+      "sinopsis": "Una detective investiga una serie de crímenes que parecen estar ligados a una sombra del pasado, descubriendo un engaño que amenaza con destruir su propia identidad.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1283515,
@@ -274,7 +274,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/vertigo-2-punto-muerto-12297_252",
       "trailer_url": "https://www.youtube.com/watch?v=IRJGXHvc-Hs",
-      "sinopsis": "El piloto de un helicóptero de rescate vuelve a la zona del accidente que lo marcó, descubriendo un punto muerto donde la realidad y la locura se entrelazan.",
+      "sinopsis": "El piloto de un helicóptero de rescate se enfrenta a una tormenta mortal que lo lleva a un punto sin retorno, donde debe luchar contra sus propios demonios para sobrevivir.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1101412,
@@ -381,7 +381,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "Tras un brote viral, la protagonista lucha contra hordas de zombis en una noche sin fin, buscando una cura mientras enfrenta sus propios demonios.",
+      "sinopsis": "Los supervivientes de Raccoon City se enfrentan a una nueva amenaza biotecnológica que desata una noche de terror y mutaciones mortales.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -498,7 +498,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Un joven guerrero debe enfrentarse a la bestia que habita su interior para salvar a su aldea de una amenaza sobrenatural.",
+      "sinopsis": "Un joven guerrero busca la cura para una bestia legendaria que aterroriza su aldea, descubriendo que la verdadera monstruosidad reside en el corazón humano.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
