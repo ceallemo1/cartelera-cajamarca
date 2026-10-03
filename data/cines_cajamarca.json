@@ -2,8 +2,8 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-02 20:05",
-  "fecha_objetivo": "2026-10-02",
+  "actualizado": "2026-10-03 01:23",
+  "fecha_objetivo": "2026-10-03",
   "peliculas": [
     {
       "titulo": "La Isla Olvidada",
@@ -15,32 +15,23 @@
           "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
             {
-              "formato": "Doblada",
-              "horarios": [
-                "19:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:00"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
               "formato": "",
               "horarios": [
-                "15:00",
-                "17:00"
+                "14:35"
+              ]
+            },
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "16:00",
+                "18:10"
               ]
             }
           ],
           "horarios": [
-            "15:00",
-            "17:00"
+            "14:35",
+            "16:00",
+            "18:10"
           ]
         }
       ],
@@ -58,7 +49,7 @@
         "tmdb_id": 1465063,
         "titulo_tmdb": "La isla olvidada",
         "voto": 8.2,
-        "votos": 38,
+        "votos": 40,
         "url_tmdb": "https://www.themoviedb.org/movie/1465063",
         "imdb_id": "tt36583977",
         "url_imdb": "https://www.imdb.com/title/tt36583977/",
@@ -116,6 +107,22 @@
       "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003069?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "cines": [
         {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:00"
+          ]
+        },
+        {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
           "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
@@ -124,38 +131,16 @@
           "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "18:40",
-                "21:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:40",
-            "21:10"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
               "formato": "",
               "horarios": [
-                "15:00",
-                "17:15",
-                "19:30",
-                "21:45"
+                "15:50",
+                "20:50"
               ]
             }
           ],
           "horarios": [
-            "15:00",
-            "17:15",
-            "19:30",
-            "21:45"
+            "15:50",
+            "20:50"
           ]
         }
       ],
@@ -224,126 +209,8 @@
       }
     },
     {
-      "titulo": "Amigo por ahi no es",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003133?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:45",
-                "21:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:45",
-            "21:45"
-          ]
-        },
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "21:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "21:40"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "21:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "21:00"
-          ]
-        }
-      ],
-      "genero": "Comedia",
-      "duracion": "120 minutos",
-      "clasificacion": "12 Años",
-      "director": "Gino Tassara",
-      "actores": "Mathias Spitzer, Jassir Yunis, Gian Piero Díaz y Rossana Fernández-Maldonado.",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/amigo-por-ahi-no-es-12293_252",
-      "trailer_url": "https://www.youtube.com/watch?v=EELh6UNFx_Q&t=4s",
-      "sinopsis": "Franco, Julián y Almendra son amigos desde niños y deciden convertir sus talentos en un sueño en común: crear “Somos Familia”, una empresa de contenidos que rápidamente comienza a crecer. Juntos creen que pueden superar cualquier obstáculo. Incluso una dolorosa pérdida que los unirá todavía más y convertirá su amistad en una verdadera familia. Pero cuando el éxito llega, también aparecen personas ",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1744063,
-        "titulo_tmdb": "¡Amigo, por ahí no es!",
-        "voto": null,
-        "votos": 0,
-        "url_tmdb": "https://www.themoviedb.org/movie/1744063",
-        "imdb_id": "",
-        "url_imdb": "",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/mgoRCDvptQp0sn8b0NEQaJSF5NH.jpg",
-        "director": "Gino Tassara",
-        "reparto": [
-          {
-            "nombre": "Miranda Capurro",
-            "personaje": "Almendra"
-          },
-          {
-            "nombre": "Matías Spitzer",
-            "personaje": "Franco"
-          },
-          {
-            "nombre": "Jassir Yunis",
-            "personaje": "Julian"
-          },
-          {
-            "nombre": "Andrea Luna",
-            "personaje": ""
-          },
-          {
-            "nombre": "Gian Piero Díaz",
-            "personaje": ""
-          },
-          {
-            "nombre": "Rossana Fernández-Maldonado",
-            "personaje": ""
-          }
-        ],
-        "generos": [
-          "Comedia"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "",
-        "estreno": "1 oct 2026",
-        "duracion_min": 90,
-        "paises": [
-          "Perú"
-        ],
-        "idioma": "Español",
-        "titulo_original": "¡Amigo, por ahí no es!"
-      }
-    },
-    {
       "titulo": "Una Amistad Gigante",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/9/una-amistad-gigante-47865-1.jpg",
+      "poster": "",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
@@ -425,8 +292,8 @@
       }
     },
     {
-      "titulo": "Resident Evil: Noche Cero",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/9/resident-evil-noche-cero-47798-0.webp",
+      "titulo": "Vértigo 2: Punto Muerto",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/9/vertigo-2-punto-muerto-47866-1.jpg",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
@@ -453,8 +320,116 @@
           "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "2D REGULAR DOBLADA",
+              "formato": "",
               "horarios": [
+                "15:30",
+                "17:50",
+                "20:00",
+                "22:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "17:50",
+            "20:00",
+            "22:10"
+          ]
+        }
+      ],
+      "genero": "Thriller",
+      "duracion": "100 minutos",
+      "clasificacion": "12 Años",
+      "director": "Michael Spierig, Peter Spierig",
+      "actores": "Harriet Slater, Arsema Thomas, Tom Brittney, Virginia Gardner.",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/vertigo-2-punto-muerto-12297_252",
+      "trailer_url": "https://www.youtube.com/watch?v=IRJGXHvc-Hs",
+      "sinopsis": "Tras sobrevivir a una experiencia extrema, un nuevo grupo de jóvenes se enfrenta a un desafío aún más peligroso en un entorno remoto en Tailandia. A cientos de metros de altura, sin escapatoria y con condiciones impredecibles, deberán luchar contra el miedo, el tiempo y sus propios límites para sobrevivir.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1101412,
+        "titulo_tmdb": "Fall 2: Deadpoint",
+        "voto": 6.1,
+        "votos": 56,
+        "url_tmdb": "https://www.themoviedb.org/movie/1101412",
+        "imdb_id": "tt31192372",
+        "url_imdb": "https://www.imdb.com/title/tt31192372/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/7ODJFeX9gp4QfK6aFItw4CCrPfr.jpg",
+        "director": "Peter Spierig, Michael Spierig",
+        "reparto": [
+          {
+            "nombre": "Harriet Slater",
+            "personaje": "Jax Hunter"
+          },
+          {
+            "nombre": "Arsema Thomas",
+            "personaje": "Luce"
+          },
+          {
+            "nombre": "Tom Brittney",
+            "personaje": "Jon Platt"
+          },
+          {
+            "nombre": "Virginia Gardner",
+            "personaje": "Shiloh Hunter"
+          },
+          {
+            "nombre": "สหจักร บุญธนกิจ",
+            "personaje": "Thai Barman"
+          },
+          {
+            "nombre": "Korakod Yensuk",
+            "personaje": "Large Woman"
+          }
+        ],
+        "generos": [
+          "Suspense"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Tras la muerte de su intrépida hermana Shiloh, Jax emprende una peligrosa escalada con una vieja amiga para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, en Tailandia, un aterrador desprendimiento de rocas las deja varadas a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia.",
+        "estreno": "1 sep 2026",
+        "duracion_min": 98,
+        "paises": [
+          "Reino Unido",
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Fall 2: Deadpoint"
+      }
+    },
+    {
+      "titulo": "Resident Evil: Noche Cero",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/9/resident-evil-noche-cero-47798-0.webp",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "19:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:00"
+          ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
                 "18:10",
                 "20:20",
                 "22:30"
@@ -462,27 +437,10 @@
             }
           ],
           "horarios": [
+            "16:00",
             "18:10",
             "20:20",
             "22:30"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "18:00",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:00",
-            "22:00"
           ]
         }
       ],
@@ -500,7 +458,7 @@
         "tmdb_id": 1423191,
         "titulo_tmdb": "Resident Evil",
         "voto": 7.3,
-        "votos": 676,
+        "votos": 682,
         "url_tmdb": "https://www.themoviedb.org/movie/1423191",
         "imdb_id": "tt35538033",
         "url_imdb": "https://www.imdb.com/title/tt35538033/",
@@ -584,34 +542,22 @@
           "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "2D REGULAR DOBLADA",
+              "formato": "",
               "horarios": [
+                "14:30",
+                "16:50",
+                "18:30",
                 "19:10",
                 "21:30"
               ]
             }
           ],
           "horarios": [
+            "14:30",
+            "16:50",
+            "18:30",
             "19:10",
             "21:30"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:00",
-                "20:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "20:00"
           ]
         }
       ],
@@ -676,8 +622,8 @@
       }
     },
     {
-      "titulo": "Vértigo 2: Punto Muerto",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/9/vertigo-2-punto-muerto-47866-0.webp",
+      "titulo": "Super Charlie",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/5/super-charlie-47400-0.webp",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
@@ -685,99 +631,82 @@
           "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
             {
-              "formato": "Doblada",
+              "formato": "",
               "horarios": [
-                "21:10"
+                "13:20"
               ]
             }
           ],
           "horarios": [
-            "21:10"
-          ]
-        },
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "17:50",
-                "20:00",
-                "22:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:50",
-            "20:00",
-            "22:10"
+            "13:20"
           ]
         }
       ],
-      "genero": "Thriller",
-      "duracion": "100 minutos",
-      "clasificacion": "12 Años",
-      "director": "Michael Spierig, Peter Spierig",
-      "actores": "Harriet Slater, Arsema Thomas, Tom Brittney, Virginia Gardner.",
+      "genero": "Animado",
+      "duracion": "82 minutos",
+      "clasificacion": "Todos",
+      "director": "Jon Holmberg",
+      "actores": "Orlando Wahlsteen, Silas Strand, Sven Björklund",
       "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/vertigo-2-punto-muerto-12297_252",
-      "trailer_url": "https://www.youtube.com/watch?v=IRJGXHvc-Hs",
-      "sinopsis": "Tras sobrevivir a una experiencia extrema, un nuevo grupo de jóvenes se enfrenta a un desafío aún más peligroso en un entorno remoto en Tailandia. A cientos de metros de altura, sin escapatoria y con condiciones impredecibles, deberán luchar contra el miedo, el tiempo y sus propios límites para sobrevivir.",
+      "ficha": "https://www.carteleracine.pe/cajamarca/super-charlie-12117_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Super%20Charlie%20trailer%20espanol",
+      "sinopsis": "Wille, de diez años, siempre ha soñado con convertirse en superhéroe y acabar con criminales junto a su padre policía. Sin embargo, su sueño se ve truncado con el nacimiento de su hermano pequeño, Charlie. El pequeño no solo acapara toda la atención, sino que Wille también descubre que Charlie tiene superpoderes...",
       "puntaje": "",
       "tmdb": {
-        "tmdb_id": 1101412,
-        "titulo_tmdb": "Fall 2: Deadpoint",
-        "voto": 6.1,
-        "votos": 56,
-        "url_tmdb": "https://www.themoviedb.org/movie/1101412",
-        "imdb_id": "tt31192372",
-        "url_imdb": "https://www.imdb.com/title/tt31192372/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/7ODJFeX9gp4QfK6aFItw4CCrPfr.jpg",
-        "director": "Michael Spierig, Peter Spierig",
+        "tmdb_id": 1218032,
+        "titulo_tmdb": "Super Charlie",
+        "voto": 6.8,
+        "votos": 42,
+        "url_tmdb": "https://www.themoviedb.org/movie/1218032",
+        "imdb_id": "tt28639152",
+        "url_imdb": "https://www.imdb.com/title/tt28639152/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/5Q9HC4MGRdDprlO8yMPQVKbwAwg.jpg",
+        "director": "Jon Holmberg",
         "reparto": [
           {
-            "nombre": "Harriet Slater",
-            "personaje": "Jax Hunter"
+            "nombre": "Orlando Wahlsteen",
+            "personaje": "Wille (voice)"
           },
           {
-            "nombre": "Arsema Thomas",
-            "personaje": "Luce"
+            "nombre": "Silas Strand",
+            "personaje": "Charlie (voice)"
           },
           {
-            "nombre": "Tom Brittney",
-            "personaje": "Jon Platt"
+            "nombre": "Tuva Novotny",
+            "personaje": "Mom (voice)"
           },
           {
-            "nombre": "Virginia Gardner",
-            "personaje": "Shiloh Hunter"
+            "nombre": "Sven Björklund",
+            "personaje": "Anton (voice)"
           },
           {
-            "nombre": "สหจักร บุญธนกิจ",
-            "personaje": "Thai Barman"
+            "nombre": "Joakim Jennefors",
+            "personaje": "Inferio (voice)"
           },
           {
-            "nombre": "Korakod Yensuk",
-            "personaje": "Large Woman"
+            "nombre": "Ulla Skoog",
+            "personaje": "Kerstin (voice)"
           }
         ],
         "generos": [
-          "Suspense"
+          "Animación",
+          "Familia",
+          "Acción",
+          "Comedia"
         ],
-        "trailer": {},
-        "sinopsis_tmdb": "Tras la muerte de su intrépida hermana Shiloh, Jax emprende una peligrosa escalada con una vieja amiga para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, en Tailandia, un aterrador desprendimiento de rocas las deja varadas a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia.",
-        "estreno": "1 sep 2026",
-        "duracion_min": 98,
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=N-ky9s8gNJY",
+          "embed_id": "N-ky9s8gNJY"
+        },
+        "sinopsis_tmdb": "Wille, de diez años, siempre ha soñado con convertirse en superhéroe y acabar con criminales junto a su padre policía. Sin embargo, su sueño se ve truncado con el nacimiento de su hermano pequeño, Charlie. El pequeño no solo acapara toda la atención, sino que Wille también descubre que Charlie tiene superpoderes...",
+        "estreno": "25 dic 2024",
+        "duracion_min": 78,
         "paises": [
-          "Reino Unido",
-          "Estados Unidos"
+          "Denmark",
+          "Sweden"
         ],
-        "idioma": "Inglés",
-        "titulo_original": "Fall 2: Deadpoint"
+        "idioma": "SV",
+        "titulo_original": "Super Charlie"
       }
     },
     {
@@ -878,12 +807,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "19:00"
+                "20:20"
               ]
             }
           ],
           "horarios": [
-            "19:00"
+            "20:20"
           ]
         }
       ],
@@ -901,7 +830,7 @@
         "tmdb_id": 101299,
         "titulo_tmdb": "Los Juegos del Hambre: En llamas",
         "voto": 7.4,
-        "votos": 18835,
+        "votos": 18837,
         "url_tmdb": "https://www.themoviedb.org/movie/101299",
         "imdb_id": "tt1951264",
         "url_imdb": "https://www.imdb.com/title/tt1951264/",
@@ -953,368 +882,178 @@
       }
     },
     {
-      "titulo": "Avengers: Doomsday(preventa)",
-      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/3d963823a9ed8dd4d81b637127f265bd.jpg",
-      "genero": "Accion",
-      "clasificacion": "Mayores de 14",
-      "duracion": "02:45",
-      "sinopsis": "Héroes Icónicos de Tres Universos Diferentes Se Encuentran en un Curso de Colisión Mortal y Enfrentan una Amenaza Existencial Como Nunca Antes Han Visto.",
-      "director": "Anthony Russo, Joe Russo",
-      "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
+      "titulo": "Amigo por ahi no es",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003133?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Comedia",
+      "clasificacion": "+14 DNI",
+      "duracion": "115 min",
+      "director": "Gino Tassara",
+      "actores": "Miranda Capurro, Matías Spitzer, Jassir Yunis, Andrea Luna, Gian Piero Díaz, Rossana Fernández-Maldonado",
       "estreno": "",
+      "sinopsis": "Franco, Julián y Almendra son amigos desde niños y deciden convertir sus talentos en un sueño en común: crear “Somos Familia”, una empresa de contenidos que rápidamente comienza a crecer. Juntos creen que pueden superar cualquier obstáculo. Incluso una dolorosa pérdida que los unirá todavía más y convertirá su amistad en una verdadera familia. Pero cuando el éxito llega, también aparecen personas ",
       "puntaje": "",
       "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=Ib847Q7C9AU",
-      "fuente_peli": "Cinerama",
+      "trailer_url": "https://www.youtube.com/watch?v=EELh6UNFx_Q&t=4s",
+      "fuente_peli": "Cineplanet",
       "cines": [
         {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
           "formatos": [
             {
               "formato": "",
               "horarios": [
-                "15:00",
-                "15:30",
-                "16:00",
-                "16:30",
-                "18:00",
-                "18:30",
-                "19:00",
-                "19:30",
-                "21:00",
-                "21:30",
-                "22:00",
-                "22:30"
+                "21:40"
               ]
             }
           ],
           "horarios": [
-            "15:00",
-            "15:30",
-            "16:00",
-            "16:30",
-            "18:00",
-            "18:30",
-            "19:00",
-            "19:30",
-            "21:00",
-            "21:30",
-            "22:00",
-            "22:30"
+            "21:40"
           ]
         }
       ],
       "tmdb": {
-        "tmdb_id": 299534,
-        "titulo_tmdb": "Vengadores: Endgame",
-        "voto": 8.2,
-        "votos": 28873,
-        "url_tmdb": "https://www.themoviedb.org/movie/299534",
-        "imdb_id": "tt4154796",
-        "url_imdb": "https://www.imdb.com/title/tt4154796/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-        "director": "Anthony Russo, Joe Russo",
+        "tmdb_id": 1744063,
+        "titulo_tmdb": "¡Amigo, por ahí no es!",
+        "voto": null,
+        "votos": 0,
+        "url_tmdb": "https://www.themoviedb.org/movie/1744063",
+        "imdb_id": "",
+        "url_imdb": "",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/mgoRCDvptQp0sn8b0NEQaJSF5NH.jpg",
+        "director": "Gino Tassara",
         "reparto": [
           {
-            "nombre": "Robert Downey Jr.",
-            "personaje": "Tony Stark / Iron Man"
+            "nombre": "Miranda Capurro",
+            "personaje": "Almendra"
           },
           {
-            "nombre": "Chris Evans",
-            "personaje": "Steve Rogers / Captain America"
+            "nombre": "Matías Spitzer",
+            "personaje": "Franco"
           },
           {
-            "nombre": "Mark Ruffalo",
-            "personaje": "Bruce Banner / Hulk"
+            "nombre": "Jassir Yunis",
+            "personaje": "Julian"
           },
           {
-            "nombre": "Chris Hemsworth",
-            "personaje": "Thor"
+            "nombre": "Andrea Luna",
+            "personaje": ""
           },
           {
-            "nombre": "Scarlett Johansson",
-            "personaje": "Natasha Romanoff / Black Widow"
+            "nombre": "Gian Piero Díaz",
+            "personaje": ""
           },
           {
-            "nombre": "Jeremy Renner",
-            "personaje": "Clint Barton / Hawkeye"
+            "nombre": "Rossana Fernández-Maldonado",
+            "personaje": ""
           }
         ],
         "generos": [
-          "Aventura",
-          "Ciencia ficción",
-          "Acción"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=Ib847Q7C9AU",
-          "embed_id": "Ib847Q7C9AU"
-        },
-        "sinopsis_tmdb": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
-        "estreno": "24 abr 2019",
-        "duracion_min": 181,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Avengers: Endgame"
-      }
-    },
-    {
-      "titulo": "Avengers: Endgame Bonus",
-      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/adve.jpg",
-      "genero": "Accion",
-      "clasificacion": "Todo Espectador",
-      "duracion": "03:03",
-      "sinopsis": "Después de los Eventos Devastadores de 'Avengers: Infinity War', el Universo Está en Ruinas Debido a las Acciones de Thanos, el Titán Loco. Con la Ayuda de los Aliados Que Quedaron, los Vengadores Deberán Reunirse una Vez Más Para Intentar Deshacer Sus Acciones y Restaurar el Orden en el Universo de una Vez Por Todas, Sin Importar Cuáles Son las Consecuencias... Cuarta y Última Entrega de la Saga ",
-      "director": "Anthony Russo, Joe Russo",
-      "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
-      "estreno": "",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=Ib847Q7C9AU",
-      "fuente_peli": "Cinerama",
-      "cines": [
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:15",
-                "18:30",
-                "21:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:15",
-            "18:30",
-            "21:45"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 299534,
-        "titulo_tmdb": "Vengadores: Endgame",
-        "voto": 8.2,
-        "votos": 28874,
-        "url_tmdb": "https://www.themoviedb.org/movie/299534",
-        "imdb_id": "tt4154796",
-        "url_imdb": "https://www.imdb.com/title/tt4154796/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-        "director": "Anthony Russo, Joe Russo",
-        "reparto": [
-          {
-            "nombre": "Robert Downey Jr.",
-            "personaje": "Tony Stark / Iron Man"
-          },
-          {
-            "nombre": "Chris Evans",
-            "personaje": "Steve Rogers / Captain America"
-          },
-          {
-            "nombre": "Mark Ruffalo",
-            "personaje": "Bruce Banner / Hulk"
-          },
-          {
-            "nombre": "Chris Hemsworth",
-            "personaje": "Thor"
-          },
-          {
-            "nombre": "Scarlett Johansson",
-            "personaje": "Natasha Romanoff / Black Widow"
-          },
-          {
-            "nombre": "Jeremy Renner",
-            "personaje": "Clint Barton / Hawkeye"
-          }
-        ],
-        "generos": [
-          "Aventura",
-          "Ciencia ficción",
-          "Acción"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=Ib847Q7C9AU",
-          "embed_id": "Ib847Q7C9AU"
-        },
-        "sinopsis_tmdb": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
-        "estreno": "24 abr 2019",
-        "duracion_min": 181,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Avengers: Endgame"
-      }
-    },
-    {
-      "titulo": "Coyote Vs Acme",
-      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/coyogtw.jpg",
-      "genero": "Animado",
-      "clasificacion": "Todo Espectador",
-      "duracion": "01:44",
-      "sinopsis": "Una Historia Ambientada en el Almacén de Acme, el Fabricante de Todo Lo Que Utilizan los Personajes de los Looney Tunes.",
-      "director": "David Green",
-      "actores": "Will Forte, Lana Condor, John Cena, Tone Bell, Martha Kelly, Luis Guzmán",
-      "estreno": "",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=WQRoa6l4bwI",
-      "fuente_peli": "Cinerama",
-      "cines": [
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "19:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:00"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1204680,
-        "titulo_tmdb": "Coyote vs. Acme",
-        "voto": 7.6,
-        "votos": 610,
-        "url_tmdb": "https://www.themoviedb.org/movie/1204680",
-        "imdb_id": "tt1756855",
-        "url_imdb": "https://www.imdb.com/title/tt1756855/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/vWFz9spZFBkJvForuYrKK2ntOLB.jpg",
-        "director": "David Green",
-        "reparto": [
-          {
-            "nombre": "Will Forte",
-            "personaje": "Kevin Avery"
-          },
-          {
-            "nombre": "Lana Condor",
-            "personaje": "Paige Avery"
-          },
-          {
-            "nombre": "John Cena",
-            "personaje": "Buddy Crane"
-          },
-          {
-            "nombre": "Tone Bell",
-            "personaje": "Sal Maltese"
-          },
-          {
-            "nombre": "Martha Kelly",
-            "personaje": "Dottie Jones"
-          },
-          {
-            "nombre": "Luis Guzmán",
-            "personaje": "Judge Troppogrosso"
-          }
-        ],
-        "generos": [
-          "Comedia",
-          "Aventura",
-          "Familia"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=WQRoa6l4bwI",
-          "embed_id": "WQRoa6l4bwI"
-        },
-        "sinopsis_tmdb": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-        "estreno": "17 ago 2026",
-        "duracion_min": 103,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Coyote vs. Acme"
-      }
-    },
-    {
-      "titulo": "Vertigo 2",
-      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/fall_2_deadpoint-507951388-large.jpg",
-      "genero": "Accion",
-      "clasificacion": "Mayores de 14",
-      "duracion": "01:40",
-      "sinopsis": "Tras Perder a Su Intrépida Hermana Shiloh, Jax, Profundamente Dolida, Emprende una Peligrosa Escalada Con Luce, una Vieja Amiga de Shiloh, Para Honrar Su Memoria. Mientras Caminan Sobre la Cuerda Floja Por los Peligrosos Tablones del Monte Kwan, un Aterrador Desprendimiento de Rocas Les Deja Varados a 1.500 Metros de Altura. En Medio de Vértigos, Verdades Oscuras y Giros Crueles, Jax Debe Enfrenta",
-      "director": "Hamish Hamilton",
-      "actores": "Bono, The Edge, Larry Mullen Jr., Adam Clayton",
-      "estreno": "",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "",
-      "fuente_peli": "Cinerama",
-      "cines": [
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:15",
-                "18:15",
-                "20:15",
-                "22:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:15",
-            "18:15",
-            "20:15",
-            "22:15"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 53341,
-        "titulo_tmdb": "U2: Vertigo 05 - Live from Milan",
-        "voto": 7.8,
-        "votos": 10,
-        "url_tmdb": "https://www.themoviedb.org/movie/53341",
-        "imdb_id": "tt0967957",
-        "url_imdb": "https://www.imdb.com/title/tt0967957/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/ov36qmHuPAGgr6nEf5CC496wjqU.jpg",
-        "director": "Hamish Hamilton",
-        "reparto": [
-          {
-            "nombre": "Bono",
-            "personaje": "Self"
-          },
-          {
-            "nombre": "The Edge",
-            "personaje": "Self"
-          },
-          {
-            "nombre": "Larry Mullen Jr.",
-            "personaje": "Self"
-          },
-          {
-            "nombre": "Adam Clayton",
-            "personaje": "Self"
-          }
-        ],
-        "generos": [
-          "Música"
+          "Comedia"
         ],
         "trailer": {},
         "sinopsis_tmdb": "",
-        "estreno": "20 nov 2006",
-        "duracion_min": 57,
-        "paises": [],
+        "estreno": "1 oct 2026",
+        "duracion_min": 90,
+        "paises": [
+          "Perú"
+        ],
+        "idioma": "Español",
+        "titulo_original": "¡Amigo, por ahí no es!"
+      }
+    },
+    {
+      "titulo": "Avengers Endgame Bonus",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003092?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Acción",
+      "clasificacion": "APT",
+      "duracion": "184 min",
+      "director": "Anthony Russo, Joe Russo",
+      "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
+      "estreno": "",
+      "sinopsis": "Tras los devastadores sucesos de Avengers: Infinity War, el universo está en ruinas, pero de los que quedan, los Avengers se unirán una vez más para deshacer la destrucción de Thanos y restaurar el orden del mundo. INFINITY VISION es una certificación para cines de Formato Grande Premium (PLF, por sus siglas en inglés), que garantiza a los espectadores una experiencia cinematográfica excepcional. ",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=u7QErIFCc7k",
+      "fuente_peli": "Cineplanet",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "18:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:00"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 299534,
+        "titulo_tmdb": "Vengadores: Endgame",
+        "voto": 8.2,
+        "votos": 28876,
+        "url_tmdb": "https://www.themoviedb.org/movie/299534",
+        "imdb_id": "tt4154796",
+        "url_imdb": "https://www.imdb.com/title/tt4154796/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+        "director": "Anthony Russo, Joe Russo",
+        "reparto": [
+          {
+            "nombre": "Robert Downey Jr.",
+            "personaje": "Tony Stark / Iron Man"
+          },
+          {
+            "nombre": "Chris Evans",
+            "personaje": "Steve Rogers / Captain America"
+          },
+          {
+            "nombre": "Mark Ruffalo",
+            "personaje": "Bruce Banner / Hulk"
+          },
+          {
+            "nombre": "Chris Hemsworth",
+            "personaje": "Thor"
+          },
+          {
+            "nombre": "Scarlett Johansson",
+            "personaje": "Natasha Romanoff / Black Widow"
+          },
+          {
+            "nombre": "Jeremy Renner",
+            "personaje": "Clint Barton / Hawkeye"
+          }
+        ],
+        "generos": [
+          "Aventura",
+          "Ciencia ficción",
+          "Acción"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=Ib847Q7C9AU",
+          "embed_id": "Ib847Q7C9AU"
+        },
+        "sinopsis_tmdb": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+        "estreno": "24 abr 2019",
+        "duracion_min": 181,
+        "paises": [
+          "Estados Unidos"
+        ],
         "idioma": "Inglés",
-        "titulo_original": "U2: Vertigo 05 - Live from Milan"
+        "titulo_original": "Avengers: Endgame"
       }
     }
   ],
@@ -1331,38 +1070,45 @@
           "clasificacion": "Todos",
           "formatos": [
             {
+              "formato": "",
+              "horarios": [
+                "14:35"
+              ]
+            },
+            {
               "formato": "Doblada",
               "horarios": [
-                "19:00"
+                "16:00",
+                "18:10"
               ]
             }
           ],
           "horarios": [
-            "19:00"
+            "14:35",
+            "16:00",
+            "18:10"
           ]
         },
         {
-          "titulo": "Amigo por ahi no es",
+          "titulo": "Verity, La Sombra De Un Engaño",
           "poster": "",
-          "genero": "Comedia",
+          "genero": "Drama",
           "clasificacion": "12 Años",
           "formatos": [
             {
-              "formato": "",
+              "formato": "Doblada",
               "horarios": [
-                "16:45",
-                "21:45"
+                "21:00"
               ]
             }
           ],
           "horarios": [
-            "16:45",
-            "21:45"
+            "21:00"
           ]
         },
         {
           "titulo": "Una Amistad Gigante",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/9/una-amistad-gigante-47865-1.jpg",
+          "poster": "",
           "genero": "Aventura",
           "clasificacion": "12 Años",
           "formatos": [
@@ -1378,9 +1124,9 @@
           ]
         },
         {
-          "titulo": "Resident Evil: Noche Cero",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/9/resident-evil-noche-cero-47798-0.webp",
-          "genero": "Terror",
+          "titulo": "Vértigo 2: Punto Muerto",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/9/vertigo-2-punto-muerto-47866-1.jpg",
+          "genero": "Thriller",
           "clasificacion": "12 Años",
           "formatos": [
             {
@@ -1392,6 +1138,23 @@
           ],
           "horarios": [
             "20:55"
+          ]
+        },
+        {
+          "titulo": "Resident Evil: Noche Cero",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/9/resident-evil-noche-cero-47798-0.webp",
+          "genero": "Terror",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "19:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:00"
           ]
         },
         {
@@ -1414,20 +1177,20 @@
           ]
         },
         {
-          "titulo": "Vértigo 2: Punto Muerto",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/9/vertigo-2-punto-muerto-47866-0.webp",
-          "genero": "Thriller",
-          "clasificacion": "12 Años",
+          "titulo": "Super Charlie",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/5/super-charlie-47400-0.webp",
+          "genero": "Animado",
+          "clasificacion": "Todos",
           "formatos": [
             {
-              "formato": "Doblada",
+              "formato": "",
               "horarios": [
-                "21:10"
+                "13:20"
               ]
             }
           ],
           "horarios": [
-            "21:10"
+            "13:20"
           ]
         },
         {
@@ -1456,12 +1219,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "19:00"
+                "20:20"
               ]
             }
           ],
           "horarios": [
-            "19:00"
+            "20:20"
           ]
         }
       ],
@@ -1482,7 +1245,7 @@
           "clasificacion": "+14 DNI",
           "formatos": [
             {
-              "formato": "2D REGULAR DOBLADA",
+              "formato": "",
               "horarios": [
                 "21:40"
               ]
@@ -1493,20 +1256,43 @@
           ]
         },
         {
+          "titulo": "Avengers Endgame Bonus",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003092?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "18:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:00"
+          ]
+        },
+        {
           "titulo": "El Corazón de la Bestia",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002975?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Acción",
           "clasificacion": "+14",
           "formatos": [
             {
-              "formato": "2D REGULAR DOBLADA",
+              "formato": "",
               "horarios": [
+                "14:30",
+                "16:50",
+                "18:30",
                 "19:10",
                 "21:30"
               ]
             }
           ],
           "horarios": [
+            "14:30",
+            "16:50",
+            "18:30",
             "19:10",
             "21:30"
           ]
@@ -1518,8 +1304,9 @@
           "clasificacion": "+14",
           "formatos": [
             {
-              "formato": "2D REGULAR DOBLADA",
+              "formato": "",
               "horarios": [
+                "16:00",
                 "18:10",
                 "20:20",
                 "22:30"
@@ -1527,6 +1314,7 @@
             }
           ],
           "horarios": [
+            "16:00",
             "18:10",
             "20:20",
             "22:30"
@@ -1539,16 +1327,16 @@
           "clasificacion": "+14",
           "formatos": [
             {
-              "formato": "2D REGULAR DOBLADA",
+              "formato": "",
               "horarios": [
-                "18:40",
-                "21:10"
+                "15:50",
+                "20:50"
               ]
             }
           ],
           "horarios": [
-            "18:40",
-            "21:10"
+            "15:50",
+            "20:50"
           ]
         },
         {
@@ -1558,8 +1346,9 @@
           "clasificacion": "+14",
           "formatos": [
             {
-              "formato": "2D REGULAR DOBLADA",
+              "formato": "",
               "horarios": [
+                "15:30",
                 "17:50",
                 "20:00",
                 "22:10"
@@ -1567,6 +1356,7 @@
             }
           ],
           "horarios": [
+            "15:30",
             "17:50",
             "20:00",
             "22:10"
@@ -1577,232 +1367,21 @@
     },
     {
       "cine": "Cinerama Cajamarca MegaPlaza",
-      "cine_slug": "cinerama-cajamarca-megaplaza",
-      "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
+      "direccion": "",
+      "peliculas": [],
+      "sin_programacion": true,
+      "nota": "No se pudo consultar su cartelera. Suele tener funciones a diario.",
+      "no_consultado": true,
       "url": "https://www.cinerama.com.pe/cines",
-      "fuente_cine": "Cinerama",
-      "peliculas": [
-        {
-          "titulo": "Amigo por ahi no es",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/amigo_por_ahi_no_es-784155637-large.jpg",
-          "genero": "Comedia",
-          "clasificacion": "Mayores de 14",
-          "duracion": "01:55",
-          "sinopsis": "Franco y Julián, Dos Amigos de la Infancia, Crecieron Inmersos en el Mundo de los Reality Shows y el Streaming. Sin Embargo, Todo Se Viene Abajo Cuando Se Ven Envueltos en una Pelea Callejera Provocada Por Otros, Lo Que Les Hace Perder Dinero, Daña Su Reputación y Pone en Peligro Su Amistad. La Situación Se Complica Aún Más Con la Llegada de Almendra, una Amiga en Común Que Desencadena un Caótico ",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "21:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "21:00"
-          ]
-        },
-        {
-          "titulo": "Avengers: Doomsday(preventa)",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/3d963823a9ed8dd4d81b637127f265bd.jpg",
-          "genero": "Accion",
-          "clasificacion": "Mayores de 14",
-          "duracion": "02:45",
-          "sinopsis": "Héroes Icónicos de Tres Universos Diferentes Se Encuentran en un Curso de Colisión Mortal y Enfrentan una Amenaza Existencial Como Nunca Antes Han Visto.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "15:30",
-                "16:00",
-                "16:30",
-                "18:00",
-                "18:30",
-                "19:00",
-                "19:30",
-                "21:00",
-                "21:30",
-                "22:00",
-                "22:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "15:30",
-            "16:00",
-            "16:30",
-            "18:00",
-            "18:30",
-            "19:00",
-            "19:30",
-            "21:00",
-            "21:30",
-            "22:00",
-            "22:30"
-          ]
-        },
-        {
-          "titulo": "Avengers: Endgame Bonus",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/adve.jpg",
-          "genero": "Accion",
-          "clasificacion": "Todo Espectador",
-          "duracion": "03:03",
-          "sinopsis": "Después de los Eventos Devastadores de 'Avengers: Infinity War', el Universo Está en Ruinas Debido a las Acciones de Thanos, el Titán Loco. Con la Ayuda de los Aliados Que Quedaron, los Vengadores Deberán Reunirse una Vez Más Para Intentar Deshacer Sus Acciones y Restaurar el Orden en el Universo de una Vez Por Todas, Sin Importar Cuáles Son las Consecuencias... Cuarta y Última Entrega de la Saga ",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:15",
-                "18:30",
-                "21:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:15",
-            "18:30",
-            "21:45"
-          ]
-        },
-        {
-          "titulo": "Coyote Vs Acme",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/coyogtw.jpg",
-          "genero": "Animado",
-          "clasificacion": "Todo Espectador",
-          "duracion": "01:44",
-          "sinopsis": "Una Historia Ambientada en el Almacén de Acme, el Fabricante de Todo Lo Que Utilizan los Personajes de los Looney Tunes.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "19:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:00"
-          ]
-        },
-        {
-          "titulo": "El Corazón de la Bestia",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/besyoisa.jpg",
-          "genero": "Drama",
-          "clasificacion": "Todo Espectador",
-          "duracion": "01:41",
-          "sinopsis": "Soldado Herido de Fuerzas Especiales y Su Perro Militar Luchan Por Sobrevivir en la Naturaleza Salvaje de Alaska Mientras Buscan el Camino a Casa.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:00",
-                "20:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "20:00"
-          ]
-        },
-        {
-          "titulo": "La Isla Olvidada",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/forgotten_island-114935156-large.jpg",
-          "genero": "Dibujos",
-          "clasificacion": "Todo Espectador",
-          "duracion": "01:48",
-          "sinopsis": "Dos Amigas Se Quedan Varadas en el Místico Mundo de Nakali, Donde Su Único Escape Podría Costarles Su Vida Compartida de Recuerdos.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "17:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "17:00"
-          ]
-        },
-        {
-          "titulo": "Resident Evil: Noche Cero",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/rexs.jpg",
-          "genero": "Terror",
-          "clasificacion": "Todo Espectador",
-          "duracion": "01:35",
-          "sinopsis": "Sigue a un Desafortunado Mensajero Encargado de Entregar un Paquete a un Hospital Remoto. Pronto Se Encuentra Atrapado en Medio de una Epidemia y Debe Luchar Contra Hordas de Criaturas Mutantes Para Sobrevivir.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "18:00",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:00",
-            "22:00"
-          ]
-        },
-        {
-          "titulo": "Verity, La Sombra De Un Engaño",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/verity-273395489-large.jpg",
-          "genero": "Thriller",
-          "clasificacion": "Mayores de 14",
-          "duracion": "01:57",
-          "sinopsis": "Lowen Ashleigh Es Contratada Como Escritora Fantasma Por Jeremy Crawford Para Escribir las Novelas de Su Esposa Verity, Autora de Bestsellers, Impedida Tras un Accidente. Lowen Descubre las Inquietantes Verdades de Verity Mientras Reside en Casa de los Crawford Para Trabajar.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "17:15",
-                "19:30",
-                "21:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "17:15",
-            "19:30",
-            "21:45"
-          ]
-        },
-        {
-          "titulo": "Vertigo 2",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/fall_2_deadpoint-507951388-large.jpg",
-          "genero": "Accion",
-          "clasificacion": "Mayores de 14",
-          "duracion": "01:40",
-          "sinopsis": "Tras Perder a Su Intrépida Hermana Shiloh, Jax, Profundamente Dolida, Emprende una Peligrosa Escalada Con Luce, una Vieja Amiga de Shiloh, Para Honrar Su Memoria. Mientras Caminan Sobre la Cuerda Floja Por los Peligrosos Tablones del Monte Kwan, un Aterrador Desprendimiento de Rocas Les Deja Varados a 1.500 Metros de Altura. En Medio de Vértigos, Verdades Oscuras y Giros Crueles, Jax Debe Enfrenta",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:15",
-                "18:15",
-                "20:15",
-                "22:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:15",
-            "18:15",
-            "20:15",
-            "22:15"
-          ]
-        }
-      ]
+      "cine_original": "Cajamarca Megaplaza (Cinerama)"
     }
   ],
   "estado": "ok",
   "fuentes_extra": [
-    "Cineplanet",
-    "Cinerama"
+    "Cineplanet"
+  ],
+  "notas": [
+    "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
   ]
 }
