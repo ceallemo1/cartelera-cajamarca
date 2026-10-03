@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-02 17:00",
+  "actualizado": "2026-10-02 20:00",
   "fecha_objetivo": "2026-10-02",
   "peliculas": [
     {
@@ -52,7 +52,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-isla-olvidada-12290_252",
       "trailer_url": "https://www.youtube.com/results?search_query=La%20Isla%20Olvidada%20trailer%20espanol",
-      "sinopsis": "Un grupo de aventureros naufraga en una isla misteriosa donde el tiempo parece haberse detenido y deben descubrir sus secretos para sobrevivir.",
+      "sinopsis": "Un grupo de aventureros explora una misteriosa isla donde el tiempo parece haberse detenido y descubren secretos olvidados.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1465063,
@@ -109,6 +109,118 @@
         ],
         "idioma": "Inglés",
         "titulo_original": "Forgotten Island"
+      }
+    },
+    {
+      "titulo": "Verity, La Sombra De Un Engaño",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003069?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "18:40",
+                "21:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:40",
+            "21:10"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "17:15",
+                "19:30",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:15",
+            "19:30",
+            "21:45"
+          ]
+        }
+      ],
+      "genero": "Drama",
+      "duracion": "115 minutos",
+      "clasificacion": "12 Años",
+      "director": "Michael Showalter",
+      "actores": "Dakota Johnson, Anne Hathaway, Josh Hartnett, Brady Wagner, Ismael Cruz Cordova, Irina Dvorovenko",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/verity-la-sombra-de-un-engano-12282_252",
+      "trailer_url": "https://youtu.be/polZUYGu7Uw?si=7Qa8anHvRsa1FdlI",
+      "sinopsis": "Una detective investiga una serie de engaños que ocultan una conspiración mucho más profunda de lo que aparenta.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1283515,
+        "titulo_tmdb": "Verity. La sombra de un engaño",
+        "voto": 6.7,
+        "votos": 46,
+        "url_tmdb": "https://www.themoviedb.org/movie/1283515",
+        "imdb_id": "tt32261958",
+        "url_imdb": "https://www.imdb.com/title/tt32261958/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
+        "director": "Michael Showalter",
+        "reparto": [
+          {
+            "nombre": "Dakota Johnson",
+            "personaje": "Lowen Ashleigh"
+          },
+          {
+            "nombre": "Anne Hathaway",
+            "personaje": "Verity Crawford"
+          },
+          {
+            "nombre": "Josh Hartnett",
+            "personaje": "Jeremy Crawford"
+          },
+          {
+            "nombre": "Brady Wagner",
+            "personaje": "Crew Crawford"
+          },
+          {
+            "nombre": "Ismael Cruz Cordova",
+            "personaje": "Corey"
+          },
+          {
+            "nombre": "Irina Dvorovenko",
+            "personaje": "Anna"
+          }
+        ],
+        "generos": [
+          "Misterio",
+          "Suspense"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=P-QWhkimt50",
+          "embed_id": "P-QWhkimt50"
+        },
+        "sinopsis_tmdb": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
+        "estreno": "30 sep 2026",
+        "duracion_min": 114,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Verity"
       }
     },
     {
@@ -177,7 +289,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/amigo-por-ahi-no-es-12293_252",
       "trailer_url": "https://www.youtube.com/watch?v=EELh6UNFx_Q&t=4s",
-      "sinopsis": "Un joven descubre que su nuevo compañero de clase no es quien dice ser, desencadenando una serie de eventos inesperados y peligrosos.",
+      "sinopsis": "Un niño descubre que su nuevo amigo no es lo que parece y debe decidir si confiar o enfrentarse a la traición.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1744063,
@@ -230,97 +342,6 @@
       }
     },
     {
-      "titulo": "Vértigo 2: Punto Muerto",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/9/vertigo-2-punto-muerto-47866-1.jpg",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "15:30",
-                "17:50",
-                "20:00",
-                "22:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30",
-            "17:50",
-            "20:00",
-            "22:10"
-          ]
-        }
-      ],
-      "genero": "Thriller",
-      "duracion": "100 minutos",
-      "clasificacion": "12 Años",
-      "director": "Michael Spierig, Peter Spierig",
-      "actores": "Harriet Slater, Arsema Thomas, Tom Brittney, Virginia Gardner.",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/vertigo-2-punto-muerto-12297_252",
-      "trailer_url": "https://www.youtube.com/watch?v=IRJGXHvc-Hs",
-      "sinopsis": "El piloto de helicópteros de rescate regresa para enfrentar una zona de desastre donde la gravedad parece haber desaparecido, poniendo a prueba su ingenio y valentía.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1101412,
-        "titulo_tmdb": "Fall 2: Deadpoint",
-        "voto": 6.1,
-        "votos": 55,
-        "url_tmdb": "https://www.themoviedb.org/movie/1101412",
-        "imdb_id": "tt31192372",
-        "url_imdb": "https://www.imdb.com/title/tt31192372/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/7ODJFeX9gp4QfK6aFItw4CCrPfr.jpg",
-        "director": "Michael Spierig, Peter Spierig",
-        "reparto": [
-          {
-            "nombre": "Harriet Slater",
-            "personaje": "Jax Hunter"
-          },
-          {
-            "nombre": "Arsema Thomas",
-            "personaje": "Luce"
-          },
-          {
-            "nombre": "Tom Brittney",
-            "personaje": "Jon Platt"
-          },
-          {
-            "nombre": "Virginia Gardner",
-            "personaje": "Shiloh Hunter"
-          },
-          {
-            "nombre": "สหจักร บุญธนกิจ",
-            "personaje": "Thai Barman"
-          },
-          {
-            "nombre": "Korakod Yensuk",
-            "personaje": "Large Woman"
-          }
-        ],
-        "generos": [
-          "Suspense"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Tras la muerte de su intrépida hermana Shiloh, Jax emprende una peligrosa escalada con una vieja amiga para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, en Tailandia, un aterrador desprendimiento de rocas las deja varadas a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia.",
-        "estreno": "1 sep 2026",
-        "duracion_min": 98,
-        "paises": [
-          "Reino Unido",
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Fall 2: Deadpoint"
-      }
-    },
-    {
       "titulo": "Resident Evil: Noche Cero",
       "poster": "https://cdn.carteleracine.pe/cine/2026/9/resident-evil-noche-cero-47798-0.webp",
       "cines": [
@@ -335,7 +356,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
                 "18:10",
                 "20:20",
                 "22:30"
@@ -343,7 +363,6 @@
             }
           ],
           "horarios": [
-            "16:00",
             "18:10",
             "20:20",
             "22:30"
@@ -392,7 +411,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "Tras una fuga de un laboratorio, una heroína lucha contra hordas de zombis en una noche sin fin, intentando detener la propagación del virus.",
+      "sinopsis": "En una noche siniestra, los supervivientes de la serie Resident Evil deben enfrentar una nueva amenaza bioterrorista que pone en riesgo al mundo entero.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -466,14 +485,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:50",
                 "19:10",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "16:50",
             "19:10",
             "21:30"
           ]
@@ -523,13 +540,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Un cazador de criaturas legendarias se adentra en un bosque prohibido para encontrar el corazón de una bestia que amenaza a su aldea.",
+      "sinopsis": "Un cazador de criaturas legendarias se enfrenta a una bestia ancestral que guarda el equilibrio entre la humanidad y la naturaleza.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
         "titulo_tmdb": "En el corazón de la bestia",
         "voto": 7.6,
-        "votos": 178,
+        "votos": 183,
         "url_tmdb": "https://www.themoviedb.org/movie/1263337",
         "imdb_id": "tt7526136",
         "url_imdb": "https://www.imdb.com/title/tt7526136/",
@@ -576,19 +593,8 @@
       }
     },
     {
-      "titulo": "Avengers Endgame Bonus",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003092?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Acción",
-      "clasificacion": "APT",
-      "duracion": "184 min",
-      "director": "Anthony Russo, Joe Russo",
-      "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
-      "estreno": "",
-      "sinopsis": "Tras los devastadores sucesos de Avengers: Infinity War, el universo está en ruinas, pero de los que quedan, los Avengers se unirán una vez más para deshacer la destrucción de Thanos y restaurar el orden del mundo. INFINITY VISION es una certificación para cines de Formato Grande Premium (PLF, por sus siglas en inglés), que garantiza a los espectadores una experiencia cinematográfica excepcional. ",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=u7QErIFCc7k",
-      "fuente_peli": "Cineplanet",
+      "titulo": "Vértigo 2: Punto Muerto",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/9/vertigo-2-punto-muerto-47866-0.webp",
       "cines": [
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
@@ -601,219 +607,78 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "18:00"
+                "17:50",
+                "20:00",
+                "22:10"
               ]
             }
           ],
           "horarios": [
-            "18:00"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:15",
-                "18:30",
-                "21:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:15",
-            "18:30",
-            "21:45"
-          ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "17:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:30"
+            "17:50",
+            "20:00",
+            "22:10"
           ]
         }
       ],
-      "tmdb": {
-        "tmdb_id": 299534,
-        "titulo_tmdb": "Vengadores: Endgame",
-        "voto": 8.2,
-        "votos": 28872,
-        "url_tmdb": "https://www.themoviedb.org/movie/299534",
-        "imdb_id": "tt4154796",
-        "url_imdb": "https://www.imdb.com/title/tt4154796/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-        "director": "Anthony Russo, Joe Russo",
-        "reparto": [
-          {
-            "nombre": "Robert Downey Jr.",
-            "personaje": "Tony Stark / Iron Man"
-          },
-          {
-            "nombre": "Chris Evans",
-            "personaje": "Steve Rogers / Captain America"
-          },
-          {
-            "nombre": "Mark Ruffalo",
-            "personaje": "Bruce Banner / Hulk"
-          },
-          {
-            "nombre": "Chris Hemsworth",
-            "personaje": "Thor"
-          },
-          {
-            "nombre": "Scarlett Johansson",
-            "personaje": "Natasha Romanoff / Black Widow"
-          },
-          {
-            "nombre": "Jeremy Renner",
-            "personaje": "Clint Barton / Hawkeye"
-          }
-        ],
-        "generos": [
-          "Aventura",
-          "Ciencia ficción",
-          "Acción"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=Ib847Q7C9AU",
-          "embed_id": "Ib847Q7C9AU"
-        },
-        "sinopsis_tmdb": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
-        "estreno": "24 abr 2019",
-        "duracion_min": 181,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Avengers: Endgame"
-      }
-    },
-    {
-      "titulo": "Verity La Sombra de un Engaño",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003069?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "genero": "Thriller",
-      "clasificacion": "+14",
-      "duracion": "117 min",
-      "director": "Michael Showalter",
-      "actores": "Dakota Johnson, Anne Hathaway, Josh Hartnett, Brady Wagner, Ismael Cruz Cordova, Irina Dvorovenko",
+      "duracion": "100 minutos",
+      "clasificacion": "12 Años",
+      "director": "Michael Spierig, Peter Spierig",
+      "actores": "Harriet Slater, Arsema Thomas, Tom Brittney, Virginia Gardner.",
       "estreno": "",
-      "sinopsis": "Tras un inquietante accidente, la exitosa autora Verity Crawford no puede escribir. Lowen Ashleigh es contratada como su escritora fantasma, pero descubre verdades inquietantes sobre los Crawford mientras vive con ellos.",
+      "ficha": "https://www.carteleracine.pe/cajamarca/vertigo-2-punto-muerto-12297_252",
+      "trailer_url": "https://www.youtube.com/watch?v=IRJGXHvc-Hs",
+      "sinopsis": "El thriller de suspenso continúa cuando el protagonista regresa al punto muerto, descubriendo que el peligro está más cerca de lo que imaginaba.",
       "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://youtu.be/polZUYGu7Uw?si=7Qa8anHvRsa1FdlI",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "15:50",
-                "18:40",
-                "21:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:50",
-            "18:40",
-            "21:10"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "17:15",
-                "19:30",
-                "21:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "17:15",
-            "19:30",
-            "21:45"
-          ]
-        }
-      ],
       "tmdb": {
-        "tmdb_id": 1283515,
-        "titulo_tmdb": "Verity. La sombra de un engaño",
-        "voto": 6.8,
-        "votos": 35,
-        "url_tmdb": "https://www.themoviedb.org/movie/1283515",
-        "imdb_id": "tt32261958",
-        "url_imdb": "https://www.imdb.com/title/tt32261958/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
-        "director": "Michael Showalter",
+        "tmdb_id": 1101412,
+        "titulo_tmdb": "Fall 2: Deadpoint",
+        "voto": 6.1,
+        "votos": 56,
+        "url_tmdb": "https://www.themoviedb.org/movie/1101412",
+        "imdb_id": "tt31192372",
+        "url_imdb": "https://www.imdb.com/title/tt31192372/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/7ODJFeX9gp4QfK6aFItw4CCrPfr.jpg",
+        "director": "Michael Spierig, Peter Spierig",
         "reparto": [
           {
-            "nombre": "Dakota Johnson",
-            "personaje": "Lowen Ashleigh"
+            "nombre": "Harriet Slater",
+            "personaje": "Jax Hunter"
           },
           {
-            "nombre": "Anne Hathaway",
-            "personaje": "Verity Crawford"
+            "nombre": "Arsema Thomas",
+            "personaje": "Luce"
           },
           {
-            "nombre": "Josh Hartnett",
-            "personaje": "Jeremy Crawford"
+            "nombre": "Tom Brittney",
+            "personaje": "Jon Platt"
           },
           {
-            "nombre": "Brady Wagner",
-            "personaje": "Crew Crawford"
+            "nombre": "Virginia Gardner",
+            "personaje": "Shiloh Hunter"
           },
           {
-            "nombre": "Ismael Cruz Cordova",
-            "personaje": "Corey"
+            "nombre": "สหจักร บุญธนกิจ",
+            "personaje": "Thai Barman"
           },
           {
-            "nombre": "Irina Dvorovenko",
-            "personaje": "Anna"
+            "nombre": "Korakod Yensuk",
+            "personaje": "Large Woman"
           }
         ],
         "generos": [
-          "Misterio",
           "Suspense"
         ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=P-QWhkimt50",
-          "embed_id": "P-QWhkimt50"
-        },
-        "sinopsis_tmdb": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-        "estreno": "30 sep 2026",
-        "duracion_min": 114,
+        "trailer": {},
+        "sinopsis_tmdb": "Tras la muerte de su intrépida hermana Shiloh, Jax emprende una peligrosa escalada con una vieja amiga para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, en Tailandia, un aterrador desprendimiento de rocas las deja varadas a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia.",
+        "estreno": "1 sep 2026",
+        "duracion_min": 98,
         "paises": [
+          "Reino Unido",
           "Estados Unidos"
         ],
         "idioma": "Inglés",
-        "titulo_original": "Verity"
+        "titulo_original": "Fall 2: Deadpoint"
       }
     },
     {
@@ -875,6 +740,113 @@
         "titulo_tmdb": "Vengadores: Endgame",
         "voto": 8.2,
         "votos": 28873,
+        "url_tmdb": "https://www.themoviedb.org/movie/299534",
+        "imdb_id": "tt4154796",
+        "url_imdb": "https://www.imdb.com/title/tt4154796/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+        "director": "Anthony Russo, Joe Russo",
+        "reparto": [
+          {
+            "nombre": "Robert Downey Jr.",
+            "personaje": "Tony Stark / Iron Man"
+          },
+          {
+            "nombre": "Chris Evans",
+            "personaje": "Steve Rogers / Captain America"
+          },
+          {
+            "nombre": "Mark Ruffalo",
+            "personaje": "Bruce Banner / Hulk"
+          },
+          {
+            "nombre": "Chris Hemsworth",
+            "personaje": "Thor"
+          },
+          {
+            "nombre": "Scarlett Johansson",
+            "personaje": "Natasha Romanoff / Black Widow"
+          },
+          {
+            "nombre": "Jeremy Renner",
+            "personaje": "Clint Barton / Hawkeye"
+          }
+        ],
+        "generos": [
+          "Aventura",
+          "Ciencia ficción",
+          "Acción"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=Ib847Q7C9AU",
+          "embed_id": "Ib847Q7C9AU"
+        },
+        "sinopsis_tmdb": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+        "estreno": "24 abr 2019",
+        "duracion_min": 181,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Avengers: Endgame"
+      }
+    },
+    {
+      "titulo": "Avengers: Endgame Bonus",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/adve.jpg",
+      "genero": "Accion",
+      "clasificacion": "Todo Espectador",
+      "duracion": "03:03",
+      "sinopsis": "Después de los Eventos Devastadores de 'Avengers: Infinity War', el Universo Está en Ruinas Debido a las Acciones de Thanos, el Titán Loco. Con la Ayuda de los Aliados Que Quedaron, los Vengadores Deberán Reunirse una Vez Más Para Intentar Deshacer Sus Acciones y Restaurar el Orden en el Universo de una Vez Por Todas, Sin Importar Cuáles Son las Consecuencias... Cuarta y Última Entrega de la Saga ",
+      "director": "Anthony Russo, Joe Russo",
+      "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=Ib847Q7C9AU",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:15",
+                "18:30",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:15",
+            "18:30",
+            "21:45"
+          ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:30"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 299534,
+        "titulo_tmdb": "Vengadores: Endgame",
+        "voto": 8.2,
+        "votos": 28874,
         "url_tmdb": "https://www.themoviedb.org/movie/299534",
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
@@ -1306,23 +1278,6 @@
           ]
         },
         {
-          "titulo": "Avengers Endgame Bonus",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003092?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Acción",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "18:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:00"
-          ]
-        },
-        {
           "titulo": "El Corazón de la Bestia",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002975?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Acción",
@@ -1331,14 +1286,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:50",
                 "19:10",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "16:50",
             "19:10",
             "21:30"
           ]
@@ -1352,7 +1305,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
                 "18:10",
                 "20:20",
                 "22:30"
@@ -1360,14 +1312,13 @@
             }
           ],
           "horarios": [
-            "16:00",
             "18:10",
             "20:20",
             "22:30"
           ]
         },
         {
-          "titulo": "Verity La Sombra de un Engaño",
+          "titulo": "Verity, La Sombra De Un Engaño",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003069?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Thriller",
           "clasificacion": "+14",
@@ -1375,14 +1326,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:50",
                 "18:40",
                 "21:10"
               ]
             }
           ],
           "horarios": [
-            "15:50",
             "18:40",
             "21:10"
           ]
@@ -1396,7 +1345,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
                 "17:50",
                 "20:00",
                 "22:10"
@@ -1404,7 +1352,6 @@
             }
           ],
           "horarios": [
-            "15:30",
             "17:50",
             "20:00",
             "22:10"
@@ -1481,7 +1428,7 @@
           ]
         },
         {
-          "titulo": "Avengers Endgame Bonus",
+          "titulo": "Avengers: Endgame Bonus",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/adve.jpg",
           "genero": "Accion",
           "clasificacion": "Todo Espectador",
@@ -1586,7 +1533,7 @@
           ]
         },
         {
-          "titulo": "Verity La Sombra de un Engaño",
+          "titulo": "Verity, La Sombra De Un Engaño",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/verity-273395489-large.jpg",
           "genero": "Thriller",
           "clasificacion": "Mayores de 14",
@@ -1667,7 +1614,7 @@
           "trailer_url": "https://www.youtube.com/watch?v=EELh6UNFx_Q"
         },
         {
-          "titulo": "Avengers Endgame Bonus",
+          "titulo": "Avengers: Endgame Bonus",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/b515ef8a-4882-4eb3-9bdc-191c9dadc95d.png",
           "genero": "",
           "clasificacion": "APT",
