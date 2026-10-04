@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-04 08:00",
+  "actualizado": "2026-10-04 11:00",
   "fecha_objetivo": "2026-10-04",
   "peliculas": [
     {
@@ -71,7 +71,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-isla-olvidada-12290_252",
       "trailer_url": "https://youtu.be/UUEC_fVIu7U?si=9XpuKS9J5hMyvafl",
-      "sinopsis": "Un grupo de aventureros descubre una isla misteriosa donde el tiempo parece haberse detenido y deben desentrañar sus secretos antes de quedar atrapados para siempre.",
+      "sinopsis": "Un grupo de aventureros descubre una isla misteriosa donde el tiempo parece haberse detenido.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1465063,
@@ -199,7 +199,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/verity-la-sombra-de-un-engano-12282_252",
       "trailer_url": "https://youtu.be/polZUYGu7Uw?si=7Qa8anHvRsa1FdlI",
-      "sinopsis": "Verity, una detective con un pasado oscuro, se enfrenta a una conspiración que oculta una verdad peligrosa, mientras la sombra de un engaño la persigue.",
+      "sinopsis": "Una detective investiga una serie de engaños que ocultan una conspiración mucho más oscura de lo que aparenta.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1283515,
@@ -303,7 +303,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/amigo-por-ahi-no-es-12293_252",
       "trailer_url": "https://www.youtube.com/watch?v=EELh6UNFx_Q&t=4s",
-      "sinopsis": "Un hombre solitario cree haber encontrado un amigo inesperado, pero pronto descubre que la compañía que lo acompaña oculta intenciones siniestras.",
+      "sinopsis": "Un niño cree haber encontrado a su mejor amigo, pero pronto descubre que la amistad tiene un precio inesperado.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1744063,
@@ -391,13 +391,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/vertigo-2-punto-muerto-12297_252",
       "trailer_url": "https://www.youtube.com/watch?v=IRJGXHvc-Hs",
-      "sinopsis": "El piloto de helicópteros de rescate regresa para una última misión en la zona de exclusión, donde un punto muerto amenaza con destruirlo todo.",
+      "sinopsis": "El piloto de un helicóptero de rescate vuelve a enfrentarse a una zona de desastre donde nada parece estar a salvo.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1101412,
         "titulo_tmdb": "Vertigo 2: Punto muerto",
         "voto": 6.2,
-        "votos": 59,
+        "votos": 60,
         "url_tmdb": "https://www.themoviedb.org/movie/1101412",
         "imdb_id": "tt31192372",
         "url_imdb": "https://www.imdb.com/title/tt31192372/",
@@ -514,7 +514,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "En una noche siniestra, los supervivientes de Raccoon City deben enfrentar una nueva ola de zombis y criaturas mutantes bajo la amenaza de la corporación Umbrella.",
+      "sinopsis": "Los supervivientes de Raccoon City deben enfrentarse a una nueva ola de zombis y criaturas mutantes bajo la amenaza de la noche eterna.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -643,7 +643,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Un guerrero legendario busca el corazón de una bestia mítica para obtener su poder, enfrentándose a peligros y revelaciones sobre su propia humanidad.",
+      "sinopsis": "Un guerrero legendario busca el corazón de una bestia mítica para salvar a su pueblo de la destrucción.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
@@ -879,7 +879,7 @@
         "tmdb_id": 299534,
         "titulo_tmdb": "Vengadores: Endgame",
         "voto": 8.2,
-        "votos": 28890,
+        "votos": 28894,
         "url_tmdb": "https://www.themoviedb.org/movie/299534",
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
@@ -966,7 +966,7 @@
         "tmdb_id": 1204680,
         "titulo_tmdb": "Coyote vs. Acme",
         "voto": 7.5,
-        "votos": 649,
+        "votos": 655,
         "url_tmdb": "https://www.themoviedb.org/movie/1204680",
         "imdb_id": "tt1756855",
         "url_imdb": "https://www.imdb.com/title/tt1756855/",
