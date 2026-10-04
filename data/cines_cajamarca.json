@@ -2,32 +2,13 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-03 17:00",
+  "actualizado": "2026-10-03 20:00",
   "fecha_objetivo": "2026-10-03",
   "peliculas": [
     {
       "titulo": "La Isla Olvidada",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003062?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "poster": "",
       "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "15:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:40"
-          ]
-        },
         {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
@@ -88,14 +69,14 @@
       "actores": "Jenny Slate, Dave Franco, Amielynn Abellera, Manny Jacinto, Liza Soberano, Lea Salonga, Ronny Chieng, H.E.R., Dolly De Leon, Nick Mendoza III, Jo Koy, Jayssolit",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-isla-olvidada-12290_252",
-      "trailer_url": "https://youtu.be/UUEC_fVIu7U?si=9XpuKS9J5hMyvafl",
+      "trailer_url": "https://www.youtube.com/results?search_query=La%20Isla%20Olvidada%20trailer%20espanol",
       "sinopsis": "Un grupo de aventureros descubre una isla misteriosa donde el tiempo parece haberse detenido y deben desentrañar sus secretos antes de quedar atrapados para siempre.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1465063,
         "titulo_tmdb": "La isla olvidada",
         "voto": 8.2,
-        "votos": 40,
+        "votos": 42,
         "url_tmdb": "https://www.themoviedb.org/movie/1465063",
         "imdb_id": "tt36583977",
         "url_imdb": "https://www.imdb.com/title/tt36583977/",
@@ -163,13 +144,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:50",
                 "20:50"
               ]
             }
           ],
           "horarios": [
-            "15:50",
             "20:50"
           ]
         },
@@ -220,13 +199,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/verity-la-sombra-de-un-engano-12282_252",
       "trailer_url": "https://youtu.be/polZUYGu7Uw?si=7Qa8anHvRsa1FdlI",
-      "sinopsis": "Verity, una detective con un pasado oscuro, se enfrenta a una conspiración que oculta una verdad peligrosa, mientras la sombra de un engaño la persigue en cada paso.",
+      "sinopsis": "Verity, una detective con un pasado oscuro, se enfrenta a una conspiración que oculta una traición que amenaza con destruir todo lo que conoce.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1283515,
         "titulo_tmdb": "Verity. La sombra de un engaño",
-        "voto": 6.6,
-        "votos": 55,
+        "voto": 6.7,
+        "votos": 64,
         "url_tmdb": "https://www.themoviedb.org/movie/1283515",
         "imdb_id": "tt32261958",
         "url_imdb": "https://www.imdb.com/title/tt32261958/",
@@ -324,7 +303,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/amigo-por-ahi-no-es-12293_252",
       "trailer_url": "https://www.youtube.com/watch?v=EELh6UNFx_Q&t=4s",
-      "sinopsis": "Un niño solitario cree haber encontrado al mejor amigo del mundo, pero pronto descubre que su nuevo compañero no es lo que parece.",
+      "sinopsis": "Un niño solitario encuentra a un extraño compañero que parece ser su amigo, pero pronto descubre que su nuevo aliado oculta intenciones peligrosas.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1744063,
@@ -391,7 +370,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
                 "18:10",
                 "20:20",
                 "22:30"
@@ -399,7 +377,6 @@
             }
           ],
           "horarios": [
-            "16:00",
             "18:10",
             "20:20",
             "22:30"
@@ -448,13 +425,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "En esta entrega, la heroína Alice se enfrenta a una noche siniestra donde los muertos vivientes emergen de la oscuridad, obligándola a luchar por su supervivencia y la de los suyos.",
+      "sinopsis": "En una noche sin luna, los supervivientes de la última epidemia luchan contra nuevas mutaciones de zombis mientras descubren un oscuro secreto detrás del brote.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
         "titulo_tmdb": "Resident Evil",
         "voto": 7.3,
-        "votos": 692,
+        "votos": 709,
         "url_tmdb": "https://www.themoviedb.org/movie/1423191",
         "imdb_id": "tt35538033",
         "url_imdb": "https://www.imdb.com/title/tt35538033/",
@@ -522,7 +499,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:50",
                 "18:30",
                 "19:10",
                 "21:30"
@@ -530,7 +506,6 @@
             }
           ],
           "horarios": [
-            "16:50",
             "18:30",
             "19:10",
             "21:30"
@@ -581,7 +556,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Un joven guerrero debe confrontar a la bestia legendaria que aterroriza su aldea, descubriendo que el verdadero monstruo puede estar dentro de él mismo.",
+      "sinopsis": "Un guerrero legendario busca el corazón de una bestia mítica para obtener su poder, enfrentándose a peligros internos y externos en su búsqueda.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
@@ -648,7 +623,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
                 "17:50",
                 "20:00",
                 "22:10"
@@ -656,7 +630,6 @@
             }
           ],
           "horarios": [
-            "15:30",
             "17:50",
             "20:00",
             "22:10"
@@ -671,7 +644,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/vertigo-2-punto-muerto-12297_252",
       "trailer_url": "https://www.youtube.com/watch?v=IRJGXHvc-Hs",
-      "sinopsis": "El detective Scottie vuelve a los cielos de San Francisco, enfrentándose a un asesino que lo lleva al límite de la cordura en un punto sin retorno.",
+      "sinopsis": "El detective vuelve a la escena del crimen para resolver un caso siniestro que lo lleva al punto muerto de su propia cordura.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1101412,
@@ -799,7 +772,7 @@
         "tmdb_id": 299534,
         "titulo_tmdb": "Vengadores: Endgame",
         "voto": 8.2,
-        "votos": 28880,
+        "votos": 28885,
         "url_tmdb": "https://www.themoviedb.org/movie/299534",
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
@@ -995,7 +968,7 @@
         "tmdb_id": 1204680,
         "titulo_tmdb": "Coyote vs. Acme",
         "voto": 7.5,
-        "votos": 632,
+        "votos": 644,
         "url_tmdb": "https://www.themoviedb.org/movie/1204680",
         "imdb_id": "tt1756855",
         "url_imdb": "https://www.imdb.com/title/tt1756855/",
@@ -1053,8 +1026,8 @@
       "clasificacion": "Mayores de 14",
       "duracion": "01:40",
       "sinopsis": "Tras Perder a Su Intrépida Hermana Shiloh, Jax, Profundamente Dolida, Emprende una Peligrosa Escalada Con Luce, una Vieja Amiga de Shiloh, Para Honrar Su Memoria. Mientras Caminan Sobre la Cuerda Floja Por los Peligrosos Tablones del Monte Kwan, un Aterrador Desprendimiento de Rocas Les Deja Varados a 1.500 Metros de Altura. En Medio de Vértigos, Verdades Oscuras y Giros Crueles, Jax Debe Enfrenta",
-      "director": "Hamish Hamilton",
-      "actores": "Bono, The Edge, Larry Mullen Jr., Adam Clayton",
+      "director": "Michael Spierig, Peter Spierig",
+      "actores": "Harriet Slater, Arsema Thomas, Tom Brittney, Virginia Gardner, สหจักร บุญธนกิจ, Korakod Yensuk",
       "estreno": "",
       "puntaje": "",
       "ficha": "",
@@ -1101,43 +1074,54 @@
         }
       ],
       "tmdb": {
-        "tmdb_id": 53341,
-        "titulo_tmdb": "U2: Vertigo 05 - Live from Milan",
-        "voto": 7.8,
-        "votos": 10,
-        "url_tmdb": "https://www.themoviedb.org/movie/53341",
-        "imdb_id": "tt0967957",
-        "url_imdb": "https://www.imdb.com/title/tt0967957/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/ov36qmHuPAGgr6nEf5CC496wjqU.jpg",
-        "director": "Hamish Hamilton",
+        "tmdb_id": 1101412,
+        "titulo_tmdb": "Vertigo 2: Punto muerto",
+        "voto": 6.1,
+        "votos": 58,
+        "url_tmdb": "https://www.themoviedb.org/movie/1101412",
+        "imdb_id": "tt31192372",
+        "url_imdb": "https://www.imdb.com/title/tt31192372/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/xQlESgkDM7rczAWySdB0WBomh39.jpg",
+        "director": "Michael Spierig, Peter Spierig",
         "reparto": [
           {
-            "nombre": "Bono",
-            "personaje": "Self"
+            "nombre": "Harriet Slater",
+            "personaje": "Jax Hunter"
           },
           {
-            "nombre": "The Edge",
-            "personaje": "Self"
+            "nombre": "Arsema Thomas",
+            "personaje": "Luce"
           },
           {
-            "nombre": "Larry Mullen Jr.",
-            "personaje": "Self"
+            "nombre": "Tom Brittney",
+            "personaje": "Jon Platt"
           },
           {
-            "nombre": "Adam Clayton",
-            "personaje": "Self"
+            "nombre": "Virginia Gardner",
+            "personaje": "Shiloh Hunter"
+          },
+          {
+            "nombre": "สหจักร บุญธนกิจ",
+            "personaje": "Thai Barman"
+          },
+          {
+            "nombre": "Korakod Yensuk",
+            "personaje": "Large Woman"
           }
         ],
         "generos": [
-          "Música"
+          "Suspense"
         ],
         "trailer": {},
-        "sinopsis_tmdb": "",
-        "estreno": "20 nov 2006",
-        "duracion_min": 57,
-        "paises": [],
+        "sinopsis_tmdb": "Tras la muerte de su intrépida hermana Shiloh, Jax emprende una peligrosa escalada con una vieja amiga para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, en Tailandia, un aterrador desprendimiento de rocas las deja varadas a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia.",
+        "estreno": "1 sep 2026",
+        "duracion_min": 98,
+        "paises": [
+          "Reino Unido",
+          "Estados Unidos"
+        ],
         "idioma": "Inglés",
-        "titulo_original": "U2: Vertigo 05 - Live from Milan"
+        "titulo_original": "Fall 2: Deadpoint"
       }
     },
     {
@@ -1398,7 +1382,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:50",
                 "18:30",
                 "19:10",
                 "21:30"
@@ -1406,27 +1389,9 @@
             }
           ],
           "horarios": [
-            "16:50",
             "18:30",
             "19:10",
             "21:30"
-          ]
-        },
-        {
-          "titulo": "La Isla Olvidada",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003062?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Animación",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "15:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:40"
           ]
         },
         {
@@ -1438,7 +1403,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
                 "18:10",
                 "20:20",
                 "22:30"
@@ -1446,7 +1410,6 @@
             }
           ],
           "horarios": [
-            "16:00",
             "18:10",
             "20:20",
             "22:30"
@@ -1461,13 +1424,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:50",
                 "20:50"
               ]
             }
           ],
           "horarios": [
-            "15:50",
             "20:50"
           ]
         },
@@ -1480,7 +1441,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:30",
                 "17:50",
                 "20:00",
                 "22:10"
@@ -1488,7 +1448,6 @@
             }
           ],
           "horarios": [
-            "15:30",
             "17:50",
             "20:00",
             "22:10"
