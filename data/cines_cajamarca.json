@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-04 07:00",
+  "actualizado": "2026-10-04 08:00",
   "fecha_objetivo": "2026-10-04",
   "peliculas": [
     {
@@ -71,7 +71,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-isla-olvidada-12290_252",
       "trailer_url": "https://youtu.be/UUEC_fVIu7U?si=9XpuKS9J5hMyvafl",
-      "sinopsis": "Un grupo de aventureros descubre una isla misteriosa donde el tiempo parece haberse detenido, revelando secretos ancestrales y peligros inesperados.",
+      "sinopsis": "Un grupo de aventureros descubre una isla misteriosa donde el tiempo parece haberse detenido y deben desentrañar sus secretos antes de quedar atrapados para siempre.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1465063,
@@ -199,7 +199,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/verity-la-sombra-de-un-engano-12282_252",
       "trailer_url": "https://youtu.be/polZUYGu7Uw?si=7Qa8anHvRsa1FdlI",
-      "sinopsis": "Una periodista investiga la desaparición de su hermana y se enfrenta a una conspiración que oculta una sombra de engaño que amenaza con destruir su vida.",
+      "sinopsis": "Verity, una detective con un pasado oscuro, se enfrenta a una conspiración que oculta una verdad peligrosa, mientras la sombra de un engaño la persigue.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1283515,
@@ -303,7 +303,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/amigo-por-ahi-no-es-12293_252",
       "trailer_url": "https://www.youtube.com/watch?v=EELh6UNFx_Q&t=4s",
-      "sinopsis": "Un hombre solitario cree haber encontrado al compañero perfecto, pero pronto descubre que su nuevo amigo oculta intenciones mucho más siniestras.",
+      "sinopsis": "Un hombre solitario cree haber encontrado un amigo inesperado, pero pronto descubre que la compañía que lo acompaña oculta intenciones siniestras.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1744063,
@@ -391,7 +391,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/vertigo-2-punto-muerto-12297_252",
       "trailer_url": "https://www.youtube.com/watch?v=IRJGXHvc-Hs",
-      "sinopsis": "El detective veterano regresa para resolver un caso sin salida que lo lleva al límite de su cordura, mientras un asesino invisible acecha en la zona de exclusión.",
+      "sinopsis": "El piloto de helicópteros de rescate regresa para una última misión en la zona de exclusión, donde un punto muerto amenaza con destruirlo todo.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1101412,
@@ -514,7 +514,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "Tras una noche de caos en Raccoon City, los supervivientes deben enfrentar una nueva ola de muertos vivientes y una amenaza biotecnológica que supera todo lo visto antes.",
+      "sinopsis": "En una noche siniestra, los supervivientes de Raccoon City deben enfrentar una nueva ola de zombis y criaturas mutantes bajo la amenaza de la corporación Umbrella.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -643,7 +643,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Un guerrero legendario debe confrontar a la bestia que lleva siglos aterrorizando su reino, descubriendo que el verdadero monstruo puede estar dentro de él.",
+      "sinopsis": "Un guerrero legendario busca el corazón de una bestia mítica para obtener su poder, enfrentándose a peligros y revelaciones sobre su propia humanidad.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
