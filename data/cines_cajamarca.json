@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-05 07:00",
+  "actualizado": "2026-10-05 08:00",
   "fecha_objetivo": "2026-10-05",
   "peliculas": [
     {
@@ -55,7 +55,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-isla-olvidada-12290_252",
       "trailer_url": "https://youtu.be/UUEC_fVIu7U?si=9XpuKS9J5hMyvafl",
-      "sinopsis": "Un grupo de aventureros descubre una isla misteriosa donde el tiempo parece haberse detenido y deben enfrentar secretos del pasado.",
+      "sinopsis": "Un grupo de aventureros descubre una isla misteriosa donde el tiempo parece haberse detenido, revelando secretos olvidados que cambiarán sus vidas.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1465063,
@@ -163,7 +163,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/verity-la-sombra-de-un-engano-12282_252",
       "trailer_url": "https://youtu.be/polZUYGu7Uw?si=7Qa8anHvRsa1FdlI",
-      "sinopsis": "Verity, una detective, se ve envuelta en una trama de mentiras y traiciones mientras busca la verdad detrás de un oscuro engaño.",
+      "sinopsis": "Verity, una detective con un pasado oscuro, se enfrenta a una conspiración que oculta una traición mortal bajo la apariencia de una simple mentira.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1283515,
@@ -273,7 +273,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "En una noche siniestra, los supervivientes de la corporación Umbrella deben enfrentar una nueva ola de zombis y criaturas mutantes.",
+      "sinopsis": "En una noche sin luna, los supervivientes de Raccoon City deben enfrentar una nueva ola de infectados mientras descubren un oscuro secreto de la corporación Umbrella.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -390,7 +390,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Un héroe se enfrenta a una bestia legendaria que amenaza su reino, descubriendo su propio coraje y la verdadera naturaleza del monstruo.",
+      "sinopsis": "Un guerrero legendario busca el corazón de una bestia mítica para obtener su poder, enfrentándose a peligros internos y externos en su travesía.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
