@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-06 07:00",
+  "actualizado": "2026-10-06 08:00",
   "fecha_objetivo": "2026-10-06",
   "peliculas": [
     {
@@ -55,7 +55,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-isla-olvidada-12290_252",
       "trailer_url": "https://youtu.be/UUEC_fVIu7U?si=9XpuKS9J5hMyvafl",
-      "sinopsis": "Un grupo de aventureros descubre una isla misteriosa donde el tiempo parece haberse detenido, revelando secretos ancestrales y peligros ocultos.",
+      "sinopsis": "Un grupo de aventureros descubre una isla misteriosa donde el tiempo parece haberse detenido y deben desentrañar sus secretos antes de quedar atrapados para siempre.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1465063,
@@ -164,7 +164,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/verity-la-sombra-de-un-engano-12282_252",
       "trailer_url": "https://youtu.be/polZUYGu7Uw?si=7Qa8anHvRsa1FdlI",
-      "sinopsis": "Verity, una detective perspicaz, se enfrenta a una conspiración que oculta una verdad devastadora, mientras la sombra de un engaño la persigue.",
+      "sinopsis": "Verity, una detective con un pasado oscuro, se enfrenta a una conspiración que oculta una traición mortal, mientras la línea entre la verdad y la mentira se vuelve cada vez más difusa.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1283515,
@@ -274,7 +274,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "En una noche sin luna, los supervivientes de Raccoon City deben enfrentarse a una nueva ola de infectados y a un virus que amenaza con sumir al mundo en la oscuridad.",
+      "sinopsis": "En una noche sin luna, los supervivientes de la serie Resident Evil deben enfrentarse a una nueva amenaza biológica que convierte la oscuridad en su peor enemigo.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -391,7 +391,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Un guerrero legendario busca el corazón de una bestia mítica para obtener su poder, mientras se debate entre la venganza y la redención.",
+      "sinopsis": "Un guerrero legendario busca el corazón de una bestia mítica para obtener su poder, mientras se ve envuelto en una lucha entre la humanidad y la naturaleza salvaje.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
@@ -481,7 +481,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/vertigo-2-punto-muerto-12297_252",
       "trailer_url": "https://www.youtube.com/watch?v=IRJGXHvc-Hs",
-      "sinopsis": "El detective de la serie vuelve a la ciudad donde todo comenzó, descubriendo un punto muerto que conecta todos los crímenes pasados en una espiral de terror.",
+      "sinopsis": "El piloto de un avión de combate regresa a la zona de guerra para descubrir un punto muerto donde la realidad se distorsiona y el peligro acecha en cada esquina.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1101412,
