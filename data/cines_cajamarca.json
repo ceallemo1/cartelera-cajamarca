@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-06 08:00",
+  "actualizado": "2026-10-06 11:00",
   "fecha_objetivo": "2026-10-06",
   "peliculas": [
     {
@@ -26,6 +26,24 @@
           ],
           "horarios": [
             "15:40"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "17:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:00"
           ]
         },
         {
@@ -140,6 +158,28 @@
           ]
         },
         {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "17:15",
+                "19:30",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:15",
+            "19:30",
+            "21:45"
+          ]
+        },
+        {
           "cine": "Movie Time Cajamarca",
           "cine_slug": "movietime-cajamarca",
           "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
@@ -250,6 +290,24 @@
           ]
         },
         {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "18:00",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:00",
+            "22:00"
+          ]
+        },
+        {
           "cine": "Movie Time Cajamarca",
           "cine_slug": "movietime-cajamarca",
           "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
@@ -274,7 +332,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "En una noche sin luna, los supervivientes de la serie Resident Evil deben enfrentarse a una nueva amenaza biológica que convierte la oscuridad en su peor enemigo.",
+      "sinopsis": "En una noche sin luna, los supervivientes de Raccoon City deben enfrentarse a una horda de zombis y criaturas mutantes mientras una nueva amenaza biológica se desata.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -365,6 +423,24 @@
           ]
         },
         {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "20:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "20:00"
+          ]
+        },
+        {
           "cine": "Movie Time Cajamarca",
           "cine_slug": "movietime-cajamarca",
           "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
@@ -391,7 +467,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Un guerrero legendario busca el corazón de una bestia mítica para obtener su poder, mientras se ve envuelto en una lucha entre la humanidad y la naturaleza salvaje.",
+      "sinopsis": "Un cazador de monstruos se adentra en un bosque legendario para encontrar a la bestia que aterroriza a su aldea, descubriendo que el verdadero enemigo puede ser él mismo.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
@@ -481,7 +557,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/vertigo-2-punto-muerto-12297_252",
       "trailer_url": "https://www.youtube.com/watch?v=IRJGXHvc-Hs",
-      "sinopsis": "El piloto de un avión de combate regresa a la zona de guerra para descubrir un punto muerto donde la realidad se distorsiona y el peligro acecha en cada esquina.",
+      "sinopsis": "El detective John Mackey regresa a la ciudad costera para investigar una serie de desapariciones que lo llevan a un punto muerto donde la realidad y la paranoia se entrelazan.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1101412,
@@ -566,6 +642,22 @@
           ],
           "horarios": [
             "21:40"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:00"
           ]
         }
       ],
@@ -654,6 +746,26 @@
           ]
         },
         {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:15",
+                "18:30",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:15",
+            "18:30",
+            "21:45"
+          ]
+        },
+        {
           "cine": "Movie Time Cajamarca",
           "cine_slug": "movietime-cajamarca",
           "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
@@ -723,6 +835,296 @@
         ],
         "idioma": "Inglés",
         "titulo_original": "Avengers: Endgame"
+      }
+    },
+    {
+      "titulo": "Avengers: Doomsday(preventa)",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/3d963823a9ed8dd4d81b637127f265bd.jpg",
+      "genero": "Accion",
+      "clasificacion": "Mayores de 14",
+      "duracion": "02:45",
+      "sinopsis": "Héroes Icónicos de Tres Universos Diferentes Se Encuentran en un Curso de Colisión Mortal y Enfrentan una Amenaza Existencial Como Nunca Antes Han Visto.",
+      "director": "Joe Russo, Anthony Russo",
+      "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=Ib847Q7C9AU",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "15:30",
+                "16:00",
+                "16:30",
+                "18:00",
+                "18:30",
+                "19:00",
+                "19:30",
+                "21:00",
+                "21:30",
+                "22:00",
+                "22:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "15:30",
+            "16:00",
+            "16:30",
+            "18:00",
+            "18:30",
+            "19:00",
+            "19:30",
+            "21:00",
+            "21:30",
+            "22:00",
+            "22:30"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 299534,
+        "titulo_tmdb": "Vengadores: Endgame",
+        "voto": 8.2,
+        "votos": 28915,
+        "url_tmdb": "https://www.themoviedb.org/movie/299534",
+        "imdb_id": "tt4154796",
+        "url_imdb": "https://www.imdb.com/title/tt4154796/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+        "director": "Joe Russo, Anthony Russo",
+        "reparto": [
+          {
+            "nombre": "Robert Downey Jr.",
+            "personaje": "Tony Stark / Iron Man"
+          },
+          {
+            "nombre": "Chris Evans",
+            "personaje": "Steve Rogers / Captain America"
+          },
+          {
+            "nombre": "Mark Ruffalo",
+            "personaje": "Bruce Banner / Hulk"
+          },
+          {
+            "nombre": "Chris Hemsworth",
+            "personaje": "Thor"
+          },
+          {
+            "nombre": "Scarlett Johansson",
+            "personaje": "Natasha Romanoff / Black Widow"
+          },
+          {
+            "nombre": "Jeremy Renner",
+            "personaje": "Clint Barton / Hawkeye"
+          }
+        ],
+        "generos": [
+          "Aventura",
+          "Ciencia ficción",
+          "Acción"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=Ib847Q7C9AU",
+          "embed_id": "Ib847Q7C9AU"
+        },
+        "sinopsis_tmdb": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+        "estreno": "24 abr 2019",
+        "duracion_min": 181,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Avengers: Endgame"
+      }
+    },
+    {
+      "titulo": "Coyote Vs Acme",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/coyogtw.jpg",
+      "genero": "Animado",
+      "clasificacion": "Todo Espectador",
+      "duracion": "01:44",
+      "sinopsis": "Una Historia Ambientada en el Almacén de Acme, el Fabricante de Todo Lo Que Utilizan los Personajes de los Looney Tunes.",
+      "director": "David Green",
+      "actores": "Will Forte, Lana Condor, John Cena, Tone Bell, Martha Kelly, Luis Guzmán",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=WQRoa6l4bwI",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "19:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:00"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1204680,
+        "titulo_tmdb": "Coyote vs. Acme",
+        "voto": 7.5,
+        "votos": 682,
+        "url_tmdb": "https://www.themoviedb.org/movie/1204680",
+        "imdb_id": "tt1756855",
+        "url_imdb": "https://www.imdb.com/title/tt1756855/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/vWFz9spZFBkJvForuYrKK2ntOLB.jpg",
+        "director": "David Green",
+        "reparto": [
+          {
+            "nombre": "Will Forte",
+            "personaje": "Kevin Avery"
+          },
+          {
+            "nombre": "Lana Condor",
+            "personaje": "Paige Avery"
+          },
+          {
+            "nombre": "John Cena",
+            "personaje": "Buddy Crane"
+          },
+          {
+            "nombre": "Tone Bell",
+            "personaje": "Sal Maltese"
+          },
+          {
+            "nombre": "Martha Kelly",
+            "personaje": "Dottie Jones"
+          },
+          {
+            "nombre": "Luis Guzmán",
+            "personaje": "Judge Troppogrosso"
+          }
+        ],
+        "generos": [
+          "Comedia",
+          "Aventura",
+          "Familia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=WQRoa6l4bwI",
+          "embed_id": "WQRoa6l4bwI"
+        },
+        "sinopsis_tmdb": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+        "estreno": "17 ago 2026",
+        "duracion_min": 103,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Coyote vs. Acme"
+      }
+    },
+    {
+      "titulo": "Vertigo 2",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/fall_2_deadpoint-507951388-large.jpg",
+      "genero": "Accion",
+      "clasificacion": "Mayores de 14",
+      "duracion": "01:40",
+      "sinopsis": "Tras Perder a Su Intrépida Hermana Shiloh, Jax, Profundamente Dolida, Emprende una Peligrosa Escalada Con Luce, una Vieja Amiga de Shiloh, Para Honrar Su Memoria. Mientras Caminan Sobre la Cuerda Floja Por los Peligrosos Tablones del Monte Kwan, un Aterrador Desprendimiento de Rocas Les Deja Varados a 1.500 Metros de Altura. En Medio de Vértigos, Verdades Oscuras y Giros Crueles, Jax Debe Enfrenta",
+      "director": "Hamish Hamilton",
+      "actores": "Bono, The Edge, Larry Mullen Jr., Adam Clayton",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:15",
+                "18:15",
+                "20:15",
+                "22:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:15",
+            "18:15",
+            "20:15",
+            "22:15"
+          ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "20:55"
+              ]
+            }
+          ],
+          "horarios": [
+            "20:55"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 53341,
+        "titulo_tmdb": "U2: Vertigo 05 - Live from Milan",
+        "voto": 7.8,
+        "votos": 10,
+        "url_tmdb": "https://www.themoviedb.org/movie/53341",
+        "imdb_id": "tt0967957",
+        "url_imdb": "https://www.imdb.com/title/tt0967957/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/ov36qmHuPAGgr6nEf5CC496wjqU.jpg",
+        "director": "Hamish Hamilton",
+        "reparto": [
+          {
+            "nombre": "Bono",
+            "personaje": "Self"
+          },
+          {
+            "nombre": "The Edge",
+            "personaje": "Self"
+          },
+          {
+            "nombre": "Larry Mullen Jr.",
+            "personaje": "Self"
+          },
+          {
+            "nombre": "Adam Clayton",
+            "personaje": "Self"
+          }
+        ],
+        "generos": [
+          "Música"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "",
+        "estreno": "20 nov 2006",
+        "duracion_min": 57,
+        "paises": [],
+        "idioma": "Inglés",
+        "titulo_original": "U2: Vertigo 05 - Live from Milan"
       }
     },
     {
@@ -896,39 +1298,6 @@
         "idioma": "Ruso",
         "titulo_original": "Красавица"
       }
-    },
-    {
-      "titulo": "Vértigo 2 (Dob)",
-      "poster": "https://www.movietime.com.pe/bucket/images/cine/4e38abeb-b0a0-4714-9e1c-0df6788158b1.jpeg",
-      "genero": "",
-      "clasificacion": "+14",
-      "duracion": "105 min",
-      "sinopsis": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, un aterrador desprendimiento de rocas les deja varados a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrenta",
-      "director": "",
-      "actores": "",
-      "estreno": "",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=6ESEtbv0J8M",
-      "fuente_peli": "Movie Time",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "20:55"
-              ]
-            }
-          ],
-          "horarios": [
-            "20:55"
-          ]
-        }
-      ]
     }
   ],
   "cines": [
@@ -1086,14 +1455,227 @@
     },
     {
       "cine": "Cinerama Cajamarca MegaPlaza",
-      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-      "direccion": "",
-      "peliculas": [],
-      "sin_programacion": true,
-      "nota": "No se pudo consultar su cartelera. Suele tener funciones a diario.",
-      "no_consultado": true,
+      "cine_slug": "cinerama-cajamarca-megaplaza",
+      "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
       "url": "https://www.cinerama.com.pe/cines",
-      "cine_original": "Cajamarca Megaplaza (Cinerama)"
+      "fuente_cine": "Cinerama",
+      "peliculas": [
+        {
+          "titulo": "Amigo por ahi no es",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/amigo_por_ahi_no_es-784155637-large.jpg",
+          "genero": "Comedia",
+          "clasificacion": "Mayores de 14",
+          "duracion": "01:55",
+          "sinopsis": "Franco y Julián, Dos Amigos de la Infancia, Crecieron Inmersos en el Mundo de los Reality Shows y el Streaming. Sin Embargo, Todo Se Viene Abajo Cuando Se Ven Envueltos en una Pelea Callejera Provocada Por Otros, Lo Que Les Hace Perder Dinero, Daña Su Reputación y Pone en Peligro Su Amistad. La Situación Se Complica Aún Más Con la Llegada de Almendra, una Amiga en Común Que Desencadena un Caótico ",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:00"
+          ]
+        },
+        {
+          "titulo": "Avengers: Doomsday(preventa)",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/3d963823a9ed8dd4d81b637127f265bd.jpg",
+          "genero": "Accion",
+          "clasificacion": "Mayores de 14",
+          "duracion": "02:45",
+          "sinopsis": "Héroes Icónicos de Tres Universos Diferentes Se Encuentran en un Curso de Colisión Mortal y Enfrentan una Amenaza Existencial Como Nunca Antes Han Visto.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "15:30",
+                "16:00",
+                "16:30",
+                "18:00",
+                "18:30",
+                "19:00",
+                "19:30",
+                "21:00",
+                "21:30",
+                "22:00",
+                "22:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "15:30",
+            "16:00",
+            "16:30",
+            "18:00",
+            "18:30",
+            "19:00",
+            "19:30",
+            "21:00",
+            "21:30",
+            "22:00",
+            "22:30"
+          ]
+        },
+        {
+          "titulo": "Avengers Endgame Bonus",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/adve.jpg",
+          "genero": "Accion",
+          "clasificacion": "Todo Espectador",
+          "duracion": "03:03",
+          "sinopsis": "Después de los Eventos Devastadores de 'Avengers: Infinity War', el Universo Está en Ruinas Debido a las Acciones de Thanos, el Titán Loco. Con la Ayuda de los Aliados Que Quedaron, los Vengadores Deberán Reunirse una Vez Más Para Intentar Deshacer Sus Acciones y Restaurar el Orden en el Universo de una Vez Por Todas, Sin Importar Cuáles Son las Consecuencias... Cuarta y Última Entrega de la Saga ",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:15",
+                "18:30",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:15",
+            "18:30",
+            "21:45"
+          ]
+        },
+        {
+          "titulo": "Coyote Vs Acme",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/coyogtw.jpg",
+          "genero": "Animado",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:44",
+          "sinopsis": "Una Historia Ambientada en el Almacén de Acme, el Fabricante de Todo Lo Que Utilizan los Personajes de los Looney Tunes.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "19:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:00"
+          ]
+        },
+        {
+          "titulo": "El Corazón de la Bestia",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/besyoisa.jpg",
+          "genero": "Drama",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:41",
+          "sinopsis": "Soldado Herido de Fuerzas Especiales y Su Perro Militar Luchan Por Sobrevivir en la Naturaleza Salvaje de Alaska Mientras Buscan el Camino a Casa.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "20:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "20:00"
+          ]
+        },
+        {
+          "titulo": "La Isla Olvidada",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/forgotten_island-114935156-large.jpg",
+          "genero": "Dibujos",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:48",
+          "sinopsis": "Dos Amigas Se Quedan Varadas en el Místico Mundo de Nakali, Donde Su Único Escape Podría Costarles Su Vida Compartida de Recuerdos.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "17:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:00"
+          ]
+        },
+        {
+          "titulo": "Resident Evil: Noche Cero",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/rexs.jpg",
+          "genero": "Terror",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:35",
+          "sinopsis": "Sigue a un Desafortunado Mensajero Encargado de Entregar un Paquete a un Hospital Remoto. Pronto Se Encuentra Atrapado en Medio de una Epidemia y Debe Luchar Contra Hordas de Criaturas Mutantes Para Sobrevivir.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "18:00",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:00",
+            "22:00"
+          ]
+        },
+        {
+          "titulo": "Verity, La Sombra De Un Engaño",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/verity-273395489-large.jpg",
+          "genero": "Thriller",
+          "clasificacion": "Mayores de 14",
+          "duracion": "01:57",
+          "sinopsis": "Lowen Ashleigh Es Contratada Como Escritora Fantasma Por Jeremy Crawford Para Escribir las Novelas de Su Esposa Verity, Autora de Bestsellers, Impedida Tras un Accidente. Lowen Descubre las Inquietantes Verdades de Verity Mientras Reside en Casa de los Crawford Para Trabajar.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "17:15",
+                "19:30",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:15",
+            "19:30",
+            "21:45"
+          ]
+        },
+        {
+          "titulo": "Vertigo 2",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/fall_2_deadpoint-507951388-large.jpg",
+          "genero": "Accion",
+          "clasificacion": "Mayores de 14",
+          "duracion": "01:40",
+          "sinopsis": "Tras Perder a Su Intrépida Hermana Shiloh, Jax, Profundamente Dolida, Emprende una Peligrosa Escalada Con Luce, una Vieja Amiga de Shiloh, Para Honrar Su Memoria. Mientras Caminan Sobre la Cuerda Floja Por los Peligrosos Tablones del Monte Kwan, un Aterrador Desprendimiento de Rocas Les Deja Varados a 1.500 Metros de Altura. En Medio de Vértigos, Verdades Oscuras y Giros Crueles, Jax Debe Enfrenta",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:15",
+                "18:15",
+                "20:15",
+                "22:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:15",
+            "18:15",
+            "20:15",
+            "22:15"
+          ]
+        }
+      ]
     },
     {
       "cine": "Movie Time Cajamarca",
@@ -1247,7 +1829,7 @@
           "trailer_url": "https://www.youtube.com/watch?v=Juf4i1Ui-84"
         },
         {
-          "titulo": "Vértigo 2 (Dob)",
+          "titulo": "Vertigo 2",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/4e38abeb-b0a0-4714-9e1c-0df6788158b1.jpeg",
           "genero": "",
           "clasificacion": "+14",
@@ -1273,9 +1855,7 @@
   "motor": "groq",
   "fuentes_extra": [
     "Cineplanet",
+    "Cinerama",
     "Movie Time"
-  ],
-  "notas": [
-    "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
   ]
 }
