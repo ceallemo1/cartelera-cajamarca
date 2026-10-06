@@ -2,9 +2,118 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-05 20:00",
-  "fecha_objetivo": "2026-10-05",
+  "actualizado": "2026-10-06 07:00",
+  "fecha_objetivo": "2026-10-06",
   "peliculas": [
+    {
+      "titulo": "La Isla Olvidada",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003062?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:40"
+          ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:10"
+          ]
+        }
+      ],
+      "genero": "Aventura",
+      "duracion": "98 minutos",
+      "clasificacion": "Todos",
+      "director": "Joel Crawford, Januel Mercado",
+      "actores": "Jenny Slate, Dave Franco, Amielynn Abellera, Manny Jacinto, Liza Soberano, Lea Salonga, Ronny Chieng, H.E.R., Dolly De Leon, Nick Mendoza III, Jo Koy, Jayssolit",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/la-isla-olvidada-12290_252",
+      "trailer_url": "https://youtu.be/UUEC_fVIu7U?si=9XpuKS9J5hMyvafl",
+      "sinopsis": "Un grupo de aventureros descubre una isla misteriosa donde el tiempo parece haberse detenido, revelando secretos ancestrales y peligros ocultos.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1465063,
+        "titulo_tmdb": "La isla olvidada",
+        "voto": 8.2,
+        "votos": 47,
+        "url_tmdb": "https://www.themoviedb.org/movie/1465063",
+        "imdb_id": "tt36583977",
+        "url_imdb": "https://www.imdb.com/title/tt36583977/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
+        "director": "Januel Mercado, Joel Crawford",
+        "reparto": [
+          {
+            "nombre": "H.E.R.",
+            "personaje": "Jo (voice)"
+          },
+          {
+            "nombre": "Liza Soberano",
+            "personaje": "Raissa (voice)"
+          },
+          {
+            "nombre": "Dave Franco",
+            "personaje": "Raww (voice)"
+          },
+          {
+            "nombre": "Jenny Slate",
+            "personaje": "Batiba (voice)"
+          },
+          {
+            "nombre": "Manny Jacinto",
+            "personaje": "Bungi (voice)"
+          },
+          {
+            "nombre": "Lea Salonga",
+            "personaje": "Manang (voice)"
+          }
+        ],
+        "generos": [
+          "Animación",
+          "Aventura",
+          "Fantasía",
+          "Comedia",
+          "Familia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=uW2uWXiBpIs",
+          "embed_id": "uW2uWXiBpIs"
+        },
+        "sinopsis_tmdb": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
+        "estreno": "10 sep 2026",
+        "duracion_min": 109,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Forgotten Island"
+      }
+    },
     {
       "titulo": "Verity, La Sombra De Un Engaño",
       "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003069?referenceScheme=HeadOffice&allowPlaceHolder=true",
@@ -20,11 +129,13 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:50",
                 "20:50"
               ]
             }
           ],
           "horarios": [
+            "15:50",
             "20:50"
           ]
         },
@@ -36,12 +147,12 @@
             {
               "formato": "",
               "horarios": [
-                "21:00"
+                "20:55"
               ]
             }
           ],
           "horarios": [
-            "21:00"
+            "20:55"
           ]
         }
       ],
@@ -53,13 +164,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/verity-la-sombra-de-un-engano-12282_252",
       "trailer_url": "https://youtu.be/polZUYGu7Uw?si=7Qa8anHvRsa1FdlI",
-      "sinopsis": "Verity, una detective astuta, se enfrenta a una conspiración que oculta una verdad peligrosa, mientras la sombra de un engaño la persigue en cada paso.",
+      "sinopsis": "Verity, una detective perspicaz, se enfrenta a una conspiración que oculta una verdad devastadora, mientras la sombra de un engaño la persigue.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1283515,
         "titulo_tmdb": "Verity. La sombra de un engaño",
         "voto": 6.6,
-        "votos": 92,
+        "votos": 95,
         "url_tmdb": "https://www.themoviedb.org/movie/1283515",
         "imdb_id": "tt32261958",
         "url_imdb": "https://www.imdb.com/title/tt32261958/",
@@ -124,12 +235,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:00",
+                "18:10",
                 "20:20",
                 "22:30"
               ]
             }
           ],
           "horarios": [
+            "16:00",
+            "18:10",
             "20:20",
             "22:30"
           ]
@@ -142,12 +257,12 @@
             {
               "formato": "",
               "horarios": [
-                "19:00"
+                "19:01"
               ]
             }
           ],
           "horarios": [
-            "19:00"
+            "19:01"
           ]
         }
       ],
@@ -159,13 +274,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "En una noche siniestra, los supervivientes de la corporación Umbrella deben enfrentar una nueva ola de zombis y horrores biotecnológicos.",
+      "sinopsis": "En una noche sin luna, los supervivientes de Raccoon City deben enfrentarse a una nueva ola de infectados y a un virus que amenaza con sumir al mundo en la oscuridad.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
         "titulo_tmdb": "Resident Evil",
         "voto": 7.3,
-        "votos": 755,
+        "votos": 764,
         "url_tmdb": "https://www.themoviedb.org/movie/1423191",
         "imdb_id": "tt35538033",
         "url_imdb": "https://www.imdb.com/title/tt35538033/",
@@ -233,6 +348,8 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "14:30",
+                "16:50",
                 "18:30",
                 "19:10",
                 "21:30"
@@ -240,6 +357,8 @@
             }
           ],
           "horarios": [
+            "14:30",
+            "16:50",
             "18:30",
             "19:10",
             "21:30"
@@ -272,13 +391,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Un guerrero legendario se adentra en un bosque prohibido para enfrentarse a una bestia ancestral que amenaza con destruir su aldea.",
+      "sinopsis": "Un guerrero legendario busca el corazón de una bestia mítica para obtener su poder, mientras se debate entre la venganza y la redención.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
         "titulo_tmdb": "En el corazón de la bestia",
         "voto": 7.5,
-        "votos": 227,
+        "votos": 231,
         "url_tmdb": "https://www.themoviedb.org/movie/1263337",
         "imdb_id": "tt7526136",
         "url_imdb": "https://www.imdb.com/title/tt7526136/",
@@ -339,12 +458,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:30",
+                "17:50",
                 "20:00",
                 "22:10"
               ]
             }
           ],
           "horarios": [
+            "15:30",
+            "17:50",
             "20:00",
             "22:10"
           ]
@@ -358,17 +481,17 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/vertigo-2-punto-muerto-12297_252",
       "trailer_url": "https://www.youtube.com/watch?v=IRJGXHvc-Hs",
-      "sinopsis": "El detective de la ciudad regresa para resolver un caso que lo lleva al punto muerto de su propia cordura, mientras el peligro acecha en cada esquina.",
+      "sinopsis": "El detective de la serie vuelve a la ciudad donde todo comenzó, descubriendo un punto muerto que conecta todos los crímenes pasados en una espiral de terror.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1101412,
         "titulo_tmdb": "Fall 2: Deadpoint",
         "voto": 6.2,
-        "votos": 60,
+        "votos": 63,
         "url_tmdb": "https://www.themoviedb.org/movie/1101412",
         "imdb_id": "tt31192372",
         "url_imdb": "https://www.imdb.com/title/tt31192372/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/xQlESgkDM7rczAWySdB0WBomh39.jpg",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/ccBIyg1ITvuCDr4eMeEH0ZgNh4t.jpg",
         "director": "Michael Spierig, Peter Spierig",
         "reparto": [
           {
@@ -400,7 +523,7 @@
           "Suspense"
         ],
         "trailer": {},
-        "sinopsis_tmdb": "Tras la muerte de su intrépida hermana Shiloh, Jax emprende una peligrosa escalada con una vieja amiga para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, en Tailandia, un aterrador desprendimiento de rocas las deja varadas a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia.",
+        "sinopsis_tmdb": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, un aterrador desprendimiento de rocas les deja varados a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia y el final.",
         "estreno": "1 sep 2026",
         "duracion_min": 98,
         "paises": [
@@ -497,20 +620,39 @@
       }
     },
     {
-      "titulo": "Avengers Endgame Bonus (Dob)",
-      "poster": "https://www.movietime.com.pe/bucket/images/cine/b515ef8a-4882-4eb3-9bdc-191c9dadc95d.png",
-      "genero": "",
+      "titulo": "Avengers Endgame Bonus",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003092?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Acción",
       "clasificacion": "APT",
-      "duracion": "185 min",
-      "sinopsis": "El épico final de la Saga del Infinito regresa a las salas de cine como Avengers: Endgame: Bonus el 24 de septiembre de 2026. Después de que unos acontecimientos devastadores acabaran con la mitad de la población mundial, los héroes que quedan luchan por seguir adelante. Finalmente, deben unirse para restablecer el orden y la armonía en el universo y traer de vuelta a sus seres queridos en un dram",
-      "director": "",
-      "actores": "",
+      "duracion": "184 min",
+      "director": "Joe Russo, Anthony Russo",
+      "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
       "estreno": "",
+      "sinopsis": "Tras los devastadores sucesos de Avengers: Infinity War, el universo está en ruinas, pero de los que quedan, los Avengers se unirán una vez más para deshacer la destrucción de Thanos y restaurar el orden del mundo. INFINITY VISION es una certificación para cines de Formato Grande Premium (PLF, por sus siglas en inglés), que garantiza a los espectadores una experiencia cinematográfica excepcional. ",
       "puntaje": "",
       "ficha": "",
       "trailer_url": "https://www.youtube.com/watch?v=u7QErIFCc7k",
-      "fuente_peli": "Movie Time",
+      "fuente_peli": "Cineplanet",
       "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "18:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:00"
+          ]
+        },
         {
           "cine": "Movie Time Cajamarca",
           "cine_slug": "movietime-cajamarca",
@@ -527,42 +669,61 @@
             "17:30"
           ]
         }
-      ]
-    },
-    {
-      "titulo": "La Isla Olvidada (Dob)",
-      "poster": "https://www.movietime.com.pe/bucket/images/cine/0d4490bc-9233-463c-8cd5-675fea3c7775.jpeg",
-      "genero": "",
-      "clasificacion": "APT",
-      "duracion": "109 min",
-      "sinopsis": "Sigue a Jo y Raissa, dos recién graduadas de bachillerato que han sido mejores amigas desde la primaria, pero que ahora están a punto de emprender caminos separados. Mientras celebran su última noche juntas, Jo y Raissa se topan con un misterioso portal que las transporta a la fantástica isla de Nakali, repleta de criaturas mágicas y mitológicas de las que crecieron escuchando historias contadas p",
-      "director": "",
-      "actores": "",
-      "estreno": "",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=8cI5Bl-v-p8",
-      "fuente_peli": "Movie Time",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:00",
-                "18:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:10"
-          ]
-        }
-      ]
+      ],
+      "tmdb": {
+        "tmdb_id": 299534,
+        "titulo_tmdb": "Vengadores: Endgame",
+        "voto": 8.2,
+        "votos": 28915,
+        "url_tmdb": "https://www.themoviedb.org/movie/299534",
+        "imdb_id": "tt4154796",
+        "url_imdb": "https://www.imdb.com/title/tt4154796/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+        "director": "Joe Russo, Anthony Russo",
+        "reparto": [
+          {
+            "nombre": "Robert Downey Jr.",
+            "personaje": "Tony Stark / Iron Man"
+          },
+          {
+            "nombre": "Chris Evans",
+            "personaje": "Steve Rogers / Captain America"
+          },
+          {
+            "nombre": "Mark Ruffalo",
+            "personaje": "Bruce Banner / Hulk"
+          },
+          {
+            "nombre": "Chris Hemsworth",
+            "personaje": "Thor"
+          },
+          {
+            "nombre": "Scarlett Johansson",
+            "personaje": "Natasha Romanoff / Black Widow"
+          },
+          {
+            "nombre": "Jeremy Renner",
+            "personaje": "Clint Barton / Hawkeye"
+          }
+        ],
+        "generos": [
+          "Aventura",
+          "Ciencia ficción",
+          "Acción"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=Ib847Q7C9AU",
+          "embed_id": "Ib847Q7C9AU"
+        },
+        "sinopsis_tmdb": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+        "estreno": "24 abr 2019",
+        "duracion_min": 181,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Avengers: Endgame"
+      }
     },
     {
       "titulo": "Los Juegos del Hambre: En Llamas (Bonus) (Dob)",
@@ -600,7 +761,7 @@
         "tmdb_id": 70160,
         "titulo_tmdb": "Los Juegos del Hambre",
         "voto": 7.2,
-        "votos": 23800,
+        "votos": 23802,
         "url_tmdb": "https://www.themoviedb.org/movie/70160",
         "imdb_id": "tt1392170",
         "url_imdb": "https://www.imdb.com/title/tt1392170/",
@@ -797,6 +958,23 @@
           ]
         },
         {
+          "titulo": "Avengers Endgame Bonus",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003092?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "18:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:00"
+          ]
+        },
+        {
           "titulo": "El Corazón de la Bestia",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002975?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Acción",
@@ -805,6 +983,8 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "14:30",
+                "16:50",
                 "18:30",
                 "19:10",
                 "21:30"
@@ -812,9 +992,28 @@
             }
           ],
           "horarios": [
+            "14:30",
+            "16:50",
             "18:30",
             "19:10",
             "21:30"
+          ]
+        },
+        {
+          "titulo": "La Isla Olvidada",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003062?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Animación",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:40"
           ]
         },
         {
@@ -826,12 +1025,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:00",
+                "18:10",
                 "20:20",
                 "22:30"
               ]
             }
           ],
           "horarios": [
+            "16:00",
+            "18:10",
             "20:20",
             "22:30"
           ]
@@ -845,11 +1048,13 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:50",
                 "20:50"
               ]
             }
           ],
           "horarios": [
+            "15:50",
             "20:50"
           ]
         },
@@ -862,12 +1067,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:30",
+                "17:50",
                 "20:00",
                 "22:10"
               ]
             }
           ],
           "horarios": [
+            "15:30",
+            "17:50",
             "20:00",
             "22:10"
           ]
@@ -894,7 +1103,7 @@
       "fuente_cine": "Movie Time",
       "peliculas": [
         {
-          "titulo": "Avengers Endgame Bonus (Dob)",
+          "titulo": "Avengers Endgame Bonus",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/b515ef8a-4882-4eb3-9bdc-191c9dadc95d.png",
           "genero": "",
           "clasificacion": "APT",
@@ -936,7 +1145,7 @@
           "trailer_url": "https://www.youtube.com/watch?v=OAGoEmCirOY"
         },
         {
-          "titulo": "La Isla Olvidada (Dob)",
+          "titulo": "La Isla Olvidada",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/0d4490bc-9233-463c-8cd5-675fea3c7775.jpeg",
           "genero": "",
           "clasificacion": "APT",
@@ -988,12 +1197,12 @@
             {
               "formato": "",
               "horarios": [
-                "19:00"
+                "19:01"
               ]
             }
           ],
           "horarios": [
-            "19:00"
+            "19:01"
           ],
           "trailer_url": "https://www.youtube.com/watch?v=8iKTeIV2xgE"
         },
@@ -1028,12 +1237,12 @@
             {
               "formato": "",
               "horarios": [
-                "21:00"
+                "20:55"
               ]
             }
           ],
           "horarios": [
-            "21:00"
+            "20:55"
           ],
           "trailer_url": "https://www.youtube.com/watch?v=Juf4i1Ui-84"
         },
