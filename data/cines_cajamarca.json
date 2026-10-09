@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-09 08:03",
+  "actualizado": "2026-10-09 11:03",
   "fecha_objetivo": "2026-10-09",
   "peliculas": [
     {
@@ -32,6 +32,28 @@
             "18:10",
             "20:20",
             "22:30"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:15",
+                "18:15",
+                "20:15",
+                "22:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:15",
+            "18:15",
+            "20:15",
+            "22:15"
           ]
         },
         {
@@ -142,6 +164,24 @@
           ]
         },
         {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "17:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:00"
+          ]
+        },
+        {
           "cine": "Movie Time Cajamarca",
           "cine_slug": "movietime-cajamarca",
           "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
@@ -248,6 +288,24 @@
           ]
         },
         {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "19:00",
+                "21:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:00",
+            "21:50"
+          ]
+        },
+        {
           "cine": "Movie Time Cajamarca",
           "cine_slug": "movietime-cajamarca",
           "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
@@ -350,6 +408,22 @@
           ],
           "horarios": [
             "18:40"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "21:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:15"
           ]
         },
         {
@@ -461,6 +535,22 @@
           "horarios": [
             "19:40",
             "22:00"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "18:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:00"
           ]
         },
         {
@@ -581,6 +671,22 @@
           ]
         },
         {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:45"
+          ]
+        },
+        {
           "cine": "Movie Time Cajamarca",
           "cine_slug": "movietime-cajamarca",
           "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
@@ -631,6 +737,26 @@
           ],
           "horarios": [
             "15:20",
+            "19:30"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30",
+                "17:30",
+                "19:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "17:30",
             "19:30"
           ]
         },
@@ -690,6 +816,24 @@
             "17:50",
             "20:00",
             "22:10"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "16:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "16:45"
           ]
         }
       ],
@@ -784,7 +928,7 @@
         "tmdb_id": 1101412,
         "titulo_tmdb": "Fall 2: Deadpoint",
         "voto": 7.2,
-        "votos": 267,
+        "votos": 269,
         "url_tmdb": "https://www.themoviedb.org/movie/1101412",
         "imdb_id": "tt31192372",
         "url_imdb": "https://www.imdb.com/title/tt31192372/",
@@ -829,6 +973,286 @@
         ],
         "idioma": "Inglés",
         "titulo_original": "Fall 2: Deadpoint"
+      }
+    },
+    {
+      "titulo": "Avengers: Doomsday(preventa)",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/3d963823a9ed8dd4d81b637127f265bd.jpg",
+      "genero": "Accion",
+      "clasificacion": "Mayores de 14",
+      "duracion": "02:45",
+      "sinopsis": "Héroes Icónicos de Tres Universos Diferentes Se Encuentran en un Curso de Colisión Mortal y Enfrentan una Amenaza Existencial Como Nunca Antes Han Visto.",
+      "director": "Anthony Russo, Joe Russo",
+      "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=Ib847Q7C9AU",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "14:00",
+                "15:00",
+                "15:30",
+                "16:00",
+                "16:30",
+                "17:00",
+                "18:00",
+                "18:30",
+                "19:00",
+                "19:30",
+                "20:00",
+                "21:00",
+                "21:30",
+                "22:00",
+                "22:30",
+                "23:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:00",
+            "15:00",
+            "15:30",
+            "16:00",
+            "16:30",
+            "17:00",
+            "18:00",
+            "18:30",
+            "19:00",
+            "19:30",
+            "20:00",
+            "21:00",
+            "21:30",
+            "22:00",
+            "22:30",
+            "23:00"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 299534,
+        "titulo_tmdb": "Vengadores: Endgame",
+        "voto": 8.2,
+        "votos": 28951,
+        "url_tmdb": "https://www.themoviedb.org/movie/299534",
+        "imdb_id": "tt4154796",
+        "url_imdb": "https://www.imdb.com/title/tt4154796/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+        "director": "Anthony Russo, Joe Russo",
+        "reparto": [
+          {
+            "nombre": "Robert Downey Jr.",
+            "personaje": "Tony Stark / Iron Man"
+          },
+          {
+            "nombre": "Chris Evans",
+            "personaje": "Steve Rogers / Captain America"
+          },
+          {
+            "nombre": "Mark Ruffalo",
+            "personaje": "Bruce Banner / Hulk"
+          },
+          {
+            "nombre": "Chris Hemsworth",
+            "personaje": "Thor"
+          },
+          {
+            "nombre": "Scarlett Johansson",
+            "personaje": "Natasha Romanoff / Black Widow"
+          },
+          {
+            "nombre": "Jeremy Renner",
+            "personaje": "Clint Barton / Hawkeye"
+          }
+        ],
+        "generos": [
+          "Aventura",
+          "Ciencia ficción",
+          "Acción"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=Ib847Q7C9AU",
+          "embed_id": "Ib847Q7C9AU"
+        },
+        "sinopsis_tmdb": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+        "estreno": "24 abr 2019",
+        "duracion_min": 181,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Avengers: Endgame"
+      }
+    },
+    {
+      "titulo": "Avengers: Endgame Bonus",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/adve.jpg",
+      "genero": "Accion",
+      "clasificacion": "Todo Espectador",
+      "duracion": "03:03",
+      "sinopsis": "Después de los Eventos Devastadores de 'Avengers: Infinity War', el Universo Está en Ruinas Debido a las Acciones de Thanos, el Titán Loco. Con la Ayuda de los Aliados Que Quedaron, los Vengadores Deberán Reunirse una Vez Más Para Intentar Deshacer Sus Acciones y Restaurar el Orden en el Universo de una Vez Por Todas, Sin Importar Cuáles Son las Consecuencias... Cuarta y Última Entrega de la Saga ",
+      "director": "Anthony Russo, Joe Russo",
+      "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=Ib847Q7C9AU",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "18:30",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:30",
+            "21:45"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 299534,
+        "titulo_tmdb": "Vengadores: Endgame",
+        "voto": 8.2,
+        "votos": 28951,
+        "url_tmdb": "https://www.themoviedb.org/movie/299534",
+        "imdb_id": "tt4154796",
+        "url_imdb": "https://www.imdb.com/title/tt4154796/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+        "director": "Anthony Russo, Joe Russo",
+        "reparto": [
+          {
+            "nombre": "Robert Downey Jr.",
+            "personaje": "Tony Stark / Iron Man"
+          },
+          {
+            "nombre": "Chris Evans",
+            "personaje": "Steve Rogers / Captain America"
+          },
+          {
+            "nombre": "Mark Ruffalo",
+            "personaje": "Bruce Banner / Hulk"
+          },
+          {
+            "nombre": "Chris Hemsworth",
+            "personaje": "Thor"
+          },
+          {
+            "nombre": "Scarlett Johansson",
+            "personaje": "Natasha Romanoff / Black Widow"
+          },
+          {
+            "nombre": "Jeremy Renner",
+            "personaje": "Clint Barton / Hawkeye"
+          }
+        ],
+        "generos": [
+          "Aventura",
+          "Ciencia ficción",
+          "Acción"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=Ib847Q7C9AU",
+          "embed_id": "Ib847Q7C9AU"
+        },
+        "sinopsis_tmdb": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+        "estreno": "24 abr 2019",
+        "duracion_min": 181,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Avengers: Endgame"
+      }
+    },
+    {
+      "titulo": "Vertigo 2",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/fall_2_deadpoint-507951388-large.jpg",
+      "genero": "Accion",
+      "clasificacion": "Mayores de 14",
+      "duracion": "01:40",
+      "sinopsis": "Tras Perder a Su Intrépida Hermana Shiloh, Jax, Profundamente Dolida, Emprende una Peligrosa Escalada Con Luce, una Vieja Amiga de Shiloh, Para Honrar Su Memoria. Mientras Caminan Sobre la Cuerda Floja Por los Peligrosos Tablones del Monte Kwan, un Aterrador Desprendimiento de Rocas Les Deja Varados a 1.500 Metros de Altura. En Medio de Vértigos, Verdades Oscuras y Giros Crueles, Jax Debe Enfrenta",
+      "director": "Hamish Hamilton",
+      "actores": "Bono, The Edge, Larry Mullen Jr., Adam Clayton",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "20:00",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "20:00",
+            "22:00"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 53341,
+        "titulo_tmdb": "U2: Vertigo 05 - Live from Milan",
+        "voto": 7.8,
+        "votos": 10,
+        "url_tmdb": "https://www.themoviedb.org/movie/53341",
+        "imdb_id": "tt0967957",
+        "url_imdb": "https://www.imdb.com/title/tt0967957/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/ov36qmHuPAGgr6nEf5CC496wjqU.jpg",
+        "director": "Hamish Hamilton",
+        "reparto": [
+          {
+            "nombre": "Bono",
+            "personaje": "Self"
+          },
+          {
+            "nombre": "The Edge",
+            "personaje": "Self"
+          },
+          {
+            "nombre": "Larry Mullen Jr.",
+            "personaje": "Self"
+          },
+          {
+            "nombre": "Adam Clayton",
+            "personaje": "Self"
+          }
+        ],
+        "generos": [
+          "Música"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "",
+        "estreno": "20 nov 2006",
+        "duracion_min": 57,
+        "paises": [],
+        "idioma": "Inglés",
+        "titulo_original": "U2: Vertigo 05 - Live from Milan"
       }
     },
     {
@@ -1223,14 +1647,271 @@
     },
     {
       "cine": "Cinerama Cajamarca MegaPlaza",
-      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-      "direccion": "",
-      "peliculas": [],
-      "sin_programacion": true,
-      "nota": "No se pudo consultar su cartelera. Suele tener funciones a diario.",
-      "no_consultado": true,
+      "cine_slug": "cinerama-cajamarca-megaplaza",
+      "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
       "url": "https://www.cinerama.com.pe/cines",
-      "cine_original": "Cajamarca Megaplaza (Cinerama)"
+      "fuente_cine": "Cinerama",
+      "peliculas": [
+        {
+          "titulo": "Avengers: Doomsday(preventa)",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/3d963823a9ed8dd4d81b637127f265bd.jpg",
+          "genero": "Accion",
+          "clasificacion": "Mayores de 14",
+          "duracion": "02:45",
+          "sinopsis": "Héroes Icónicos de Tres Universos Diferentes Se Encuentran en un Curso de Colisión Mortal y Enfrentan una Amenaza Existencial Como Nunca Antes Han Visto.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "14:00",
+                "15:00",
+                "15:30",
+                "16:00",
+                "16:30",
+                "17:00",
+                "18:00",
+                "18:30",
+                "19:00",
+                "19:30",
+                "20:00",
+                "21:00",
+                "21:30",
+                "22:00",
+                "22:30",
+                "23:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:00",
+            "15:00",
+            "15:30",
+            "16:00",
+            "16:30",
+            "17:00",
+            "18:00",
+            "18:30",
+            "19:00",
+            "19:30",
+            "20:00",
+            "21:00",
+            "21:30",
+            "22:00",
+            "22:30",
+            "23:00"
+          ]
+        },
+        {
+          "titulo": "Avengers: Endgame Bonus",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/adve.jpg",
+          "genero": "Accion",
+          "clasificacion": "Todo Espectador",
+          "duracion": "03:03",
+          "sinopsis": "Después de los Eventos Devastadores de 'Avengers: Infinity War', el Universo Está en Ruinas Debido a las Acciones de Thanos, el Titán Loco. Con la Ayuda de los Aliados Que Quedaron, los Vengadores Deberán Reunirse una Vez Más Para Intentar Deshacer Sus Acciones y Restaurar el Orden en el Universo de una Vez Por Todas, Sin Importar Cuáles Son las Consecuencias... Cuarta y Última Entrega de la Saga ",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "18:30",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:30",
+            "21:45"
+          ]
+        },
+        {
+          "titulo": "Cars (20 años)",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/cars.jpg",
+          "genero": "Animado",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:57",
+          "sinopsis": "Las Aventuras de Rayo Mcqueen en Radiador Springs Para Descubrir el Valor de la Amistad.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:45"
+          ]
+        },
+        {
+          "titulo": "El Árbol Mágico",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/the_magic_faraway_tree-966140960-large.jpg",
+          "genero": "Fantasia",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:50",
+          "sinopsis": "Polly, Tim, y Sus Tres Hijos Son una Familia Moderna Que Se Ve Obligada a Mudarse a la Remota Campiña Inglesa. Poco Después de Su Llegada, los Niños Descubren un Árbol Mágico y a Sus Extraordinarios y Excéntricos Habitantes. Conocen a Personajes Entrañables Como Cara de Luna, Seditas, el Señor Comosellame, Doña Lavamucho O el Señor Cazuelas. En la Copa del Árbol, Son Transportados a Mundos Descono",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "17:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:00"
+          ]
+        },
+        {
+          "titulo": "El Corazón de la Bestia",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/besyoisa.jpg",
+          "genero": "Drama",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:41",
+          "sinopsis": "Soldado Herido de Fuerzas Especiales y Su Perro Militar Luchan Por Sobrevivir en la Naturaleza Salvaje de Alaska Mientras Buscan el Camino a Casa.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "18:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:00"
+          ]
+        },
+        {
+          "titulo": "Hachiko Siempre a tu Lado (2009)",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/hachi_a_dog_s_tale_hachiko_a_dog_s_story-386676685-large.jpg",
+          "genero": "Familiar",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:35",
+          "sinopsis": "Parker Wilson, un Profesor Universitario Que Da Clases de Música, Recoge un Día a un Perro de Origen Japonés y Raza Akita, Al Que Encuentra Abandonado en una Estación. Como Nadie Lo Reclama, Se Lo Lleva a Su Casa. Parker Va Descubriendo Entonces los Entrañables Lazos Que Pueden Unir a una Persona y a un Animal. Remake de la Película Japonesa \"Hachiko Monogatari\" (1987) Dirigida Por Seijirô Kôyama ",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30",
+                "17:30",
+                "19:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "17:30",
+            "19:30"
+          ]
+        },
+        {
+          "titulo": "Hope - El Primer Impacto",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/hope-397969968-large.jpg",
+          "genero": "Accion",
+          "clasificacion": "Mayores de 14",
+          "duracion": "02:40",
+          "sinopsis": "Los Refuerzos Se Han Desviado Para Combatir los Incendios Forestales y Se Han Cortado Todas las Comunicaciones. El Jefe del Puesto Policial de Hope, Bum-seok, y la Agente Sung-ae Luchan Por Defender un Pueblo de Ancianos, Mientras Que en las Montañas, Sung-ki y los Lugareños Que Se Han Lanzado a la Búsqueda de la Bestia Se Ven, Por el Contrario, Acosados Por Ella. Lo Que Comienza Como Ignorancia S",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "19:00",
+                "21:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:00",
+            "21:50"
+          ]
+        },
+        {
+          "titulo": "La Tribu",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/la_tribu-840377943-large.jpg",
+          "genero": "Comedia",
+          "clasificacion": "Mayores de 14",
+          "duracion": "01:30",
+          "sinopsis": "Una Reunión Familiar Donde Todo Sale Mal… y Luego Empeora. Silvano Solo Quería Festejar el Cumpleaños de Su Esposa en Paz, Pero Sus Tres Hijos Invaden la Casa Con Sus Respectivas Parejas y Convierten Lo Que Debía Ser una Celebración en un Campo de Batalla Donde Sobran los Secretos, Vuelan las Indirectas y Resurgen Viejos Rencores. ¿Será Este Encuentro un Desastre Inolvidable? ¿O Podrán Sobrevivir ",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "16:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "16:45"
+          ]
+        },
+        {
+          "titulo": "Madre Siniestra",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/other_mommy-415529498-large.jpg",
+          "genero": "Terror",
+          "clasificacion": "Mayores de 14",
+          "duracion": "01:33",
+          "sinopsis": "Bela, una Niña de 8 Años Que Vive en un Hogar Tenso Por el Matrimonio Problemático de Sus Padres, Ve Cómo Su Vida Se Ve Trastornada Por una Entidad Siniestra a la Que Llama Otra Mamá. Cuando Esta Presencia Malévola Emerge de Su Armario Preguntando: '¿Puedo Entrar en Tu Corazón?', Bela Se Niega. Pero Pronto las Manifestaciones de la Otra Mamá Se Vuelven Cada Vez Más Agresivas, Amenazando la Segurid",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:15",
+                "18:15",
+                "20:15",
+                "22:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:15",
+            "18:15",
+            "20:15",
+            "22:15"
+          ]
+        },
+        {
+          "titulo": "Resident Evil: Noche Cero",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/rexs.jpg",
+          "genero": "Terror",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:35",
+          "sinopsis": "Sigue a un Desafortunado Mensajero Encargado de Entregar un Paquete a un Hospital Remoto. Pronto Se Encuentra Atrapado en Medio de una Epidemia y Debe Luchar Contra Hordas de Criaturas Mutantes Para Sobrevivir.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "21:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:15"
+          ]
+        },
+        {
+          "titulo": "Vertigo 2",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/fall_2_deadpoint-507951388-large.jpg",
+          "genero": "Accion",
+          "clasificacion": "Mayores de 14",
+          "duracion": "01:40",
+          "sinopsis": "Tras Perder a Su Intrépida Hermana Shiloh, Jax, Profundamente Dolida, Emprende una Peligrosa Escalada Con Luce, una Vieja Amiga de Shiloh, Para Honrar Su Memoria. Mientras Caminan Sobre la Cuerda Floja Por los Peligrosos Tablones del Monte Kwan, un Aterrador Desprendimiento de Rocas Les Deja Varados a 1.500 Metros de Altura. En Medio de Vértigos, Verdades Oscuras y Giros Crueles, Jax Debe Enfrenta",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "20:00",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "20:00",
+            "22:00"
+          ]
+        }
+      ]
     },
     {
       "cine": "Movie Time Cajamarca",
@@ -1450,9 +2131,7 @@
   "motor": "gemini",
   "fuentes_extra": [
     "Cineplanet",
+    "Cinerama",
     "Movie Time"
-  ],
-  "notas": [
-    "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
   ]
 }
