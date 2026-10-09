@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Motor LLM con cascada perpetua para el Tablero Personal.
-Orden: CEREBRAS (base) -> GEMINI (calidad) -> GROQ (respaldo). NIM = reserva premium (explicita).
+Orden: GEMINI (calidad) -> GROQ (respaldo). NIM = reserva premium (explicita).
+Cerebras fuera de la cascada desde el 09-oct-2026: responde 402 (pago requerido) desde el 20-ago.
 Todo gratis, sin tarjeta. Verificado en vivo 2026-06-28.
 
 Uso:
@@ -40,7 +41,9 @@ def _cargar_env(path=ENV_PATH):
                 if not linea or linea.startswith("#") or "=" not in linea:
                     continue
                 k, _, v = linea.partition("=")
-                cfg[k.strip()] = v.strip()
+                # 09-oct-2026: un comentario al final de la linea ("valor  # nota") se pegaba al valor y
+                # GEMINI_MODEL salia con la nota: Gemini fallaba (InvalidURL) desde el 11-sep sin aviso.
+                cfg[k.strip()] = v.split(" #", 1)[0].strip()
     except FileNotFoundError:
         # No hay archivo de secretos: es la nube. Las claves llegan por entorno
         # (secrets del repo). En la laptop este ramal no se toca nunca.
@@ -130,7 +133,7 @@ _MOTORES = {
         _ENV["NIM_BASE_URL"], _ENV["NIM_MODEL"], _ENV["NIM_API_KEY"], p, mt, to)),
 }
 
-CASCADA = ["cerebras", "gemini", "groq"]  # nim NO entra en cascada: reserva premium explicita
+CASCADA = ["gemini", "groq"]  # nim NO entra en cascada: reserva premium explicita
 
 
 def llamar(prompt, motor=None, max_tokens=400, timeout=40):
