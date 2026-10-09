@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-08 20:00",
+  "actualizado": "2026-10-08 20:31",
   "fecha_objetivo": "2026-10-08",
   "peliculas": [
     {
@@ -79,7 +79,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/madre-siniestra-12305_252",
       "trailer_url": "https://youtu.be/mnXYYwnfWlQ",
-      "sinopsis": "Una madre descubre oscuros secretos familiares mientras su hija desaparece en circunstancias misteriosas.",
+      "sinopsis": "Una madre descubre oscuros secretos familiares que la llevan a cometer actos terribles para proteger a sus hijos.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1400837,
@@ -321,7 +321,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/hope--el-primer-impacto-12306_252",
       "trailer_url": "https://youtu.be/SCnSzqz7ctc?si=nwamMpTHq7oFPbKi",
-      "sinopsis": "En el primer contacto con una amenaza extraterrestre, la humanidad lucha por sobrevivir al devastador impacto inicial.",
+      "sinopsis": "En el primer contacto con una civilización extraterrestre, la humanidad lucha por sobrevivir al impacto de una nave alienígena.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1058424,
@@ -446,7 +446,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-tribu-12308_252",
       "trailer_url": "https://www.youtube.com/watch?v=Ye8lukNZshI",
-      "sinopsis": "Una comunidad aislada en la selva protege sus tradiciones mientras enfrenta la llegada de forasteros que buscan recursos.",
+      "sinopsis": "Una comunidad aislada en la selva debe unir fuerzas para enfrentar una amenaza que pone en riesgo su forma de vida.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1744763,
@@ -564,7 +564,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "En una noche siniestra, los supervivientes de Raccoon City enfrentan una nueva ola de zombis y criaturas mutantes.",
+      "sinopsis": "En una noche siniestra, los supervivientes de Raccoon City deben detener una nueva ola de zombis y criaturas mutantes.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -689,7 +689,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Un cazador solitario se adentra en un bosque legendario para enfrentar a una bestia que protege un antiguo secreto.",
+      "sinopsis": "Un hombre busca venganza contra la criatura que destruyó su aldea, descubriendo que el verdadero monstruo está dentro de él.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
@@ -773,7 +773,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/vertigo-2-punto-muerto-12297_252",
       "trailer_url": "https://www.youtube.com/watch?v=IRJGXHvc-Hs",
-      "sinopsis": "El detective vuelve a la escena del crimen para resolver un caso que lo lleva al punto muerto de su propia cordura.",
+      "sinopsis": "El detective vuelve al caso que lo marcó, descubriendo un punto muerto que oculta una red de crímenes sin resolver.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1101412,
@@ -873,7 +873,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/cars-1642_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Cars%20trailer%20espanol",
-      "sinopsis": "Los autos de la ciudad de Radiador Springs compiten en una carrera épica mientras aprenden el valor de la amistad y la velocidad.",
+      "sinopsis": "Los autos de la pista de carreras descubren la importancia de la amistad y la superación mientras compiten en el Campeonato Piston Cup.",
       "puntaje": "7.2",
       "tmdb": {
         "tmdb_id": 920,
