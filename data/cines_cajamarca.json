@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-08 17:00",
+  "actualizado": "2026-10-08 20:00",
   "fecha_objetivo": "2026-10-08",
   "peliculas": [
     {
@@ -20,14 +20,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "18:10",
                 "20:20",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "18:10",
             "20:20",
             "22:30"
           ]
@@ -81,17 +79,17 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/madre-siniestra-12305_252",
       "trailer_url": "https://youtu.be/mnXYYwnfWlQ",
-      "sinopsis": "Una madre descubre oscuros secretos familiares que la llevan a cometer actos violentos.",
+      "sinopsis": "Una madre descubre oscuros secretos familiares mientras su hija desaparece en circunstancias misteriosas.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1400837,
         "titulo_tmdb": "La otra madre",
-        "voto": 8.7,
-        "votos": 13,
+        "voto": 7.9,
+        "votos": 19,
         "url_tmdb": "https://www.themoviedb.org/movie/1400837",
         "imdb_id": "tt36586020",
         "url_imdb": "https://www.imdb.com/title/tt36586020/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/19R9yRwgZSekpTNfKoB7MzsutDN.jpg",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
         "director": "Rob Savage",
         "reparto": [
           {
@@ -138,27 +136,8 @@
     },
     {
       "titulo": "El Árbol Mágico",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002824?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "poster": "",
       "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "16:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:20"
-          ]
-        },
         {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
@@ -218,7 +197,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-arbol-magico-12276_252",
       "trailer_url": "https://www.youtube.com/results?search_query=El%20%C3%81rbol%20M%C3%A1gico%20trailer%20espanol",
-      "sinopsis": "Un grupo de niños encuentra un árbol que concede deseos, pero cada deseo tiene un precio inesperado.",
+      "sinopsis": "Un grupo de niños encuentra un árbol que concede deseos, pero cada petición trae consecuencias inesperadas.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1140521,
@@ -342,7 +321,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/hope--el-primer-impacto-12306_252",
       "trailer_url": "https://youtu.be/SCnSzqz7ctc?si=nwamMpTHq7oFPbKi",
-      "sinopsis": "En el primer contacto con una amenaza extraterrestre, la humanidad lucha por sobrevivir al impacto inicial.",
+      "sinopsis": "En el primer contacto con una amenaza extraterrestre, la humanidad lucha por sobrevivir al devastador impacto inicial.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1058424,
@@ -414,14 +393,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:50",
                 "20:00",
                 "22:10"
               ]
             }
           ],
           "horarios": [
-            "17:50",
             "20:00",
             "22:10"
           ]
@@ -469,7 +446,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-tribu-12308_252",
       "trailer_url": "https://www.youtube.com/watch?v=Ye8lukNZshI",
-      "sinopsis": "Una comunidad aislada debe unir fuerzas para proteger su territorio de fuerzas externas que amenazan su modo de vida.",
+      "sinopsis": "Una comunidad aislada en la selva protege sus tradiciones mientras enfrenta la llegada de forasteros que buscan recursos.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1744763,
@@ -587,13 +564,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "En una noche siniestra, los supervivientes de la corporación Umbrella luchan contra una nueva ola de zombis.",
+      "sinopsis": "En una noche siniestra, los supervivientes de Raccoon City enfrentan una nueva ola de zombis y criaturas mutantes.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
         "titulo_tmdb": "Resident Evil",
         "voto": 7.3,
-        "votos": 806,
+        "votos": 814,
         "url_tmdb": "https://www.themoviedb.org/movie/1423191",
         "imdb_id": "tt35538033",
         "url_imdb": "https://www.imdb.com/title/tt35538033/",
@@ -712,13 +689,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Un hombre se enfrenta a su propia bestia interior mientras busca redención en un mundo hostil.",
+      "sinopsis": "Un cazador solitario se adentra en un bosque legendario para enfrentar a una bestia que protege un antiguo secreto.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
         "titulo_tmdb": "En el corazón de la bestia",
         "voto": 7.4,
-        "votos": 251,
+        "votos": 252,
         "url_tmdb": "https://www.themoviedb.org/movie/1263337",
         "imdb_id": "tt7526136",
         "url_imdb": "https://www.imdb.com/title/tt7526136/",
@@ -779,13 +756,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:20",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "17:20",
             "21:30"
           ]
         }
@@ -798,7 +773,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/vertigo-2-punto-muerto-12297_252",
       "trailer_url": "https://www.youtube.com/watch?v=IRJGXHvc-Hs",
-      "sinopsis": "El héroe regresa para enfrentar una amenaza que lo lleva al punto muerto de su propia existencia.",
+      "sinopsis": "El detective vuelve a la escena del crimen para resolver un caso que lo lleva al punto muerto de su propia cordura.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1101412,
@@ -852,39 +827,9 @@
       }
     },
     {
-      "titulo": "Cars (20 años)",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003096?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Animación",
-      "clasificacion": "APT",
-      "duracion": "117 min",
-      "director": "",
-      "actores": "",
-      "estreno": "",
-      "sinopsis": "Rayo McQueen, un audaz y presumido auto de carreras novato destinado al éxito, descubre que la vida es acerca del recorrido, no de la meta final, cuando se encuentra de pronto en el tranquilo pueblo de Radiador Springs, en la Ruta 66. Allí McQueen conoce a los peculiares personajes de este pueblo, entre ellos Doc Hudson, Mate y Sally.",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "",
-      "fuente_peli": "Cineplanet",
+      "titulo": "Cars",
+      "poster": "https://cdn.carteleracine.pe/cine/2006/6/cars-47898-0.webp",
       "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "17:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:00"
-          ]
-        },
         {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
@@ -919,7 +864,72 @@
             "15:30"
           ]
         }
-      ]
+      ],
+      "genero": "Animado",
+      "duracion": "117 minutos",
+      "clasificacion": "Todos",
+      "director": "John Lasseter",
+      "actores": "Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy, Cheech Marin, Tony Shalhoub",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/cars-1642_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Cars%20trailer%20espanol",
+      "sinopsis": "Los autos de la ciudad de Radiador Springs compiten en una carrera épica mientras aprenden el valor de la amistad y la velocidad.",
+      "puntaje": "7.2",
+      "tmdb": {
+        "tmdb_id": 920,
+        "titulo_tmdb": "Cars",
+        "voto": 7.1,
+        "votos": 15610,
+        "url_tmdb": "https://www.themoviedb.org/movie/920",
+        "imdb_id": "tt0317219",
+        "url_imdb": "https://www.imdb.com/title/tt0317219/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/hcQFxfTrkC00hAk9Jwz38wuxNV6.jpg",
+        "director": "John Lasseter",
+        "reparto": [
+          {
+            "nombre": "Owen Wilson",
+            "personaje": "Lightning McQueen (voice)"
+          },
+          {
+            "nombre": "Paul Newman",
+            "personaje": "Doc Hudson (voice)"
+          },
+          {
+            "nombre": "Bonnie Hunt",
+            "personaje": "Sally Carrera (voice)"
+          },
+          {
+            "nombre": "Larry the Cable Guy",
+            "personaje": "Mater (voice)"
+          },
+          {
+            "nombre": "Cheech Marin",
+            "personaje": "Ramone (voice)"
+          },
+          {
+            "nombre": "Tony Shalhoub",
+            "personaje": "Luigi (voice)"
+          }
+        ],
+        "generos": [
+          "Animación",
+          "Aventura",
+          "Comedia",
+          "Familia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=8ZMklX5BzTo",
+          "embed_id": "8ZMklX5BzTo"
+        },
+        "sinopsis_tmdb": "El aspirante a campeón de carreras Rayo McQueen parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
+        "estreno": "8 jun 2006",
+        "duracion_min": 116,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Cars"
+      }
     },
     {
       "titulo": "Hachiko Siempre a tu Lado (2009)",
@@ -1059,7 +1069,7 @@
         "tmdb_id": 299534,
         "titulo_tmdb": "Vengadores: Endgame",
         "voto": 8.2,
-        "votos": 28943,
+        "votos": 28947,
         "url_tmdb": "https://www.themoviedb.org/movie/299534",
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
@@ -1148,7 +1158,7 @@
         "tmdb_id": 299534,
         "titulo_tmdb": "Vengadores: Endgame",
         "voto": 8.2,
-        "votos": 28943,
+        "votos": 28947,
         "url_tmdb": "https://www.themoviedb.org/movie/299534",
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
@@ -1236,8 +1246,8 @@
       "tmdb": {
         "tmdb_id": 1101412,
         "titulo_tmdb": "Vértigo 2: Punto muerto",
-        "voto": 7.1,
-        "votos": 219,
+        "voto": 7.2,
+        "votos": 239,
         "url_tmdb": "https://www.themoviedb.org/movie/1101412",
         "imdb_id": "tt31192372",
         "url_imdb": "https://www.imdb.com/title/tt31192372/",
@@ -1353,7 +1363,7 @@
         "tmdb_id": 969681,
         "titulo_tmdb": "Spider-Man: Brand New Day",
         "voto": 8.3,
-        "votos": 4320,
+        "votos": 4424,
         "url_tmdb": "https://www.themoviedb.org/movie/969681",
         "imdb_id": "tt22084616",
         "url_imdb": "https://www.imdb.com/title/tt22084616/",
@@ -1439,8 +1449,8 @@
       "tmdb": {
         "tmdb_id": 1283515,
         "titulo_tmdb": "Verity. La sombra de un engaño",
-        "voto": 6.4,
-        "votos": 134,
+        "voto": 6.5,
+        "votos": 137,
         "url_tmdb": "https://www.themoviedb.org/movie/1283515",
         "imdb_id": "tt32261958",
         "url_imdb": "https://www.imdb.com/title/tt32261958/",
@@ -1500,40 +1510,6 @@
       "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
       "fuente_cine": "Cineplanet",
       "peliculas": [
-        {
-          "titulo": "Cars (20 años)",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003096?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Animación",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "17:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:00"
-          ]
-        },
-        {
-          "titulo": "El Árbol Mágico",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002824?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Aventura",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "16:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:20"
-          ]
-        },
         {
           "titulo": "El Corazón de la Bestia",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002975?referenceScheme=HeadOffice&allowPlaceHolder=true",
@@ -1596,14 +1572,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:50",
                 "20:00",
                 "22:10"
               ]
             }
           ],
           "horarios": [
-            "17:50",
             "20:00",
             "22:10"
           ]
@@ -1617,14 +1591,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "18:10",
                 "20:20",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "18:10",
             "20:20",
             "22:30"
           ]
@@ -1655,13 +1627,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:20",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "17:20",
             "21:30"
           ]
         }
@@ -1746,7 +1716,7 @@
           ]
         },
         {
-          "titulo": "Cars (20 años)",
+          "titulo": "Cars",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/cars.jpg",
           "genero": "Animado",
           "clasificacion": "Todo Espectador",
@@ -1944,7 +1914,7 @@
       "fuente_cine": "Movie Time",
       "peliculas": [
         {
-          "titulo": "Cars (20 años)",
+          "titulo": "Cars",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/efb1594c-fe00-4bff-ae29-79ccdd277e36.jpeg",
           "genero": "",
           "clasificacion": "APT",
