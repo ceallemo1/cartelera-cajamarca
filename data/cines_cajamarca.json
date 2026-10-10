@@ -2,8 +2,8 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-09 20:03",
-  "fecha_objetivo": "2026-10-09",
+  "actualizado": "2026-10-10 09:57",
+  "fecha_objetivo": "2026-10-10",
   "peliculas": [
     {
       "titulo": "Madre Siniestra",
@@ -20,12 +20,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:00",
+                "18:10",
                 "20:20",
                 "22:30"
               ]
             }
           ],
           "horarios": [
+            "16:00",
+            "18:10",
             "20:20",
             "22:30"
           ]
@@ -84,8 +88,8 @@
       "tmdb": {
         "tmdb_id": 1400837,
         "titulo_tmdb": "La otra madre",
-        "voto": 6.6,
-        "votos": 27,
+        "voto": 6.2,
+        "votos": 40,
         "url_tmdb": "https://www.themoviedb.org/movie/1400837",
         "imdb_id": "tt36586020",
         "url_imdb": "https://www.imdb.com/title/tt36586020/",
@@ -94,19 +98,19 @@
         "reparto": [
           {
             "nombre": "Jessica Chastain",
-            "personaje": "Ursula / Other Mommy"
+            "personaje": "Ursula Martin / Other Mommy"
           },
           {
             "nombre": "Arabella Olivia Clark",
-            "personaje": "Bela"
+            "personaje": "Isabela \"Bela\" Martin"
           },
           {
             "nombre": "Jay Duplass",
-            "personaje": "Daddo / Russ"
+            "personaje": "Russell \"Russ\" Martin"
           },
           {
             "nombre": "Dichen Lachman",
-            "personaje": ""
+            "personaje": "Lois"
           },
           {
             "nombre": "Arian Moayed",
@@ -136,8 +140,27 @@
     },
     {
       "titulo": "El Árbol Mágico",
-      "poster": "",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002824?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:20"
+          ]
+        },
         {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
@@ -171,6 +194,22 @@
           "horarios": [
             "17:40"
           ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "13:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "13:20"
+          ]
         }
       ],
       "genero": "Fantasía",
@@ -181,13 +220,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-arbol-magico-12276_252",
       "trailer_url": "https://www.youtube.com/results?search_query=El%20%C3%81rbol%20M%C3%A1gico%20trailer%20espanol",
-      "sinopsis": "Polly, Tim, y sus tres hijos son una familia moderna que se ve obligada a mudarse a la remota campiña inglesa. Poco después de su llegada, los niños descubren un árbol mágico y a sus extraordinarios y excéntricos habitantes.",
+      "sinopsis": "Cuenta la historia de Polly (Claire Foy) y Tim (Andrew Garfield), quienes se mudan con sus hijos a una remota campiña inglesa en busca de un nuevo comienzo. Sin Wi-Fi ni electricidad, los niños pronto descubren un árbol mágico habitado por excéntricas criaturas que los transporta a mundos fantásticos y cambiantes. A través de estas increíbles aventuras, la familia no solo vive momentos extraordina",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1140521,
         "titulo_tmdb": "El árbol muy muy lejano",
-        "voto": 6.6,
-        "votos": 87,
+        "voto": 6.7,
+        "votos": 90,
         "url_tmdb": "https://www.themoviedb.org/movie/1140521",
         "imdb_id": "tt7734244",
         "url_imdb": "https://www.imdb.com/title/tt7734244/",
@@ -254,12 +293,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "21:00"
+                "18:50"
               ]
             }
           ],
           "horarios": [
-            "21:00"
+            "18:50"
           ]
         },
         {
@@ -288,12 +327,12 @@
             {
               "formato": "",
               "horarios": [
-                "21:40"
+                "21:50"
               ]
             }
           ],
           "horarios": [
-            "21:40"
+            "21:50"
           ]
         }
       ],
@@ -310,8 +349,8 @@
       "tmdb": {
         "tmdb_id": 1058424,
         "titulo_tmdb": "Hope",
-        "voto": 7.2,
-        "votos": 115,
+        "voto": 7.3,
+        "votos": 116,
         "url_tmdb": "https://www.themoviedb.org/movie/1058424",
         "imdb_id": "tt27369017",
         "url_imdb": "https://www.imdb.com/title/tt27369017/",
@@ -377,14 +416,18 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "20:00",
-                "22:10"
+                "15:00",
+                "17:10",
+                "19:20",
+                "21:30"
               ]
             }
           ],
           "horarios": [
-            "20:00",
-            "22:10"
+            "15:00",
+            "17:10",
+            "19:20",
+            "21:30"
           ]
         },
         {
@@ -403,22 +446,6 @@
           "horarios": [
             "15:00",
             "16:45"
-          ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "07:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "07:50"
           ]
         }
       ],
@@ -487,6 +514,27 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/9/resident-evil-noche-cero-47798-0.webp",
       "cines": [
         {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:40",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:40",
+            "22:00"
+          ]
+        },
+        {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
           "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
@@ -510,14 +558,14 @@
             {
               "formato": "",
               "horarios": [
-                "19:40",
-                "21:35"
+                "20:00",
+                "21:55"
               ]
             }
           ],
           "horarios": [
-            "19:40",
-            "21:35"
+            "20:00",
+            "21:55"
           ]
         }
       ],
@@ -528,14 +576,14 @@
       "actores": "Austin Abrams, Zach Cherry, Kali Reis y Paul Walter Hauser",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Resident%20Evil%3A%20Noche%20Cero%20trailer%20espanol",
-      "sinopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
+      "sinopsis": "Sigue a un desafortunado mensajero encargado de entregar un paquete a un hospital remoto. Pronto se encuentra atrapado en medio de una epidemia y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
         "titulo_tmdb": "Resident Evil",
         "voto": 7.3,
-        "votos": 825,
+        "votos": 836,
         "url_tmdb": "https://www.themoviedb.org/movie/1423191",
         "imdb_id": "tt35538033",
         "url_imdb": "https://www.imdb.com/title/tt35538033/",
@@ -603,14 +651,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "19:40",
-                "22:00"
+                "17:40",
+                "20:00",
+                "22:20"
               ]
             }
           ],
           "horarios": [
-            "19:40",
-            "22:00"
+            "17:40",
+            "20:00",
+            "22:20"
           ]
         },
         {
@@ -637,12 +687,14 @@
             {
               "formato": "",
               "horarios": [
-                "16:00"
+                "17:50",
+                "19:50"
               ]
             }
           ],
           "horarios": [
-            "16:00"
+            "17:50",
+            "19:50"
           ]
         }
       ],
@@ -660,7 +712,7 @@
         "tmdb_id": 1263337,
         "titulo_tmdb": "En el corazón de la bestia",
         "voto": 7.4,
-        "votos": 255,
+        "votos": 257,
         "url_tmdb": "https://www.themoviedb.org/movie/1263337",
         "imdb_id": "tt7526136",
         "url_imdb": "https://www.imdb.com/title/tt7526136/",
@@ -725,12 +777,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "21:30"
+                "19:30",
+                "21:50"
               ]
             }
           ],
           "horarios": [
-            "21:30"
+            "19:30",
+            "21:50"
           ]
         }
       ],
@@ -748,12 +802,12 @@
         "tmdb_id": 1101412,
         "titulo_tmdb": "Fall 2: Deadpoint",
         "voto": 7.2,
-        "votos": 292,
+        "votos": 311,
         "url_tmdb": "https://www.themoviedb.org/movie/1101412",
         "imdb_id": "tt31192372",
         "url_imdb": "https://www.imdb.com/title/tt31192372/",
         "poster_tmdb": "https://image.tmdb.org/t/p/w500/ccBIyg1ITvuCDr4eMeEH0ZgNh4t.jpg",
-        "director": "Michael Spierig, Peter Spierig",
+        "director": "Peter Spierig, Michael Spierig",
         "reparto": [
           {
             "nombre": "Harriet Slater",
@@ -796,9 +850,41 @@
       }
     },
     {
-      "titulo": "Cars",
-      "poster": "https://cdn.carteleracine.pe/cine/2006/6/cars-47898-0.webp",
+      "titulo": "Cars (20 años)",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003096?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Animación",
+      "clasificacion": "APT",
+      "duracion": "117 min",
+      "director": "",
+      "actores": "",
+      "estreno": "",
+      "sinopsis": "Rayo McQueen, un audaz y presumido auto de carreras novato destinado al éxito, descubre que la vida es acerca del recorrido, no de la meta final, cuando se encuentra de pronto en el tranquilo pueblo de Radiador Springs, en la Ruta 66. Allí McQueen conoce a los peculiares personajes de este pueblo, entre ellos Doc Hudson, Mate y Sally.",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "",
+      "fuente_peli": "Cineplanet",
       "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:20",
+                "17:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:20",
+            "17:00"
+          ]
+        },
         {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
@@ -830,73 +916,24 @@
           "horarios": [
             "15:30"
           ]
-        }
-      ],
-      "genero": "Animado",
-      "duracion": "117 minutos",
-      "clasificacion": "Todos",
-      "director": "John Lasseter",
-      "actores": "Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy, Cheech Marin, Tony Shalhoub",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/cars-1642_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Cars%20trailer%20espanol",
-      "sinopsis": "El aspirante a campeón de carreras Rayo McQueen parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 920,
-        "titulo_tmdb": "Cars",
-        "voto": 7.1,
-        "votos": 15611,
-        "url_tmdb": "https://www.themoviedb.org/movie/920",
-        "imdb_id": "tt0317219",
-        "url_imdb": "https://www.imdb.com/title/tt0317219/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/hcQFxfTrkC00hAk9Jwz38wuxNV6.jpg",
-        "director": "John Lasseter",
-        "reparto": [
-          {
-            "nombre": "Owen Wilson",
-            "personaje": "Lightning McQueen (voice)"
-          },
-          {
-            "nombre": "Paul Newman",
-            "personaje": "Doc Hudson (voice)"
-          },
-          {
-            "nombre": "Bonnie Hunt",
-            "personaje": "Sally Carrera (voice)"
-          },
-          {
-            "nombre": "Larry the Cable Guy",
-            "personaje": "Mater (voice)"
-          },
-          {
-            "nombre": "Cheech Marin",
-            "personaje": "Ramone (voice)"
-          },
-          {
-            "nombre": "Tony Shalhoub",
-            "personaje": "Luigi (voice)"
-          }
-        ],
-        "generos": [
-          "Animación",
-          "Aventura",
-          "Comedia",
-          "Familia"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=8ZMklX5BzTo",
-          "embed_id": "8ZMklX5BzTo"
         },
-        "sinopsis_tmdb": "El aspirante a campeón de carreras Rayo McQueen parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
-        "estreno": "8 jun 2006",
-        "duracion_min": 116,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Cars"
-      }
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "13:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "13:15"
+          ]
+        }
+      ]
     },
     {
       "titulo": "Hachiko Siempre a tu Lado (2009)",
@@ -924,12 +961,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "19:30"
+                "14:30"
               ]
             }
           ],
           "horarios": [
-            "19:30"
+            "14:30"
           ]
         },
         {
@@ -960,12 +997,12 @@
             {
               "formato": "",
               "horarios": [
-                "18:00"
+                "16:00"
               ]
             }
           ],
           "horarios": [
-            "18:00"
+            "16:00"
           ]
         }
       ]
@@ -1036,7 +1073,7 @@
         "tmdb_id": 299534,
         "titulo_tmdb": "Vengadores: Endgame",
         "voto": 8.2,
-        "votos": 28955,
+        "votos": 28959,
         "url_tmdb": "https://www.themoviedb.org/movie/299534",
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
@@ -1125,7 +1162,7 @@
         "tmdb_id": 299534,
         "titulo_tmdb": "Vengadores: Endgame",
         "voto": 8.2,
-        "votos": 28957,
+        "votos": 28959,
         "url_tmdb": "https://www.themoviedb.org/movie/299534",
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
@@ -1183,8 +1220,8 @@
       "clasificacion": "Mayores de 14",
       "duracion": "01:40",
       "sinopsis": "Tras Perder a Su Intrépida Hermana Shiloh, Jax, Profundamente Dolida, Emprende una Peligrosa Escalada Con Luce, una Vieja Amiga de Shiloh, Para Honrar Su Memoria. Mientras Caminan Sobre la Cuerda Floja Por los Peligrosos Tablones del Monte Kwan, un Aterrador Desprendimiento de Rocas Les Deja Varados a 1.500 Metros de Altura. En Medio de Vértigos, Verdades Oscuras y Giros Crueles, Jax Debe Enfrenta",
-      "director": "Hamish Hamilton",
-      "actores": "Bono, The Edge, Larry Mullen Jr., Adam Clayton",
+      "director": "Peter Spierig, Michael Spierig",
+      "actores": "Harriet Slater, Arsema Thomas, Tom Brittney, Virginia Gardner, สหจักร บุญธนกิจ, Korakod Yensuk",
       "estreno": "",
       "puntaje": "",
       "ficha": "",
@@ -1211,43 +1248,54 @@
         }
       ],
       "tmdb": {
-        "tmdb_id": 53341,
-        "titulo_tmdb": "U2: Vertigo 05 - Live from Milan",
-        "voto": 7.8,
-        "votos": 10,
-        "url_tmdb": "https://www.themoviedb.org/movie/53341",
-        "imdb_id": "tt0967957",
-        "url_imdb": "https://www.imdb.com/title/tt0967957/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/ov36qmHuPAGgr6nEf5CC496wjqU.jpg",
-        "director": "Hamish Hamilton",
+        "tmdb_id": 1101412,
+        "titulo_tmdb": "Fall 2: Deadpoint",
+        "voto": 7.2,
+        "votos": 315,
+        "url_tmdb": "https://www.themoviedb.org/movie/1101412",
+        "imdb_id": "tt31192372",
+        "url_imdb": "https://www.imdb.com/title/tt31192372/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/ccBIyg1ITvuCDr4eMeEH0ZgNh4t.jpg",
+        "director": "Peter Spierig, Michael Spierig",
         "reparto": [
           {
-            "nombre": "Bono",
-            "personaje": "Self"
+            "nombre": "Harriet Slater",
+            "personaje": "Jax Hunter"
           },
           {
-            "nombre": "The Edge",
-            "personaje": "Self"
+            "nombre": "Arsema Thomas",
+            "personaje": "Billie"
           },
           {
-            "nombre": "Larry Mullen Jr.",
-            "personaje": "Self"
+            "nombre": "Tom Brittney",
+            "personaje": "Jon Platt"
           },
           {
-            "nombre": "Adam Clayton",
-            "personaje": "Self"
+            "nombre": "Virginia Gardner",
+            "personaje": "Shiloh Hunter"
+          },
+          {
+            "nombre": "สหจักร บุญธนกิจ",
+            "personaje": "Thai Barman"
+          },
+          {
+            "nombre": "Korakod Yensuk",
+            "personaje": "Large Woman"
           }
         ],
         "generos": [
-          "Música"
+          "Suspense"
         ],
         "trailer": {},
-        "sinopsis_tmdb": "",
-        "estreno": "20 nov 2006",
-        "duracion_min": 57,
-        "paises": [],
+        "sinopsis_tmdb": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, un aterrador desprendimiento de rocas les deja varados a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia y el final.",
+        "estreno": "1 sep 2026",
+        "duracion_min": 98,
+        "paises": [
+          "Reino Unido",
+          "Estados Unidos"
+        ],
         "idioma": "Inglés",
-        "titulo_original": "U2: Vertigo 05 - Live from Milan"
+        "titulo_original": "Fall 2: Deadpoint"
       }
     },
     {
@@ -1306,12 +1354,12 @@
             {
               "formato": "",
               "horarios": [
-                "17:25"
+                "17:45"
               ]
             }
           ],
           "horarios": [
-            "17:25"
+            "17:45"
           ]
         }
       ],
@@ -1319,7 +1367,7 @@
         "tmdb_id": 1283515,
         "titulo_tmdb": "Verity. La sombra de un engaño",
         "voto": 6.4,
-        "votos": 143,
+        "votos": 145,
         "url_tmdb": "https://www.themoviedb.org/movie/1283515",
         "imdb_id": "tt32261958",
         "url_imdb": "https://www.imdb.com/title/tt32261958/",
@@ -1380,6 +1428,42 @@
       "fuente_cine": "Cineplanet",
       "peliculas": [
         {
+          "titulo": "Cars (20 años)",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003096?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Animación",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:20",
+                "17:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:20",
+            "17:00"
+          ]
+        },
+        {
+          "titulo": "El Árbol Mágico",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002824?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Aventura",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:20"
+          ]
+        },
+        {
           "titulo": "El Corazón de la Bestia",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002975?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Acción",
@@ -1388,14 +1472,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "19:40",
-                "22:00"
+                "17:40",
+                "20:00",
+                "22:20"
               ]
             }
           ],
           "horarios": [
-            "19:40",
-            "22:00"
+            "17:40",
+            "20:00",
+            "22:20"
           ]
         },
         {
@@ -1407,12 +1493,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "19:30"
+                "14:30"
               ]
             }
           ],
           "horarios": [
-            "19:30"
+            "14:30"
           ]
         },
         {
@@ -1424,12 +1510,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "21:00"
+                "18:50"
               ]
             }
           ],
           "horarios": [
-            "21:00"
+            "18:50"
           ]
         },
         {
@@ -1441,14 +1527,18 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "20:00",
-                "22:10"
+                "15:00",
+                "17:10",
+                "19:20",
+                "21:30"
               ]
             }
           ],
           "horarios": [
-            "20:00",
-            "22:10"
+            "15:00",
+            "17:10",
+            "19:20",
+            "21:30"
           ]
         },
         {
@@ -1460,14 +1550,37 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:00",
+                "18:10",
                 "20:20",
                 "22:30"
               ]
             }
           ],
           "horarios": [
+            "16:00",
+            "18:10",
             "20:20",
             "22:30"
+          ]
+        },
+        {
+          "titulo": "Resident Evil: Noche Cero",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003067?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Terror",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:40",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:40",
+            "22:00"
           ]
         },
         {
@@ -1479,12 +1592,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "21:30"
+                "19:30",
+                "21:50"
               ]
             }
           ],
           "horarios": [
-            "21:30"
+            "19:30",
+            "21:50"
           ]
         }
       ],
@@ -1568,7 +1683,7 @@
           ]
         },
         {
-          "titulo": "Cars",
+          "titulo": "Cars (20 años)",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/cars.jpg",
           "genero": "Animado",
           "clasificacion": "Todo Espectador",
@@ -1766,7 +1881,7 @@
       "fuente_cine": "Movie Time",
       "peliculas": [
         {
-          "titulo": "Cars",
+          "titulo": "Cars (20 años)",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/efb1594c-fe00-4bff-ae29-79ccdd277e36.jpeg",
           "genero": "",
           "clasificacion": "APT",
@@ -1786,6 +1901,26 @@
           "trailer_url": "https://www.youtube.com/watch?v=2z0Wstbr3hw"
         },
         {
+          "titulo": "Cars (20 años)",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/c1e43ccb-0d29-4bbc-ae81-ef535aa98496.png",
+          "genero": "",
+          "clasificacion": "APT",
+          "duracion": "117 min",
+          "sinopsis": "¡DISFRÚTALA A UN SÚPER PRECIO EN FUNCIÓN MATINÉ!\n\nUn coche de carreras llamado Lightning McQueen es desviado en Radiator Springs, donde encuentra el verdadero significado de la amistad y la familia.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "13:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "13:15"
+          ],
+          "trailer_url": "https://www.youtube.com/watch?v=2z0Wstbr3hw"
+        },
+        {
           "titulo": "El Corazón de la Bestia",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/d027eaf3-8113-465c-a06b-759de8d415a5.jpeg",
           "genero": "",
@@ -1796,12 +1931,14 @@
             {
               "formato": "",
               "horarios": [
-                "16:00"
+                "17:50",
+                "19:50"
               ]
             }
           ],
           "horarios": [
-            "16:00"
+            "17:50",
+            "19:50"
           ],
           "trailer_url": "https://www.youtube.com/watch?v=OAGoEmCirOY"
         },
@@ -1826,6 +1963,26 @@
           "trailer_url": "https://www.youtube.com/watch?v=2fFI8g3iR9c"
         },
         {
+          "titulo": "El Árbol Mágico",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/b1e35e45-d76a-4a40-89f7-c5e21c8f49ce.png",
+          "genero": "",
+          "clasificacion": "APT",
+          "duracion": "110 min",
+          "sinopsis": "¡DISFRÚTALA A UN SÚPER PRECIO EN FUNCIÓN MATINÉ!\n\nBasada en la querida serie de novelas infantiles The Faraway Tree, The Magic Faraway Tree cuenta la historia de Polly (Claire Foy) y Tim (Andrew Garfield), quienes se mudan con sus hijos al remoto campo inglés en busca de un nuevo comienzo.                                                                  Sin Wi-Fi ni electricidad, los niños pronto ",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "13:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "13:20"
+          ],
+          "trailer_url": "https://www.youtube.com/watch?v=2fFI8g3iR9c"
+        },
+        {
           "titulo": "Hachiko Siempre a tu Lado (2009)",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/8b9c9dbe-8823-49ea-9d25-cb2fe224b150.jpeg",
           "genero": "",
@@ -1836,12 +1993,12 @@
             {
               "formato": "",
               "horarios": [
-                "18:00"
+                "16:00"
               ]
             }
           ],
           "horarios": [
-            "18:00"
+            "16:00"
           ],
           "trailer_url": "https://www.youtube.com/watch?v=CRUh0qbxLM8"
         },
@@ -1856,12 +2013,12 @@
             {
               "formato": "",
               "horarios": [
-                "21:40"
+                "21:50"
               ]
             }
           ],
           "horarios": [
-            "21:40"
+            "21:50"
           ],
           "trailer_url": ""
         },
@@ -1884,26 +2041,6 @@
             "15:30"
           ],
           "trailer_url": "https://www.youtube.com/watch?v=8cI5Bl-v-p8"
-        },
-        {
-          "titulo": "La Tribu",
-          "poster": "https://www.movietime.com.pe/bucket/images/cine/b51e544e-237f-4dc5-a149-b15e741558d5.jpeg",
-          "genero": "",
-          "clasificacion": "+14",
-          "duracion": "90 min",
-          "sinopsis": "Una caótica y divertida comedia familiar que sigue a cuatro hermanos muy diferentes entre sí: Silvano, Tere, Belén y Ettore. La familia se reúne con un único objetivo: celebrar el cumpleaños de su madre. Lo que empieza como un almuerzo dominical tradicional se sale de control rápidamente. Con el paso de las horas, salen a la luz secretos guardados por años, viejos resentimientos y enredos absurdos",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "07:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "07:50"
-          ],
-          "trailer_url": "https://www.youtube.com/watch?v=Ye8lukNZshI"
         },
         {
           "titulo": "Madre Siniestra",
@@ -1938,14 +2075,14 @@
             {
               "formato": "",
               "horarios": [
-                "19:40",
-                "21:35"
+                "20:00",
+                "21:55"
               ]
             }
           ],
           "horarios": [
-            "19:40",
-            "21:35"
+            "20:00",
+            "21:55"
           ],
           "trailer_url": "https://www.youtube.com/watch?v=8iKTeIV2xgE"
         },
@@ -1960,12 +2097,12 @@
             {
               "formato": "",
               "horarios": [
-                "17:25"
+                "17:45"
               ]
             }
           ],
           "horarios": [
-            "17:25"
+            "17:45"
           ],
           "trailer_url": "https://www.youtube.com/watch?v=Juf4i1Ui-84"
         }
