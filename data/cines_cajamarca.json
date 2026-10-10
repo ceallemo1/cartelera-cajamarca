@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-09 17:03",
+  "actualizado": "2026-10-09 20:03",
   "fecha_objetivo": "2026-10-09",
   "peliculas": [
     {
@@ -20,14 +20,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "18:10",
                 "20:20",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "18:10",
             "20:20",
             "22:30"
           ]
@@ -379,14 +377,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:50",
                 "20:00",
                 "22:10"
               ]
             }
           ],
           "horarios": [
-            "17:50",
             "20:00",
             "22:10"
           ]
@@ -407,6 +403,22 @@
           "horarios": [
             "15:00",
             "16:45"
+          ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "07:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "07:50"
           ]
         }
       ],
@@ -475,25 +487,6 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/9/resident-evil-noche-cero-47798-0.webp",
       "cines": [
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "18:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:40"
-          ]
-        },
-        {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
           "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
@@ -535,8 +528,8 @@
       "actores": "Austin Abrams, Zach Cherry, Kali Reis y Paul Walter Hauser",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
-      "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "Sigue a un desafortunado mensajero encargado de entregar un paquete a un hospital remoto. Pronto se encuentra atrapado en medio de una epidemia y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
+      "trailer_url": "https://www.youtube.com/results?search_query=Resident%20Evil%3A%20Noche%20Cero%20trailer%20espanol",
+      "sinopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -732,13 +725,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:20",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "17:20",
             "21:30"
           ]
         }
@@ -757,7 +748,7 @@
         "tmdb_id": 1101412,
         "titulo_tmdb": "Fall 2: Deadpoint",
         "voto": 7.2,
-        "votos": 269,
+        "votos": 292,
         "url_tmdb": "https://www.themoviedb.org/movie/1101412",
         "imdb_id": "tt31192372",
         "url_imdb": "https://www.imdb.com/title/tt31192372/",
@@ -805,39 +796,9 @@
       }
     },
     {
-      "titulo": "Cars (20 años)",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003096?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Animación",
-      "clasificacion": "APT",
-      "duracion": "117 min",
-      "director": "",
-      "actores": "",
-      "estreno": "",
-      "sinopsis": "Rayo McQueen, un audaz y presumido auto de carreras novato destinado al éxito, descubre que la vida es acerca del recorrido, no de la meta final, cuando se encuentra de pronto en el tranquilo pueblo de Radiador Springs, en la Ruta 66. Allí McQueen conoce a los peculiares personajes de este pueblo, entre ellos Doc Hudson, Mate y Sally.",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "",
-      "fuente_peli": "Cineplanet",
+      "titulo": "Cars",
+      "poster": "https://cdn.carteleracine.pe/cine/2006/6/cars-47898-0.webp",
       "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "17:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:00"
-          ]
-        },
         {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
@@ -870,7 +831,72 @@
             "15:30"
           ]
         }
-      ]
+      ],
+      "genero": "Animado",
+      "duracion": "117 minutos",
+      "clasificacion": "Todos",
+      "director": "John Lasseter",
+      "actores": "Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy, Cheech Marin, Tony Shalhoub",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/cars-1642_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Cars%20trailer%20espanol",
+      "sinopsis": "El aspirante a campeón de carreras Rayo McQueen parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 920,
+        "titulo_tmdb": "Cars",
+        "voto": 7.1,
+        "votos": 15611,
+        "url_tmdb": "https://www.themoviedb.org/movie/920",
+        "imdb_id": "tt0317219",
+        "url_imdb": "https://www.imdb.com/title/tt0317219/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/hcQFxfTrkC00hAk9Jwz38wuxNV6.jpg",
+        "director": "John Lasseter",
+        "reparto": [
+          {
+            "nombre": "Owen Wilson",
+            "personaje": "Lightning McQueen (voice)"
+          },
+          {
+            "nombre": "Paul Newman",
+            "personaje": "Doc Hudson (voice)"
+          },
+          {
+            "nombre": "Bonnie Hunt",
+            "personaje": "Sally Carrera (voice)"
+          },
+          {
+            "nombre": "Larry the Cable Guy",
+            "personaje": "Mater (voice)"
+          },
+          {
+            "nombre": "Cheech Marin",
+            "personaje": "Ramone (voice)"
+          },
+          {
+            "nombre": "Tony Shalhoub",
+            "personaje": "Luigi (voice)"
+          }
+        ],
+        "generos": [
+          "Animación",
+          "Aventura",
+          "Comedia",
+          "Familia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=8ZMklX5BzTo",
+          "embed_id": "8ZMklX5BzTo"
+        },
+        "sinopsis_tmdb": "El aspirante a campeón de carreras Rayo McQueen parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
+        "estreno": "8 jun 2006",
+        "duracion_min": 116,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Cars"
+      }
     },
     {
       "titulo": "Hachiko Siempre a tu Lado (2009)",
@@ -1010,7 +1036,7 @@
         "tmdb_id": 299534,
         "titulo_tmdb": "Vengadores: Endgame",
         "voto": 8.2,
-        "votos": 28951,
+        "votos": 28955,
         "url_tmdb": "https://www.themoviedb.org/movie/299534",
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
@@ -1099,7 +1125,7 @@
         "tmdb_id": 299534,
         "titulo_tmdb": "Vengadores: Endgame",
         "voto": 8.2,
-        "votos": 28951,
+        "votos": 28957,
         "url_tmdb": "https://www.themoviedb.org/movie/299534",
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
@@ -1354,23 +1380,6 @@
       "fuente_cine": "Cineplanet",
       "peliculas": [
         {
-          "titulo": "Cars (20 años)",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003096?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Animación",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "17:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:00"
-          ]
-        },
-        {
           "titulo": "El Corazón de la Bestia",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002975?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Acción",
@@ -1432,14 +1441,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:50",
                 "20:00",
                 "22:10"
               ]
             }
           ],
           "horarios": [
-            "17:50",
             "20:00",
             "22:10"
           ]
@@ -1453,33 +1460,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "18:10",
                 "20:20",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "18:10",
             "20:20",
             "22:30"
-          ]
-        },
-        {
-          "titulo": "Resident Evil: Noche Cero",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003067?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Terror",
-          "clasificacion": "+14",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "18:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:40"
           ]
         },
         {
@@ -1491,13 +1479,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:20",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "17:20",
             "21:30"
           ]
         }
@@ -1582,7 +1568,7 @@
           ]
         },
         {
-          "titulo": "Cars (20 años)",
+          "titulo": "Cars",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/cars.jpg",
           "genero": "Animado",
           "clasificacion": "Todo Espectador",
@@ -1780,7 +1766,7 @@
       "fuente_cine": "Movie Time",
       "peliculas": [
         {
-          "titulo": "Cars (20 años)",
+          "titulo": "Cars",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/efb1594c-fe00-4bff-ae29-79ccdd277e36.jpeg",
           "genero": "",
           "clasificacion": "APT",
@@ -1898,6 +1884,26 @@
             "15:30"
           ],
           "trailer_url": "https://www.youtube.com/watch?v=8cI5Bl-v-p8"
+        },
+        {
+          "titulo": "La Tribu",
+          "poster": "https://www.movietime.com.pe/bucket/images/cine/b51e544e-237f-4dc5-a149-b15e741558d5.jpeg",
+          "genero": "",
+          "clasificacion": "+14",
+          "duracion": "90 min",
+          "sinopsis": "Una caótica y divertida comedia familiar que sigue a cuatro hermanos muy diferentes entre sí: Silvano, Tere, Belén y Ettore. La familia se reúne con un único objetivo: celebrar el cumpleaños de su madre. Lo que empieza como un almuerzo dominical tradicional se sale de control rápidamente. Con el paso de las horas, salen a la luz secretos guardados por años, viejos resentimientos y enredos absurdos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "07:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "07:50"
+          ],
+          "trailer_url": "https://www.youtube.com/watch?v=Ye8lukNZshI"
         },
         {
           "titulo": "Madre Siniestra",
