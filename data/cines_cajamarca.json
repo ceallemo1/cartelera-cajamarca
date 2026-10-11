@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-10 17:03",
+  "actualizado": "2026-10-10 20:03",
   "fecha_objetivo": "2026-10-10",
   "peliculas": [
     {
@@ -20,16 +20,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
-                "18:10",
                 "20:20",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "16:00",
-            "18:10",
             "20:20",
             "22:30"
           ]
@@ -261,27 +257,8 @@
     },
     {
       "titulo": "Hope - El Primer Impacto",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003107?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "poster": "",
       "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "18:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:50"
-          ]
-        },
         {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
@@ -324,8 +301,8 @@
       "actores": "Hwang Jung-min, Zo In-sung, Hoyeon.",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/hope--el-primer-impacto-12306_252",
-      "trailer_url": "https://youtu.be/SCnSzqz7ctc?si=nwamMpTHq7oFPbKi",
-      "sinopsis": "Cuando los aldeanos, en su mayoría ancianos, informan de la aparición de una bestia, el jefe de policía Bum-seok (Hwang Jung-min) y la agente novata Sung-ae (Hoyeon) se encargan de investigar. Sin embargo, los refuerzos han sido desviados para combatir incendios forestales y las comunicaciones están interrumpidas. Mientras ambos intentan proteger la aldea, un grupo de cazadores liderado por Sung-k",
+      "trailer_url": "https://www.youtube.com/results?search_query=Hope%20-%20El%20Primer%20Impacto%20trailer%20espanol",
+      "sinopsis": "Tras un extraño hallazgo cerca de una aislada ciudad portuaria, los habitantes se ven envueltos en una desesperada lucha por la supervivencia.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1058424,
@@ -397,14 +374,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:10",
                 "19:20",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "17:10",
             "19:20",
             "21:30"
           ]
@@ -503,13 +478,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:40",
                 "22:00"
               ]
             }
           ],
           "horarios": [
-            "16:40",
             "22:00"
           ]
         },
@@ -630,14 +603,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:40",
                 "20:00",
                 "22:20"
               ]
             }
           ],
           "horarios": [
-            "17:40",
             "20:00",
             "22:20"
           ]
@@ -935,39 +906,9 @@
       }
     },
     {
-      "titulo": "Cars (20 años)",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003096?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Animación",
-      "clasificacion": "APT",
-      "duracion": "117 min",
-      "director": "",
-      "actores": "",
-      "estreno": "",
-      "sinopsis": "Rayo McQueen, un audaz y presumido auto de carreras novato destinado al éxito, descubre que la vida es acerca del recorrido, no de la meta final, cuando se encuentra de pronto en el tranquilo pueblo de Radiador Springs, en la Ruta 66. Allí McQueen conoce a los peculiares personajes de este pueblo, entre ellos Doc Hudson, Mate y Sally.",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "",
-      "fuente_peli": "Cineplanet",
+      "titulo": "Cars",
+      "poster": "https://cdn.carteleracine.pe/cine/2006/6/cars-47898-0.webp",
       "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "17:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:00"
-          ]
-        },
         {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
@@ -1016,7 +957,72 @@
             "13:15"
           ]
         }
-      ]
+      ],
+      "genero": "Animado",
+      "duracion": "117 minutos",
+      "clasificacion": "Todos",
+      "director": "John Lasseter",
+      "actores": "Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy, Cheech Marin, Tony Shalhoub",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/cars-1642_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Cars%20trailer%20espanol",
+      "sinopsis": "El aspirante a campeón de carreras Rayo McQueen parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 920,
+        "titulo_tmdb": "Cars",
+        "voto": 7.1,
+        "votos": 15615,
+        "url_tmdb": "https://www.themoviedb.org/movie/920",
+        "imdb_id": "tt0317219",
+        "url_imdb": "https://www.imdb.com/title/tt0317219/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/hcQFxfTrkC00hAk9Jwz38wuxNV6.jpg",
+        "director": "John Lasseter",
+        "reparto": [
+          {
+            "nombre": "Owen Wilson",
+            "personaje": "Lightning McQueen (voice)"
+          },
+          {
+            "nombre": "Paul Newman",
+            "personaje": "Doc Hudson (voice)"
+          },
+          {
+            "nombre": "Bonnie Hunt",
+            "personaje": "Sally Carrera (voice)"
+          },
+          {
+            "nombre": "Larry the Cable Guy",
+            "personaje": "Mater (voice)"
+          },
+          {
+            "nombre": "Cheech Marin",
+            "personaje": "Ramone (voice)"
+          },
+          {
+            "nombre": "Tony Shalhoub",
+            "personaje": "Luigi (voice)"
+          }
+        ],
+        "generos": [
+          "Animación",
+          "Aventura",
+          "Comedia",
+          "Familia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=8ZMklX5BzTo",
+          "embed_id": "8ZMklX5BzTo"
+        },
+        "sinopsis_tmdb": "El aspirante a campeón de carreras Rayo McQueen parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
+        "estreno": "8 jun 2006",
+        "duracion_min": 116,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Cars"
+      }
     },
     {
       "titulo": "Avengers: Doomsday(preventa)",
@@ -1025,7 +1031,7 @@
       "clasificacion": "Mayores de 14",
       "duracion": "02:45",
       "sinopsis": "Héroes Icónicos de Tres Universos Diferentes Se Encuentran en un Curso de Colisión Mortal y Enfrentan una Amenaza Existencial Como Nunca Antes Han Visto.",
-      "director": "Anthony Russo, Joe Russo",
+      "director": "Joe Russo, Anthony Russo",
       "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
       "estreno": "",
       "puntaje": "",
@@ -1084,12 +1090,12 @@
         "tmdb_id": 299534,
         "titulo_tmdb": "Vengadores: Endgame",
         "voto": 8.2,
-        "votos": 28959,
+        "votos": 28964,
         "url_tmdb": "https://www.themoviedb.org/movie/299534",
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
         "poster_tmdb": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-        "director": "Anthony Russo, Joe Russo",
+        "director": "Joe Russo, Anthony Russo",
         "reparto": [
           {
             "nombre": "Robert Downey Jr.",
@@ -1142,7 +1148,7 @@
       "clasificacion": "Todo Espectador",
       "duracion": "03:03",
       "sinopsis": "Después de los Eventos Devastadores de 'Avengers: Infinity War', el Universo Está en Ruinas Debido a las Acciones de Thanos, el Titán Loco. Con la Ayuda de los Aliados Que Quedaron, los Vengadores Deberán Reunirse una Vez Más Para Intentar Deshacer Sus Acciones y Restaurar el Orden en el Universo de una Vez Por Todas, Sin Importar Cuáles Son las Consecuencias... Cuarta y Última Entrega de la Saga ",
-      "director": "Anthony Russo, Joe Russo",
+      "director": "Joe Russo, Anthony Russo",
       "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
       "estreno": "",
       "puntaje": "",
@@ -1173,12 +1179,12 @@
         "tmdb_id": 299534,
         "titulo_tmdb": "Vengadores: Endgame",
         "voto": 8.2,
-        "votos": 28959,
+        "votos": 28964,
         "url_tmdb": "https://www.themoviedb.org/movie/299534",
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
         "poster_tmdb": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-        "director": "Anthony Russo, Joe Russo",
+        "director": "Joe Russo, Anthony Russo",
         "reparto": [
           {
             "nombre": "Robert Downey Jr.",
@@ -1231,8 +1237,8 @@
       "clasificacion": "Mayores de 14",
       "duracion": "01:40",
       "sinopsis": "Tras Perder a Su Intrépida Hermana Shiloh, Jax, Profundamente Dolida, Emprende una Peligrosa Escalada Con Luce, una Vieja Amiga de Shiloh, Para Honrar Su Memoria. Mientras Caminan Sobre la Cuerda Floja Por los Peligrosos Tablones del Monte Kwan, un Aterrador Desprendimiento de Rocas Les Deja Varados a 1.500 Metros de Altura. En Medio de Vértigos, Verdades Oscuras y Giros Crueles, Jax Debe Enfrenta",
-      "director": "Michael Spierig, Peter Spierig",
-      "actores": "Harriet Slater, Arsema Thomas, Tom Brittney, Virginia Gardner, สหจักร บุญธนกิจ, Korakod Yensuk",
+      "director": "Hamish Hamilton",
+      "actores": "Bono, The Edge, Larry Mullen Jr., Adam Clayton",
       "estreno": "",
       "puntaje": "",
       "ficha": "",
@@ -1259,54 +1265,43 @@
         }
       ],
       "tmdb": {
-        "tmdb_id": 1101412,
-        "titulo_tmdb": "Fall 2: Deadpoint",
-        "voto": 7.2,
-        "votos": 315,
-        "url_tmdb": "https://www.themoviedb.org/movie/1101412",
-        "imdb_id": "tt31192372",
-        "url_imdb": "https://www.imdb.com/title/tt31192372/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/ccBIyg1ITvuCDr4eMeEH0ZgNh4t.jpg",
-        "director": "Michael Spierig, Peter Spierig",
+        "tmdb_id": 53341,
+        "titulo_tmdb": "U2: Vertigo 05 - Live from Milan",
+        "voto": 7.8,
+        "votos": 10,
+        "url_tmdb": "https://www.themoviedb.org/movie/53341",
+        "imdb_id": "tt0967957",
+        "url_imdb": "https://www.imdb.com/title/tt0967957/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/ov36qmHuPAGgr6nEf5CC496wjqU.jpg",
+        "director": "Hamish Hamilton",
         "reparto": [
           {
-            "nombre": "Harriet Slater",
-            "personaje": "Jax Hunter"
+            "nombre": "Bono",
+            "personaje": "Self"
           },
           {
-            "nombre": "Arsema Thomas",
-            "personaje": "Billie"
+            "nombre": "The Edge",
+            "personaje": "Self"
           },
           {
-            "nombre": "Tom Brittney",
-            "personaje": "Jon Platt"
+            "nombre": "Larry Mullen Jr.",
+            "personaje": "Self"
           },
           {
-            "nombre": "Virginia Gardner",
-            "personaje": "Shiloh Hunter"
-          },
-          {
-            "nombre": "สหจักร บุญธนกิจ",
-            "personaje": "Thai Barman"
-          },
-          {
-            "nombre": "Korakod Yensuk",
-            "personaje": "Large Woman"
+            "nombre": "Adam Clayton",
+            "personaje": "Self"
           }
         ],
         "generos": [
-          "Suspense"
+          "Música"
         ],
         "trailer": {},
-        "sinopsis_tmdb": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, un aterrador desprendimiento de rocas les deja varados a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia y el final.",
-        "estreno": "1 sep 2026",
-        "duracion_min": 98,
-        "paises": [
-          "Reino Unido",
-          "Estados Unidos"
-        ],
+        "sinopsis_tmdb": "",
+        "estreno": "20 nov 2006",
+        "duracion_min": 57,
+        "paises": [],
         "idioma": "Inglés",
-        "titulo_original": "Fall 2: Deadpoint"
+        "titulo_original": "U2: Vertigo 05 - Live from Milan"
       }
     },
     {
@@ -1439,23 +1434,6 @@
       "fuente_cine": "Cineplanet",
       "peliculas": [
         {
-          "titulo": "Cars (20 años)",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003096?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Animación",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "17:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:00"
-          ]
-        },
-        {
           "titulo": "El Corazón de la Bestia",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002975?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Acción",
@@ -1464,33 +1442,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:40",
                 "20:00",
                 "22:20"
               ]
             }
           ],
           "horarios": [
-            "17:40",
             "20:00",
             "22:20"
-          ]
-        },
-        {
-          "titulo": "Hope - El Primer Impacto",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003107?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Ficción",
-          "clasificacion": "+14",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "18:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:50"
           ]
         },
         {
@@ -1502,14 +1461,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:10",
                 "19:20",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "17:10",
             "19:20",
             "21:30"
           ]
@@ -1523,16 +1480,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
-                "18:10",
                 "20:20",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "16:00",
-            "18:10",
             "20:20",
             "22:30"
           ]
@@ -1546,13 +1499,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:40",
                 "22:00"
               ]
             }
           ],
           "horarios": [
-            "16:40",
             "22:00"
           ]
         },
@@ -1656,7 +1607,7 @@
           ]
         },
         {
-          "titulo": "Cars (20 años)",
+          "titulo": "Cars",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/cars.jpg",
           "genero": "Animado",
           "clasificacion": "Todo Espectador",
@@ -1854,7 +1805,7 @@
       "fuente_cine": "Movie Time",
       "peliculas": [
         {
-          "titulo": "Cars (20 años)",
+          "titulo": "Cars",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/efb1594c-fe00-4bff-ae29-79ccdd277e36.jpeg",
           "genero": "",
           "clasificacion": "APT",
@@ -1874,7 +1825,7 @@
           "trailer_url": "https://www.youtube.com/watch?v=2z0Wstbr3hw"
         },
         {
-          "titulo": "Cars (20 años)",
+          "titulo": "Cars",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/c1e43ccb-0d29-4bbc-ae81-ef535aa98496.png",
           "genero": "",
           "clasificacion": "APT",
