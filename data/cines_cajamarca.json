@@ -2,13 +2,38 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-11 08:17",
+  "actualizado": "2026-10-11 11:11",
   "fecha_objetivo": "2026-10-11",
   "peliculas": [
     {
       "titulo": "Madre Siniestra",
-      "poster": "",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003063?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:00",
+                "18:10",
+                "20:20",
+                "22:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:10",
+            "20:20",
+            "22:30"
+          ]
+        },
         {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
@@ -57,8 +82,8 @@
       "actores": "Jessica Chastain, Jay Duplass, Arabella Olivia Clark, Karen Allen, Arian Moayed, Dichen Lachman",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/madre-siniestra-12305_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Madre%20Siniestra%20trailer%20espanol",
-      "sinopsis": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
+      "trailer_url": "https://youtu.be/mnXYYwnfWlQ",
+      "sinopsis": "La historia sigue a Bela, una joven que comienza a vincularse con una presencia oscura dentro de su hogar: una entidad siniestra que adopta la apariencia de su madre y la arrastra a un mundo donde el amor, el miedo y lo sobrenatural se confunden peligrosamente.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1400837,
@@ -97,7 +122,9 @@
           }
         ],
         "generos": [
-          "Terror"
+          "Terror",
+          "Fantasía",
+          "Suspense"
         ],
         "trailer": {
           "url": "https://www.youtube.com/watch?v=ocV7K_B67lQ",
@@ -115,8 +142,27 @@
     },
     {
       "titulo": "El Árbol Mágico",
-      "poster": "",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002824?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:20"
+          ]
+        },
         {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
@@ -162,7 +208,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-arbol-magico-12276_252",
       "trailer_url": "https://www.youtube.com/results?search_query=El%20%C3%81rbol%20M%C3%A1gico%20trailer%20espanol",
-      "sinopsis": "Polly, Tim, y sus tres hijos son una familia moderna que se ve obligada a mudarse a la remota campiña inglesa. Poco después de su llegada, los niños descubren un árbol mágico y a sus extraordinarios y excéntricos habitantes.",
+      "sinopsis": "Cuenta la historia de Polly (Claire Foy) y Tim (Andrew Garfield), quienes se mudan con sus hijos a una remota campiña inglesa en busca de un nuevo comienzo. Sin Wi-Fi ni electricidad, los niños pronto descubren un árbol mágico habitado por excéntricas criaturas que los transporta a mundos fantásticos y cambiantes. A través de estas increíbles aventuras, la familia no solo vive momentos extraordina",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1140521,
@@ -222,8 +268,27 @@
     },
     {
       "titulo": "Hope - El Primer Impacto",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/10/hope--el-primer-impacto-47903-1.jpg",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003107?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "18:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:50"
+          ]
+        },
         {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
@@ -266,8 +331,8 @@
       "actores": "Hwang Jung-min, Zo In-sung, Hoyeon.",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/hope--el-primer-impacto-12306_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Hope%20-%20El%20Primer%20Impacto%20trailer%20espanol",
-      "sinopsis": "Tras un extraño hallazgo cerca de una aislada ciudad portuaria, los habitantes se ven envueltos en una desesperada lucha por la supervivencia.",
+      "trailer_url": "https://youtu.be/SCnSzqz7ctc?si=nwamMpTHq7oFPbKi",
+      "sinopsis": "Cuando los aldeanos, en su mayoría ancianos, informan de la aparición de una bestia, el jefe de policía Bum-seok (Hwang Jung-min) y la agente novata Sung-ae (Hoyeon) se encargan de investigar. Sin embargo, los refuerzos han sido desviados para combatir incendios forestales y las comunicaciones están interrumpidas. Mientras ambos intentan proteger la aldea, un grupo de cazadores liderado por Sung-k",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1058424,
@@ -325,9 +390,138 @@
       }
     },
     {
+      "titulo": "La Tribu",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/10/la-tribu-47905-1.jpg",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:00",
+                "17:10",
+                "19:20",
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:10",
+            "19:20",
+            "21:30"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "16:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "16:45"
+          ]
+        }
+      ],
+      "genero": "Comedia",
+      "duracion": "90 minutos",
+      "clasificacion": "12 Años",
+      "director": "Bruno Ascenzo",
+      "actores": "Carlos Carlín, Jely Reátegui, Oscar Meza, Luciana Arispe, Alejandro Villagómez, Diego Pérez, Nicolás Galindo y Alejandra Guerra.",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/la-tribu-12308_252",
+      "trailer_url": "https://www.youtube.com/watch?v=Ye8lukNZshI",
+      "sinopsis": "Una reunión familiar donde todo sale mal… y luego empeora. Silvano solo quería festejar el cumpleaños de su esposa en paz, pero sus tres hijos invaden la casa con sus respectivas parejas y convierten lo que debía ser una celebración en un campo de batalla donde sobran los secretos, vuelan las indirectas y resurgen viejos rencores. ¿Será este encuentro un desastre inolvidable? ¿O podrán sobrevivir ",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1744763,
+        "titulo_tmdb": "La Tribu",
+        "voto": 7.0,
+        "votos": 1,
+        "url_tmdb": "https://www.themoviedb.org/movie/1744763",
+        "imdb_id": "",
+        "url_imdb": "",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/5I8JcdKjzJos1MnWVyAuyEExM0h.jpg",
+        "director": "Bruno Ascenzo",
+        "reparto": [
+          {
+            "nombre": "Carlos Carlín",
+            "personaje": "Silvano"
+          },
+          {
+            "nombre": "Alejandra Guerra",
+            "personaje": "Tere"
+          },
+          {
+            "nombre": "Jely Reategui",
+            "personaje": "Belén"
+          },
+          {
+            "nombre": "Nicolás Galindo",
+            "personaje": "Ettore"
+          },
+          {
+            "nombre": "Óscar Meza",
+            "personaje": "Diego"
+          },
+          {
+            "nombre": "Luciana Arispe",
+            "personaje": "Giulia"
+          }
+        ],
+        "generos": [
+          "Comedia"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "",
+        "estreno": "8 oct 2026",
+        "duracion_min": 100,
+        "paises": [
+          "Perú"
+        ],
+        "idioma": "Español",
+        "titulo_original": "La Tribu"
+      }
+    },
+    {
       "titulo": "Resident Evil: Noche Cero",
       "poster": "https://cdn.carteleracine.pe/cine/2026/9/resident-evil-noche-cero-47798-0.webp",
       "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:40",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:40",
+            "22:00"
+          ]
+        },
         {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
@@ -370,14 +564,14 @@
       "actores": "Austin Abrams, Zach Cherry, Kali Reis y Paul Walter Hauser",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Resident%20Evil%3A%20Noche%20Cero%20trailer%20espanol",
-      "sinopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
+      "sinopsis": "Sigue a un desafortunado mensajero encargado de entregar un paquete a un hospital remoto. Pronto se encuentra atrapado en medio de una epidemia y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
         "titulo_tmdb": "Resident Evil",
         "voto": 7.3,
-        "votos": 855,
+        "votos": 863,
         "url_tmdb": "https://www.themoviedb.org/movie/1423191",
         "imdb_id": "tt35538033",
         "url_imdb": "https://www.imdb.com/title/tt35538033/",
@@ -435,6 +629,29 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/8/en-el-corazon-de-la-bestia-47709-0.webp",
       "cines": [
         {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "17:40",
+                "20:00",
+                "22:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:40",
+            "20:00",
+            "22:20"
+          ]
+        },
+        {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
           "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
@@ -476,8 +693,8 @@
       "actores": "Brad Pitt, J.K. Simmons, Anna Lambe, Justin Melnick, Shaun DeZern, Uber",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=El%20Coraz%C3%B3n%20de%20la%20Bestia%20trailer%20espanol",
-      "sinopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+      "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
+      "sinopsis": "Tras un aterrador accidente aéreo, el oficial de Fuerzas Especiales James Belmont (Brad Pitt) y su perro de combate, Odin, quedan varados en lo profundo de la naturaleza salvaje de Alaska. Juntos, se ven obligados a librar una brutal lucha por sobrevivir frente a los elementos.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
@@ -534,9 +751,198 @@
       }
     },
     {
-      "titulo": "Hachiko Siempre A Tu Lado",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/10/hachiko-siempre-a-tu-lado-47907-0.webp",
+      "titulo": "Vértigo 2: Punto Muerto",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/9/vertigo-2-punto-muerto-47866-0.webp",
       "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "19:30",
+                "21:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:30",
+            "21:50"
+          ]
+        }
+      ],
+      "genero": "Thriller",
+      "duracion": "100 minutos",
+      "clasificacion": "12 Años",
+      "director": "Michael Spierig, Peter Spierig",
+      "actores": "Harriet Slater, Arsema Thomas, Tom Brittney, Virginia Gardner.",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/vertigo-2-punto-muerto-12297_252",
+      "trailer_url": "https://www.youtube.com/watch?v=IRJGXHvc-Hs",
+      "sinopsis": "Tras sobrevivir a una experiencia extrema, un nuevo grupo de jóvenes se enfrenta a un desafío aún más peligroso en un entorno remoto en Tailandia. A cientos de metros de altura, sin escapatoria y con condiciones impredecibles, deberán luchar contra el miedo, el tiempo y sus propios límites para sobrevivir.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1101412,
+        "titulo_tmdb": "Fall 2: Deadpoint",
+        "voto": 7.3,
+        "votos": 386,
+        "url_tmdb": "https://www.themoviedb.org/movie/1101412",
+        "imdb_id": "tt31192372",
+        "url_imdb": "https://www.imdb.com/title/tt31192372/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/ccBIyg1ITvuCDr4eMeEH0ZgNh4t.jpg",
+        "director": "Michael Spierig, Peter Spierig",
+        "reparto": [
+          {
+            "nombre": "Harriet Slater",
+            "personaje": "Jax Hunter"
+          },
+          {
+            "nombre": "Arsema Thomas",
+            "personaje": "Billie"
+          },
+          {
+            "nombre": "Tom Brittney",
+            "personaje": "Jon Platt"
+          },
+          {
+            "nombre": "Virginia Gardner",
+            "personaje": "Shiloh Hunter"
+          },
+          {
+            "nombre": "สหจักร บุญธนกิจ",
+            "personaje": "Thai Barman"
+          },
+          {
+            "nombre": "Korakod Yensuk",
+            "personaje": "Large Woman"
+          }
+        ],
+        "generos": [
+          "Suspense"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, un aterrador desprendimiento de rocas les deja varados a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia y el final.",
+        "estreno": "1 sep 2026",
+        "duracion_min": 98,
+        "paises": [
+          "Reino Unido",
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Fall 2: Deadpoint"
+      }
+    },
+    {
+      "titulo": "Cars (20 años)",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003096?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Animación",
+      "clasificacion": "APT",
+      "duracion": "117 min",
+      "director": "",
+      "actores": "",
+      "estreno": "",
+      "sinopsis": "Rayo McQueen, un audaz y presumido auto de carreras novato destinado al éxito, descubre que la vida es acerca del recorrido, no de la meta final, cuando se encuentra de pronto en el tranquilo pueblo de Radiador Springs, en la Ruta 66. Allí McQueen conoce a los peculiares personajes de este pueblo, entre ellos Doc Hudson, Mate y Sally.",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "",
+      "fuente_peli": "Cineplanet",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:20",
+                "17:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:20",
+            "17:00"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:45"
+          ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "13:15",
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "13:15",
+            "15:30"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Hachiko Siempre a tu Lado (2009)",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002976?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Drama",
+      "clasificacion": "+14",
+      "duracion": "93 min",
+      "director": "",
+      "actores": "",
+      "estreno": "",
+      "sinopsis": "Parker Wilson, un profesor universitario que da clases de música, recoge un día a un perro de origen japonés y raza Akita, al que encuentra abandonado en una estación. Como nadie lo reclama, se lo lleva a su casa. Parker va descubriendo entonces los entrañables lazos que pueden unir a una persona y a un animal. Remake de la película japonesa “Hachiko monogatari” (1987) dirigida por Seijirô Kôyama ",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=CRUh0qbxLM8",
+      "fuente_peli": "Cineplanet",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:30"
+          ]
+        },
         {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
@@ -573,176 +979,7 @@
             "16:00"
           ]
         }
-      ],
-      "genero": "Drama",
-      "duracion": "93 minutos",
-      "clasificacion": "Todos",
-      "director": "Lasse Hallström",
-      "actores": "Richard Gere, Joan Allen, Sarah Roemer, Cary-Hiroyuki Tagawa, Jason Alexander, Erick Avari, Davenia McFadden, Kevin DeCoste, Chico, Layla, Forest.",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/hachiko-siempre-a-tu-lado-12310_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Hachiko%20Siempre%20A%20Tu%20Lado%20trailer%20espanol",
-      "sinopsis": "Basada en una historia real. Un profesor de universidad adopta a un perro vagabundo en una estación del tren. Tras recabar información sobre el animal, el profesor descubre que el perro iba a los andenes a diario durante semanas para esperar el regreso de su amo, pero éste había muerto en un accidente en la ciudad. El perro Hachiko, al lado de su nuevo amo a quien también le cambiará la vida cuando descubre los lazos que se pueden crear entre un animal y una persona.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 28178,
-        "titulo_tmdb": "Siempre a tu lado (Hachiko)",
-        "voto": 8.0,
-        "votos": 7360,
-        "url_tmdb": "https://www.themoviedb.org/movie/28178",
-        "imdb_id": "tt1028532",
-        "url_imdb": "https://www.imdb.com/title/tt1028532/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/rLPMD8BOHjvvjjCX7BZQdqNWBm2.jpg",
-        "director": "Lasse Hallström",
-        "reparto": [
-          {
-            "nombre": "Richard Gere",
-            "personaje": "Parker Wilson"
-          },
-          {
-            "nombre": "Joan Allen",
-            "personaje": "Cate Wilson"
-          },
-          {
-            "nombre": "Sarah Roemer",
-            "personaje": "Andy"
-          },
-          {
-            "nombre": "Cary-Hiroyuki Tagawa",
-            "personaje": "Ken"
-          },
-          {
-            "nombre": "Erick Avari",
-            "personaje": "Jasjeet"
-          },
-          {
-            "nombre": "Robbie Sublett",
-            "personaje": "Michael"
-          }
-        ],
-        "generos": [
-          "Drama",
-          "Familia"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=_VgwwLKshDs",
-          "embed_id": "_VgwwLKshDs"
-        },
-        "sinopsis_tmdb": "Basada en una historia real. Un profesor de universidad adopta a un perro vagabundo en una estación del tren. Tras recabar información sobre el animal, el profesor descubre que el perro iba a los andenes a diario durante semanas para esperar el regreso de su amo, pero éste había muerto en un accidente en la ciudad. El perro Hachiko, al lado de su nuevo amo a quien también le cambiará la vida cuando descubre los lazos que se pueden crear entre un animal y una persona.",
-        "estreno": "8 jun 2009",
-        "duracion_min": 93,
-        "paises": [
-          "Reino Unido",
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Hachi: A Dog's Tale"
-      }
-    },
-    {
-      "titulo": "Cars",
-      "poster": "https://cdn.carteleracine.pe/cine/2006/6/cars-47898-0.webp",
-      "cines": [
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:45"
-          ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "13:15",
-                "15:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "13:15",
-            "15:30"
-          ]
-        }
-      ],
-      "genero": "Animado",
-      "duracion": "117 minutos",
-      "clasificacion": "Todos",
-      "director": "John Lasseter",
-      "actores": "Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy, Cheech Marin, Tony Shalhoub",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/cars-1642_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Cars%20trailer%20espanol",
-      "sinopsis": "El aspirante a campeón de carreras Rayo McQueen parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 920,
-        "titulo_tmdb": "Cars",
-        "voto": 7.1,
-        "votos": 15617,
-        "url_tmdb": "https://www.themoviedb.org/movie/920",
-        "imdb_id": "tt0317219",
-        "url_imdb": "https://www.imdb.com/title/tt0317219/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/hcQFxfTrkC00hAk9Jwz38wuxNV6.jpg",
-        "director": "John Lasseter",
-        "reparto": [
-          {
-            "nombre": "Owen Wilson",
-            "personaje": "Lightning McQueen (voice)"
-          },
-          {
-            "nombre": "Paul Newman",
-            "personaje": "Doc Hudson (voice)"
-          },
-          {
-            "nombre": "Bonnie Hunt",
-            "personaje": "Sally Carrera (voice)"
-          },
-          {
-            "nombre": "Larry the Cable Guy",
-            "personaje": "Mater (voice)"
-          },
-          {
-            "nombre": "Cheech Marin",
-            "personaje": "Ramone (voice)"
-          },
-          {
-            "nombre": "Tony Shalhoub",
-            "personaje": "Luigi (voice)"
-          }
-        ],
-        "generos": [
-          "Animación",
-          "Aventura",
-          "Comedia",
-          "Familia"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=8ZMklX5BzTo",
-          "embed_id": "8ZMklX5BzTo"
-        },
-        "sinopsis_tmdb": "El aspirante a campeón de carreras Rayo McQueen parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
-        "estreno": "8 jun 2006",
-        "duracion_min": 116,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Cars"
-      }
+      ]
     },
     {
       "titulo": "Avengers: Doomsday(preventa)",
@@ -751,7 +988,7 @@
       "clasificacion": "Mayores de 14",
       "duracion": "02:45",
       "sinopsis": "Héroes Icónicos de Tres Universos Diferentes Se Encuentran en un Curso de Colisión Mortal y Enfrentan una Amenaza Existencial Como Nunca Antes Han Visto.",
-      "director": "Joe Russo, Anthony Russo",
+      "director": "Anthony Russo, Joe Russo",
       "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
       "estreno": "",
       "puntaje": "",
@@ -815,7 +1052,7 @@
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
         "poster_tmdb": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-        "director": "Joe Russo, Anthony Russo",
+        "director": "Anthony Russo, Joe Russo",
         "reparto": [
           {
             "nombre": "Robert Downey Jr.",
@@ -868,7 +1105,7 @@
       "clasificacion": "Todo Espectador",
       "duracion": "03:03",
       "sinopsis": "Después de los Eventos Devastadores de 'Avengers: Infinity War', el Universo Está en Ruinas Debido a las Acciones de Thanos, el Titán Loco. Con la Ayuda de los Aliados Que Quedaron, los Vengadores Deberán Reunirse una Vez Más Para Intentar Deshacer Sus Acciones y Restaurar el Orden en el Universo de una Vez Por Todas, Sin Importar Cuáles Son las Consecuencias... Cuarta y Última Entrega de la Saga ",
-      "director": "Joe Russo, Anthony Russo",
+      "director": "Anthony Russo, Joe Russo",
       "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
       "estreno": "",
       "puntaje": "",
@@ -904,7 +1141,7 @@
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
         "poster_tmdb": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-        "director": "Joe Russo, Anthony Russo",
+        "director": "Anthony Russo, Joe Russo",
         "reparto": [
           {
             "nombre": "Robert Downey Jr.",
@@ -948,90 +1185,6 @@
         ],
         "idioma": "Inglés",
         "titulo_original": "Avengers: Endgame"
-      }
-    },
-    {
-      "titulo": "La Tribu",
-      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/la_tribu-840377943-large.jpg",
-      "genero": "Comedia",
-      "clasificacion": "Mayores de 14",
-      "duracion": "01:30",
-      "sinopsis": "Una Reunión Familiar Donde Todo Sale Mal… y Luego Empeora. Silvano Solo Quería Festejar el Cumpleaños de Su Esposa en Paz, Pero Sus Tres Hijos Invaden la Casa Con Sus Respectivas Parejas y Convierten Lo Que Debía Ser una Celebración en un Campo de Batalla Donde Sobran los Secretos, Vuelan las Indirectas y Resurgen Viejos Rencores. ¿Será Este Encuentro un Desastre Inolvidable? ¿O Podrán Sobrevivir ",
-      "director": "Bruno Ascenzo",
-      "actores": "Carlos Carlín, Alejandra Guerra, Jely Reategui, Nicolás Galindo, Óscar Meza, Luciana Arispe",
-      "estreno": "",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "",
-      "fuente_peli": "Cinerama",
-      "cines": [
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "16:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "16:45"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1744763,
-        "titulo_tmdb": "La Tribu",
-        "voto": 7.0,
-        "votos": 1,
-        "url_tmdb": "https://www.themoviedb.org/movie/1744763",
-        "imdb_id": "",
-        "url_imdb": "",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/5I8JcdKjzJos1MnWVyAuyEExM0h.jpg",
-        "director": "Bruno Ascenzo",
-        "reparto": [
-          {
-            "nombre": "Carlos Carlín",
-            "personaje": "Silvano"
-          },
-          {
-            "nombre": "Alejandra Guerra",
-            "personaje": "Tere"
-          },
-          {
-            "nombre": "Jely Reategui",
-            "personaje": "Belén"
-          },
-          {
-            "nombre": "Nicolás Galindo",
-            "personaje": "Ettore"
-          },
-          {
-            "nombre": "Óscar Meza",
-            "personaje": "Diego"
-          },
-          {
-            "nombre": "Luciana Arispe",
-            "personaje": "Giulia"
-          }
-        ],
-        "generos": [
-          "Comedia"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "",
-        "estreno": "8 oct 2026",
-        "duracion_min": 100,
-        "paises": [
-          "Perú"
-        ],
-        "idioma": "Español",
-        "titulo_original": "La Tribu"
       }
     },
     {
@@ -1230,12 +1383,190 @@
   ],
   "cines": [
     {
-      "cine": "Cajamarca (Cineplanet)",
-      "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-      "direccion": "",
-      "peliculas": [],
-      "sin_programacion": true,
-      "nota": "La fuente no publica funciones de esta sala hoy."
+      "cine": "CinePlanet Cajamarca Real Plaza",
+      "cine_slug": "cp-cajamarca",
+      "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+      "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+      "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+      "fuente_cine": "Cineplanet",
+      "peliculas": [
+        {
+          "titulo": "Cars (20 años)",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003096?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Animación",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:20",
+                "17:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:20",
+            "17:00"
+          ]
+        },
+        {
+          "titulo": "El Árbol Mágico",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002824?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Aventura",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:20"
+          ]
+        },
+        {
+          "titulo": "El Corazón de la Bestia",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002975?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "17:40",
+                "20:00",
+                "22:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:40",
+            "20:00",
+            "22:20"
+          ]
+        },
+        {
+          "titulo": "Hachiko Siempre a tu Lado (2009)",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002976?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Drama",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:30"
+          ]
+        },
+        {
+          "titulo": "Hope - El Primer Impacto",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003107?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Ficción",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "18:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:50"
+          ]
+        },
+        {
+          "titulo": "La Tribu",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003058?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Comedia",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:00",
+                "17:10",
+                "19:20",
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:10",
+            "19:20",
+            "21:30"
+          ]
+        },
+        {
+          "titulo": "Madre Siniestra",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003063?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Terror",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:00",
+                "18:10",
+                "20:20",
+                "22:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:10",
+            "20:20",
+            "22:30"
+          ]
+        },
+        {
+          "titulo": "Resident Evil: Noche Cero",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003067?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Terror",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:40",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:40",
+            "22:00"
+          ]
+        },
+        {
+          "titulo": "Vértigo 2: Punto Muerto",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002977?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Thriller",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "19:30",
+                "21:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:30",
+            "21:50"
+          ]
+        }
+      ],
+      "cine_original": "CP Cajamarca"
     },
     {
       "cine": "Cinerama Cajamarca MegaPlaza",
@@ -1315,7 +1646,7 @@
           ]
         },
         {
-          "titulo": "Cars",
+          "titulo": "Cars (20 años)",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/cars.jpg",
           "genero": "Animado",
           "clasificacion": "Todo Espectador",
@@ -1374,7 +1705,7 @@
           ]
         },
         {
-          "titulo": "Hachiko Siempre A Tu Lado",
+          "titulo": "Hachiko Siempre a tu Lado (2009)",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/hachi_a_dog_s_tale_hachiko_a_dog_s_story-386676685-large.jpg",
           "genero": "Familiar",
           "clasificacion": "Todo Espectador",
@@ -1513,7 +1844,7 @@
       "fuente_cine": "Movie Time",
       "peliculas": [
         {
-          "titulo": "Cars",
+          "titulo": "Cars (20 años)",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/efb1594c-fe00-4bff-ae29-79ccdd277e36.jpeg",
           "genero": "",
           "clasificacion": "APT",
@@ -1579,7 +1910,7 @@
           "trailer_url": "https://www.youtube.com/watch?v=2fFI8g3iR9c"
         },
         {
-          "titulo": "Hachiko Siempre A Tu Lado",
+          "titulo": "Hachiko Siempre a tu Lado (2009)",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/8b9c9dbe-8823-49ea-9d25-cb2fe224b150.jpeg",
           "genero": "",
           "clasificacion": "APT",
@@ -1708,6 +2039,7 @@
   "estado": "ok",
   "motor": "gemini",
   "fuentes_extra": [
+    "Cineplanet",
     "Cinerama",
     "Movie Time"
   ]
