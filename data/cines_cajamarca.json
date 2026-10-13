@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-12 17:03",
+  "actualizado": "2026-10-12 20:03",
   "fecha_objetivo": "2026-10-12",
   "peliculas": [
     {
@@ -20,16 +20,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
-                "18:10",
                 "20:20",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "16:00",
-            "18:10",
             "20:20",
             "22:30"
           ]
@@ -245,7 +241,7 @@
     },
     {
       "titulo": "Hope - El Primer Impacto",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/10/hope--el-primer-impacto-47903-1.jpg",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003107?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "cines": [
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
@@ -367,6 +363,110 @@
       }
     },
     {
+      "titulo": "La Tribu",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/10/la-tribu-47905-1.jpg",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "19:20",
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:20",
+            "21:30"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "16:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "16:45"
+          ]
+        }
+      ],
+      "genero": "Comedia",
+      "duracion": "90 minutos",
+      "clasificacion": "12 Años",
+      "director": "Bruno Ascenzo",
+      "actores": "Carlos Carlín, Jely Reátegui, Oscar Meza, Luciana Arispe, Alejandro Villagómez, Diego Pérez, Nicolás Galindo y Alejandra Guerra.",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/la-tribu-12308_252",
+      "trailer_url": "https://www.youtube.com/watch?v=Ye8lukNZshI",
+      "sinopsis": "Una reunión familiar donde todo sale mal… y luego empeora. Silvano solo quería festejar el cumpleaños de su esposa en paz, pero sus tres hijos invaden la casa con sus respectivas parejas y convierten lo que debía ser una celebración en un campo de batalla donde sobran los secretos, vuelan las indirectas y resurgen viejos rencores. ¿Será este encuentro un desastre inolvidable? ¿O podrán sobrevivir ",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1744763,
+        "titulo_tmdb": "La Tribu",
+        "voto": 7.0,
+        "votos": 1,
+        "url_tmdb": "https://www.themoviedb.org/movie/1744763",
+        "imdb_id": "",
+        "url_imdb": "",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/5I8JcdKjzJos1MnWVyAuyEExM0h.jpg",
+        "director": "Bruno Ascenzo",
+        "reparto": [
+          {
+            "nombre": "Carlos Carlín",
+            "personaje": "Silvano"
+          },
+          {
+            "nombre": "Alejandra Guerra",
+            "personaje": "Tere"
+          },
+          {
+            "nombre": "Jely Reategui",
+            "personaje": "Belén"
+          },
+          {
+            "nombre": "Nicolás Galindo",
+            "personaje": "Ettore"
+          },
+          {
+            "nombre": "Óscar Meza",
+            "personaje": "Diego"
+          },
+          {
+            "nombre": "Luciana Arispe",
+            "personaje": "Giulia"
+          }
+        ],
+        "generos": [
+          "Comedia"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "",
+        "estreno": "8 oct 2026",
+        "duracion_min": 100,
+        "paises": [
+          "Perú"
+        ],
+        "idioma": "Español",
+        "titulo_original": "La Tribu"
+      }
+    },
+    {
       "titulo": "Resident Evil: Noche Cero",
       "poster": "https://cdn.carteleracine.pe/cine/2026/9/resident-evil-noche-cero-47798-0.webp",
       "cines": [
@@ -381,13 +481,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:40",
                 "22:00"
               ]
             }
           ],
           "horarios": [
-            "16:40",
             "22:00"
           ]
         },
@@ -508,14 +606,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:40",
                 "20:00",
                 "22:20"
               ]
             }
           ],
           "horarios": [
-            "17:40",
             "20:00",
             "22:20"
           ]
@@ -569,7 +665,7 @@
         "tmdb_id": 1263337,
         "titulo_tmdb": "En el corazón de la bestia",
         "voto": 7.4,
-        "votos": 272,
+        "votos": 274,
         "url_tmdb": "https://www.themoviedb.org/movie/1263337",
         "imdb_id": "tt7526136",
         "url_imdb": "https://www.imdb.com/title/tt7526136/",
@@ -617,6 +713,93 @@
         ],
         "idioma": "Inglés",
         "titulo_original": "Heart of the Beast"
+      }
+    },
+    {
+      "titulo": "Vértigo 2: Punto Muerto",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/9/vertigo-2-punto-muerto-47866-0.webp",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "19:50",
+                "22:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:50",
+            "22:10"
+          ]
+        }
+      ],
+      "genero": "Thriller",
+      "duracion": "100 minutos",
+      "clasificacion": "12 Años",
+      "director": "Michael Spierig, Peter Spierig",
+      "actores": "Harriet Slater, Arsema Thomas, Tom Brittney, Virginia Gardner.",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/vertigo-2-punto-muerto-12297_252",
+      "trailer_url": "https://www.youtube.com/watch?v=IRJGXHvc-Hs",
+      "sinopsis": "Tras sobrevivir a una experiencia extrema, un nuevo grupo de jóvenes se enfrenta a un desafío aún más peligroso en un entorno remoto en Tailandia. A cientos de metros de altura, sin escapatoria y con condiciones impredecibles, deberán luchar contra el miedo, el tiempo y sus propios límites para sobrevivir.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1101412,
+        "titulo_tmdb": "Fall 2: Deadpoint",
+        "voto": 7.3,
+        "votos": 469,
+        "url_tmdb": "https://www.themoviedb.org/movie/1101412",
+        "imdb_id": "tt31192372",
+        "url_imdb": "https://www.imdb.com/title/tt31192372/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/ccBIyg1ITvuCDr4eMeEH0ZgNh4t.jpg",
+        "director": "Michael Spierig, Peter Spierig",
+        "reparto": [
+          {
+            "nombre": "Harriet Slater",
+            "personaje": "Jax Hunter"
+          },
+          {
+            "nombre": "Arsema Thomas",
+            "personaje": "Billie"
+          },
+          {
+            "nombre": "Tom Brittney",
+            "personaje": "Jon Platt"
+          },
+          {
+            "nombre": "Virginia Gardner",
+            "personaje": "Shiloh Hunter"
+          },
+          {
+            "nombre": "สหจักร บุญธนกิจ",
+            "personaje": "Thai Barman"
+          },
+          {
+            "nombre": "Korakod Yensuk",
+            "personaje": "Large Woman"
+          }
+        ],
+        "generos": [
+          "Suspense"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, un aterrador desprendimiento de rocas les deja varados a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia y el final.",
+        "estreno": "1 sep 2026",
+        "duracion_min": 98,
+        "paises": [
+          "Reino Unido",
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Fall 2: Deadpoint"
       }
     },
     {
@@ -726,39 +909,9 @@
       }
     },
     {
-      "titulo": "Cars (20 años)",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003096?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Animación",
-      "clasificacion": "APT",
-      "duracion": "117 min",
-      "director": "",
-      "actores": "",
-      "estreno": "",
-      "sinopsis": "Rayo McQueen, un audaz y presumido auto de carreras novato destinado al éxito, descubre que la vida es acerca del recorrido, no de la meta final, cuando se encuentra de pronto en el tranquilo pueblo de Radiador Springs, en la Ruta 66. Allí McQueen conoce a los peculiares personajes de este pueblo, entre ellos Doc Hudson, Mate y Sally.",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "",
-      "fuente_peli": "Cineplanet",
+      "titulo": "Cars",
+      "poster": "https://cdn.carteleracine.pe/cine/2006/6/cars-47898-0.webp",
       "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "17:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:20"
-          ]
-        },
         {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
@@ -791,201 +944,71 @@
             "15:30"
           ]
         }
-      ]
-    },
-    {
-      "titulo": "La Tribu",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003058?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Comedia",
-      "clasificacion": "+14",
-      "duracion": "95 min",
-      "director": "Bruno Ascenzo",
-      "actores": "Carlos Carlín, Alejandra Guerra, Jely Reategui, Nicolás Galindo, Óscar Meza, Luciana Arispe",
+      ],
+      "genero": "Animado",
+      "duracion": "117 minutos",
+      "clasificacion": "Todos",
+      "director": "John Lasseter",
+      "actores": "Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy, Cheech Marin, Tony Shalhoub",
       "estreno": "",
-      "sinopsis": "Una reunión familiar donde todo sale mal… y luego empeora. Silvano solo quería festejar el cumpleaños de su esposa en paz, pero sus tres hijos invaden la casa con sus respectivas parejas y convierten lo que debía ser una celebración en un campo de batalla donde sobran los secretos, vuelan las indirectas y resurgen viejos rencores. ¿Será este encuentro un desastre inolvidable? ¿O podrán sobrevivir ",
+      "ficha": "https://www.carteleracine.pe/cajamarca/cars-1642_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Cars%20trailer%20espanol",
+      "sinopsis": "El aspirante a campeón de carreras Rayo McQueen parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
       "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=Ye8lukNZshI",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "17:10",
-                "19:20",
-                "21:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:10",
-            "19:20",
-            "21:30"
-          ]
+      "tmdb": {
+        "tmdb_id": 920,
+        "titulo_tmdb": "Cars",
+        "voto": 7.1,
+        "votos": 15625,
+        "url_tmdb": "https://www.themoviedb.org/movie/920",
+        "imdb_id": "tt0317219",
+        "url_imdb": "https://www.imdb.com/title/tt0317219/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/hcQFxfTrkC00hAk9Jwz38wuxNV6.jpg",
+        "director": "John Lasseter",
+        "reparto": [
+          {
+            "nombre": "Owen Wilson",
+            "personaje": "Lightning McQueen (voice)"
+          },
+          {
+            "nombre": "Paul Newman",
+            "personaje": "Doc Hudson (voice)"
+          },
+          {
+            "nombre": "Bonnie Hunt",
+            "personaje": "Sally Carrera (voice)"
+          },
+          {
+            "nombre": "Larry the Cable Guy",
+            "personaje": "Mater (voice)"
+          },
+          {
+            "nombre": "Cheech Marin",
+            "personaje": "Ramone (voice)"
+          },
+          {
+            "nombre": "Tony Shalhoub",
+            "personaje": "Luigi (voice)"
+          }
+        ],
+        "generos": [
+          "Animación",
+          "Aventura",
+          "Comedia",
+          "Familia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=8ZMklX5BzTo",
+          "embed_id": "8ZMklX5BzTo"
         },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "16:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "16:45"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1744763,
-        "titulo_tmdb": "La Tribu",
-        "voto": 7.0,
-        "votos": 1,
-        "url_tmdb": "https://www.themoviedb.org/movie/1744763",
-        "imdb_id": "",
-        "url_imdb": "",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/5I8JcdKjzJos1MnWVyAuyEExM0h.jpg",
-        "director": "Bruno Ascenzo",
-        "reparto": [
-          {
-            "nombre": "Carlos Carlín",
-            "personaje": "Silvano"
-          },
-          {
-            "nombre": "Alejandra Guerra",
-            "personaje": "Tere"
-          },
-          {
-            "nombre": "Jely Reategui",
-            "personaje": "Belén"
-          },
-          {
-            "nombre": "Nicolás Galindo",
-            "personaje": "Ettore"
-          },
-          {
-            "nombre": "Óscar Meza",
-            "personaje": "Diego"
-          },
-          {
-            "nombre": "Luciana Arispe",
-            "personaje": "Giulia"
-          }
-        ],
-        "generos": [
-          "Comedia"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "",
-        "estreno": "8 oct 2026",
-        "duracion_min": 100,
+        "sinopsis_tmdb": "El aspirante a campeón de carreras Rayo McQueen parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
+        "estreno": "8 jun 2006",
+        "duracion_min": 116,
         "paises": [
-          "Perú"
-        ],
-        "idioma": "Español",
-        "titulo_original": "La Tribu"
-      }
-    },
-    {
-      "titulo": "Vértigo 2: Punto Muerto",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002977?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Thriller",
-      "clasificacion": "+14",
-      "duracion": "97 min",
-      "director": "Michael Spierig, Peter Spierig",
-      "actores": "Harriet Slater, Arsema Thomas, Tom Brittney, Virginia Gardner, สหจักร บุญธนกิจ, Korakod Yensuk",
-      "estreno": "",
-      "sinopsis": "Tras sobrevivir a una experiencia extrema, un nuevo grupo de jóvenes se enfrenta a un desafío aún más peligroso en un entorno remoto en Tailandia. A cientos de metros de altura, sin escapatoria y con condiciones impredecibles, deberán luchar contra el miedo, el tiempo y sus propios límites para sobrevivir.",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=IRJGXHvc-Hs",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "19:50",
-                "22:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:50",
-            "22:10"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1101412,
-        "titulo_tmdb": "Fall 2: Deadpoint",
-        "voto": 7.3,
-        "votos": 469,
-        "url_tmdb": "https://www.themoviedb.org/movie/1101412",
-        "imdb_id": "tt31192372",
-        "url_imdb": "https://www.imdb.com/title/tt31192372/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/ccBIyg1ITvuCDr4eMeEH0ZgNh4t.jpg",
-        "director": "Michael Spierig, Peter Spierig",
-        "reparto": [
-          {
-            "nombre": "Harriet Slater",
-            "personaje": "Jax Hunter"
-          },
-          {
-            "nombre": "Arsema Thomas",
-            "personaje": "Billie"
-          },
-          {
-            "nombre": "Tom Brittney",
-            "personaje": "Jon Platt"
-          },
-          {
-            "nombre": "Virginia Gardner",
-            "personaje": "Shiloh Hunter"
-          },
-          {
-            "nombre": "สหจักร บุญธนกิจ",
-            "personaje": "Thai Barman"
-          },
-          {
-            "nombre": "Korakod Yensuk",
-            "personaje": "Large Woman"
-          }
-        ],
-        "generos": [
-          "Suspense"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, un aterrador desprendimiento de rocas les deja varados a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia y el final.",
-        "estreno": "1 sep 2026",
-        "duracion_min": 98,
-        "paises": [
-          "Reino Unido",
           "Estados Unidos"
         ],
         "idioma": "Inglés",
-        "titulo_original": "Fall 2: Deadpoint"
+        "titulo_original": "Cars"
       }
     },
     {
@@ -1398,23 +1421,6 @@
       "fuente_cine": "Cineplanet",
       "peliculas": [
         {
-          "titulo": "Cars (20 años)",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003096?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Animación",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "17:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:20"
-          ]
-        },
-        {
           "titulo": "El Corazón de la Bestia",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002975?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Acción",
@@ -1423,14 +1429,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:40",
                 "20:00",
                 "22:20"
               ]
             }
           ],
           "horarios": [
-            "17:40",
             "20:00",
             "22:20"
           ]
@@ -1461,14 +1465,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:10",
                 "19:20",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "17:10",
             "19:20",
             "21:30"
           ]
@@ -1482,16 +1484,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
-                "18:10",
                 "20:20",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "16:00",
-            "18:10",
             "20:20",
             "22:30"
           ]
@@ -1505,13 +1503,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:40",
                 "22:00"
               ]
             }
           ],
           "horarios": [
-            "16:40",
             "22:00"
           ]
         },
@@ -1615,7 +1611,7 @@
           ]
         },
         {
-          "titulo": "Cars (20 años)",
+          "titulo": "Cars",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/cars.jpg",
           "genero": "Animado",
           "clasificacion": "Todo Espectador",
@@ -1813,7 +1809,7 @@
       "fuente_cine": "Movie Time",
       "peliculas": [
         {
-          "titulo": "Cars (20 años)",
+          "titulo": "Cars",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/efb1594c-fe00-4bff-ae29-79ccdd277e36.jpeg",
           "genero": "",
           "clasificacion": "APT",
