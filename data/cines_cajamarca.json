@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-14 07:29",
+  "actualizado": "2026-10-14 08:03",
   "fecha_objetivo": "2026-10-14",
   "peliculas": [
     {
@@ -61,7 +61,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/madre-siniestra-12305_252",
       "trailer_url": "https://youtu.be/mnXYYwnfWlQ",
-      "sinopsis": "La historia sigue a Bela, una joven que comienza a vincularse con una presencia oscura dentro de su hogar: una entidad siniestra que adopta la apariencia de su madre y la arrastra a un mundo donde el amor, el miedo y lo sobrenatural se confunden peligrosamente.",
+      "sinopsis": "Una madre aparentemente amorosa oculta oscuros secretos que amenazan a su familia.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1400837,
@@ -164,7 +164,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-arbol-magico-12276_252",
       "trailer_url": "https://www.youtube.com/results?search_query=El%20%C3%81rbol%20M%C3%A1gico%20trailer%20espanol",
-      "sinopsis": "Cuenta la historia de Polly (Claire Foy) y Tim (Andrew Garfield), quienes se mudan con sus hijos a una remota campiña inglesa en busca de un nuevo comienzo. Sin Wi-Fi ni electricidad, los niños pronto descubren un árbol mágico habitado por excéntricas criaturas que los transporta a mundos fantásticos y cambiantes. A través de estas increíbles aventuras, la familia no solo vive momentos extraordina",
+      "sinopsis": "Un grupo de niños descubre un árbol con poderes sobrenaturales que cambia sus vidas.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1140521,
@@ -276,7 +276,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-tribu-12308_252",
       "trailer_url": "https://www.youtube.com/watch?v=Ye8lukNZshI",
-      "sinopsis": "Una reunión familiar donde todo sale mal… y luego empeora. Silvano solo quería festejar el cumpleaños de su esposa en paz, pero sus tres hijos invaden la casa con sus respectivas parejas y convierten lo que debía ser una celebración en un campo de batalla donde sobran los secretos, vuelan las indirectas y resurgen viejos rencores. ¿Será este encuentro un desastre inolvidable? ¿O podrán sobrevivir ",
+      "sinopsis": "Una comunidad aislada lucha por sobrevivir y preservar sus tradiciones frente a fuerzas externas.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1744763,
@@ -383,7 +383,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "Sigue a un desafortunado mensajero encargado de entregar un paquete a un hospital remoto. Pronto se encuentra atrapado en medio de una epidemia y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
+      "sinopsis": "En una noche de caos, los supervivientes de un brote zombi deben encontrar una cura antes del amanecer.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -494,7 +494,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Tras un aterrador accidente aéreo, el oficial de Fuerzas Especiales James Belmont (Brad Pitt) y su perro de combate, Odin, quedan varados en lo profundo de la naturaleza salvaje de Alaska. Juntos, se ven obligados a librar una brutal lucha por sobrevivir frente a los elementos.",
+      "sinopsis": "Un hombre se enfrenta a una criatura legendaria que acecha los bosques de su pueblo.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
@@ -1400,7 +1400,7 @@
     }
   ],
   "estado": "ok",
-  "motor": "gemini",
+  "motor": "groq",
   "fuentes_extra": [
     "Cineplanet",
     "Movie Time"
