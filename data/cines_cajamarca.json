@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-13 17:03",
+  "actualizado": "2026-10-13 20:03",
   "fecha_objetivo": "2026-10-13",
   "peliculas": [
     {
@@ -20,16 +20,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:50",
-                "18:00",
                 "20:20",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "15:50",
-            "18:00",
             "20:20",
             "22:30"
           ]
@@ -83,7 +79,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/madre-siniestra-12305_252",
       "trailer_url": "https://youtu.be/mnXYYwnfWlQ",
-      "sinopsis": "Una madre descubre oscuros secretos familiares mientras lucha por proteger a sus hijos de una amenaza sobrenatural.",
+      "sinopsis": "Una madre descubre oscuros secretos familiares mientras protege a sus hijos de una amenaza sobrenatural.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1400837,
@@ -136,6 +132,111 @@
         ],
         "idioma": "Inglés",
         "titulo_original": "Other Mommy"
+      }
+    },
+    {
+      "titulo": "El Árbol Mágico",
+      "poster": "",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "17:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:00"
+          ]
+        },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:40"
+          ]
+        }
+      ],
+      "genero": "Fantasía",
+      "duracion": "110 minutos",
+      "clasificacion": "Todos",
+      "director": "Ben Gregor",
+      "actores": "Billie Gadsdon, Nicola Coughlan, Delilah Bennett-Cardy, Phoenix Laroche, Nonso Anozie, Andrew Garfield",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/el-arbol-magico-12276_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=El%20%C3%81rbol%20M%C3%A1gico%20trailer%20espanol",
+      "sinopsis": "Un grupo de niños encuentra un árbol que concede deseos, pero cada petición trae consecuencias inesperadas.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1140521,
+        "titulo_tmdb": "El árbol muy muy lejano",
+        "voto": 6.7,
+        "votos": 92,
+        "url_tmdb": "https://www.themoviedb.org/movie/1140521",
+        "imdb_id": "tt7734244",
+        "url_imdb": "https://www.imdb.com/title/tt7734244/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/fpW5GntifGxAG7Js99Wdhq9K0s5.jpg",
+        "director": "Ben Gregor",
+        "reparto": [
+          {
+            "nombre": "Billie Gadsdon",
+            "personaje": "Fran Thompson"
+          },
+          {
+            "nombre": "Nicola Coughlan",
+            "personaje": "Silky"
+          },
+          {
+            "nombre": "Delilah Bennett-Cardy",
+            "personaje": "Beth Thompson"
+          },
+          {
+            "nombre": "Phoenix Laroche",
+            "personaje": "Joe Thompson"
+          },
+          {
+            "nombre": "Nonso Anozie",
+            "personaje": "Moonface"
+          },
+          {
+            "nombre": "Andrew Garfield",
+            "personaje": "Tim Thompson"
+          }
+        ],
+        "generos": [
+          "Aventura",
+          "Familia",
+          "Fantasía"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=qsrMA7Eovaw",
+          "embed_id": "qsrMA7Eovaw"
+        },
+        "sinopsis_tmdb": "Polly, Tim, y sus tres hijos son una familia moderna que se ve obligada a mudarse a la remota campiña inglesa. Poco después de su llegada, los niños descubren un árbol mágico y a sus extraordinarios y excéntricos habitantes.",
+        "estreno": "26 mar 2026",
+        "duracion_min": 110,
+        "paises": [
+          "Reino Unido",
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "The Magic Faraway Tree"
       }
     },
     {
@@ -204,13 +305,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/hope--el-primer-impacto-12306_252",
       "trailer_url": "https://youtu.be/SCnSzqz7ctc?si=nwamMpTHq7oFPbKi",
-      "sinopsis": "En el primer contacto con una civilización extraterrestre, la humanidad debe decidir entre la cooperación y la supervivencia.",
+      "sinopsis": "En el primer contacto con una civilización alienígena, la humanidad lucha por sobrevivir al devastador impacto de una nave extraterrestre.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1058424,
         "titulo_tmdb": "Hope",
         "voto": 7.2,
-        "votos": 126,
+        "votos": 137,
         "url_tmdb": "https://www.themoviedb.org/movie/1058424",
         "imdb_id": "tt27369017",
         "url_imdb": "https://www.imdb.com/title/tt27369017/",
@@ -276,14 +377,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:10",
                 "19:20",
                 "21:40"
               ]
             }
           ],
           "horarios": [
-            "17:10",
             "19:20",
             "21:40"
           ]
@@ -315,7 +414,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-tribu-12308_252",
       "trailer_url": "https://www.youtube.com/watch?v=Ye8lukNZshI",
-      "sinopsis": "Una joven se une a una tribu indígena para descubrir sus raíces y enfrentar un conflicto territorial.",
+      "sinopsis": "Una comunidad aislada en la selva defiende sus tradiciones cuando una corporación extranjera intenta apoderarse de sus tierras.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1744763,
@@ -385,13 +484,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:50",
                 "22:20"
               ]
             }
           ],
           "horarios": [
-            "16:50",
             "22:20"
           ]
         },
@@ -438,7 +535,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "En una noche de caos, los supervivientes de Raccoon City luchan contra hordas de zombis y criaturas mutantes.",
+      "sinopsis": "En una noche sin luna, los supervivientes de Raccoon City deben enfrentar una nueva ola de zombis y criaturas mutantes.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
@@ -512,14 +609,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:30",
                 "18:50",
                 "21:20"
               ]
             }
           ],
           "horarios": [
-            "16:30",
             "18:50",
             "21:20"
           ]
@@ -567,7 +662,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Un cazador de monstruos busca la criatura legendaria que aterroriza a un pueblo remoto.",
+      "sinopsis": "Un cazador de monstruos persigue a una bestia legendaria que aterroriza a un pueblo remoto, revelando secretos oscuros del pasado.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
@@ -657,7 +752,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/vertigo-2-punto-muerto-12297_252",
       "trailer_url": "https://www.youtube.com/watch?v=IRJGXHvc-Hs",
-      "sinopsis": "El detective John 'Scottie' Ferguson vuelve a investigar un caso de asesinato mientras su propia cordura se tambalea.",
+      "sinopsis": "El detective John 'Mac' MacReady regresa a un caso sin resolver, descubriendo que el punto muerto es solo el comienzo de una conspiración mortal.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1101412,
@@ -711,39 +806,115 @@
       }
     },
     {
-      "titulo": "Cars (20 años)",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003096?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Animación",
-      "clasificacion": "APT",
-      "duracion": "117 min",
-      "director": "",
-      "actores": "",
-      "estreno": "",
-      "sinopsis": "Rayo McQueen, un audaz y presumido auto de carreras novato destinado al éxito, descubre que la vida es acerca del recorrido, no de la meta final, cuando se encuentra de pronto en el tranquilo pueblo de Radiador Springs, en la Ruta 66. Allí McQueen conoce a los peculiares personajes de este pueblo, entre ellos Doc Hudson, Mate y Sally.",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "",
-      "fuente_peli": "Cineplanet",
+      "titulo": "Hachiko Siempre A Tu Lado",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/10/hachiko-siempre-a-tu-lado-47907-0.webp",
       "cines": [
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
           "formatos": [
             {
-              "formato": "2D REGULAR DOBLADA",
+              "formato": "",
               "horarios": [
-                "17:00"
+                "15:30",
+                "17:30",
+                "19:30"
               ]
             }
           ],
           "horarios": [
-            "17:00"
+            "15:30",
+            "17:30",
+            "19:30"
           ]
         },
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca",
+          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00"
+          ]
+        }
+      ],
+      "genero": "Drama",
+      "duracion": "93 minutos",
+      "clasificacion": "Todos",
+      "director": "Lasse Hallström",
+      "actores": "Richard Gere, Joan Allen, Sarah Roemer, Cary-Hiroyuki Tagawa, Jason Alexander, Erick Avari, Davenia McFadden, Kevin DeCoste, Chico, Layla, Forest.",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/hachiko-siempre-a-tu-lado-12310_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Hachiko%20Siempre%20A%20Tu%20Lado%20trailer%20espanol",
+      "sinopsis": "Basada en la historia real del perro Hachiko, la película narra la lealtad inquebrantable de un perro que espera a su dueño fallecido en la estación de tren.",
+      "puntaje": "8.1",
+      "tmdb": {
+        "tmdb_id": 28178,
+        "titulo_tmdb": "Siempre a tu lado (Hachiko)",
+        "voto": 8.0,
+        "votos": 7366,
+        "url_tmdb": "https://www.themoviedb.org/movie/28178",
+        "imdb_id": "tt1028532",
+        "url_imdb": "https://www.imdb.com/title/tt1028532/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/rLPMD8BOHjvvjjCX7BZQdqNWBm2.jpg",
+        "director": "Lasse Hallström",
+        "reparto": [
+          {
+            "nombre": "Richard Gere",
+            "personaje": "Parker Wilson"
+          },
+          {
+            "nombre": "Joan Allen",
+            "personaje": "Cate Wilson"
+          },
+          {
+            "nombre": "Sarah Roemer",
+            "personaje": "Andy"
+          },
+          {
+            "nombre": "Cary-Hiroyuki Tagawa",
+            "personaje": "Ken"
+          },
+          {
+            "nombre": "Erick Avari",
+            "personaje": "Jasjeet"
+          },
+          {
+            "nombre": "Robbie Sublett",
+            "personaje": "Michael"
+          }
+        ],
+        "generos": [
+          "Drama",
+          "Familia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=_VgwwLKshDs",
+          "embed_id": "_VgwwLKshDs"
+        },
+        "sinopsis_tmdb": "Basada en una historia real. Un profesor de universidad adopta a un perro vagabundo en una estación del tren. Tras recabar información sobre el animal, el profesor descubre que el perro iba a los andenes a diario durante semanas para esperar el regreso de su amo, pero éste había muerto en un accidente en la ciudad. El perro Hachiko, al lado de su nuevo amo a quien también le cambiará la vida cuando descubre los lazos que se pueden crear entre un animal y una persona.",
+        "estreno": "8 jun 2009",
+        "duracion_min": 93,
+        "paises": [
+          "Reino Unido",
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Hachi: A Dog's Tale"
+      }
+    },
+    {
+      "titulo": "Cars",
+      "poster": "https://cdn.carteleracine.pe/cine/2006/6/cars-47898-0.webp",
+      "cines": [
         {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
@@ -776,7 +947,72 @@
             "15:30"
           ]
         }
-      ]
+      ],
+      "genero": "Animado",
+      "duracion": "117 minutos",
+      "clasificacion": "Todos",
+      "director": "John Lasseter",
+      "actores": "Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy, Cheech Marin, Tony Shalhoub",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/cars-1642_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Cars%20trailer%20espanol",
+      "sinopsis": "El coche de carreras Rayo McQueen y sus amigos viven aventuras en la Ruta 66 mientras aprenden sobre la amistad y el trabajo en equipo.",
+      "puntaje": "7.2",
+      "tmdb": {
+        "tmdb_id": 920,
+        "titulo_tmdb": "Cars",
+        "voto": 7.1,
+        "votos": 15628,
+        "url_tmdb": "https://www.themoviedb.org/movie/920",
+        "imdb_id": "tt0317219",
+        "url_imdb": "https://www.imdb.com/title/tt0317219/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/hcQFxfTrkC00hAk9Jwz38wuxNV6.jpg",
+        "director": "John Lasseter",
+        "reparto": [
+          {
+            "nombre": "Owen Wilson",
+            "personaje": "Lightning McQueen (voice)"
+          },
+          {
+            "nombre": "Paul Newman",
+            "personaje": "Doc Hudson (voice)"
+          },
+          {
+            "nombre": "Bonnie Hunt",
+            "personaje": "Sally Carrera (voice)"
+          },
+          {
+            "nombre": "Larry the Cable Guy",
+            "personaje": "Mater (voice)"
+          },
+          {
+            "nombre": "Cheech Marin",
+            "personaje": "Ramone (voice)"
+          },
+          {
+            "nombre": "Tony Shalhoub",
+            "personaje": "Luigi (voice)"
+          }
+        ],
+        "generos": [
+          "Animación",
+          "Aventura",
+          "Comedia",
+          "Familia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=8ZMklX5BzTo",
+          "embed_id": "8ZMklX5BzTo"
+        },
+        "sinopsis_tmdb": "El aspirante a campeón de carreras Rayo McQueen parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
+        "estreno": "8 jun 2006",
+        "duracion_min": 116,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Cars"
+      }
     },
     {
       "titulo": "Avengers: Doomsday(preventa)",
@@ -902,7 +1138,7 @@
       "clasificacion": "Todo Espectador",
       "duracion": "03:03",
       "sinopsis": "Después de los Eventos Devastadores de 'Avengers: Infinity War', el Universo Está en Ruinas Debido a las Acciones de Thanos, el Titán Loco. Con la Ayuda de los Aliados Que Quedaron, los Vengadores Deberán Reunirse una Vez Más Para Intentar Deshacer Sus Acciones y Restaurar el Orden en el Universo de una Vez Por Todas, Sin Importar Cuáles Son las Consecuencias... Cuarta y Última Entrega de la Saga ",
-      "director": "Joe Russo, Anthony Russo",
+      "director": "Anthony Russo, Joe Russo",
       "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
       "estreno": "",
       "puntaje": "",
@@ -933,12 +1169,12 @@
         "tmdb_id": 299534,
         "titulo_tmdb": "Vengadores: Endgame",
         "voto": 8.2,
-        "votos": 28996,
+        "votos": 28998,
         "url_tmdb": "https://www.themoviedb.org/movie/299534",
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
         "poster_tmdb": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-        "director": "Joe Russo, Anthony Russo",
+        "director": "Anthony Russo, Joe Russo",
         "reparto": [
           {
             "nombre": "Robert Downey Jr.",
@@ -982,219 +1218,6 @@
         ],
         "idioma": "Inglés",
         "titulo_original": "Avengers: Endgame"
-      }
-    },
-    {
-      "titulo": "El Arbol Magico",
-      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/the_magic_faraway_tree-966140960-large.jpg",
-      "genero": "Fantasia",
-      "clasificacion": "Todo Espectador",
-      "duracion": "01:50",
-      "sinopsis": "Polly, Tim, y Sus Tres Hijos Son una Familia Moderna Que Se Ve Obligada a Mudarse a la Remota Campiña Inglesa. Poco Después de Su Llegada, los Niños Descubren un Árbol Mágico y a Sus Extraordinarios y Excéntricos Habitantes. Conocen a Personajes Entrañables Como Cara de Luna, Seditas, el Señor Comosellame, Doña Lavamucho O el Señor Cazuelas. En la Copa del Árbol, Son Transportados a Mundos Descono",
-      "director": "Ben Gregor",
-      "actores": "Billie Gadsdon, Nicola Coughlan, Delilah Bennett-Cardy, Phoenix Laroche, Nonso Anozie, Andrew Garfield",
-      "estreno": "",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=qsrMA7Eovaw",
-      "fuente_peli": "Cinerama",
-      "cines": [
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:00",
-                "17:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00",
-            "17:00"
-          ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "17:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:40"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1140521,
-        "titulo_tmdb": "El árbol muy muy lejano",
-        "voto": 6.7,
-        "votos": 92,
-        "url_tmdb": "https://www.themoviedb.org/movie/1140521",
-        "imdb_id": "tt7734244",
-        "url_imdb": "https://www.imdb.com/title/tt7734244/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/fpW5GntifGxAG7Js99Wdhq9K0s5.jpg",
-        "director": "Ben Gregor",
-        "reparto": [
-          {
-            "nombre": "Billie Gadsdon",
-            "personaje": "Fran Thompson"
-          },
-          {
-            "nombre": "Nicola Coughlan",
-            "personaje": "Silky"
-          },
-          {
-            "nombre": "Delilah Bennett-Cardy",
-            "personaje": "Beth Thompson"
-          },
-          {
-            "nombre": "Phoenix Laroche",
-            "personaje": "Joe Thompson"
-          },
-          {
-            "nombre": "Nonso Anozie",
-            "personaje": "Moonface"
-          },
-          {
-            "nombre": "Andrew Garfield",
-            "personaje": "Tim Thompson"
-          }
-        ],
-        "generos": [
-          "Aventura",
-          "Familia",
-          "Fantasía"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=qsrMA7Eovaw",
-          "embed_id": "qsrMA7Eovaw"
-        },
-        "sinopsis_tmdb": "Polly, Tim, y sus tres hijos son una familia moderna que se ve obligada a mudarse a la remota campiña inglesa. Poco después de su llegada, los niños descubren un árbol mágico y a sus extraordinarios y excéntricos habitantes.",
-        "estreno": "26 mar 2026",
-        "duracion_min": 110,
-        "paises": [
-          "Reino Unido",
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "The Magic Faraway Tree"
-      }
-    },
-    {
-      "titulo": "Hachiko Siempre a Tu Lado",
-      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/hachi_a_dog_s_tale_hachiko_a_dog_s_story-386676685-large.jpg",
-      "genero": "Familiar",
-      "clasificacion": "Todo Espectador",
-      "duracion": "01:35",
-      "sinopsis": "Parker Wilson, un Profesor Universitario Que Da Clases de Música, Recoge un Día a un Perro de Origen Japonés y Raza Akita, Al Que Encuentra Abandonado en una Estación. Como Nadie Lo Reclama, Se Lo Lleva a Su Casa. Parker Va Descubriendo Entonces los Entrañables Lazos Que Pueden Unir a una Persona y a un Animal. Remake de la Película Japonesa \"Hachiko Monogatari\" (1987) Dirigida Por Seijirô Kôyama ",
-      "director": "Lasse Hallström",
-      "actores": "Richard Gere, Joan Allen, Sarah Roemer, Cary-Hiroyuki Tagawa, Erick Avari, Robbie Sublett",
-      "estreno": "",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=_VgwwLKshDs",
-      "fuente_peli": "Cinerama",
-      "cines": [
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30",
-                "17:30",
-                "19:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30",
-            "17:30",
-            "19:30"
-          ]
-        },
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca",
-          "direccion": "Av. Via evitamiento S/N 3° piso Open Plaza",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 28178,
-        "titulo_tmdb": "Siempre a tu lado (Hachiko)",
-        "voto": 8.0,
-        "votos": 7365,
-        "url_tmdb": "https://www.themoviedb.org/movie/28178",
-        "imdb_id": "tt1028532",
-        "url_imdb": "https://www.imdb.com/title/tt1028532/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/rLPMD8BOHjvvjjCX7BZQdqNWBm2.jpg",
-        "director": "Lasse Hallström",
-        "reparto": [
-          {
-            "nombre": "Richard Gere",
-            "personaje": "Parker Wilson"
-          },
-          {
-            "nombre": "Joan Allen",
-            "personaje": "Cate Wilson"
-          },
-          {
-            "nombre": "Sarah Roemer",
-            "personaje": "Andy"
-          },
-          {
-            "nombre": "Cary-Hiroyuki Tagawa",
-            "personaje": "Ken"
-          },
-          {
-            "nombre": "Erick Avari",
-            "personaje": "Jasjeet"
-          },
-          {
-            "nombre": "Robbie Sublett",
-            "personaje": "Michael"
-          }
-        ],
-        "generos": [
-          "Drama",
-          "Familia"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=_VgwwLKshDs",
-          "embed_id": "_VgwwLKshDs"
-        },
-        "sinopsis_tmdb": "Basada en una historia real. Un profesor de universidad adopta a un perro vagabundo en una estación del tren. Tras recabar información sobre el animal, el profesor descubre que el perro iba a los andenes a diario durante semanas para esperar el regreso de su amo, pero éste había muerto en un accidente en la ciudad. El perro Hachiko, al lado de su nuevo amo a quien también le cambiará la vida cuando descubre los lazos que se pueden crear entre un animal y una persona.",
-        "estreno": "8 jun 2009",
-        "duracion_min": 93,
-        "paises": [
-          "Reino Unido",
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Hachi: A Dog's Tale"
       }
     },
     {
@@ -1401,23 +1424,6 @@
       "fuente_cine": "Cineplanet",
       "peliculas": [
         {
-          "titulo": "Cars (20 años)",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003096?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Animación",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "17:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:00"
-          ]
-        },
-        {
           "titulo": "El Corazón de la Bestia",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002975?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Acción",
@@ -1426,14 +1432,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:30",
                 "18:50",
                 "21:20"
               ]
             }
           ],
           "horarios": [
-            "16:30",
             "18:50",
             "21:20"
           ]
@@ -1464,14 +1468,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:10",
                 "19:20",
                 "21:40"
               ]
             }
           ],
           "horarios": [
-            "17:10",
             "19:20",
             "21:40"
           ]
@@ -1485,16 +1487,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:50",
-                "18:00",
                 "20:20",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "15:50",
-            "18:00",
             "20:20",
             "22:30"
           ]
@@ -1508,13 +1506,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:50",
                 "22:20"
               ]
             }
           ],
           "horarios": [
-            "16:50",
             "22:20"
           ]
         },
@@ -1618,7 +1614,7 @@
           ]
         },
         {
-          "titulo": "Cars (20 años)",
+          "titulo": "Cars",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/cars.jpg",
           "genero": "Animado",
           "clasificacion": "Todo Espectador",
@@ -1637,7 +1633,7 @@
           ]
         },
         {
-          "titulo": "El Arbol Magico",
+          "titulo": "El Árbol Mágico",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/the_magic_faraway_tree-966140960-large.jpg",
           "genero": "Fantasia",
           "clasificacion": "Todo Espectador",
@@ -1677,7 +1673,7 @@
           ]
         },
         {
-          "titulo": "Hachiko Siempre a Tu Lado",
+          "titulo": "Hachiko Siempre A Tu Lado",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/hachi_a_dog_s_tale_hachiko_a_dog_s_story-386676685-large.jpg",
           "genero": "Familiar",
           "clasificacion": "Todo Espectador",
@@ -1816,7 +1812,7 @@
       "fuente_cine": "Movie Time",
       "peliculas": [
         {
-          "titulo": "Cars (20 años)",
+          "titulo": "Cars",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/efb1594c-fe00-4bff-ae29-79ccdd277e36.jpeg",
           "genero": "",
           "clasificacion": "APT",
@@ -1858,7 +1854,7 @@
           "trailer_url": "https://www.youtube.com/watch?v=OAGoEmCirOY"
         },
         {
-          "titulo": "El Arbol Magico",
+          "titulo": "El Árbol Mágico",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/9f979d94-ac88-4102-b91c-0b80be8f18da.jpeg",
           "genero": "",
           "clasificacion": "APT",
@@ -1878,7 +1874,7 @@
           "trailer_url": "https://www.youtube.com/watch?v=2fFI8g3iR9c"
         },
         {
-          "titulo": "Hachiko Siempre a Tu Lado",
+          "titulo": "Hachiko Siempre A Tu Lado",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/8b9c9dbe-8823-49ea-9d25-cb2fe224b150.jpeg",
           "genero": "",
           "clasificacion": "APT",
