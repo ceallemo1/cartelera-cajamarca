@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-14 17:03",
+  "actualizado": "2026-10-14 20:03",
   "fecha_objetivo": "2026-10-14",
   "peliculas": [
     {
@@ -20,16 +20,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
-                "18:10",
                 "20:20",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "16:00",
-            "18:10",
             "20:20",
             "22:30"
           ]
@@ -89,7 +85,7 @@
         "tmdb_id": 1400837,
         "titulo_tmdb": "La otra madre",
         "voto": 6.0,
-        "votos": 96,
+        "votos": 101,
         "url_tmdb": "https://www.themoviedb.org/movie/1400837",
         "imdb_id": "tt36586020",
         "url_imdb": "https://www.imdb.com/title/tt36586020/",
@@ -185,7 +181,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-arbol-magico-12276_252",
       "trailer_url": "https://www.youtube.com/results?search_query=El%20%C3%81rbol%20M%C3%A1gico%20trailer%20espanol",
-      "sinopsis": "Un grupo de niños encuentra un árbol con poderes mágicos que transforma sus deseos en realidad.",
+      "sinopsis": "Un grupo de niños encuentra un árbol que concede deseos, pero cada deseo tiene un precio inesperado.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1140521,
@@ -244,111 +240,6 @@
       }
     },
     {
-      "titulo": "Hope - El Primer Impacto",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003107?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "18:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:50"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "21:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "21:20"
-          ]
-        }
-      ],
-      "genero": "Acción",
-      "duracion": "160 minutos",
-      "clasificacion": "12 Años",
-      "director": "Na Hong-jin",
-      "actores": "Hwang Jung-min, Zo In-sung, Hoyeon.",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/hope--el-primer-impacto-12306_252",
-      "trailer_url": "https://youtu.be/SCnSzqz7ctc?si=nwamMpTHq7oFPbKi",
-      "sinopsis": "En el primer contacto con una amenaza extraterrestre, la humanidad lucha por sobrevivir al impacto inicial.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1058424,
-        "titulo_tmdb": "Hope",
-        "voto": 7.2,
-        "votos": 154,
-        "url_tmdb": "https://www.themoviedb.org/movie/1058424",
-        "imdb_id": "tt27369017",
-        "url_imdb": "https://www.imdb.com/title/tt27369017/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/hHPIefotew38oJm3YCJPAzpi26c.jpg",
-        "director": "나홍진",
-        "reparto": [
-          {
-            "nombre": "황정민",
-            "personaje": "Go Bum-seok"
-          },
-          {
-            "nombre": "조인성",
-            "personaje": "Go Sung-ki"
-          },
-          {
-            "nombre": "정호연",
-            "personaje": "Lim Sung-ae"
-          },
-          {
-            "nombre": "Alicia Vikander",
-            "personaje": "J'aur"
-          },
-          {
-            "nombre": "Michael Fassbender",
-            "personaje": "Ma'veyyo"
-          },
-          {
-            "nombre": "Taylor Russell",
-            "personaje": "Ai'dovor"
-          }
-        ],
-        "generos": [
-          "Ciencia ficción",
-          "Misterio",
-          "Acción"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=l9egJLscA0U",
-          "embed_id": "l9egJLscA0U"
-        },
-        "sinopsis_tmdb": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
-        "estreno": "15 jul 2026",
-        "duracion_min": 157,
-        "paises": [
-          "Corea del Sur"
-        ],
-        "idioma": "Coreano",
-        "titulo_original": "호프"
-      }
-    },
-    {
       "titulo": "La Tribu",
       "poster": "https://cdn.carteleracine.pe/cine/2026/10/la-tribu-47905-1.jpg",
       "cines": [
@@ -363,14 +254,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:10",
                 "19:20",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "17:10",
             "19:20",
             "21:30"
           ]
@@ -402,7 +291,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-tribu-12308_252",
       "trailer_url": "https://www.youtube.com/watch?v=Ye8lukNZshI",
-      "sinopsis": "Una comunidad aislada debe unir fuerzas para proteger su territorio de fuerzas externas que amenazan su forma de vida.",
+      "sinopsis": "Una comunidad aislada en la selva protege sus tradiciones mientras enfrenta la amenaza de forasteros codiciosos.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1744763,
@@ -486,8 +375,8 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/street-fighter-12302_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Street%20Fighter%20trailer%20espanol",
-      "sinopsis": "Los mejores luchadores del mundo compiten en torneos mortales mientras buscan venganza y honor.",
-      "puntaje": "5.6",
+      "sinopsis": "El legendario luchador Ryu y sus rivales compiten en torneos mortales mientras enfrentan una conspiración global.",
+      "puntaje": "5.8",
       "tmdb": {
         "tmdb_id": 1153576,
         "titulo_tmdb": "Street Fighter",
@@ -558,13 +447,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:40",
                 "22:00"
               ]
             }
           ],
           "horarios": [
-            "16:40",
             "22:00"
           ]
         },
@@ -611,13 +498,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
       "trailer_url": "https://www.youtube.com/watch?v=VuaZvPZH62M",
-      "sinopsis": "La heroína de Resident Evil se enfrenta a una noche de terror cuando una nueva amenaza biológica despierta.",
+      "sinopsis": "En una noche de terror, los supervivientes de Raccoon City se enfrentan a una horda de zombis liderada por una nueva amenaza.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1423191,
         "titulo_tmdb": "Resident Evil",
         "voto": 7.3,
-        "votos": 923,
+        "votos": 936,
         "url_tmdb": "https://www.themoviedb.org/movie/1423191",
         "imdb_id": "tt35538033",
         "url_imdb": "https://www.imdb.com/title/tt35538033/",
@@ -685,14 +572,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:40",
                 "20:00",
                 "22:20"
               ]
             }
           ],
           "horarios": [
-            "17:40",
             "20:00",
             "22:20"
           ]
@@ -738,7 +623,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Un cazador de monstruos persigue a una bestia legendaria que aterroriza a un pequeño pueblo.",
+      "sinopsis": "Un cazador de monstruos busca redimirse mientras se enfrenta a una bestia legendaria que aterroriza su pueblo.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
@@ -828,13 +713,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/vertigo-2-punto-muerto-12297_252",
       "trailer_url": "https://www.youtube.com/watch?v=IRJGXHvc-Hs",
-      "sinopsis": "El detective regresa a un caso sin resolver que lo lleva a un punto muerto donde la verdad se vuelve peligrosa.",
+      "sinopsis": "El detective retoma el caso del asesino en serie, descubriendo que el verdadero peligro está en un punto sin retorno.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1101412,
         "titulo_tmdb": "Fall 2: Deadpoint",
         "voto": 7.3,
-        "votos": 529,
+        "votos": 531,
         "url_tmdb": "https://www.themoviedb.org/movie/1101412",
         "imdb_id": "tt31192372",
         "url_imdb": "https://www.imdb.com/title/tt31192372/",
@@ -932,13 +817,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/hachiko-siempre-a-tu-lado-12310_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Hachiko%20Siempre%20A%20Tu%20Lado%20trailer%20espanol",
-      "sinopsis": "Basada en la historia real de un perro fiel que espera a su dueño fallecido en la estación de tren durante años.",
+      "sinopsis": "Basada en la historia real de Hachiko, un perro que esperó fielmente a su dueño fallecido durante años.",
       "puntaje": "8.1",
       "tmdb": {
         "tmdb_id": 28178,
         "titulo_tmdb": "Siempre a tu lado (Hachiko)",
         "voto": 8.0,
-        "votos": 7366,
+        "votos": 7368,
         "url_tmdb": "https://www.themoviedb.org/movie/28178",
         "imdb_id": "tt1028532",
         "url_imdb": "https://www.imdb.com/title/tt1028532/",
@@ -990,39 +875,9 @@
       }
     },
     {
-      "titulo": "Cars (20 años)",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003096?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Animación",
-      "clasificacion": "APT",
-      "duracion": "117 min",
-      "director": "",
-      "actores": "",
-      "estreno": "",
-      "sinopsis": "Rayo McQueen, un audaz y presumido auto de carreras novato destinado al éxito, descubre que la vida es acerca del recorrido, no de la meta final, cuando se encuentra de pronto en el tranquilo pueblo de Radiador Springs, en la Ruta 66. Allí McQueen conoce a los peculiares personajes de este pueblo, entre ellos Doc Hudson, Mate y Sally.",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "",
-      "fuente_peli": "Cineplanet",
+      "titulo": "Cars",
+      "poster": "https://cdn.carteleracine.pe/cine/2006/6/cars-47898-0.webp",
       "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "17:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:20"
-          ]
-        },
         {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
@@ -1055,7 +910,72 @@
             "15:30"
           ]
         }
-      ]
+      ],
+      "genero": "Animado",
+      "duracion": "117 minutos",
+      "clasificacion": "Todos",
+      "director": "John Lasseter",
+      "actores": "Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy, Cheech Marin, Tony Shalhoub",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/cars-1642_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Cars%20trailer%20espanol",
+      "sinopsis": "Los autos de carreras de Radiador Springs se embarcan en una aventura para descubrir la verdadera amistad y la velocidad.",
+      "puntaje": "7.1",
+      "tmdb": {
+        "tmdb_id": 920,
+        "titulo_tmdb": "Cars",
+        "voto": 7.1,
+        "votos": 15632,
+        "url_tmdb": "https://www.themoviedb.org/movie/920",
+        "imdb_id": "tt0317219",
+        "url_imdb": "https://www.imdb.com/title/tt0317219/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/hcQFxfTrkC00hAk9Jwz38wuxNV6.jpg",
+        "director": "John Lasseter",
+        "reparto": [
+          {
+            "nombre": "Owen Wilson",
+            "personaje": "Lightning McQueen (voice)"
+          },
+          {
+            "nombre": "Paul Newman",
+            "personaje": "Doc Hudson (voice)"
+          },
+          {
+            "nombre": "Bonnie Hunt",
+            "personaje": "Sally Carrera (voice)"
+          },
+          {
+            "nombre": "Larry the Cable Guy",
+            "personaje": "Mater (voice)"
+          },
+          {
+            "nombre": "Cheech Marin",
+            "personaje": "Ramone (voice)"
+          },
+          {
+            "nombre": "Tony Shalhoub",
+            "personaje": "Luigi (voice)"
+          }
+        ],
+        "generos": [
+          "Animación",
+          "Aventura",
+          "Comedia",
+          "Familia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=8ZMklX5BzTo",
+          "embed_id": "8ZMklX5BzTo"
+        },
+        "sinopsis_tmdb": "El aspirante a campeón de carreras Rayo McQueen parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
+        "estreno": "8 jun 2006",
+        "duracion_min": 116,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Cars"
+      }
     },
     {
       "titulo": "Avengers: Doomsday(preventa)",
@@ -1212,7 +1132,7 @@
         "tmdb_id": 299534,
         "titulo_tmdb": "Vengadores: Endgame",
         "voto": 8.2,
-        "votos": 28999,
+        "votos": 29002,
         "url_tmdb": "https://www.themoviedb.org/movie/299534",
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
@@ -1261,6 +1181,93 @@
         ],
         "idioma": "Inglés",
         "titulo_original": "Avengers: Endgame"
+      }
+    },
+    {
+      "titulo": "Hope : El Primer Impacto",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/hope-397969968-large.jpg",
+      "genero": "Accion",
+      "clasificacion": "Mayores de 14",
+      "duracion": "02:40",
+      "sinopsis": "Los Refuerzos Se Han Desviado Para Combatir los Incendios Forestales y Se Han Cortado Todas las Comunicaciones. El Jefe del Puesto Policial de Hope, Bum-seok, y la Agente Sung-ae Luchan Por Defender un Pueblo de Ancianos, Mientras Que en las Montañas, Sung-ki y los Lugareños Que Se Han Lanzado a la Búsqueda de la Bestia Se Ven, Por el Contrario, Acosados Por Ella. Lo Que Comienza Como Ignorancia S",
+      "director": "나홍진",
+      "actores": "황정민, 조인성, 정호연, Alicia Vikander, Michael Fassbender, Taylor Russell",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=l9egJLscA0U",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "21:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:20"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1058424,
+        "titulo_tmdb": "Hope",
+        "voto": 7.2,
+        "votos": 156,
+        "url_tmdb": "https://www.themoviedb.org/movie/1058424",
+        "imdb_id": "tt27369017",
+        "url_imdb": "https://www.imdb.com/title/tt27369017/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/hHPIefotew38oJm3YCJPAzpi26c.jpg",
+        "director": "나홍진",
+        "reparto": [
+          {
+            "nombre": "황정민",
+            "personaje": "Go Bum-seok"
+          },
+          {
+            "nombre": "조인성",
+            "personaje": "Go Sung-ki"
+          },
+          {
+            "nombre": "정호연",
+            "personaje": "Lim Sung-ae"
+          },
+          {
+            "nombre": "Alicia Vikander",
+            "personaje": "J'aur"
+          },
+          {
+            "nombre": "Michael Fassbender",
+            "personaje": "Ma'veyyo"
+          },
+          {
+            "nombre": "Taylor Russell",
+            "personaje": "Ai'dovor"
+          }
+        ],
+        "generos": [
+          "Ciencia ficción",
+          "Misterio",
+          "Acción"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=l9egJLscA0U",
+          "embed_id": "l9egJLscA0U"
+        },
+        "sinopsis_tmdb": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
+        "estreno": "15 jul 2026",
+        "duracion_min": 157,
+        "paises": [
+          "Corea del Sur"
+        ],
+        "idioma": "Coreano",
+        "titulo_original": "호프"
       }
     },
     {
@@ -1500,23 +1507,6 @@
       "fuente_cine": "Cineplanet",
       "peliculas": [
         {
-          "titulo": "Cars (20 años)",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003096?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Animación",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "17:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:20"
-          ]
-        },
-        {
           "titulo": "El Corazón de la Bestia",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002975?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Acción",
@@ -1525,33 +1515,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:40",
                 "20:00",
                 "22:20"
               ]
             }
           ],
           "horarios": [
-            "17:40",
             "20:00",
             "22:20"
-          ]
-        },
-        {
-          "titulo": "Hope - El Primer Impacto",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003107?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Ficción",
-          "clasificacion": "+14",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "18:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:50"
           ]
         },
         {
@@ -1563,14 +1534,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:10",
                 "19:20",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "17:10",
             "19:20",
             "21:30"
           ]
@@ -1584,16 +1553,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
-                "18:10",
                 "20:20",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "16:00",
-            "18:10",
             "20:20",
             "22:30"
           ]
@@ -1607,13 +1572,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:40",
                 "22:00"
               ]
             }
           ],
           "horarios": [
-            "16:40",
             "22:00"
           ]
         },
@@ -1717,7 +1680,7 @@
           ]
         },
         {
-          "titulo": "Cars (20 años)",
+          "titulo": "Cars",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/cars.jpg",
           "genero": "Animado",
           "clasificacion": "Todo Espectador",
@@ -1799,7 +1762,7 @@
           ]
         },
         {
-          "titulo": "Hope - El Primer Impacto",
+          "titulo": "Hope : El Primer Impacto",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/hope-397969968-large.jpg",
           "genero": "Accion",
           "clasificacion": "Mayores de 14",
@@ -1932,7 +1895,7 @@
       "fuente_cine": "Movie Time",
       "peliculas": [
         {
-          "titulo": "Cars (20 años)",
+          "titulo": "Cars",
           "poster": "https://www.movietime.com.pe/bucket/images/cine/efb1594c-fe00-4bff-ae29-79ccdd277e36.jpeg",
           "genero": "",
           "clasificacion": "APT",
