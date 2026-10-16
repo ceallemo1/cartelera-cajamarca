@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-15 17:00",
+  "actualizado": "2026-10-15 20:00",
   "fecha_objetivo": "2026-10-15",
   "peliculas": [
     {
@@ -20,14 +20,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:50",
                 "19:30",
                 "22:00"
               ]
             }
           ],
           "horarios": [
-            "16:50",
             "19:30",
             "22:00"
           ]
@@ -135,14 +133,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:40",
                 "19:00",
                 "21:20"
               ]
             }
           ],
           "horarios": [
-            "16:40",
             "19:00",
             "21:20"
           ]
@@ -385,7 +381,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
                 "18:10",
                 "20:20",
                 "22:30"
@@ -393,7 +388,6 @@
             }
           ],
           "horarios": [
-            "16:00",
             "18:10",
             "20:20",
             "22:30"
@@ -435,8 +429,8 @@
       "tmdb": {
         "tmdb_id": 1400837,
         "titulo_tmdb": "La otra madre",
-        "voto": 6.0,
-        "votos": 116,
+        "voto": 5.9,
+        "votos": 117,
         "url_tmdb": "https://www.themoviedb.org/movie/1400837",
         "imdb_id": "tt36586020",
         "url_imdb": "https://www.imdb.com/title/tt36586020/",
@@ -757,13 +751,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:50",
                 "18:00"
               ]
             }
           ],
           "horarios": [
-            "15:50",
             "18:00"
           ]
         }
@@ -943,7 +935,7 @@
       "clasificacion": "Todo Espectador",
       "duracion": "03:03",
       "sinopsis": "Después de los Eventos Devastadores de 'Avengers: Infinity War', el Universo Está en Ruinas Debido a las Acciones de Thanos, el Titán Loco. Con la Ayuda de los Aliados Que Quedaron, los Vengadores Deberán Reunirse una Vez Más Para Intentar Deshacer Sus Acciones y Restaurar el Orden en el Universo de una Vez Por Todas, Sin Importar Cuáles Son las Consecuencias... Cuarta y Última Entrega de la Saga ",
-      "director": "Anthony Russo, Joe Russo",
+      "director": "Joe Russo, Anthony Russo",
       "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
       "estreno": "",
       "puntaje": "",
@@ -974,12 +966,12 @@
         "tmdb_id": 299534,
         "titulo_tmdb": "Vengadores: Endgame",
         "voto": 8.2,
-        "votos": 29007,
+        "votos": 29010,
         "url_tmdb": "https://www.themoviedb.org/movie/299534",
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
         "poster_tmdb": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-        "director": "Anthony Russo, Joe Russo",
+        "director": "Joe Russo, Anthony Russo",
         "reparto": [
           {
             "nombre": "Robert Downey Jr.",
@@ -1639,14 +1631,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:40",
                 "19:00",
                 "21:20"
               ]
             }
           ],
           "horarios": [
-            "16:40",
             "19:00",
             "21:20"
           ]
@@ -1677,7 +1667,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
                 "18:10",
                 "20:20",
                 "22:30"
@@ -1685,7 +1674,6 @@
             }
           ],
           "horarios": [
-            "16:00",
             "18:10",
             "20:20",
             "22:30"
@@ -1700,14 +1688,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:50",
                 "19:30",
                 "22:00"
               ]
             }
           ],
           "horarios": [
-            "16:50",
             "19:30",
             "22:00"
           ]
@@ -1721,13 +1707,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:50",
                 "18:00"
               ]
             }
           ],
           "horarios": [
-            "15:50",
             "18:00"
           ]
         }
