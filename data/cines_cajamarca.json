@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-16 17:00",
+  "actualizado": "2026-10-16 20:03",
   "fecha_objetivo": "2026-10-16",
   "peliculas": [
     {
@@ -20,14 +20,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:50",
                 "19:30",
                 "22:00"
               ]
             }
           ],
           "horarios": [
-            "16:50",
             "19:30",
             "22:00"
           ]
@@ -135,14 +133,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:40",
                 "19:00",
                 "21:20"
               ]
             }
           ],
           "horarios": [
-            "16:40",
             "19:00",
             "21:20"
           ]
@@ -385,7 +381,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
                 "18:10",
                 "20:20",
                 "22:30"
@@ -393,7 +388,6 @@
             }
           ],
           "horarios": [
-            "16:00",
             "18:10",
             "20:20",
             "22:30"
@@ -557,7 +551,7 @@
         "tmdb_id": 1263337,
         "titulo_tmdb": "En el corazón de la bestia",
         "voto": 7.4,
-        "votos": 299,
+        "votos": 301,
         "url_tmdb": "https://www.themoviedb.org/movie/1263337",
         "imdb_id": "tt7526136",
         "url_imdb": "https://www.imdb.com/title/tt7526136/",
@@ -757,13 +751,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:50",
                 "18:00"
               ]
             }
           ],
           "horarios": [
-            "15:50",
             "18:00"
           ]
         }
@@ -1378,14 +1370,14 @@
             {
               "formato": "",
               "horarios": [
-                "17:30",
-                "19:10"
+                "17:10",
+                "19:40"
               ]
             }
           ],
           "horarios": [
-            "17:30",
-            "19:10"
+            "17:10",
+            "19:40"
           ]
         }
       ],
@@ -1555,14 +1547,14 @@
             {
               "formato": "",
               "horarios": [
-                "19:30",
-                "21:40"
+                "19:05",
+                "21:25"
               ]
             }
           ],
           "horarios": [
-            "19:30",
-            "21:40"
+            "19:05",
+            "21:25"
           ]
         }
       ]
@@ -1639,14 +1631,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:40",
                 "19:00",
                 "21:20"
               ]
             }
           ],
           "horarios": [
-            "16:40",
             "19:00",
             "21:20"
           ]
@@ -1677,7 +1667,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
                 "18:10",
                 "20:20",
                 "22:30"
@@ -1685,7 +1674,6 @@
             }
           ],
           "horarios": [
-            "16:00",
             "18:10",
             "20:20",
             "22:30"
@@ -1700,14 +1688,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:50",
                 "19:30",
                 "22:00"
               ]
             }
           ],
           "horarios": [
-            "16:50",
             "19:30",
             "22:00"
           ]
@@ -1721,13 +1707,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:50",
                 "18:00"
               ]
             }
           ],
           "horarios": [
-            "15:50",
             "18:00"
           ]
         }
@@ -2106,14 +2090,14 @@
             {
               "formato": "",
               "horarios": [
-                "17:30",
-                "19:10"
+                "17:10",
+                "19:40"
               ]
             }
           ],
           "horarios": [
-            "17:30",
-            "19:10"
+            "17:10",
+            "19:40"
           ],
           "trailer_url": "https://www.youtube.com/watch?v=8iKTeIV2xgE"
         },
@@ -2150,14 +2134,14 @@
             {
               "formato": "",
               "horarios": [
-                "19:30",
-                "21:40"
+                "19:05",
+                "21:25"
               ]
             }
           ],
           "horarios": [
-            "19:30",
-            "21:40"
+            "19:05",
+            "21:25"
           ],
           "trailer_url": "https://www.youtube.com/watch?v=mzYHS4VIjgY"
         }
