@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-18 11:03",
+  "actualizado": "2026-10-18 17:03",
   "fecha_objetivo": "2026-10-18",
   "peliculas": [
     {
@@ -20,7 +20,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:30",
                 "17:00",
                 "19:30",
                 "22:00"
@@ -28,7 +27,6 @@
             }
           ],
           "horarios": [
-            "14:30",
             "17:00",
             "19:30",
             "22:00"
@@ -71,7 +69,7 @@
         "tmdb_id": 1153576,
         "titulo_tmdb": "Street Fighter",
         "voto": 6.3,
-        "votos": 72,
+        "votos": 81,
         "url_tmdb": "https://www.themoviedb.org/movie/1153576",
         "imdb_id": "tt27419420",
         "url_imdb": "https://www.imdb.com/title/tt27419420/",
@@ -199,8 +197,8 @@
       "tmdb": {
         "tmdb_id": 1255833,
         "titulo_tmdb": "Whalefall",
-        "voto": 6.9,
-        "votos": 42,
+        "voto": 6.8,
+        "votos": 44,
         "url_tmdb": "https://www.themoviedb.org/movie/1255833",
         "imdb_id": "tt28535715",
         "url_imdb": "https://www.imdb.com/title/tt28535715/",
@@ -385,7 +383,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:40",
                 "16:50",
                 "20:00",
                 "22:10"
@@ -393,7 +390,6 @@
             }
           ],
           "horarios": [
-            "14:40",
             "16:50",
             "20:00",
             "22:10"
@@ -435,7 +431,7 @@
       "tmdb": {
         "tmdb_id": 1400837,
         "titulo_tmdb": "La otra madre",
-        "voto": 5.9,
+        "voto": 6.0,
         "votos": 130,
         "url_tmdb": "https://www.themoviedb.org/movie/1400837",
         "imdb_id": "tt36586020",
@@ -500,7 +496,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:00",
                 "16:20",
                 "18:40",
                 "21:00"
@@ -508,7 +503,6 @@
             }
           ],
           "horarios": [
-            "14:00",
             "16:20",
             "18:40",
             "21:00"
@@ -561,7 +555,7 @@
         "tmdb_id": 1263337,
         "titulo_tmdb": "En el corazón de la bestia",
         "voto": 7.4,
-        "votos": 311,
+        "votos": 313,
         "url_tmdb": "https://www.themoviedb.org/movie/1263337",
         "imdb_id": "tt7526136",
         "url_imdb": "https://www.imdb.com/title/tt7526136/",
@@ -637,13 +631,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:00",
                 "17:30"
               ]
             }
           ],
           "horarios": [
-            "15:00",
             "17:30"
           ]
         }
@@ -743,8 +735,8 @@
       "genero": "Thriller",
       "clasificacion": "+14",
       "duracion": "97 min",
-      "director": "Michael Spierig, Peter Spierig",
-      "actores": "Harriet Slater, Arsema Thomas, Tom Brittney, Virginia Gardner, สหจักร บุญธนกิจ, Korakod Yensuk",
+      "director": "Peter Spierig, Michael Spierig",
+      "actores": "Harriet Slater, Arsema Thomas, Tom Brittney, สหจักร บุญธนกิจ, Korakod Yensuk, Jordan Coleman",
       "estreno": "",
       "sinopsis": "Tras sobrevivir a una experiencia extrema, un nuevo grupo de jóvenes se enfrenta a un desafío aún más peligroso en un entorno remoto en Tailandia. A cientos de metros de altura, sin escapatoria y con condiciones impredecibles, deberán luchar contra el miedo, el tiempo y sus propios límites para sobrevivir.",
       "puntaje": "",
@@ -778,12 +770,12 @@
         "tmdb_id": 1101412,
         "titulo_tmdb": "Fall 2: Deadpoint",
         "voto": 7.3,
-        "votos": 578,
+        "votos": 588,
         "url_tmdb": "https://www.themoviedb.org/movie/1101412",
         "imdb_id": "tt31192372",
         "url_imdb": "https://www.imdb.com/title/tt31192372/",
         "poster_tmdb": "https://image.tmdb.org/t/p/w500/ccBIyg1ITvuCDr4eMeEH0ZgNh4t.jpg",
-        "director": "Michael Spierig, Peter Spierig",
+        "director": "Peter Spierig, Michael Spierig",
         "reparto": [
           {
             "nombre": "Harriet Slater",
@@ -798,16 +790,16 @@
             "personaje": "Jon Platt"
           },
           {
-            "nombre": "Virginia Gardner",
-            "personaje": "Shiloh Hunter"
-          },
-          {
             "nombre": "สหจักร บุญธนกิจ",
             "personaje": "Thai Barman"
           },
           {
             "nombre": "Korakod Yensuk",
             "personaje": "Large Woman"
+          },
+          {
+            "nombre": "Jordan Coleman",
+            "personaje": "Real Luce"
           }
         ],
         "generos": [
@@ -980,7 +972,7 @@
         "tmdb_id": 299534,
         "titulo_tmdb": "Vengadores: Endgame",
         "voto": 8.2,
-        "votos": 29029,
+        "votos": 29032,
         "url_tmdb": "https://www.themoviedb.org/movie/299534",
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
@@ -1157,7 +1149,7 @@
         "tmdb_id": 28178,
         "titulo_tmdb": "Siempre a tu lado (Hachiko)",
         "voto": 8.0,
-        "votos": 7372,
+        "votos": 7374,
         "url_tmdb": "https://www.themoviedb.org/movie/28178",
         "imdb_id": "tt1028532",
         "url_imdb": "https://www.imdb.com/title/tt1028532/",
@@ -1326,7 +1318,7 @@
         "tmdb_id": 131631,
         "titulo_tmdb": "Los Juegos del Hambre: Sinsajo - Parte 1",
         "voto": 6.8,
-        "votos": 17111,
+        "votos": 17112,
         "url_tmdb": "https://www.themoviedb.org/movie/131631",
         "imdb_id": "tt1951265",
         "url_imdb": "https://www.imdb.com/title/tt1951265/",
@@ -1400,13 +1392,13 @@
             {
               "formato": "",
               "horarios": [
-                "17:10",
+                "17:20",
                 "19:40"
               ]
             }
           ],
           "horarios": [
-            "17:10",
+            "17:20",
             "19:40"
           ]
         }
@@ -1415,7 +1407,7 @@
         "tmdb_id": 1423191,
         "titulo_tmdb": "Resident Evil",
         "voto": 7.3,
-        "votos": 972,
+        "votos": 978,
         "url_tmdb": "https://www.themoviedb.org/movie/1423191",
         "imdb_id": "tt35538033",
         "url_imdb": "https://www.imdb.com/title/tt35538033/",
@@ -1608,13 +1600,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:00",
                 "17:30"
               ]
             }
           ],
           "horarios": [
-            "15:00",
             "17:30"
           ]
         },
@@ -1627,7 +1617,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:00",
                 "16:20",
                 "18:40",
                 "21:00"
@@ -1635,7 +1624,6 @@
             }
           ],
           "horarios": [
-            "14:00",
             "16:20",
             "18:40",
             "21:00"
@@ -1703,7 +1691,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:40",
                 "16:50",
                 "20:00",
                 "22:10"
@@ -1711,7 +1698,6 @@
             }
           ],
           "horarios": [
-            "14:40",
             "16:50",
             "20:00",
             "22:10"
@@ -1726,7 +1712,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:30",
                 "17:00",
                 "19:30",
                 "22:00"
@@ -1734,7 +1719,6 @@
             }
           ],
           "horarios": [
-            "14:30",
             "17:00",
             "19:30",
             "22:00"
@@ -2154,13 +2138,13 @@
             {
               "formato": "",
               "horarios": [
-                "17:10",
+                "17:20",
                 "19:40"
               ]
             }
           ],
           "horarios": [
-            "17:10",
+            "17:20",
             "19:40"
           ],
           "trailer_url": "https://www.youtube.com/watch?v=8iKTeIV2xgE"
