@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-18 08:03",
+  "actualizado": "2026-10-18 11:03",
   "fecha_objetivo": "2026-10-18",
   "peliculas": [
     {
@@ -321,7 +321,7 @@
         "tmdb_id": 1377237,
         "titulo_tmdb": "Entrega al límite",
         "voto": 8.3,
-        "votos": 619,
+        "votos": 624,
         "url_tmdb": "https://www.themoviedb.org/movie/1377237",
         "imdb_id": "tt31349844",
         "url_imdb": "https://www.imdb.com/title/tt31349844/",
@@ -368,6 +368,121 @@
         ],
         "idioma": "Inglés",
         "titulo_original": "Runner"
+      }
+    },
+    {
+      "titulo": "Madre Siniestra",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/10/madre-siniestra-47902-0.webp",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:40",
+                "16:50",
+                "20:00",
+                "22:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:40",
+            "16:50",
+            "20:00",
+            "22:10"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:30",
+                "18:30",
+                "20:30",
+                "22:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:30",
+            "18:30",
+            "20:30",
+            "22:15"
+          ]
+        }
+      ],
+      "genero": "Terror",
+      "duracion": "120 minutos",
+      "clasificacion": "12 Años",
+      "director": "Rob Savage",
+      "actores": "Jessica Chastain, Jay Duplass, Arabella Olivia Clark, Karen Allen, Arian Moayed, Dichen Lachman",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/madre-siniestra-12305_252",
+      "trailer_url": "https://youtu.be/mnXYYwnfWlQ",
+      "sinopsis": "La historia sigue a Bela, una joven que comienza a vincularse con una presencia oscura dentro de su hogar: una entidad siniestra que adopta la apariencia de su madre y la arrastra a un mundo donde el amor, el miedo y lo sobrenatural se confunden peligrosamente.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1400837,
+        "titulo_tmdb": "La otra madre",
+        "voto": 5.9,
+        "votos": 130,
+        "url_tmdb": "https://www.themoviedb.org/movie/1400837",
+        "imdb_id": "tt36586020",
+        "url_imdb": "https://www.imdb.com/title/tt36586020/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
+        "director": "Rob Savage",
+        "reparto": [
+          {
+            "nombre": "Jessica Chastain",
+            "personaje": "Mommy / Other Mommy"
+          },
+          {
+            "nombre": "Jay Duplass",
+            "personaje": "Daddo"
+          },
+          {
+            "nombre": "Arabella Olivia Clark",
+            "personaje": "Bela"
+          },
+          {
+            "nombre": "Karen Allen",
+            "personaje": "Grandma Ruth"
+          },
+          {
+            "nombre": "Arian Moayed",
+            "personaje": "Uncle Frank"
+          },
+          {
+            "nombre": "Dichen Lachman",
+            "personaje": "Lois Anthony"
+          }
+        ],
+        "generos": [
+          "Terror"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=ocV7K_B67lQ",
+          "embed_id": "ocV7K_B67lQ"
+        },
+        "sinopsis_tmdb": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
+        "estreno": "7 oct 2026",
+        "duracion_min": 93,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Other Mommy"
       }
     },
     {
@@ -620,122 +735,6 @@
         ],
         "idioma": "Español",
         "titulo_original": "La tribu"
-      }
-    },
-    {
-      "titulo": "Madre Siniestra",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003063?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Terror",
-      "clasificacion": "+14",
-      "duracion": "94 min",
-      "director": "Rob Savage",
-      "actores": "Jessica Chastain, Jay Duplass, Arabella Olivia Clark, Karen Allen, Arian Moayed, Dichen Lachman",
-      "estreno": "",
-      "sinopsis": "La historia sigue a Bela, una joven que comienza a vincularse con una presencia oscura dentro de su hogar: una entidad siniestra que adopta la apariencia de su madre y la arrastra a un mundo donde el amor, el miedo y lo sobrenatural se confunden peligrosamente.",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://youtu.be/mnXYYwnfWlQ",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "14:40",
-                "16:50",
-                "20:00",
-                "22:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:40",
-            "16:50",
-            "20:00",
-            "22:10"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:30",
-                "18:30",
-                "20:30",
-                "22:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:30",
-            "18:30",
-            "20:30",
-            "22:15"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1400837,
-        "titulo_tmdb": "La otra madre",
-        "voto": 5.9,
-        "votos": 130,
-        "url_tmdb": "https://www.themoviedb.org/movie/1400837",
-        "imdb_id": "tt36586020",
-        "url_imdb": "https://www.imdb.com/title/tt36586020/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
-        "director": "Rob Savage",
-        "reparto": [
-          {
-            "nombre": "Jessica Chastain",
-            "personaje": "Mommy / Other Mommy"
-          },
-          {
-            "nombre": "Jay Duplass",
-            "personaje": "Daddo"
-          },
-          {
-            "nombre": "Arabella Olivia Clark",
-            "personaje": "Bela"
-          },
-          {
-            "nombre": "Karen Allen",
-            "personaje": "Grandma Ruth"
-          },
-          {
-            "nombre": "Arian Moayed",
-            "personaje": "Uncle Frank"
-          },
-          {
-            "nombre": "Dichen Lachman",
-            "personaje": "Lois Anthony"
-          }
-        ],
-        "generos": [
-          "Terror"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=ocV7K_B67lQ",
-          "embed_id": "ocV7K_B67lQ"
-        },
-        "sinopsis_tmdb": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
-        "estreno": "7 oct 2026",
-        "duracion_min": 93,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Other Mommy"
       }
     },
     {
