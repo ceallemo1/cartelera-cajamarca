@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-17 17:00",
+  "actualizado": "2026-10-17 20:20",
   "fecha_objetivo": "2026-10-17",
   "peliculas": [
     {
@@ -321,7 +321,7 @@
         "tmdb_id": 1377237,
         "titulo_tmdb": "Entrega al límite",
         "voto": 8.3,
-        "votos": 596,
+        "votos": 607,
         "url_tmdb": "https://www.themoviedb.org/movie/1377237",
         "imdb_id": "tt31349844",
         "url_imdb": "https://www.imdb.com/title/tt31349844/",
@@ -385,14 +385,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:50",
                 "20:00",
                 "22:10"
               ]
             }
           ],
           "horarios": [
-            "16:50",
             "20:00",
             "22:10"
           ]
@@ -498,14 +496,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:20",
                 "18:40",
                 "21:00"
               ]
             }
           ],
           "horarios": [
-            "16:20",
             "18:40",
             "21:00"
           ]
@@ -757,13 +753,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
                 "18:10"
               ]
             }
           ],
           "horarios": [
-            "16:00",
             "18:10"
           ]
         }
@@ -943,7 +937,7 @@
       "clasificacion": "Todo Espectador",
       "duracion": "03:03",
       "sinopsis": "Después de los Eventos Devastadores de 'Avengers: Infinity War', el Universo Está en Ruinas Debido a las Acciones de Thanos, el Titán Loco. Con la Ayuda de los Aliados Que Quedaron, los Vengadores Deberán Reunirse una Vez Más Para Intentar Deshacer Sus Acciones y Restaurar el Orden en el Universo de una Vez Por Todas, Sin Importar Cuáles Son las Consecuencias... Cuarta y Última Entrega de la Saga ",
-      "director": "Anthony Russo, Joe Russo",
+      "director": "Joe Russo, Anthony Russo",
       "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
       "estreno": "",
       "puntaje": "",
@@ -974,12 +968,12 @@
         "tmdb_id": 299534,
         "titulo_tmdb": "Vengadores: Endgame",
         "voto": 8.2,
-        "votos": 29018,
+        "votos": 29024,
         "url_tmdb": "https://www.themoviedb.org/movie/299534",
         "imdb_id": "tt4154796",
         "url_imdb": "https://www.imdb.com/title/tt4154796/",
         "poster_tmdb": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-        "director": "Anthony Russo, Joe Russo",
+        "director": "Joe Russo, Anthony Russo",
         "reparto": [
           {
             "nombre": "Robert Downey Jr.",
@@ -1619,14 +1613,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:20",
                 "18:40",
                 "21:00"
               ]
             }
           ],
           "horarios": [
-            "16:20",
             "18:40",
             "21:00"
           ]
@@ -1693,14 +1685,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:50",
                 "20:00",
                 "22:10"
               ]
             }
           ],
           "horarios": [
-            "16:50",
             "20:00",
             "22:10"
           ]
@@ -1735,13 +1725,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
                 "18:10"
               ]
             }
           ],
           "horarios": [
-            "16:00",
             "18:10"
           ]
         }
