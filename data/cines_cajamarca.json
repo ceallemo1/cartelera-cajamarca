@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-19 11:00",
+  "actualizado": "2026-10-19 17:00",
   "fecha_objetivo": "2026-10-19",
   "peliculas": [
     {
@@ -20,7 +20,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:00",
                 "16:30",
                 "19:00",
                 "21:30"
@@ -28,7 +27,6 @@
             }
           ],
           "horarios": [
-            "14:00",
             "16:30",
             "19:00",
             "21:30"
@@ -70,8 +68,8 @@
       "tmdb": {
         "tmdb_id": 1153576,
         "titulo_tmdb": "Street Fighter",
-        "voto": 6.2,
-        "votos": 93,
+        "voto": 6.3,
+        "votos": 98,
         "url_tmdb": "https://www.themoviedb.org/movie/1153576",
         "imdb_id": "tt27419420",
         "url_imdb": "https://www.imdb.com/title/tt27419420/",
@@ -137,14 +135,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:20",
                 "18:40",
                 "21:00"
               ]
             }
           ],
           "horarios": [
-            "14:20",
             "18:40",
             "21:00"
           ]
@@ -323,7 +319,7 @@
         "tmdb_id": 1377237,
         "titulo_tmdb": "Entrega al límite",
         "voto": 8.3,
-        "votos": 657,
+        "votos": 662,
         "url_tmdb": "https://www.themoviedb.org/movie/1377237",
         "imdb_id": "tt31349844",
         "url_imdb": "https://www.imdb.com/title/tt31349844/",
@@ -370,6 +366,119 @@
         ],
         "idioma": "Inglés",
         "titulo_original": "Runner"
+      }
+    },
+    {
+      "titulo": "Madre Siniestra",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/10/madre-siniestra-47902-0.webp",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:40",
+                "19:40",
+                "21:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:40",
+            "19:40",
+            "21:50"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:30",
+                "18:30",
+                "20:30",
+                "22:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:30",
+            "18:30",
+            "20:30",
+            "22:15"
+          ]
+        }
+      ],
+      "genero": "Terror",
+      "duracion": "120 minutos",
+      "clasificacion": "12 Años",
+      "director": "Rob Savage",
+      "actores": "Jessica Chastain, Jay Duplass, Arabella Olivia Clark, Karen Allen, Arian Moayed, Dichen Lachman",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/madre-siniestra-12305_252",
+      "trailer_url": "https://youtu.be/mnXYYwnfWlQ",
+      "sinopsis": "La historia sigue a Bela, una joven que comienza a vincularse con una presencia oscura dentro de su hogar: una entidad siniestra que adopta la apariencia de su madre y la arrastra a un mundo donde el amor, el miedo y lo sobrenatural se confunden peligrosamente.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1400837,
+        "titulo_tmdb": "La otra madre",
+        "voto": 6.0,
+        "votos": 132,
+        "url_tmdb": "https://www.themoviedb.org/movie/1400837",
+        "imdb_id": "tt36586020",
+        "url_imdb": "https://www.imdb.com/title/tt36586020/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
+        "director": "Rob Savage",
+        "reparto": [
+          {
+            "nombre": "Jessica Chastain",
+            "personaje": "Mommy / Other Mommy"
+          },
+          {
+            "nombre": "Jay Duplass",
+            "personaje": "Daddo"
+          },
+          {
+            "nombre": "Arabella Olivia Clark",
+            "personaje": "Bela"
+          },
+          {
+            "nombre": "Karen Allen",
+            "personaje": "Grandma Ruth"
+          },
+          {
+            "nombre": "Arian Moayed",
+            "personaje": "Uncle Frank"
+          },
+          {
+            "nombre": "Dichen Lachman",
+            "personaje": "Lois Anthony"
+          }
+        ],
+        "generos": [
+          "Terror"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=ocV7K_B67lQ",
+          "embed_id": "ocV7K_B67lQ"
+        },
+        "sinopsis_tmdb": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
+        "estreno": "7 oct 2026",
+        "duracion_min": 93,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Other Mommy"
       }
     },
     {
@@ -446,7 +555,7 @@
         "tmdb_id": 1263337,
         "titulo_tmdb": "En el corazón de la bestia",
         "voto": 7.4,
-        "votos": 314,
+        "votos": 316,
         "url_tmdb": "https://www.themoviedb.org/movie/1263337",
         "imdb_id": "tt7526136",
         "url_imdb": "https://www.imdb.com/title/tt7526136/",
@@ -522,13 +631,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:40",
                 "17:10"
               ]
             }
           ],
           "horarios": [
-            "14:40",
             "17:10"
           ]
         }
@@ -623,126 +730,12 @@
       }
     },
     {
-      "titulo": "Madre Siniestra",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003063?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Terror",
-      "clasificacion": "+14",
-      "duracion": "94 min",
-      "director": "Rob Savage",
-      "actores": "Jessica Chastain, Jay Duplass, Arabella Olivia Clark, Karen Allen, Arian Moayed, Dichen Lachman",
-      "estreno": "",
-      "sinopsis": "La historia sigue a Bela, una joven que comienza a vincularse con una presencia oscura dentro de su hogar: una entidad siniestra que adopta la apariencia de su madre y la arrastra a un mundo donde el amor, el miedo y lo sobrenatural se confunden peligrosamente.",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://youtu.be/mnXYYwnfWlQ",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "16:40",
-                "19:40",
-                "21:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:40",
-            "19:40",
-            "21:50"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:30",
-                "18:30",
-                "20:30",
-                "22:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:30",
-            "18:30",
-            "20:30",
-            "22:15"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1400837,
-        "titulo_tmdb": "La otra madre",
-        "voto": 6.0,
-        "votos": 131,
-        "url_tmdb": "https://www.themoviedb.org/movie/1400837",
-        "imdb_id": "tt36586020",
-        "url_imdb": "https://www.imdb.com/title/tt36586020/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
-        "director": "Rob Savage",
-        "reparto": [
-          {
-            "nombre": "Jessica Chastain",
-            "personaje": "Mommy / Other Mommy"
-          },
-          {
-            "nombre": "Jay Duplass",
-            "personaje": "Daddo"
-          },
-          {
-            "nombre": "Arabella Olivia Clark",
-            "personaje": "Bela"
-          },
-          {
-            "nombre": "Karen Allen",
-            "personaje": "Grandma Ruth"
-          },
-          {
-            "nombre": "Arian Moayed",
-            "personaje": "Uncle Frank"
-          },
-          {
-            "nombre": "Dichen Lachman",
-            "personaje": "Lois Anthony"
-          }
-        ],
-        "generos": [
-          "Terror"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=ocV7K_B67lQ",
-          "embed_id": "ocV7K_B67lQ"
-        },
-        "sinopsis_tmdb": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
-        "estreno": "7 oct 2026",
-        "duracion_min": 93,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Other Mommy"
-      }
-    },
-    {
       "titulo": "Vértigo 2: Punto Muerto",
       "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002977?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "genero": "Thriller",
       "clasificacion": "+14",
       "duracion": "97 min",
-      "director": "Michael Spierig, Peter Spierig",
+      "director": "Peter Spierig, Michael Spierig",
       "actores": "Harriet Slater, Arsema Thomas, Tom Brittney, สหจักร บุญธนกิจ, Korakod Yensuk, Jordan Coleman",
       "estreno": "",
       "sinopsis": "Tras sobrevivir a una experiencia extrema, un nuevo grupo de jóvenes se enfrenta a un desafío aún más peligroso en un entorno remoto en Tailandia. A cientos de metros de altura, sin escapatoria y con condiciones impredecibles, deberán luchar contra el miedo, el tiempo y sus propios límites para sobrevivir.",
@@ -782,7 +775,7 @@
         "imdb_id": "tt31192372",
         "url_imdb": "https://www.imdb.com/title/tt31192372/",
         "poster_tmdb": "https://image.tmdb.org/t/p/w500/ccBIyg1ITvuCDr4eMeEH0ZgNh4t.jpg",
-        "director": "Michael Spierig, Peter Spierig",
+        "director": "Peter Spierig, Michael Spierig",
         "reparto": [
           {
             "nombre": "Harriet Slater",
@@ -1309,7 +1302,7 @@
         "tmdb_id": 131631,
         "titulo_tmdb": "Los Juegos del Hambre: Sinsajo - Parte 1",
         "voto": 6.8,
-        "votos": 17113,
+        "votos": 17114,
         "url_tmdb": "https://www.themoviedb.org/movie/131631",
         "imdb_id": "tt1951265",
         "url_imdb": "https://www.imdb.com/title/tt1951265/",
@@ -1398,7 +1391,7 @@
         "tmdb_id": 1423191,
         "titulo_tmdb": "Resident Evil",
         "voto": 7.3,
-        "votos": 985,
+        "votos": 993,
         "url_tmdb": "https://www.themoviedb.org/movie/1423191",
         "imdb_id": "tt35538033",
         "url_imdb": "https://www.imdb.com/title/tt35538033/",
@@ -1591,13 +1584,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:40",
                 "17:10"
               ]
             }
           ],
           "horarios": [
-            "14:40",
             "17:10"
           ]
         },
@@ -1648,14 +1639,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:20",
                 "18:40",
                 "21:00"
               ]
             }
           ],
           "horarios": [
-            "14:20",
             "18:40",
             "21:00"
           ]
@@ -1707,7 +1696,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:00",
                 "16:30",
                 "19:00",
                 "21:30"
@@ -1715,7 +1703,6 @@
             }
           ],
           "horarios": [
-            "14:00",
             "16:30",
             "19:00",
             "21:30"
@@ -2174,7 +2161,7 @@
     }
   ],
   "estado": "ok",
-  "motor": "gemini",
+  "motor": "groq",
   "fuentes_extra": [
     "Cineplanet",
     "Cinerama",
