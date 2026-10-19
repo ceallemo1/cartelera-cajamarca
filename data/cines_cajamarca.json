@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-18 17:03",
+  "actualizado": "2026-10-18 20:03",
   "fecha_objetivo": "2026-10-18",
   "peliculas": [
     {
@@ -20,14 +20,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:00",
                 "19:30",
                 "22:00"
               ]
             }
           ],
           "horarios": [
-            "17:00",
             "19:30",
             "22:00"
           ]
@@ -197,8 +195,8 @@
       "tmdb": {
         "tmdb_id": 1255833,
         "titulo_tmdb": "Whalefall",
-        "voto": 6.8,
-        "votos": 44,
+        "voto": 6.7,
+        "votos": 46,
         "url_tmdb": "https://www.themoviedb.org/movie/1255833",
         "imdb_id": "tt28535715",
         "url_imdb": "https://www.imdb.com/title/tt28535715/",
@@ -231,7 +229,8 @@
           }
         ],
         "generos": [
-          "Suspense"
+          "Suspense",
+          "Drama"
         ],
         "trailer": {
           "url": "https://www.youtube.com/watch?v=5webTf9wplE",
@@ -319,7 +318,7 @@
         "tmdb_id": 1377237,
         "titulo_tmdb": "Entrega al límite",
         "voto": 8.3,
-        "votos": 624,
+        "votos": 638,
         "url_tmdb": "https://www.themoviedb.org/movie/1377237",
         "imdb_id": "tt31349844",
         "url_imdb": "https://www.imdb.com/title/tt31349844/",
@@ -383,14 +382,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:50",
                 "20:00",
                 "22:10"
               ]
             }
           ],
           "horarios": [
-            "16:50",
             "20:00",
             "22:10"
           ]
@@ -496,14 +493,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:20",
                 "18:40",
                 "21:00"
               ]
             }
           ],
           "horarios": [
-            "16:20",
             "18:40",
             "21:00"
           ]
@@ -606,42 +601,6 @@
       }
     },
     {
-      "titulo": "Cars (20 años)",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003096?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Animación",
-      "clasificacion": "APT",
-      "duracion": "117 min",
-      "director": "",
-      "actores": "",
-      "estreno": "",
-      "sinopsis": "Rayo McQueen, un audaz y presumido auto de carreras novato destinado al éxito, descubre que la vida es acerca del recorrido, no de la meta final, cuando se encuentra de pronto en el tranquilo pueblo de Radiador Springs, en la Ruta 66. Allí McQueen conoce a los peculiares personajes de este pueblo, entre ellos Doc Hudson, Mate y Sally.",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "17:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:30"
-          ]
-        }
-      ]
-    },
-    {
       "titulo": "La Tribu",
       "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003058?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "genero": "Comedia",
@@ -727,94 +686,6 @@
         ],
         "idioma": "Español",
         "titulo_original": "La tribu"
-      }
-    },
-    {
-      "titulo": "Vértigo 2: Punto Muerto",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002977?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Thriller",
-      "clasificacion": "+14",
-      "duracion": "97 min",
-      "director": "Peter Spierig, Michael Spierig",
-      "actores": "Harriet Slater, Arsema Thomas, Tom Brittney, สหจักร บุญธนกิจ, Korakod Yensuk, Jordan Coleman",
-      "estreno": "",
-      "sinopsis": "Tras sobrevivir a una experiencia extrema, un nuevo grupo de jóvenes se enfrenta a un desafío aún más peligroso en un entorno remoto en Tailandia. A cientos de metros de altura, sin escapatoria y con condiciones impredecibles, deberán luchar contra el miedo, el tiempo y sus propios límites para sobrevivir.",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=IRJGXHvc-Hs",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "16:00",
-                "18:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:10"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1101412,
-        "titulo_tmdb": "Fall 2: Deadpoint",
-        "voto": 7.3,
-        "votos": 588,
-        "url_tmdb": "https://www.themoviedb.org/movie/1101412",
-        "imdb_id": "tt31192372",
-        "url_imdb": "https://www.imdb.com/title/tt31192372/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/ccBIyg1ITvuCDr4eMeEH0ZgNh4t.jpg",
-        "director": "Peter Spierig, Michael Spierig",
-        "reparto": [
-          {
-            "nombre": "Harriet Slater",
-            "personaje": "Jax Hunter"
-          },
-          {
-            "nombre": "Arsema Thomas",
-            "personaje": "Luce"
-          },
-          {
-            "nombre": "Tom Brittney",
-            "personaje": "Jon Platt"
-          },
-          {
-            "nombre": "สหจักร บุญธนกิจ",
-            "personaje": "Thai Barman"
-          },
-          {
-            "nombre": "Korakod Yensuk",
-            "personaje": "Large Woman"
-          },
-          {
-            "nombre": "Jordan Coleman",
-            "personaje": "Real Luce"
-          }
-        ],
-        "generos": [
-          "Suspense"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, un aterrador desprendimiento de rocas les deja varados a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia y el final.",
-        "estreno": "1 sep 2026",
-        "duracion_min": 98,
-        "paises": [
-          "Reino Unido",
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Fall 2: Deadpoint"
       }
     },
     {
@@ -1592,23 +1463,6 @@
       "fuente_cine": "Cineplanet",
       "peliculas": [
         {
-          "titulo": "Cars (20 años)",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003096?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Animación",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "17:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:30"
-          ]
-        },
-        {
           "titulo": "El Corazón de la Bestia",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002975?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Acción",
@@ -1617,14 +1471,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:20",
                 "18:40",
                 "21:00"
               ]
             }
           ],
           "horarios": [
-            "16:20",
             "18:40",
             "21:00"
           ]
@@ -1691,14 +1543,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:50",
                 "20:00",
                 "22:10"
               ]
             }
           ],
           "horarios": [
-            "16:50",
             "20:00",
             "22:10"
           ]
@@ -1712,35 +1562,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:00",
                 "19:30",
                 "22:00"
               ]
             }
           ],
           "horarios": [
-            "17:00",
             "19:30",
             "22:00"
-          ]
-        },
-        {
-          "titulo": "Vértigo 2: Punto Muerto",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002977?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Thriller",
-          "clasificacion": "+14",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "16:00",
-                "18:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "18:10"
           ]
         }
       ],
