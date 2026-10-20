@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-20 07:37",
+  "actualizado": "2026-10-20 08:00",
   "fecha_objetivo": "2026-10-20",
   "peliculas": [
     {
@@ -43,8 +43,8 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/street-fighter-12302_252",
       "trailer_url": "https://youtu.be/db-xQJgY_II",
-      "sinopsis": "Ambientada en 1993, los distanciados Street Fighters Ryu (Andrew Koji) y Ken Masters (Noah Centineo) vuelven al combate cuando la misteriosa Chun-Li (Callina Liang) los recluta para el próximo Torneo Mundial de Guerreros: un brutal choque de puños, destino y furia. Pero detrás de esta batalla campal se esconde una conspiración mortal que los obliga a enfrentarse entre ellos y contra los demonios d",
-      "puntaje": "",
+      "sinopsis": "Un exsoldado de élite y una experta en artes marciales se unen para detener a un dictador que planea usar un dispositivo de control mental.",
+      "puntaje": "6.2",
       "tmdb": {
         "tmdb_id": 1153576,
         "titulo_tmdb": "Street Fighter",
@@ -152,7 +152,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-caida-de-la-ballena-12313_252",
       "trailer_url": "https://youtu.be/pS4qvMZh9fA",
-      "sinopsis": "Tras la muerte de su padre (Josh Brolin), Jay Gardiner (Austin Abrams) se sumerge en la costa central de California en busca de sus restos, pero es tragado por una enorme ballena. Mientras está atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó con tanto esfuerzo pueden ser la clave para escapar.",
+      "sinopsis": "Una expedición científica se enfrenta a misterios y peligros cuando una gigantesca ballena desaparecida reaparece en aguas prohibidas.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1255833,
@@ -257,7 +257,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/entrega-al-limite-12317_252",
       "trailer_url": "https://www.youtube.com/watch?v=YJTR-wQ9MvM",
-      "sinopsis": "El mensajero Frank (Alan Ritchson) transporta a un joven receptor un órgano que puede salvarle la vida. La misión se vuelve peligrosa cuando un despiadado jefe del crimen busca la posesión del órgano a cualquier precio.",
+      "sinopsis": "Un mensajero debe entregar un paquete crucial antes de que se agote el tiempo, mientras es perseguido por fuerzas mortales.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1377237,
@@ -364,13 +364,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Tras un aterrador accidente aéreo, el oficial de Fuerzas Especiales James Belmont (Brad Pitt) y su perro de combate, Odin, quedan varados en lo profundo de la naturaleza salvaje de Alaska. Juntos, se ven obligados a librar una brutal lucha por sobrevivir frente a los elementos.",
+      "sinopsis": "Un cazador de criaturas legendarias se enfrenta a una bestia ancestral que protege un antiguo secreto.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
         "titulo_tmdb": "En el corazón de la bestia",
         "voto": 7.4,
-        "votos": 317,
+        "votos": 319,
         "url_tmdb": "https://www.themoviedb.org/movie/1263337",
         "imdb_id": "tt7526136",
         "url_imdb": "https://www.imdb.com/title/tt7526136/",
@@ -1470,7 +1470,7 @@
     }
   ],
   "estado": "ok",
-  "motor": "gemini",
+  "motor": "groq",
   "fuentes_extra": [
     "Cineplanet",
     "Movie Time"
