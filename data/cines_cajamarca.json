@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-20 11:00",
+  "actualizado": "2026-10-20 17:00",
   "fecha_objetivo": "2026-10-20",
   "peliculas": [
     {
@@ -20,7 +20,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:00",
                 "16:30",
                 "19:00",
                 "21:30"
@@ -28,7 +27,6 @@
             }
           ],
           "horarios": [
-            "14:00",
             "16:30",
             "19:00",
             "21:30"
@@ -49,7 +47,7 @@
         "tmdb_id": 1153576,
         "titulo_tmdb": "Street Fighter",
         "voto": 6.3,
-        "votos": 111,
+        "votos": 116,
         "url_tmdb": "https://www.themoviedb.org/movie/1153576",
         "imdb_id": "tt27419420",
         "url_imdb": "https://www.imdb.com/title/tt27419420/",
@@ -115,14 +113,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:20",
                 "18:40",
                 "21:00"
               ]
             }
           ],
           "horarios": [
-            "14:20",
             "18:40",
             "21:00"
           ]
@@ -158,7 +154,7 @@
         "tmdb_id": 1255833,
         "titulo_tmdb": "Whalefall",
         "voto": 6.6,
-        "votos": 59,
+        "votos": 65,
         "url_tmdb": "https://www.themoviedb.org/movie/1255833",
         "imdb_id": "tt28535715",
         "url_imdb": "https://www.imdb.com/title/tt28535715/",
@@ -191,9 +187,7 @@
           }
         ],
         "generos": [
-          "Suspense",
-          "Terror",
-          "Drama"
+          "Suspense"
         ],
         "trailer": {
           "url": "https://www.youtube.com/watch?v=5webTf9wplE",
@@ -446,13 +440,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:40",
                 "17:10"
               ]
             }
           ],
           "horarios": [
-            "14:40",
             "17:10"
           ]
         }
@@ -828,7 +820,7 @@
         "tmdb_id": 131631,
         "titulo_tmdb": "Los Juegos del Hambre: Sinsajo - Parte 1",
         "voto": 6.8,
-        "votos": 17121,
+        "votos": 17122,
         "url_tmdb": "https://www.themoviedb.org/movie/131631",
         "imdb_id": "tt1951265",
         "url_imdb": "https://www.imdb.com/title/tt1951265/",
@@ -917,7 +909,7 @@
         "tmdb_id": 1423191,
         "titulo_tmdb": "Resident Evil",
         "voto": 7.3,
-        "votos": 1000,
+        "votos": 1003,
         "url_tmdb": "https://www.themoviedb.org/movie/1423191",
         "imdb_id": "tt35538033",
         "url_imdb": "https://www.imdb.com/title/tt35538033/",
@@ -1110,13 +1102,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:40",
                 "17:10"
               ]
             }
           ],
           "horarios": [
-            "14:40",
             "17:10"
           ]
         },
@@ -1167,14 +1157,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:20",
                 "18:40",
                 "21:00"
               ]
             }
           ],
           "horarios": [
-            "14:20",
             "18:40",
             "21:00"
           ]
@@ -1226,7 +1214,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:00",
                 "16:30",
                 "19:00",
                 "21:30"
@@ -1234,7 +1221,6 @@
             }
           ],
           "horarios": [
-            "14:00",
             "16:30",
             "19:00",
             "21:30"
@@ -1470,7 +1456,7 @@
     }
   ],
   "estado": "ok",
-  "motor": "groq",
+  "motor": "gemini",
   "fuentes_extra": [
     "Cineplanet",
     "Movie Time"
