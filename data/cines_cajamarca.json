@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-20 08:00",
+  "actualizado": "2026-10-20 11:00",
   "fecha_objetivo": "2026-10-20",
   "peliculas": [
     {
@@ -43,8 +43,8 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/street-fighter-12302_252",
       "trailer_url": "https://youtu.be/db-xQJgY_II",
-      "sinopsis": "Un exsoldado de élite y una experta en artes marciales se unen para detener a un dictador que planea usar un dispositivo de control mental.",
-      "puntaje": "6.2",
+      "sinopsis": "Ambientada en 1993, los distanciados Street Fighters Ryu (Andrew Koji) y Ken Masters (Noah Centineo) vuelven al combate cuando la misteriosa Chun-Li (Callina Liang) los recluta para el próximo Torneo Mundial de Guerreros: un brutal choque de puños, destino y furia. Pero detrás de esta batalla campal se esconde una conspiración mortal que los obliga a enfrentarse entre ellos y contra los demonios d",
+      "puntaje": "",
       "tmdb": {
         "tmdb_id": 1153576,
         "titulo_tmdb": "Street Fighter",
@@ -152,7 +152,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/la-caida-de-la-ballena-12313_252",
       "trailer_url": "https://youtu.be/pS4qvMZh9fA",
-      "sinopsis": "Una expedición científica se enfrenta a misterios y peligros cuando una gigantesca ballena desaparecida reaparece en aguas prohibidas.",
+      "sinopsis": "Tras la muerte de su padre (Josh Brolin), Jay Gardiner (Austin Abrams) se sumerge en la costa central de California en busca de sus restos, pero es tragado por una enorme ballena. Mientras está atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó con tanto esfuerzo pueden ser la clave para escapar.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1255833,
@@ -257,7 +257,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/entrega-al-limite-12317_252",
       "trailer_url": "https://www.youtube.com/watch?v=YJTR-wQ9MvM",
-      "sinopsis": "Un mensajero debe entregar un paquete crucial antes de que se agote el tiempo, mientras es perseguido por fuerzas mortales.",
+      "sinopsis": "El mensajero Frank (Alan Ritchson) transporta a un joven receptor un órgano que puede salvarle la vida. La misión se vuelve peligrosa cuando un despiadado jefe del crimen busca la posesión del órgano a cualquier precio.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1377237,
@@ -364,7 +364,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-corazon-de-la-bestia-12237_252",
       "trailer_url": "https://youtu.be/4aBmDZVLam8?si=9aXsbLNkrjGOqZrA",
-      "sinopsis": "Un cazador de criaturas legendarias se enfrenta a una bestia ancestral que protege un antiguo secreto.",
+      "sinopsis": "Tras un aterrador accidente aéreo, el oficial de Fuerzas Especiales James Belmont (Brad Pitt) y su perro de combate, Odin, quedan varados en lo profundo de la naturaleza salvaje de Alaska. Juntos, se ven obligados a librar una brutal lucha por sobrevivir frente a los elementos.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1263337,
@@ -589,7 +589,7 @@
         "tmdb_id": 1400837,
         "titulo_tmdb": "La otra madre",
         "voto": 6.0,
-        "votos": 132,
+        "votos": 136,
         "url_tmdb": "https://www.themoviedb.org/movie/1400837",
         "imdb_id": "tt36586020",
         "url_imdb": "https://www.imdb.com/title/tt36586020/",
@@ -679,7 +679,7 @@
         "tmdb_id": 1101412,
         "titulo_tmdb": "Fall 2: Deadpoint",
         "voto": 7.3,
-        "votos": 599,
+        "votos": 601,
         "url_tmdb": "https://www.themoviedb.org/movie/1101412",
         "imdb_id": "tt31192372",
         "url_imdb": "https://www.imdb.com/title/tt31192372/",
