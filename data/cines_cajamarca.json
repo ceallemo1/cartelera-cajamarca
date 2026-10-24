@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-24 10:50",
+  "actualizado": "2026-10-24 13:44",
   "fecha_objetivo": "2026-10-24",
   "peliculas": [
     {
@@ -53,6 +53,28 @@
             "20:00",
             "22:20"
           ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:00",
+                "20:00",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:00",
+            "20:00",
+            "22:00"
+          ]
         }
       ],
       "genero": "Terror",
@@ -69,7 +91,7 @@
         "tmdb_id": 1400940,
         "titulo_tmdb": "Clayface",
         "voto": 7.6,
-        "votos": 118,
+        "votos": 125,
         "url_tmdb": "https://www.themoviedb.org/movie/1400940",
         "imdb_id": "tt34890576",
         "url_imdb": "https://www.imdb.com/title/tt34890576/",
@@ -121,8 +143,421 @@
       }
     },
     {
+      "titulo": "Street Fighter",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/10/street-fighter-47899-0.webp",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "18:30",
+                "21:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:30",
+            "21:20"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:15",
+                "19:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:15",
+            "19:30"
+          ]
+        }
+      ],
+      "genero": "Acción",
+      "duracion": "120 minutos",
+      "clasificacion": "12 Años",
+      "director": "Kitao Sakurai",
+      "actores": "David Dastmalchian, Jason Momoa, Noah Centineo, Olivier Richters, Joe Anoa'i, Andrew Koji, 50 Cent, Eric André, Mel Jarnson, Rayna Vallandingham, Kristy Best, C",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/street-fighter-12302_252",
+      "trailer_url": "https://youtu.be/db-xQJgY_II",
+      "sinopsis": "Ambientada en 1993, los distanciados Street Fighters Ryu (Andrew Koji) y Ken Masters (Noah Centineo) vuelven al combate cuando la misteriosa Chun-Li (Callina Liang) los recluta para el próximo Torneo Mundial de Guerreros: un brutal choque de puños, destino y furia. Pero detrás de esta batalla campal se esconde una conspiración mortal que los obliga a enfrentarse entre ellos y contra los demonios d",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1153576,
+        "titulo_tmdb": "Street Fighter",
+        "voto": 6.4,
+        "votos": 165,
+        "url_tmdb": "https://www.themoviedb.org/movie/1153576",
+        "imdb_id": "tt27419420",
+        "url_imdb": "https://www.imdb.com/title/tt27419420/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
+        "director": "Kitao Sakurai",
+        "reparto": [
+          {
+            "nombre": "Andrew Koji",
+            "personaje": "Ryu"
+          },
+          {
+            "nombre": "Noah Centineo",
+            "personaje": "Ken Masters"
+          },
+          {
+            "nombre": "Callina Liang",
+            "personaje": "Chun-Li"
+          },
+          {
+            "nombre": "David Dastmalchian",
+            "personaje": "M. Bison"
+          },
+          {
+            "nombre": "Andrew Schulz",
+            "personaje": "Dan Hibiki"
+          },
+          {
+            "nombre": "Joe Anoa'i",
+            "personaje": "Akuma"
+          }
+        ],
+        "generos": [
+          "Acción",
+          "Fantasía"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=-MJAfIMUQ5s",
+          "embed_id": "-MJAfIMUQ5s"
+        },
+        "sinopsis_tmdb": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
+        "estreno": "13 oct 2026",
+        "duracion_min": 125,
+        "paises": [
+          "Japón",
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Street Fighter"
+      }
+    },
+    {
+      "titulo": "Madre Siniestra",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/10/madre-siniestra-47902-0.webp",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "21:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:50"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:45",
+                "19:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:45",
+            "19:45"
+          ]
+        }
+      ],
+      "genero": "Terror",
+      "duracion": "120 minutos",
+      "clasificacion": "12 Años",
+      "director": "Rob Savage",
+      "actores": "Jessica Chastain, Jay Duplass, Arabella Olivia Clark, Karen Allen, Arian Moayed, Dichen Lachman",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/madre-siniestra-12305_252",
+      "trailer_url": "https://youtu.be/mnXYYwnfWlQ",
+      "sinopsis": "La historia sigue a Bela, una joven que comienza a vincularse con una presencia oscura dentro de su hogar: una entidad siniestra que adopta la apariencia de su madre y la arrastra a un mundo donde el amor, el miedo y lo sobrenatural se confunden peligrosamente.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1400837,
+        "titulo_tmdb": "La otra madre",
+        "voto": 5.9,
+        "votos": 155,
+        "url_tmdb": "https://www.themoviedb.org/movie/1400837",
+        "imdb_id": "tt36586020",
+        "url_imdb": "https://www.imdb.com/title/tt36586020/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
+        "director": "Rob Savage",
+        "reparto": [
+          {
+            "nombre": "Jessica Chastain",
+            "personaje": "Mommy / Other Mommy"
+          },
+          {
+            "nombre": "Jay Duplass",
+            "personaje": "Daddo"
+          },
+          {
+            "nombre": "Arabella Olivia Clark",
+            "personaje": "Bela"
+          },
+          {
+            "nombre": "Karen Allen",
+            "personaje": "Grandma Ruth"
+          },
+          {
+            "nombre": "Arian Moayed",
+            "personaje": "Uncle Frank"
+          },
+          {
+            "nombre": "Dichen Lachman",
+            "personaje": "Lois Anthony"
+          }
+        ],
+        "generos": [
+          "Terror"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=ocV7K_B67lQ",
+          "embed_id": "ocV7K_B67lQ"
+        },
+        "sinopsis_tmdb": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
+        "estreno": "7 oct 2026",
+        "duracion_min": 93,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Other Mommy"
+      }
+    },
+    {
+      "titulo": "Escuela De Monstruos",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/10/escuela-de-monstruos-47928-0.webp",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "13:20"
+              ]
+            },
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "15:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "13:20",
+            "15:00"
+          ]
+        }
+      ],
+      "genero": "Animado",
+      "duracion": "80 minutos",
+      "clasificacion": "7 Años",
+      "director": "Verena Fels",
+      "actores": "Verena Altenberger, Armin Assinger, Dunja Bernatzky",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/escuela-de-monstruos-12316_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Escuela%20De%20Monstruos%20trailer%20espanol",
+      "sinopsis": "Un inteligente estudiante de secundaria de 15 años es trasladado inesperadamente a un internado donde abre un portal de monstruos de otra dimensión.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 627661,
+        "titulo_tmdb": "Academia Cranston: Escuela de Monstruos",
+        "voto": 6.0,
+        "votos": 110,
+        "url_tmdb": "https://www.themoviedb.org/movie/627661",
+        "imdb_id": "tt8524650",
+        "url_imdb": "https://www.imdb.com/title/tt8524650/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/oEGs9e5O42grRG2boT9BhjEAYT0.jpg",
+        "director": "Leopoldo Aguilar",
+        "reparto": [
+          {
+            "nombre": "Jamie Bell",
+            "personaje": "Danny (Voice)"
+          },
+          {
+            "nombre": "Ruby Rose",
+            "personaje": "Liz (Voice)"
+          },
+          {
+            "nombre": "Idzi Dutkiewicz",
+            "personaje": "Mothman"
+          },
+          {
+            "nombre": "Ellie Piercy",
+            "personaje": "Ms. Evans"
+          },
+          {
+            "nombre": "Terry Mynott",
+            "personaje": "Professor Stern"
+          },
+          {
+            "nombre": "Ryan Samson",
+            "personaje": ""
+          }
+        ],
+        "generos": [
+          "Animación",
+          "Aventura",
+          "Ciencia ficción",
+          "Fantasía",
+          "Terror"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Un inteligente estudiante de secundaria de 15 años es trasladado inesperadamente a un internado donde abre un portal de monstruos de otra dimensión.",
+        "estreno": "29 abr 2020",
+        "duracion_min": 80,
+        "paises": [
+          "México",
+          "Reino Unido",
+          "Canadá"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Cranston Academy: Monster Zone"
+      }
+    },
+    {
+      "titulo": "La Caída De La Ballena",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/10/la-caida-de-la-ballena-47925-0.webp",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "19:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "19:00"
+          ]
+        }
+      ],
+      "genero": "Thriller",
+      "duracion": "120 minutos",
+      "clasificacion": "12 Años",
+      "director": "Brian Duffield",
+      "actores": "Josh Brolin, Austin Abrams, Jane Levy, Elisabeth Shue, Emily Rudd.",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/la-caida-de-la-ballena-12313_252",
+      "trailer_url": "https://youtu.be/pS4qvMZh9fA",
+      "sinopsis": "Tras la muerte de su padre (Josh Brolin), Jay Gardiner (Austin Abrams) se sumerge en la costa central de California en busca de sus restos, pero es tragado por una enorme ballena. Mientras está atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó con tanto esfuerzo pueden ser la clave para escapar.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1255833,
+        "titulo_tmdb": "Whalefall",
+        "voto": 6.5,
+        "votos": 98,
+        "url_tmdb": "https://www.themoviedb.org/movie/1255833",
+        "imdb_id": "tt28535715",
+        "url_imdb": "https://www.imdb.com/title/tt28535715/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/jmGVSLOrH9IxtcffbldrEHX4IfB.jpg",
+        "director": "Brian Duffield",
+        "reparto": [
+          {
+            "nombre": "Austin Abrams",
+            "personaje": "Jay Gardiner"
+          },
+          {
+            "nombre": "Josh Brolin",
+            "personaje": "Mitt Gardiner"
+          },
+          {
+            "nombre": "Elisabeth Shue",
+            "personaje": "Zara Gardiner"
+          },
+          {
+            "nombre": "John Ortiz",
+            "personaje": "Hewey"
+          },
+          {
+            "nombre": "Jane Levy",
+            "personaje": "Eva Gardiner"
+          },
+          {
+            "nombre": "Emily Rudd",
+            "personaje": "Nan Gardiner"
+          }
+        ],
+        "generos": [
+          "Suspense"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=5webTf9wplE",
+          "embed_id": "5webTf9wplE"
+        },
+        "sinopsis_tmdb": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.",
+        "estreno": "14 oct 2026",
+        "duracion_min": 98,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Whalefall"
+      }
+    },
+    {
       "titulo": "Ekeko",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/8/ekeko-47706-1.jpg",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/8/ekeko-47706-0.webp",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
@@ -228,481 +663,6 @@
         ],
         "idioma": "Español",
         "titulo_original": "La leyenda del Ekeko"
-      }
-    },
-    {
-      "titulo": "Street Fighter",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/10/street-fighter-47899-0.webp",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "21:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "21:45"
-          ]
-        },
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "18:30",
-                "21:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:30",
-            "21:20"
-          ]
-        }
-      ],
-      "genero": "Acción",
-      "duracion": "120 minutos",
-      "clasificacion": "12 Años",
-      "director": "Kitao Sakurai",
-      "actores": "David Dastmalchian, Jason Momoa, Noah Centineo, Olivier Richters, Joe Anoa'i, Andrew Koji, 50 Cent, Eric André, Mel Jarnson, Rayna Vallandingham, Kristy Best, C",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/street-fighter-12302_252",
-      "trailer_url": "https://youtu.be/db-xQJgY_II",
-      "sinopsis": "Ambientada en 1993, los distanciados Street Fighters Ryu (Andrew Koji) y Ken Masters (Noah Centineo) vuelven al combate cuando la misteriosa Chun-Li (Callina Liang) los recluta para el próximo Torneo Mundial de Guerreros: un brutal choque de puños, destino y furia. Pero detrás de esta batalla campal se esconde una conspiración mortal que los obliga a enfrentarse entre ellos y contra los demonios d",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1153576,
-        "titulo_tmdb": "Street Fighter",
-        "voto": 6.4,
-        "votos": 165,
-        "url_tmdb": "https://www.themoviedb.org/movie/1153576",
-        "imdb_id": "tt27419420",
-        "url_imdb": "https://www.imdb.com/title/tt27419420/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-        "director": "Kitao Sakurai",
-        "reparto": [
-          {
-            "nombre": "Andrew Koji",
-            "personaje": "Ryu"
-          },
-          {
-            "nombre": "Noah Centineo",
-            "personaje": "Ken Masters"
-          },
-          {
-            "nombre": "Callina Liang",
-            "personaje": "Chun-Li"
-          },
-          {
-            "nombre": "David Dastmalchian",
-            "personaje": "M. Bison"
-          },
-          {
-            "nombre": "Andrew Schulz",
-            "personaje": "Dan Hibiki"
-          },
-          {
-            "nombre": "Joe Anoa'i",
-            "personaje": "Akuma"
-          }
-        ],
-        "generos": [
-          "Acción",
-          "Fantasía"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=-MJAfIMUQ5s",
-          "embed_id": "-MJAfIMUQ5s"
-        },
-        "sinopsis_tmdb": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-        "estreno": "13 oct 2026",
-        "duracion_min": 125,
-        "paises": [
-          "Japón",
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Street Fighter"
-      }
-    },
-    {
-      "titulo": "Resident Evil: Noche Cero",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/9/resident-evil-noche-cero-47798-0.webp",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "17:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:45"
-          ]
-        }
-      ],
-      "genero": "Terror",
-      "duracion": "90 minutos",
-      "clasificacion": "12 Años",
-      "director": "Zach Cregger",
-      "actores": "Austin Abrams, Zach Cherry, Kali Reis y Paul Walter Hauser",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Resident%20Evil%3A%20Noche%20Cero%20trailer%20espanol",
-      "sinopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1423191,
-        "titulo_tmdb": "Resident Evil",
-        "voto": 7.3,
-        "votos": 1043,
-        "url_tmdb": "https://www.themoviedb.org/movie/1423191",
-        "imdb_id": "tt35538033",
-        "url_imdb": "https://www.imdb.com/title/tt35538033/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/vrLEVObLGbUinE4sC4Lqao2dK0E.jpg",
-        "director": "Zach Cregger",
-        "reparto": [
-          {
-            "nombre": "Austin Abrams",
-            "personaje": "Bryan"
-          },
-          {
-            "nombre": "Paul Walter Hauser",
-            "personaje": "Paul"
-          },
-          {
-            "nombre": "Kali Reis",
-            "personaje": "Maxine"
-          },
-          {
-            "nombre": "Zach Cherry",
-            "personaje": "Carl"
-          },
-          {
-            "nombre": "Johnno Wilson",
-            "personaje": "Officer Wilson"
-          },
-          {
-            "nombre": "Shaun W. Loeser",
-            "personaje": "Puker"
-          }
-        ],
-        "generos": [
-          "Terror",
-          "Ciencia ficción",
-          "Aventura"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=d6oszs7f5aI",
-          "embed_id": "d6oszs7f5aI"
-        },
-        "sinopsis_tmdb": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-        "estreno": "16 sep 2026",
-        "duracion_min": 95,
-        "paises": [
-          "Estados Unidos",
-          "Alemania",
-          "Francia"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Resident Evil"
-      }
-    },
-    {
-      "titulo": "Escuela De Monstruos",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/10/escuela-de-monstruos-47928-0.webp",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "13:20"
-              ]
-            },
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "15:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "13:20",
-            "15:00"
-          ]
-        }
-      ],
-      "genero": "Animado",
-      "duracion": "80 minutos",
-      "clasificacion": "7 Años",
-      "director": "Verena Fels",
-      "actores": "Verena Altenberger, Armin Assinger, Dunja Bernatzky",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/escuela-de-monstruos-12316_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Escuela%20De%20Monstruos%20trailer%20espanol",
-      "sinopsis": "Un inteligente estudiante de secundaria de 15 años es trasladado inesperadamente a un internado donde abre un portal de monstruos de otra dimensión.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 627661,
-        "titulo_tmdb": "Academia Cranston: Escuela de Monstruos",
-        "voto": 6.0,
-        "votos": 110,
-        "url_tmdb": "https://www.themoviedb.org/movie/627661",
-        "imdb_id": "tt8524650",
-        "url_imdb": "https://www.imdb.com/title/tt8524650/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/oEGs9e5O42grRG2boT9BhjEAYT0.jpg",
-        "director": "Leopoldo Aguilar",
-        "reparto": [
-          {
-            "nombre": "Jamie Bell",
-            "personaje": "Danny (Voice)"
-          },
-          {
-            "nombre": "Ruby Rose",
-            "personaje": "Liz (Voice)"
-          },
-          {
-            "nombre": "Idzi Dutkiewicz",
-            "personaje": "Mothman"
-          },
-          {
-            "nombre": "Ellie Piercy",
-            "personaje": "Ms. Evans"
-          },
-          {
-            "nombre": "Terry Mynott",
-            "personaje": "Professor Stern"
-          },
-          {
-            "nombre": "Ryan Samson",
-            "personaje": ""
-          }
-        ],
-        "generos": [
-          "Animación",
-          "Aventura",
-          "Ciencia ficción",
-          "Fantasía",
-          "Terror"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Un inteligente estudiante de secundaria de 15 años es trasladado inesperadamente a un internado donde abre un portal de monstruos de otra dimensión.",
-        "estreno": "29 abr 2020",
-        "duracion_min": 80,
-        "paises": [
-          "México",
-          "Reino Unido",
-          "Canadá"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Cranston Academy: Monster Zone"
-      }
-    },
-    {
-      "titulo": "La Caída De La Ballena",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/10/la-caida-de-la-ballena-47925-0.webp",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "19:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:40"
-          ]
-        },
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "16:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00"
-          ]
-        }
-      ],
-      "genero": "Thriller",
-      "duracion": "120 minutos",
-      "clasificacion": "12 Años",
-      "director": "Brian Duffield",
-      "actores": "Josh Brolin, Austin Abrams, Jane Levy, Elisabeth Shue, Emily Rudd.",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/la-caida-de-la-ballena-12313_252",
-      "trailer_url": "https://youtu.be/pS4qvMZh9fA",
-      "sinopsis": "Tras la muerte de su padre (Josh Brolin), Jay Gardiner (Austin Abrams) se sumerge en la costa central de California en busca de sus restos, pero es tragado por una enorme ballena. Mientras está atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó con tanto esfuerzo pueden ser la clave para escapar.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1255833,
-        "titulo_tmdb": "Whalefall",
-        "voto": 6.5,
-        "votos": 98,
-        "url_tmdb": "https://www.themoviedb.org/movie/1255833",
-        "imdb_id": "tt28535715",
-        "url_imdb": "https://www.imdb.com/title/tt28535715/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/jmGVSLOrH9IxtcffbldrEHX4IfB.jpg",
-        "director": "Brian Duffield",
-        "reparto": [
-          {
-            "nombre": "Austin Abrams",
-            "personaje": "Jay Gardiner"
-          },
-          {
-            "nombre": "Josh Brolin",
-            "personaje": "Mitt Gardiner"
-          },
-          {
-            "nombre": "Elisabeth Shue",
-            "personaje": "Zara Gardiner"
-          },
-          {
-            "nombre": "John Ortiz",
-            "personaje": "Hewey"
-          },
-          {
-            "nombre": "Jane Levy",
-            "personaje": "Eva Gardiner"
-          },
-          {
-            "nombre": "Emily Rudd",
-            "personaje": "Nan Gardiner"
-          }
-        ],
-        "generos": [
-          "Suspense"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=5webTf9wplE",
-          "embed_id": "5webTf9wplE"
-        },
-        "sinopsis_tmdb": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.",
-        "estreno": "14 oct 2026",
-        "duracion_min": 98,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Whalefall"
-      }
-    },
-    {
-      "titulo": "Simón: El Gato Testarudo",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/10/simon-el-gato-testarudo-47906-0.webp",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:35"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:35"
-          ]
-        }
-      ],
-      "genero": "Drama",
-      "duracion": "90 minutos",
-      "clasificacion": "12 Años",
-      "director": "Xavier Chávez",
-      "actores": "Jaime Bonelli, Poén Alarcón, Walter Donado, Alexandra Puyol, Natalia Bustamante, Karen Montero, Silvina Pagella y Danilo Esteves.",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/simon-el-gato-testarudo-12309_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Sim%C3%B3n%3A%20El%20Gato%20Testarudo%20trailer%20espanol",
-      "sinopsis": "Elías, un anciano recién viudo, áspero y malhumorado, pensaba que la vida no podía empeorar... hasta que llegó el gato. Enfermo, cansado y atrapado en su peor racha, Elías no solo debe lidiar con su inevitable decadencia, sino también con un felino roñoso y escandaloso que ha decidido convertir sus noches –y las del vecindario entero– en un concierto infernal de maullidos.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 993896,
-        "titulo_tmdb": "Viejos Malditos",
-        "voto": 10.0,
-        "votos": 1,
-        "url_tmdb": "https://www.themoviedb.org/movie/993896",
-        "imdb_id": "tt15829824",
-        "url_imdb": "https://www.imdb.com/title/tt15829824/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/j9kqSy3hS3D8p44meUVBAvtziqS.jpg",
-        "director": "Xavier Chávez C.",
-        "reparto": [
-          {
-            "nombre": "Jaime Bonelli",
-            "personaje": "Elías"
-          },
-          {
-            "nombre": "Poen Alarcón",
-            "personaje": "Rogelio"
-          },
-          {
-            "nombre": "Alexandra Puyol",
-            "personaje": "Aidé"
-          },
-          {
-            "nombre": "Danilo Esteves",
-            "personaje": "José"
-          },
-          {
-            "nombre": "Natalia Bustamante",
-            "personaje": "Corredora de bienes raíces"
-          }
-        ],
-        "generos": [
-          "Drama",
-          "Suspense",
-          "Comedia"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=5b8kCBP4RHo",
-          "embed_id": "5b8kCBP4RHo"
-        },
-        "sinopsis_tmdb": "Elías, un anciano recién viudo, áspero y malhumorado, pensaba que la vida no podía empeorar... hasta que llegó el gato. Enfermo, cansado y atrapado en su peor racha, Elías no solo debe lidiar con su inevitable decadencia, sino también con un felino roñoso y escandaloso que ha decidido convertir sus noches –y las del vecindario entero– en un concierto infernal de maullidos.",
-        "estreno": "6 nov 2025",
-        "duracion_min": 97,
-        "paises": [
-          "Argentina",
-          "Ecuador"
-        ],
-        "idioma": "Español",
-        "titulo_original": "Viejos Malditos"
       }
     },
     {
@@ -996,92 +956,416 @@
       }
     },
     {
-      "titulo": "Madre Siniestra",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003063?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Terror",
-      "clasificacion": "+14",
-      "duracion": "94 min",
-      "director": "Rob Savage",
-      "actores": "Jessica Chastain, Jay Duplass, Arabella Olivia Clark, Karen Allen, Arian Moayed, Dichen Lachman",
+      "titulo": "Avengers: Doomsday(preventa)",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/3d963823a9ed8dd4d81b637127f265bd.jpg",
+      "genero": "Accion",
+      "clasificacion": "Mayores de 14",
+      "duracion": "02:45",
+      "sinopsis": "Héroes Icónicos de Tres Universos Diferentes Se Encuentran en un Curso de Colisión Mortal y Enfrentan una Amenaza Existencial Como Nunca Antes Han Visto.",
+      "director": "Joe Russo, Anthony Russo",
+      "actores": "Robert Downey Jr., Chris Evans, Chris Hemsworth, Pedro Pascal, Paul Rudd, Anthony Mackie",
       "estreno": "",
-      "sinopsis": "La historia sigue a Bela, una joven que comienza a vincularse con una presencia oscura dentro de su hogar: una entidad siniestra que adopta la apariencia de su madre y la arrastra a un mundo donde el amor, el miedo y lo sobrenatural se confunden peligrosamente.",
       "puntaje": "",
       "ficha": "",
-      "trailer_url": "https://youtu.be/mnXYYwnfWlQ",
-      "fuente_peli": "Cineplanet",
+      "trailer_url": "https://www.youtube.com/watch?v=gcjnEYJ4OB8",
+      "fuente_peli": "Cinerama",
       "cines": [
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
           "formatos": [
             {
-              "formato": "2D REGULAR DOBLADA",
+              "formato": "",
               "horarios": [
-                "21:50"
+                "14:00",
+                "15:00",
+                "15:30",
+                "16:00",
+                "16:30",
+                "17:00",
+                "18:00",
+                "18:30",
+                "19:00",
+                "19:30",
+                "20:00",
+                "21:00",
+                "21:30",
+                "22:00",
+                "22:30",
+                "23:00"
               ]
             }
           ],
           "horarios": [
-            "21:50"
+            "14:00",
+            "15:00",
+            "15:30",
+            "16:00",
+            "16:30",
+            "17:00",
+            "18:00",
+            "18:30",
+            "19:00",
+            "19:30",
+            "20:00",
+            "21:00",
+            "21:30",
+            "22:00",
+            "22:30",
+            "23:00"
           ]
         }
       ],
       "tmdb": {
-        "tmdb_id": 1400837,
-        "titulo_tmdb": "La otra madre",
-        "voto": 5.9,
-        "votos": 155,
-        "url_tmdb": "https://www.themoviedb.org/movie/1400837",
-        "imdb_id": "tt36586020",
-        "url_imdb": "https://www.imdb.com/title/tt36586020/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
-        "director": "Rob Savage",
+        "tmdb_id": 1003596,
+        "titulo_tmdb": "Vengadores: Doomsday",
+        "voto": null,
+        "votos": 0,
+        "url_tmdb": "https://www.themoviedb.org/movie/1003596",
+        "imdb_id": "tt21357150",
+        "url_imdb": "https://www.imdb.com/title/tt21357150/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/7bQczUMnjz8iwxNP9YrmLkfI8od.jpg",
+        "director": "Joe Russo, Anthony Russo",
         "reparto": [
           {
-            "nombre": "Jessica Chastain",
-            "personaje": "Mommy / Other Mommy"
+            "nombre": "Robert Downey Jr.",
+            "personaje": "Victor von Doom  / Doctor Doom"
           },
           {
-            "nombre": "Jay Duplass",
-            "personaje": "Daddo"
+            "nombre": "Chris Evans",
+            "personaje": "Steve Rogers"
           },
           {
-            "nombre": "Arabella Olivia Clark",
-            "personaje": "Bela"
+            "nombre": "Chris Hemsworth",
+            "personaje": "Thor"
           },
           {
-            "nombre": "Karen Allen",
-            "personaje": "Grandma Ruth"
+            "nombre": "Pedro Pascal",
+            "personaje": "Reed Richards / Mister Fantastic"
           },
           {
-            "nombre": "Arian Moayed",
-            "personaje": "Uncle Frank"
+            "nombre": "Paul Rudd",
+            "personaje": "Scott Lang / Ant-Man"
           },
           {
-            "nombre": "Dichen Lachman",
-            "personaje": "Lois Anthony"
+            "nombre": "Anthony Mackie",
+            "personaje": "Sam Wilson / Captain America"
+          }
+        ],
+        "generos": [
+          "Ciencia ficción",
+          "Acción",
+          "Aventura"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=gcjnEYJ4OB8",
+          "embed_id": "gcjnEYJ4OB8"
+        },
+        "sinopsis_tmdb": "Quinta entrega de la saga 'Vengadores' incluida en el Universo Cinematográfico Marvel (UCM). Sinopsis desconocido.",
+        "estreno": "16 dic 2026",
+        "duracion_min": 165,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Avengers: Doomsday"
+      }
+    },
+    {
+      "titulo": "Ekeko: El Muñeco de la Suerte",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/images.jpg",
+      "genero": "Terror",
+      "clasificacion": "Mayores de 16",
+      "duracion": "01:30",
+      "sinopsis": "Un Misterioso Ekeko Llega a las Vidas de Aníbal, Ofelia y Koko Para Cumplir Sus Deseos Más Profundos. Lo Que Comienza Como una Promesa de Abundancia Pronto Se Convierte en una Pesadilla, Revelando Que Detrás de Cada Deseo Existe un Oscuro Precio Por Pagar.",
+      "director": "Rafael Gutiérrez Sánchez",
+      "actores": "Santiago Magill, Carlos Casella, Sylvia Majo, Devora Merino, Mirella Villalobos",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:00",
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:00",
+            "21:00"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1744855,
+        "titulo_tmdb": "Ekeko: el muñeco de la suerte",
+        "voto": null,
+        "votos": 0,
+        "url_tmdb": "https://www.themoviedb.org/movie/1744855",
+        "imdb_id": "",
+        "url_imdb": "",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/siDehQDrCJMY52LV9mNBBuGGztG.jpg",
+        "director": "Rafael Gutiérrez Sánchez",
+        "reparto": [
+          {
+            "nombre": "Santiago Magill",
+            "personaje": ""
+          },
+          {
+            "nombre": "Carlos Casella",
+            "personaje": ""
+          },
+          {
+            "nombre": "Sylvia Majo",
+            "personaje": ""
+          },
+          {
+            "nombre": "Devora Merino",
+            "personaje": ""
+          },
+          {
+            "nombre": "Mirella Villalobos",
+            "personaje": ""
           }
         ],
         "generos": [
           "Terror"
         ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=ocV7K_B67lQ",
-          "embed_id": "ocV7K_B67lQ"
-        },
-        "sinopsis_tmdb": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
-        "estreno": "7 oct 2026",
-        "duracion_min": 93,
+        "trailer": {},
+        "sinopsis_tmdb": "",
+        "estreno": "22 oct 2026",
+        "duracion_min": null,
         "paises": [
-          "Estados Unidos"
+          "Perú"
+        ],
+        "idioma": "Español",
+        "titulo_original": "Ekeko: el muñeco de la suerte"
+      }
+    },
+    {
+      "titulo": "Sacrificio los Elegidos",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/sacrifice-148497826-large.jpg",
+      "genero": "Drama",
+      "clasificacion": "Mayores de 14",
+      "duracion": "01:43",
+      "sinopsis": "Un Evento Benéfico Repleto de Estrellas Se Convierte en un Caos Cuando Irrumpe un Grupo Antisistema en Busca de un Artefacto Místico Relacionado Con una Antigua Profecía. Mike Tyler (Evans) Es una Estrella de Cine Que, Tras Pasar una Crisis, Ansía Volver a Ser el Centro de Atención. Esta Noche Será Su Primera Aparición Pública en una Gala Benéfica, Pero Tanto el Evento Como Él Mismo Quedan Eclipsa",
+      "director": "Romain Gavras",
+      "actores": "Chris Evans, Anya Taylor-Joy, Vincent Cassel, Salma Hayek Pinault, John Malkovich, Charli xcx",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:30",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:30",
+            "21:45"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1284186,
+        "titulo_tmdb": "Sacrifice",
+        "voto": 5.1,
+        "votos": 72,
+        "url_tmdb": "https://www.themoviedb.org/movie/1284186",
+        "imdb_id": "tt32268992",
+        "url_imdb": "https://www.imdb.com/title/tt32268992/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
+        "director": "Romain Gavras",
+        "reparto": [
+          {
+            "nombre": "Chris Evans",
+            "personaje": "Mike Tyler"
+          },
+          {
+            "nombre": "Anya Taylor-Joy",
+            "personaje": "Joan"
+          },
+          {
+            "nombre": "Vincent Cassel",
+            "personaje": "Ben Bracken"
+          },
+          {
+            "nombre": "Salma Hayek Pinault",
+            "personaje": "Gloria Bracken"
+          },
+          {
+            "nombre": "John Malkovich",
+            "personaje": "Gunnar"
+          },
+          {
+            "nombre": "Charli xcx",
+            "personaje": "Mother Nature"
+          }
+        ],
+        "generos": [
+          "Aventura",
+          "Comedia",
+          "Acción"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Durante una gala benéfica repleta de estrellas —entre ellas celebridades, multimillonarios y discursos vacíos—, una estrella de cine inmersa en una crisis existencial es tomada como rehén por una guerrera radical y sus fieles seguidores. A medida que la noche se precipita hacia el caos, se desarrollan simultáneamente un viaje interior y una aventura externa, donde la línea que separa la representación de la creencia, y la salvación del sacrificio, comienza a desdibujarse.",
+        "estreno": "9 abr 2026",
+        "duracion_min": 103,
+        "paises": [
+          "Francia",
+          "Greece",
+          "Cyprus",
+          "Reino Unido"
         ],
         "idioma": "Inglés",
-        "titulo_original": "Other Mommy"
+        "titulo_original": "Sacrifice"
       }
+    },
+    {
+      "titulo": "Terror en el Amazonas",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/HO00009733.jpg",
+      "genero": "Terror",
+      "clasificacion": "Mayores de 16",
+      "duracion": "01:44",
+      "sinopsis": "Río Curuçá, Brasil. Cuando un Equipo de Jóvenes Médicos Inicia una Misión Humanitaria Local en un Barco Por la Selva Amazónica, Pronto Queda Claro Que No Todo en la Selva Se Alegra de Verlos. Tras un Repentino y Fatal Accidente, la Expedición Médica Se Ve Obligada a Volver Río Arriba. En un Entorno Ya de Por Sí Hostil, Su Llegada No Deseada También Ha Despertado a un Depredador Primigenio y de Pro",
+      "director": "Mike P. Nelson",
+      "actores": "Logan Marshall-Green, Kiana Madeira, Jessica Rothe, Jackson Bews, Juan Pablo Shuk, Will Close",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:15",
+                "18:15",
+                "20:15",
+                "22:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:15",
+            "18:15",
+            "20:15",
+            "22:15"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1244523,
+        "titulo_tmdb": "Boiuna: La leyenda del Amazonas",
+        "voto": 6.3,
+        "votos": 11,
+        "url_tmdb": "https://www.themoviedb.org/movie/1244523",
+        "imdb_id": "tt10377864",
+        "url_imdb": "https://www.imdb.com/title/tt10377864/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/hClFn5adaXOgmxrZyxixoKiBHEZ.jpg",
+        "director": "Mike P. Nelson",
+        "reparto": [
+          {
+            "nombre": "Logan Marshall-Green",
+            "personaje": "Brennan Malloy"
+          },
+          {
+            "nombre": "Kiana Madeira",
+            "personaje": "Lena"
+          },
+          {
+            "nombre": "Jessica Rothe",
+            "personaje": "Alli"
+          },
+          {
+            "nombre": "Jackson Bews",
+            "personaje": "Shawn"
+          },
+          {
+            "nombre": "Juan Pablo Shuk",
+            "personaje": "Miguel"
+          },
+          {
+            "nombre": "Will Close",
+            "personaje": "Callum"
+          }
+        ],
+        "generos": [
+          "Terror",
+          "Suspense"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Un equipo de médicos se embarca en una misión local en la selva amazónica, pero pronto queda claro que no todo el mundo, ni todo, está contento de verlos. Su repentina aparición llama la atención de un depredador animal, el «Boiúna».",
+        "estreno": "1 oct 2026",
+        "duracion_min": 104,
+        "paises": [
+          "Estados Unidos",
+          "Alemania",
+          "Colombia"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Beware Boiúna"
+      }
+    },
+    {
+      "titulo": "Terror en el Vuelo",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/terror-en-el-vuelo-47766.jpg",
+      "genero": "Accion",
+      "clasificacion": "Mayores de 14",
+      "duracion": "01:33",
+      "sinopsis": "Cuando un Vuelo Comercial Es Tomado Por Terroristas y Entra en Caída Libre Con una Bomba a Bordo, un Exinstructor de Fuerzas Especiales Deberá Enfrentarlos Para Salvar a Su Familia y a los Pasajeros Antes del Impacto.",
+      "director": "",
+      "actores": "",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:45",
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:45",
+            "21:30"
+          ]
+        }
+      ]
     }
   ],
   "cines": [
@@ -1112,61 +1396,6 @@
           ]
         },
         {
-          "titulo": "Ekeko",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/ekeko-47706-1.jpg",
-          "genero": "Terror",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "18:20",
-                "20:05",
-                "21:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:20",
-            "20:05",
-            "21:50"
-          ]
-        },
-        {
-          "titulo": "Street Fighter",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/10/street-fighter-47899-0.webp",
-          "genero": "Acción",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "21:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "21:45"
-          ]
-        },
-        {
-          "titulo": "Resident Evil: Noche Cero",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/9/resident-evil-noche-cero-47798-0.webp",
-          "genero": "Terror",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "17:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:45"
-          ]
-        },
-        {
           "titulo": "Escuela De Monstruos",
           "poster": "https://cdn.carteleracine.pe/cine/2026/10/escuela-de-monstruos-47928-0.webp",
           "genero": "Animado",
@@ -1191,37 +1420,24 @@
           ]
         },
         {
-          "titulo": "La Caída De La Ballena",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/10/la-caida-de-la-ballena-47925-0.webp",
-          "genero": "Thriller",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "19:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:40"
-          ]
-        },
-        {
-          "titulo": "Simón: El Gato Testarudo",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/10/simon-el-gato-testarudo-47906-0.webp",
-          "genero": "Drama",
+          "titulo": "Ekeko",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/ekeko-47706-0.webp",
+          "genero": "Terror",
           "clasificacion": "12 Años",
           "formatos": [
             {
               "formato": "",
               "horarios": [
-                "15:35"
+                "18:20",
+                "20:05",
+                "21:50"
               ]
             }
           ],
           "horarios": [
-            "15:35"
+            "18:20",
+            "20:05",
+            "21:50"
           ]
         },
         {
@@ -1409,21 +1625,242 @@
     },
     {
       "cine": "Cinerama Cajamarca MegaPlaza",
-      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-      "direccion": "",
-      "peliculas": [],
-      "sin_programacion": true,
-      "nota": "No se pudo consultar su cartelera. Suele tener funciones a diario.",
-      "no_consultado": true,
+      "cine_slug": "cinerama-cajamarca-megaplaza",
+      "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
       "url": "https://www.cinerama.com.pe/cines",
-      "cine_original": "Cajamarca Megaplaza (Cinerama)"
+      "fuente_cine": "Cinerama",
+      "peliculas": [
+        {
+          "titulo": "Avengers: Doomsday(preventa)",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/3d963823a9ed8dd4d81b637127f265bd.jpg",
+          "genero": "Accion",
+          "clasificacion": "Mayores de 14",
+          "duracion": "02:45",
+          "sinopsis": "Héroes Icónicos de Tres Universos Diferentes Se Encuentran en un Curso de Colisión Mortal y Enfrentan una Amenaza Existencial Como Nunca Antes Han Visto.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "14:00",
+                "15:00",
+                "15:30",
+                "16:00",
+                "16:30",
+                "17:00",
+                "18:00",
+                "18:30",
+                "19:00",
+                "19:30",
+                "20:00",
+                "21:00",
+                "21:30",
+                "22:00",
+                "22:30",
+                "23:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:00",
+            "15:00",
+            "15:30",
+            "16:00",
+            "16:30",
+            "17:00",
+            "18:00",
+            "18:30",
+            "19:00",
+            "19:30",
+            "20:00",
+            "21:00",
+            "21:30",
+            "22:00",
+            "22:30",
+            "23:00"
+          ]
+        },
+        {
+          "titulo": "Clayface",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/clayface-535843038-large.jpg",
+          "genero": "Horror",
+          "clasificacion": "Mayores de 16",
+          "duracion": "01:48",
+          "sinopsis": "El Meteórico Ascenso de Matt Hagen, Desde Chico de la Calle en Gotham Hasta Protagonista de Hollywood, Se Ve Trágicamente Truncado Cuando las Acciones de un Jefe del Crimen Local Lo Dejan Horriblemente Desfigurado. Abandonado Por Su Equipo y Sin Nada Que Perder, Matt Busca un Tratamiento de Vanguardia Que, Milagrosamente, Le Devuelve Su Aspecto Anterior… Pero Que También Afecta Inesperadamente Su ",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:00",
+                "18:00",
+                "20:00",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:00",
+            "20:00",
+            "22:00"
+          ]
+        },
+        {
+          "titulo": "Ekeko: El Muñeco de la Suerte",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/images.jpg",
+          "genero": "Terror",
+          "clasificacion": "Mayores de 16",
+          "duracion": "01:30",
+          "sinopsis": "Un Misterioso Ekeko Llega a las Vidas de Aníbal, Ofelia y Koko Para Cumplir Sus Deseos Más Profundos. Lo Que Comienza Como una Promesa de Abundancia Pronto Se Convierte en una Pesadilla, Revelando Que Detrás de Cada Deseo Existe un Oscuro Precio Por Pagar.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:00",
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:00",
+            "21:00"
+          ]
+        },
+        {
+          "titulo": "La Caída De La Ballena",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/HO00009763.jpg",
+          "genero": "Accion",
+          "clasificacion": "Mayores de 14",
+          "duracion": "01:46",
+          "sinopsis": "Tras la Muerte de Su Padre, Jay Gardiner Se Sumerge en la Costa Central de California en Busca de Sus Restos, Pero Es Tragado Por una Ballena. Atrapado en Su Interior Con Solo una Hora de Oxígeno Restante, Jay Se Da Cuenta de Que las Lecciones Que Su Padre Le Enseñó Pueden Ser la Clave Para Escapar.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "19:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "19:00"
+          ]
+        },
+        {
+          "titulo": "Madre Siniestra",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/other_mommy-415529498-large.jpg",
+          "genero": "Terror",
+          "clasificacion": "Mayores de 14",
+          "duracion": "01:33",
+          "sinopsis": "Bela, una Niña de 8 Años Que Vive en un Hogar Tenso Por el Matrimonio Problemático de Sus Padres, Ve Cómo Su Vida Se Ve Trastornada Por una Entidad Siniestra a la Que Llama Otra Mamá. Cuando Esta Presencia Malévola Emerge de Su Armario Preguntando: '¿Puedo Entrar en Tu Corazón?', Bela Se Niega. Pero Pronto las Manifestaciones de la Otra Mamá Se Vuelven Cada Vez Más Agresivas, Amenazando la Segurid",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:45",
+                "19:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:45",
+            "19:45"
+          ]
+        },
+        {
+          "titulo": "Sacrificio los Elegidos",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/sacrifice-148497826-large.jpg",
+          "genero": "Drama",
+          "clasificacion": "Mayores de 14",
+          "duracion": "01:43",
+          "sinopsis": "Un Evento Benéfico Repleto de Estrellas Se Convierte en un Caos Cuando Irrumpe un Grupo Antisistema en Busca de un Artefacto Místico Relacionado Con una Antigua Profecía. Mike Tyler (Evans) Es una Estrella de Cine Que, Tras Pasar una Crisis, Ansía Volver a Ser el Centro de Atención. Esta Noche Será Su Primera Aparición Pública en una Gala Benéfica, Pero Tanto el Evento Como Él Mismo Quedan Eclipsa",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:30",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:30",
+            "21:45"
+          ]
+        },
+        {
+          "titulo": "Street Fighter",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/street_fighter-871613292-large.jpg",
+          "genero": "Accion",
+          "clasificacion": "Mayores de 14",
+          "duracion": "01:25",
+          "sinopsis": "Basada en la Saga de Videojuegos 'Street Fighter' y Ambientada en 1993, los Alejados Street Fighters Ryu y Ken Masters Son Lanzados de Nuevo Al Combate Cuando la Misteriosa Chun-li los Recluta Para el Próximo Torneo Mundial de Guerreros: Un Brutal Choque de Puños, Destino y Furia. Pero Detrás de Esta Batalla Se Esconde una Conspiración Mortal Que los Obliga a Enfrentarse Entre Ellos y a los Demoni",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:15",
+                "19:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:15",
+            "19:30"
+          ]
+        },
+        {
+          "titulo": "Terror en el Amazonas",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/HO00009733.jpg",
+          "genero": "Terror",
+          "clasificacion": "Mayores de 16",
+          "duracion": "01:44",
+          "sinopsis": "Río Curuçá, Brasil. Cuando un Equipo de Jóvenes Médicos Inicia una Misión Humanitaria Local en un Barco Por la Selva Amazónica, Pronto Queda Claro Que No Todo en la Selva Se Alegra de Verlos. Tras un Repentino y Fatal Accidente, la Expedición Médica Se Ve Obligada a Volver Río Arriba. En un Entorno Ya de Por Sí Hostil, Su Llegada No Deseada También Ha Despertado a un Depredador Primigenio y de Pro",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:15",
+                "18:15",
+                "20:15",
+                "22:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:15",
+            "18:15",
+            "20:15",
+            "22:15"
+          ]
+        },
+        {
+          "titulo": "Terror en el Vuelo",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/terror-en-el-vuelo-47766.jpg",
+          "genero": "Accion",
+          "clasificacion": "Mayores de 14",
+          "duracion": "01:33",
+          "sinopsis": "Cuando un Vuelo Comercial Es Tomado Por Terroristas y Entra en Caída Libre Con una Bomba a Bordo, un Exinstructor de Fuerzas Especiales Deberá Enfrentarlos Para Salvar a Su Familia y a los Pasajeros Antes del Impacto.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:45",
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:45",
+            "21:30"
+          ]
+        }
+      ]
     }
   ],
   "estado": "ok",
   "fuentes_extra": [
-    "Cineplanet"
-  ],
-  "notas": [
-    "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
+    "Cineplanet",
+    "Cinerama"
   ]
 }
