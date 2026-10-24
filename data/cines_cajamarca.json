@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-24 00:42",
+  "actualizado": "2026-10-24 10:50",
   "fecha_objetivo": "2026-10-24",
   "peliculas": [
     {
@@ -69,7 +69,7 @@
         "tmdb_id": 1400940,
         "titulo_tmdb": "Clayface",
         "voto": 7.6,
-        "votos": 108,
+        "votos": 118,
         "url_tmdb": "https://www.themoviedb.org/movie/1400940",
         "imdb_id": "tt34890576",
         "url_imdb": "https://www.imdb.com/title/tt34890576/",
@@ -286,7 +286,7 @@
         "tmdb_id": 1153576,
         "titulo_tmdb": "Street Fighter",
         "voto": 6.4,
-        "votos": 161,
+        "votos": 165,
         "url_tmdb": "https://www.themoviedb.org/movie/1153576",
         "imdb_id": "tt27419420",
         "url_imdb": "https://www.imdb.com/title/tt27419420/",
@@ -372,7 +372,7 @@
         "tmdb_id": 1423191,
         "titulo_tmdb": "Resident Evil",
         "voto": 7.3,
-        "votos": 1040,
+        "votos": 1043,
         "url_tmdb": "https://www.themoviedb.org/movie/1423191",
         "imdb_id": "tt35538033",
         "url_imdb": "https://www.imdb.com/title/tt35538033/",
@@ -573,7 +573,7 @@
         "tmdb_id": 1255833,
         "titulo_tmdb": "Whalefall",
         "voto": 6.5,
-        "votos": 95,
+        "votos": 98,
         "url_tmdb": "https://www.themoviedb.org/movie/1255833",
         "imdb_id": "tt28535715",
         "url_imdb": "https://www.imdb.com/title/tt28535715/",
@@ -740,7 +740,7 @@
         "tmdb_id": 131634,
         "titulo_tmdb": "Los Juegos del Hambre: Sinsajo - Parte 2",
         "voto": 6.9,
-        "votos": 13702,
+        "votos": 13704,
         "url_tmdb": "https://www.themoviedb.org/movie/131634",
         "imdb_id": "tt1951266",
         "url_imdb": "https://www.imdb.com/title/tt1951266/",
@@ -1033,8 +1033,8 @@
       "tmdb": {
         "tmdb_id": 1400837,
         "titulo_tmdb": "La otra madre",
-        "voto": 5.8,
-        "votos": 152,
+        "voto": 5.9,
+        "votos": 155,
         "url_tmdb": "https://www.themoviedb.org/movie/1400837",
         "imdb_id": "tt36586020",
         "url_imdb": "https://www.imdb.com/title/tt36586020/",
@@ -1424,6 +1424,6 @@
     "Cineplanet"
   ],
   "notas": [
-    "Cinerama: NO_CONSULTADO: URLError: <urlopen error timed out>"
+    "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
   ]
 }
