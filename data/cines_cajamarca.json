@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-25 11:03",
+  "actualizado": "2026-10-25 13:56",
   "fecha_objetivo": "2026-10-25",
   "peliculas": [
     {
@@ -91,7 +91,7 @@
         "tmdb_id": 1400940,
         "titulo_tmdb": "Clayface",
         "voto": 7.6,
-        "votos": 154,
+        "votos": 165,
         "url_tmdb": "https://www.themoviedb.org/movie/1400940",
         "imdb_id": "tt34890576",
         "url_imdb": "https://www.imdb.com/title/tt34890576/",
@@ -214,7 +214,7 @@
         "tmdb_id": 1153576,
         "titulo_tmdb": "Street Fighter",
         "voto": 6.4,
-        "votos": 173,
+        "votos": 174,
         "url_tmdb": "https://www.themoviedb.org/movie/1153576",
         "imdb_id": "tt27419420",
         "url_imdb": "https://www.imdb.com/title/tt27419420/",
@@ -1390,8 +1390,8 @@
       "tmdb": {
         "tmdb_id": 1284186,
         "titulo_tmdb": "Sacrifice",
-        "voto": 5.2,
-        "votos": 80,
+        "voto": 5.1,
+        "votos": 81,
         "url_tmdb": "https://www.themoviedb.org/movie/1284186",
         "imdb_id": "tt32268992",
         "url_imdb": "https://www.imdb.com/title/tt32268992/",
