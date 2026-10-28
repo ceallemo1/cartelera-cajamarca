@@ -2,8 +2,8 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-27 12:55",
-  "fecha_objetivo": "2026-10-27",
+  "actualizado": "2026-10-28 13:18",
+  "fecha_objetivo": "2026-10-28",
   "peliculas": [
     {
       "titulo": "Clayface",
@@ -91,7 +91,7 @@
         "tmdb_id": 1400940,
         "titulo_tmdb": "Clayface",
         "voto": 7.5,
-        "votos": 220,
+        "votos": 242,
         "url_tmdb": "https://www.themoviedb.org/movie/1400940",
         "imdb_id": "tt34890576",
         "url_imdb": "https://www.imdb.com/title/tt34890576/",
@@ -165,6 +165,31 @@
             "20:05",
             "21:50"
           ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:20",
+                "18:20",
+                "20:20",
+                "22:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:20",
+            "18:20",
+            "20:20",
+            "22:20"
+          ]
         }
       ],
       "genero": "Terror",
@@ -174,8 +199,8 @@
       "actores": "Santiago Magill, Devora Merino, Carlos Casella, Sylvia Majo y Mirella Villalobos",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/ekeko-12234_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Ekeko%20trailer%20espanol",
-      "sinopsis": "",
+      "trailer_url": "https://www.youtube.com/watch?v=3Bdkk-0HDpM",
+      "sinopsis": "Un misterioso Ekeko llega a las vidas de Aníbal, Ofelia y Koko para cumplir sus deseos más profundos. Lo que comienza como una promesa de abundancia pronto se convierte en una pesadilla, revelando que detrás de cada deseo existe un oscuro precio por pagar.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1258347,
@@ -232,6 +257,22 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/10/street-fighter-47899-0.webp",
       "cines": [
         {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:45"
+          ]
+        },
+        {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
           "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
@@ -287,7 +328,7 @@
         "tmdb_id": 1153576,
         "titulo_tmdb": "Street Fighter",
         "voto": 6.4,
-        "votos": 185,
+        "votos": 189,
         "url_tmdb": "https://www.themoviedb.org/movie/1153576",
         "imdb_id": "tt27419420",
         "url_imdb": "https://www.imdb.com/title/tt27419420/",
@@ -396,7 +437,7 @@
         "tmdb_id": 1400837,
         "titulo_tmdb": "La otra madre",
         "voto": 5.8,
-        "votos": 164,
+        "votos": 167,
         "url_tmdb": "https://www.themoviedb.org/movie/1400837",
         "imdb_id": "tt36586020",
         "url_imdb": "https://www.imdb.com/title/tt36586020/",
@@ -443,6 +484,94 @@
         ],
         "idioma": "Inglés",
         "titulo_original": "Other Mommy"
+      }
+    },
+    {
+      "titulo": "Resident Evil: Noche Cero",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/9/resident-evil-noche-cero-47798-0.webp",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "17:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:45"
+          ]
+        }
+      ],
+      "genero": "Terror",
+      "duracion": "90 minutos",
+      "clasificacion": "12 Años",
+      "director": "Zach Cregger",
+      "actores": "Austin Abrams, Zach Cherry, Kali Reis y Paul Walter Hauser",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/resident-evil-noche-cero-12266_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Resident%20Evil%3A%20Noche%20Cero%20trailer%20espanol",
+      "sinopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1423191,
+        "titulo_tmdb": "Resident Evil",
+        "voto": 7.3,
+        "votos": 1087,
+        "url_tmdb": "https://www.themoviedb.org/movie/1423191",
+        "imdb_id": "tt35538033",
+        "url_imdb": "https://www.imdb.com/title/tt35538033/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/vrLEVObLGbUinE4sC4Lqao2dK0E.jpg",
+        "director": "Zach Cregger",
+        "reparto": [
+          {
+            "nombre": "Austin Abrams",
+            "personaje": "Bryan"
+          },
+          {
+            "nombre": "Paul Walter Hauser",
+            "personaje": "Paul"
+          },
+          {
+            "nombre": "Kali Reis",
+            "personaje": "Maxine"
+          },
+          {
+            "nombre": "Zach Cherry",
+            "personaje": "Carl"
+          },
+          {
+            "nombre": "Johnno Wilson",
+            "personaje": "Officer Wilson"
+          },
+          {
+            "nombre": "Shaun W. Loeser",
+            "personaje": "Puker"
+          }
+        ],
+        "generos": [
+          "Terror",
+          "Ciencia ficción",
+          "Aventura"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=d6oszs7f5aI",
+          "embed_id": "d6oszs7f5aI"
+        },
+        "sinopsis_tmdb": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+        "estreno": "16 sep 2026",
+        "duracion_min": 95,
+        "paises": [
+          "Estados Unidos",
+          "Alemania",
+          "Francia"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Resident Evil"
       }
     },
     {
@@ -537,6 +666,22 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/10/la-caida-de-la-ballena-47925-0.webp",
       "cines": [
         {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "19:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:40"
+          ]
+        },
+        {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
           "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
@@ -590,7 +735,7 @@
         "tmdb_id": 1255833,
         "titulo_tmdb": "Whalefall",
         "voto": 6.6,
-        "votos": 119,
+        "votos": 123,
         "url_tmdb": "https://www.themoviedb.org/movie/1255833",
         "imdb_id": "tt28535715",
         "url_imdb": "https://www.imdb.com/title/tt28535715/",
@@ -640,6 +785,89 @@
       }
     },
     {
+      "titulo": "Simón: El Gato Testarudo",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/10/simon-el-gato-testarudo-47906-0.webp",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:35"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:35"
+          ]
+        }
+      ],
+      "genero": "Drama",
+      "duracion": "90 minutos",
+      "clasificacion": "12 Años",
+      "director": "Xavier Chávez",
+      "actores": "Jaime Bonelli, Poén Alarcón, Walter Donado, Alexandra Puyol, Natalia Bustamante, Karen Montero, Silvina Pagella y Danilo Esteves.",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/simon-el-gato-testarudo-12309_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Sim%C3%B3n%3A%20El%20Gato%20Testarudo%20trailer%20espanol",
+      "sinopsis": "Elías, un anciano recién viudo, áspero y malhumorado, pensaba que la vida no podía empeorar... hasta que llegó el gato. Enfermo, cansado y atrapado en su peor racha, Elías no solo debe lidiar con su inevitable decadencia, sino también con un felino roñoso y escandaloso que ha decidido convertir sus noches –y las del vecindario entero– en un concierto infernal de maullidos.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 993896,
+        "titulo_tmdb": "Viejos Malditos",
+        "voto": 10.0,
+        "votos": 1,
+        "url_tmdb": "https://www.themoviedb.org/movie/993896",
+        "imdb_id": "tt15829824",
+        "url_imdb": "https://www.imdb.com/title/tt15829824/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/j9kqSy3hS3D8p44meUVBAvtziqS.jpg",
+        "director": "Xavier Chávez C.",
+        "reparto": [
+          {
+            "nombre": "Jaime Bonelli",
+            "personaje": "Elías"
+          },
+          {
+            "nombre": "Poen Alarcón",
+            "personaje": "Rogelio"
+          },
+          {
+            "nombre": "Alexandra Puyol",
+            "personaje": "Aidé"
+          },
+          {
+            "nombre": "Danilo Esteves",
+            "personaje": "José"
+          },
+          {
+            "nombre": "Natalia Bustamante",
+            "personaje": "Corredora de bienes raíces"
+          }
+        ],
+        "generos": [
+          "Drama",
+          "Suspense",
+          "Comedia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=5b8kCBP4RHo",
+          "embed_id": "5b8kCBP4RHo"
+        },
+        "sinopsis_tmdb": "Elías, un anciano recién viudo, áspero y malhumorado, pensaba que la vida no podía empeorar... hasta que llegó el gato. Enfermo, cansado y atrapado en su peor racha, Elías no solo debe lidiar con su inevitable decadencia, sino también con un felino roñoso y escandaloso que ha decidido convertir sus noches –y las del vecindario entero– en un concierto infernal de maullidos.",
+        "estreno": "6 nov 2025",
+        "duracion_min": 97,
+        "paises": [
+          "Argentina",
+          "Ecuador"
+        ],
+        "idioma": "Español",
+        "titulo_original": "Viejos Malditos"
+      }
+    },
+    {
       "titulo": "Los Juegos del Hambre: Sinsajo El Final",
       "poster": "https://cdn.carteleracine.pe/cine/2015/11/los-juegos-del-hambre-sinsajo-el-final-47811-0.webp",
       "cines": [
@@ -674,7 +902,7 @@
         "tmdb_id": 131634,
         "titulo_tmdb": "Los Juegos del Hambre: Sinsajo - Parte 2",
         "voto": 6.9,
-        "votos": 13712,
+        "votos": 13715,
         "url_tmdb": "https://www.themoviedb.org/movie/131634",
         "imdb_id": "tt1951266",
         "url_imdb": "https://www.imdb.com/title/tt1951266/",
@@ -800,7 +1028,7 @@
         "tmdb_id": 1263337,
         "titulo_tmdb": "En el corazón de la bestia",
         "voto": 7.3,
-        "votos": 351,
+        "votos": 358,
         "url_tmdb": "https://www.themoviedb.org/movie/1263337",
         "imdb_id": "tt7526136",
         "url_imdb": "https://www.imdb.com/title/tt7526136/",
@@ -1084,7 +1312,7 @@
         "tmdb_id": 1284186,
         "titulo_tmdb": "Sacrifice",
         "voto": 5.2,
-        "votos": 91,
+        "votos": 95,
         "url_tmdb": "https://www.themoviedb.org/movie/1284186",
         "imdb_id": "tt32268992",
         "url_imdb": "https://www.imdb.com/title/tt32268992/",
@@ -1311,6 +1539,40 @@
           ]
         },
         {
+          "titulo": "Street Fighter",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/10/street-fighter-47899-0.webp",
+          "genero": "Acción",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:45"
+          ]
+        },
+        {
+          "titulo": "Resident Evil: Noche Cero",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/9/resident-evil-noche-cero-47798-0.webp",
+          "genero": "Terror",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "17:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:45"
+          ]
+        },
+        {
           "titulo": "Escuela De Monstruos",
           "poster": "https://cdn.carteleracine.pe/cine/2026/10/escuela-de-monstruos-47928-0.webp",
           "genero": "Animado",
@@ -1325,6 +1587,40 @@
           ],
           "horarios": [
             "15:00"
+          ]
+        },
+        {
+          "titulo": "La Caída De La Ballena",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/10/la-caida-de-la-ballena-47925-0.webp",
+          "genero": "Thriller",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "19:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:40"
+          ]
+        },
+        {
+          "titulo": "Simón: El Gato Testarudo",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/10/simon-el-gato-testarudo-47906-0.webp",
+          "genero": "Drama",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:35"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:35"
           ]
         },
         {
@@ -1393,6 +1689,29 @@
             "17:50",
             "20:10",
             "22:30"
+          ]
+        },
+        {
+          "titulo": "Ekeko",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002919?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Terror",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:20",
+                "18:20",
+                "20:20",
+                "22:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:20",
+            "18:20",
+            "20:20",
+            "22:20"
           ]
         },
         {
