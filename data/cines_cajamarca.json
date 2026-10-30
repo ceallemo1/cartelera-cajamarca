@@ -2,8 +2,8 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-29 20:53",
-  "fecha_objetivo": "2026-10-29",
+  "actualizado": "2026-10-30 12:57",
+  "fecha_objetivo": "2026-10-30",
   "peliculas": [
     {
       "titulo": "Wildwood: El Bosque Salvaje",
@@ -62,7 +62,7 @@
         "tmdb_id": 791523,
         "titulo_tmdb": "Wildwood: El Bosque Salvaje",
         "voto": 8.6,
-        "votos": 105,
+        "votos": 110,
         "url_tmdb": "https://www.themoviedb.org/movie/791523",
         "imdb_id": "tt2056785",
         "url_imdb": "https://www.imdb.com/title/tt2056785/",
@@ -193,7 +193,7 @@
         "tmdb_id": 1477712,
         "titulo_tmdb": "Dulce sabor a muerte",
         "voto": 5.3,
-        "votos": 239,
+        "votos": 246,
         "url_tmdb": "https://www.themoviedb.org/movie/1477712",
         "imdb_id": "tt36893729",
         "url_imdb": "https://www.imdb.com/title/tt36893729/",
@@ -249,7 +249,7 @@
     },
     {
       "titulo": "El Pintor de los Milagros",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003098?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/10/el-pintor-de-los-milagros-48009-1.jpg",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
@@ -278,12 +278,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:00",
+                "17:20",
                 "19:40",
                 "22:00"
               ]
             }
           ],
           "horarios": [
+            "15:00",
+            "17:20",
             "19:40",
             "22:00"
           ]
@@ -363,38 +367,6 @@
       }
     },
     {
-      "titulo": "Desaparecidos en Altamar",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/10/desaparecidos-en-altamar-48010-1.jpg",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "17:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:10"
-          ]
-        }
-      ],
-      "genero": "Suspenso",
-      "duracion": "118 años",
-      "clasificacion": "12 Años",
-      "director": "Matthew Losasso",
-      "actores": "Sophie Skelton, Akshay Khanna, Bella Dayne, Mark Strepan, Tam Dean Burn, Melody Grove, Jenny Quinn, Joanna Roth y Nick Skaugen.",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/desaparecidos-en-altamar-12352_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Desaparecidos%20en%20Altamar%20trailer%20espanol",
-      "sinopsis": "",
-      "puntaje": ""
-    },
-    {
       "titulo": "Clayface",
       "poster": "https://cdn.carteleracine.pe/cine/2026/10/clayface-47962-0.webp",
       "cines": [
@@ -427,14 +399,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "20:00",
-                "22:20"
+                "14:40",
+                "21:50"
               ]
             }
           ],
           "horarios": [
-            "20:00",
-            "22:20"
+            "14:40",
+            "21:50"
           ]
         },
         {
@@ -470,7 +442,7 @@
         "tmdb_id": 1400940,
         "titulo_tmdb": "Clayface",
         "voto": 7.5,
-        "votos": 272,
+        "votos": 283,
         "url_tmdb": "https://www.themoviedb.org/movie/1400940",
         "imdb_id": "tt34890576",
         "url_imdb": "https://www.imdb.com/title/tt34890576/",
@@ -519,6 +491,111 @@
         ],
         "idioma": "Inglés",
         "titulo_original": "Clayface"
+      }
+    },
+    {
+      "titulo": "Street Fighter",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/10/street-fighter-47899-0.webp",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:50"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "22:00"
+          ]
+        }
+      ],
+      "genero": "Acción",
+      "duracion": "120 minutos",
+      "clasificacion": "12 Años",
+      "director": "Kitao Sakurai",
+      "actores": "David Dastmalchian, Jason Momoa, Noah Centineo, Olivier Richters, Joe Anoa'i, Andrew Koji, 50 Cent, Eric André, Mel Jarnson, Rayna Vallandingham, Kristy Best, C",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/street-fighter-12302_252",
+      "trailer_url": "https://youtu.be/db-xQJgY_II",
+      "sinopsis": "Ambientada en 1993, los distanciados Street Fighters Ryu (Andrew Koji) y Ken Masters (Noah Centineo) vuelven al combate cuando la misteriosa Chun-Li (Callina Liang) los recluta para el próximo Torneo Mundial de Guerreros: un brutal choque de puños, destino y furia. Pero detrás de esta batalla campal se esconde una conspiración mortal que los obliga a enfrentarse entre ellos y contra los demonios d",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1153576,
+        "titulo_tmdb": "Street Fighter",
+        "voto": 6.3,
+        "votos": 199,
+        "url_tmdb": "https://www.themoviedb.org/movie/1153576",
+        "imdb_id": "tt27419420",
+        "url_imdb": "https://www.imdb.com/title/tt27419420/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
+        "director": "Kitao Sakurai",
+        "reparto": [
+          {
+            "nombre": "Andrew Koji",
+            "personaje": "Ryu"
+          },
+          {
+            "nombre": "Noah Centineo",
+            "personaje": "Ken Masters"
+          },
+          {
+            "nombre": "Callina Liang",
+            "personaje": "Chun-Li"
+          },
+          {
+            "nombre": "David Dastmalchian",
+            "personaje": "M. Bison"
+          },
+          {
+            "nombre": "Andrew Schulz",
+            "personaje": "Dan Hibiki"
+          },
+          {
+            "nombre": "Joe Anoa'i",
+            "personaje": "Akuma"
+          }
+        ],
+        "generos": [
+          "Acción",
+          "Fantasía"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=-MJAfIMUQ5s",
+          "embed_id": "-MJAfIMUQ5s"
+        },
+        "sinopsis_tmdb": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
+        "estreno": "13 oct 2026",
+        "duracion_min": 125,
+        "paises": [
+          "Japón",
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Street Fighter"
       }
     },
     {
@@ -639,13 +716,13 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "20:10",
+                "14:50",
                 "22:10"
               ]
             }
           ],
           "horarios": [
-            "20:10",
+            "14:50",
             "22:10"
           ]
         }
@@ -709,6 +786,38 @@
         "idioma": "Español",
         "titulo_original": "La leyenda del Ekeko"
       }
+    },
+    {
+      "titulo": "Desaparecidos en Altamar",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/10/desaparecidos-en-altamar-48010-0.webp",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "17:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:10"
+          ]
+        }
+      ],
+      "genero": "Suspenso",
+      "duracion": "118 años",
+      "clasificacion": "12 Años",
+      "director": "Matthew Losasso",
+      "actores": "Sophie Skelton, Akshay Khanna, Bella Dayne, Mark Strepan, Tam Dean Burn, Melody Grove, Jenny Quinn, Joanna Roth y Nick Skaugen.",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/desaparecidos-en-altamar-12352_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Desaparecidos%20en%20Altamar%20trailer%20espanol",
+      "sinopsis": "",
+      "puntaje": ""
     },
     {
       "titulo": "La Momia Regresa",
@@ -893,6 +1002,89 @@
       }
     },
     {
+      "titulo": "BTS WORLD TOUR 'ARIRANG' IN SÃO PAULO: LIVE VIEW",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003112?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Concierto",
+      "clasificacion": "+14",
+      "duracion": "195 min",
+      "director": "Ha Jung-jae",
+      "actores": "알엠, 진, 슈가, 제이홉, 지민, 뷔",
+      "estreno": "",
+      "sinopsis": "BTS WORLD TOUR 'ARIRANG' IN SÃO PAULO: LIVE VIEWING\r\n¡Vive la experiencia BTS WORLD TOUR 'ARIRANG' en cines de todo el mundo, transmitida desde São Paulo, Brasil!\r\nComo colofón de su gira por Latinoamérica, este concierto monumental llevará directamente a la pantalla grande toda la energía explosiva del estadio repleto de Brasil.\r\nLas transmisiones en algunos territorios están programadas en horar",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "",
+      "fuente_peli": "Cineplanet",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR SUBTITULAD",
+              "horarios": [
+                "17:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:45"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1770234,
+        "titulo_tmdb": "BTS WORLD TOUR [ARIRANG] in São Paulo",
+        "voto": null,
+        "votos": 0,
+        "url_tmdb": "https://www.themoviedb.org/movie/1770234",
+        "imdb_id": "tt45591708",
+        "url_imdb": "https://www.imdb.com/title/tt45591708/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/kK5wiFE800cMVIjsj2TTyLCQqZo.jpg",
+        "director": "Ha Jung-jae",
+        "reparto": [
+          {
+            "nombre": "알엠",
+            "personaje": "Self"
+          },
+          {
+            "nombre": "진",
+            "personaje": "Self"
+          },
+          {
+            "nombre": "슈가",
+            "personaje": "Self"
+          },
+          {
+            "nombre": "제이홉",
+            "personaje": "Self"
+          },
+          {
+            "nombre": "지민",
+            "personaje": "Self"
+          },
+          {
+            "nombre": "뷔",
+            "personaje": "Self"
+          }
+        ],
+        "generos": [
+          "Música"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "",
+        "estreno": "30 oct 2026",
+        "duracion_min": 195,
+        "paises": [],
+        "idioma": "Coreano",
+        "titulo_original": "BTS WORLD TOUR [ARIRANG] in São Paulo"
+      }
+    },
+    {
       "titulo": "El bosque salvaje Wildwood",
       "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003108?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "genero": "Animación",
@@ -918,12 +1110,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:10",
                 "18:50",
                 "21:30"
               ]
             }
           ],
           "horarios": [
+            "16:10",
             "18:50",
             "21:30"
           ]
@@ -933,7 +1127,7 @@
         "tmdb_id": 791523,
         "titulo_tmdb": "Wildwood: El Bosque Salvaje",
         "voto": 8.6,
-        "votos": 102,
+        "votos": 111,
         "url_tmdb": "https://www.themoviedb.org/movie/791523",
         "imdb_id": "tt2056785",
         "url_imdb": "https://www.imdb.com/title/tt2056785/",
@@ -1172,7 +1366,7 @@
         "tmdb_id": 1255833,
         "titulo_tmdb": "Whalefall",
         "voto": 6.6,
-        "votos": 125,
+        "votos": 126,
         "url_tmdb": "https://www.themoviedb.org/movie/1255833",
         "imdb_id": "tt28535715",
         "url_imdb": "https://www.imdb.com/title/tt28535715/",
@@ -1304,93 +1498,6 @@
         ],
         "idioma": "Inglés",
         "titulo_original": "Other Mommy"
-      }
-    },
-    {
-      "titulo": "Street Fighter",
-      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/street_fighter-871613292-large.jpg",
-      "genero": "Accion",
-      "clasificacion": "Mayores de 14",
-      "duracion": "01:25",
-      "sinopsis": "Basada en la Saga de Videojuegos 'Street Fighter' y Ambientada en 1993, los Alejados Street Fighters Ryu y Ken Masters Son Lanzados de Nuevo Al Combate Cuando la Misteriosa Chun-li los Recluta Para el Próximo Torneo Mundial de Guerreros: Un Brutal Choque de Puños, Destino y Furia. Pero Detrás de Esta Batalla Se Esconde una Conspiración Mortal Que los Obliga a Enfrentarse Entre Ellos y a los Demoni",
-      "director": "Kitao Sakurai",
-      "actores": "Andrew Koji, Noah Centineo, Callina Liang, David Dastmalchian, Andrew Schulz, Joe Anoa'i",
-      "estreno": "",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=-MJAfIMUQ5s",
-      "fuente_peli": "Cinerama",
-      "cines": [
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "22:00"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1153576,
-        "titulo_tmdb": "Street Fighter",
-        "voto": 6.4,
-        "votos": 197,
-        "url_tmdb": "https://www.themoviedb.org/movie/1153576",
-        "imdb_id": "tt27419420",
-        "url_imdb": "https://www.imdb.com/title/tt27419420/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-        "director": "Kitao Sakurai",
-        "reparto": [
-          {
-            "nombre": "Andrew Koji",
-            "personaje": "Ryu"
-          },
-          {
-            "nombre": "Noah Centineo",
-            "personaje": "Ken Masters"
-          },
-          {
-            "nombre": "Callina Liang",
-            "personaje": "Chun-Li"
-          },
-          {
-            "nombre": "David Dastmalchian",
-            "personaje": "M. Bison"
-          },
-          {
-            "nombre": "Andrew Schulz",
-            "personaje": "Dan Hibiki"
-          },
-          {
-            "nombre": "Joe Anoa'i",
-            "personaje": "Akuma"
-          }
-        ],
-        "generos": [
-          "Acción",
-          "Fantasía"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=-MJAfIMUQ5s",
-          "embed_id": "-MJAfIMUQ5s"
-        },
-        "sinopsis_tmdb": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-        "estreno": "13 oct 2026",
-        "duracion_min": 125,
-        "paises": [
-          "Japón",
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Street Fighter"
       }
     },
     {
@@ -1529,7 +1636,7 @@
         },
         {
           "titulo": "El Pintor de los Milagros",
-          "poster": "",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/10/el-pintor-de-los-milagros-48009-1.jpg",
           "genero": "Drama",
           "clasificacion": "12 Años",
           "formatos": [
@@ -1542,23 +1649,6 @@
           ],
           "horarios": [
             "17:30"
-          ]
-        },
-        {
-          "titulo": "Desaparecidos en Altamar",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/10/desaparecidos-en-altamar-48010-1.jpg",
-          "genero": "Suspenso",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "17:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:10"
           ]
         },
         {
@@ -1615,6 +1705,23 @@
           ]
         },
         {
+          "titulo": "Desaparecidos en Altamar",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/10/desaparecidos-en-altamar-48010-0.webp",
+          "genero": "Suspenso",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "17:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:10"
+          ]
+        },
+        {
           "titulo": "La Momia Regresa",
           "poster": "https://cdn.carteleracine.pe/cine/2026/10/la-momia-regresa-48012-0.webp",
           "genero": "Acción",
@@ -1660,6 +1767,23 @@
       "fuente_cine": "Cineplanet",
       "peliculas": [
         {
+          "titulo": "BTS WORLD TOUR 'ARIRANG' IN SÃO PAULO: LIVE VIEW",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003112?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Concierto",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR SUBTITULAD",
+              "horarios": [
+                "17:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:45"
+          ]
+        },
+        {
           "titulo": "Clayface",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003078?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Suspenso",
@@ -1668,14 +1792,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "20:00",
-                "22:20"
+                "14:40",
+                "21:50"
               ]
             }
           ],
           "horarios": [
-            "20:00",
-            "22:20"
+            "14:40",
+            "21:50"
           ]
         },
         {
@@ -1687,13 +1811,13 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "20:10",
+                "14:50",
                 "22:10"
               ]
             }
           ],
           "horarios": [
-            "20:10",
+            "14:50",
             "22:10"
           ]
         },
@@ -1706,12 +1830,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:10",
                 "18:50",
                 "21:30"
               ]
             }
           ],
           "horarios": [
+            "16:10",
             "18:50",
             "21:30"
           ]
@@ -1746,14 +1872,35 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:00",
+                "17:20",
                 "19:40",
                 "22:00"
               ]
             }
           ],
           "horarios": [
+            "15:00",
+            "17:20",
             "19:40",
             "22:00"
+          ]
+        },
+        {
+          "titulo": "Street Fighter",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003064?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:50"
           ]
         }
       ],
