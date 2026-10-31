@@ -2,8 +2,8 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-10-30 12:57",
-  "fecha_objetivo": "2026-10-30",
+  "actualizado": "2026-10-31 12:13",
+  "fecha_objetivo": "2026-10-31",
   "peliculas": [
     {
       "titulo": "Wildwood: El Bosque Salvaje",
@@ -15,6 +15,12 @@
           "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
             {
+              "formato": "",
+              "horarios": [
+                "12:30"
+              ]
+            },
+            {
               "formato": "Doblada",
               "horarios": [
                 "15:00",
@@ -23,6 +29,7 @@
             }
           ],
           "horarios": [
+            "12:30",
             "15:00",
             "17:30"
           ]
@@ -52,7 +59,7 @@
       "duracion": "140 minutos",
       "clasificacion": "Todos",
       "director": "Travis Knight",
-      "actores": "Peyton Elizabeth Lee, Carey Mulligan, Jacob Tremblay, Mahershala Ali, Angela Bassett, Awkwafina",
+      "actores": "Peyton Elizabeth Lee, Jacob Tremblay, Carey Mulligan, Mahershala Ali, Richard E. Grant, Angela Bassett",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/wildwood-el-bosque-salvaje-12357_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Wildwood%3A%20El%20Bosque%20Salvaje%20trailer%20espanol",
@@ -61,8 +68,8 @@
       "tmdb": {
         "tmdb_id": 791523,
         "titulo_tmdb": "Wildwood: El Bosque Salvaje",
-        "voto": 8.6,
-        "votos": 110,
+        "voto": 8.7,
+        "votos": 119,
         "url_tmdb": "https://www.themoviedb.org/movie/791523",
         "imdb_id": "tt2056785",
         "url_imdb": "https://www.imdb.com/title/tt2056785/",
@@ -74,24 +81,24 @@
             "personaje": "Prue McKeel (voice)"
           },
           {
-            "nombre": "Carey Mulligan",
-            "personaje": "Alexandra (voice)"
-          },
-          {
             "nombre": "Jacob Tremblay",
             "personaje": "Curtis Mehlberg (voice)"
+          },
+          {
+            "nombre": "Carey Mulligan",
+            "personaje": "Alexandra (voice)"
           },
           {
             "nombre": "Mahershala Ali",
             "personaje": "Brenden (voice)"
           },
           {
-            "nombre": "Angela Bassett",
-            "personaje": "The General (voice)"
+            "nombre": "Richard E. Grant",
+            "personaje": "Owl Rex (voice)"
           },
           {
-            "nombre": "Awkwafina",
-            "personaje": "Septima (voice)"
+            "nombre": "Angela Bassett",
+            "personaje": "The General (voice)"
           }
         ],
         "generos": [
@@ -105,7 +112,7 @@
         },
         "sinopsis_tmdb": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para rescatar al hermano bebé de Prue —secuestrado por una bandada de cuervos liderada por una misteriosa mujer llamada Alexandra—.",
         "estreno": "19 oct 2026",
-        "duracion_min": 140,
+        "duracion_min": 132,
         "paises": [
           "Estados Unidos"
         ],
@@ -193,7 +200,7 @@
         "tmdb_id": 1477712,
         "titulo_tmdb": "Dulce sabor a muerte",
         "voto": 5.3,
-        "votos": 246,
+        "votos": 253,
         "url_tmdb": "https://www.themoviedb.org/movie/1477712",
         "imdb_id": "tt36893729",
         "url_imdb": "https://www.imdb.com/title/tt36893729/",
@@ -259,12 +266,12 @@
             {
               "formato": "",
               "horarios": [
-                "17:30"
+                "19:15"
               ]
             }
           ],
           "horarios": [
-            "17:30"
+            "19:15"
           ]
         },
         {
@@ -367,6 +374,102 @@
       }
     },
     {
+      "titulo": "El Gato Con Sombrero",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/10/el-gato-con-sombrero-48034-0.webp",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "12:40"
+              ]
+            },
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "14:55"
+              ]
+            }
+          ],
+          "horarios": [
+            "12:40",
+            "14:55"
+          ]
+        }
+      ],
+      "genero": "Animado",
+      "duracion": "91 minutos",
+      "clasificacion": "7 Años",
+      "director": "Alessandro Carloni, Erica Rivinoja",
+      "actores": "Bill Hader, Xochitl Gomez y America Ferrera",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/el-gato-con-sombrero-12358_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=El%20Gato%20Con%20Sombrero%20trailer%20espanol",
+      "sinopsis": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1117898,
+        "titulo_tmdb": "El gato con sombrero",
+        "voto": 8.5,
+        "votos": 2,
+        "url_tmdb": "https://www.themoviedb.org/movie/1117898",
+        "imdb_id": "tt2321555",
+        "url_imdb": "https://www.imdb.com/title/tt2321555/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
+        "director": "Erica Rivinoja, Alessandro Carloni",
+        "reparto": [
+          {
+            "nombre": "Bill Hader",
+            "personaje": "The Cat in the Hat (voice)"
+          },
+          {
+            "nombre": "Xochitl Gomez",
+            "personaje": "Gabby (voice)"
+          },
+          {
+            "nombre": "Tiago Martinez",
+            "personaje": "Sebastian (voice)"
+          },
+          {
+            "nombre": "Matt Berry",
+            "personaje": "Waffles the Fish (voice)"
+          },
+          {
+            "nombre": "Quinta Brunson",
+            "personaje": "Sherrie (voice)"
+          },
+          {
+            "nombre": "Bowen Yang",
+            "personaje": "Gary (voice)"
+          }
+        ],
+        "generos": [
+          "Animación",
+          "Comedia",
+          "Aventura",
+          "Fantasía",
+          "Familia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=bRMu8S6FQ9c",
+          "embed_id": "bRMu8S6FQ9c"
+        },
+        "sinopsis_tmdb": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+        "estreno": "4 nov 2026",
+        "duracion_min": 108,
+        "paises": [
+          "Reino Unido",
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "The Cat in the Hat"
+      }
+    },
+    {
       "titulo": "Clayface",
       "poster": "https://cdn.carteleracine.pe/cine/2026/10/clayface-47962-0.webp",
       "cines": [
@@ -399,14 +502,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:40",
-                "21:50"
+                "20:50"
               ]
             }
           ],
           "horarios": [
-            "14:40",
-            "21:50"
+            "20:50"
           ]
         },
         {
@@ -442,7 +543,7 @@
         "tmdb_id": 1400940,
         "titulo_tmdb": "Clayface",
         "voto": 7.5,
-        "votos": 283,
+        "votos": 298,
         "url_tmdb": "https://www.themoviedb.org/movie/1400940",
         "imdb_id": "tt34890576",
         "url_imdb": "https://www.imdb.com/title/tt34890576/",
@@ -485,204 +586,12 @@
         },
         "sinopsis_tmdb": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
         "estreno": "19 oct 2026",
-        "duracion_min": 108,
+        "duracion_min": 109,
         "paises": [
           "Estados Unidos"
         ],
         "idioma": "Inglés",
         "titulo_original": "Clayface"
-      }
-    },
-    {
-      "titulo": "Street Fighter",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/10/street-fighter-47899-0.webp",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "15:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:50"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "22:00"
-          ]
-        }
-      ],
-      "genero": "Acción",
-      "duracion": "120 minutos",
-      "clasificacion": "12 Años",
-      "director": "Kitao Sakurai",
-      "actores": "David Dastmalchian, Jason Momoa, Noah Centineo, Olivier Richters, Joe Anoa'i, Andrew Koji, 50 Cent, Eric André, Mel Jarnson, Rayna Vallandingham, Kristy Best, C",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/street-fighter-12302_252",
-      "trailer_url": "https://youtu.be/db-xQJgY_II",
-      "sinopsis": "Ambientada en 1993, los distanciados Street Fighters Ryu (Andrew Koji) y Ken Masters (Noah Centineo) vuelven al combate cuando la misteriosa Chun-Li (Callina Liang) los recluta para el próximo Torneo Mundial de Guerreros: un brutal choque de puños, destino y furia. Pero detrás de esta batalla campal se esconde una conspiración mortal que los obliga a enfrentarse entre ellos y contra los demonios d",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1153576,
-        "titulo_tmdb": "Street Fighter",
-        "voto": 6.3,
-        "votos": 199,
-        "url_tmdb": "https://www.themoviedb.org/movie/1153576",
-        "imdb_id": "tt27419420",
-        "url_imdb": "https://www.imdb.com/title/tt27419420/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-        "director": "Kitao Sakurai",
-        "reparto": [
-          {
-            "nombre": "Andrew Koji",
-            "personaje": "Ryu"
-          },
-          {
-            "nombre": "Noah Centineo",
-            "personaje": "Ken Masters"
-          },
-          {
-            "nombre": "Callina Liang",
-            "personaje": "Chun-Li"
-          },
-          {
-            "nombre": "David Dastmalchian",
-            "personaje": "M. Bison"
-          },
-          {
-            "nombre": "Andrew Schulz",
-            "personaje": "Dan Hibiki"
-          },
-          {
-            "nombre": "Joe Anoa'i",
-            "personaje": "Akuma"
-          }
-        ],
-        "generos": [
-          "Acción",
-          "Fantasía"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=-MJAfIMUQ5s",
-          "embed_id": "-MJAfIMUQ5s"
-        },
-        "sinopsis_tmdb": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-        "estreno": "13 oct 2026",
-        "duracion_min": 125,
-        "paises": [
-          "Japón",
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Street Fighter"
-      }
-    },
-    {
-      "titulo": "Escuela De Monstruos",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/10/escuela-de-monstruos-47928-0.webp",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "15:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30"
-          ]
-        }
-      ],
-      "genero": "Animado",
-      "duracion": "80 minutos",
-      "clasificacion": "7 Años",
-      "director": "Verena Fels",
-      "actores": "Verena Altenberger, Armin Assinger, Dunja Bernatzky",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/escuela-de-monstruos-12316_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Escuela%20De%20Monstruos%20trailer%20espanol",
-      "sinopsis": "Un inteligente estudiante de secundaria de 15 años es trasladado inesperadamente a un internado donde abre un portal de monstruos de otra dimensión.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 627661,
-        "titulo_tmdb": "Academia Cranston: Escuela de Monstruos",
-        "voto": 6.0,
-        "votos": 110,
-        "url_tmdb": "https://www.themoviedb.org/movie/627661",
-        "imdb_id": "tt8524650",
-        "url_imdb": "https://www.imdb.com/title/tt8524650/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/oEGs9e5O42grRG2boT9BhjEAYT0.jpg",
-        "director": "Leopoldo Aguilar",
-        "reparto": [
-          {
-            "nombre": "Jamie Bell",
-            "personaje": "Danny (Voice)"
-          },
-          {
-            "nombre": "Ruby Rose",
-            "personaje": "Liz (Voice)"
-          },
-          {
-            "nombre": "Idzi Dutkiewicz",
-            "personaje": "Mothman"
-          },
-          {
-            "nombre": "Ellie Piercy",
-            "personaje": "Ms. Evans"
-          },
-          {
-            "nombre": "Terry Mynott",
-            "personaje": "Professor Stern"
-          },
-          {
-            "nombre": "Ryan Samson",
-            "personaje": ""
-          }
-        ],
-        "generos": [
-          "Animación",
-          "Aventura",
-          "Ciencia ficción",
-          "Fantasía",
-          "Terror"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Un inteligente estudiante de secundaria de 15 años es trasladado inesperadamente a un internado donde abre un portal de monstruos de otra dimensión.",
-        "estreno": "29 abr 2020",
-        "duracion_min": 80,
-        "paises": [
-          "México",
-          "Reino Unido",
-          "Canadá"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Cranston Academy: Monster Zone"
       }
     },
     {
@@ -697,12 +606,12 @@
             {
               "formato": "",
               "horarios": [
-                "19:35"
+                "17:30"
               ]
             }
           ],
           "horarios": [
-            "19:35"
+            "17:30"
           ]
         },
         {
@@ -716,14 +625,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:50",
-                "22:10"
+                "21:10"
               ]
             }
           ],
           "horarios": [
-            "14:50",
-            "22:10"
+            "21:10"
           ]
         }
       ],
@@ -870,7 +777,7 @@
         "tmdb_id": 1734,
         "titulo_tmdb": "El regreso de la momia",
         "voto": 6.4,
-        "votos": 7995,
+        "votos": 7997,
         "url_tmdb": "https://www.themoviedb.org/movie/1734",
         "imdb_id": "tt0209163",
         "url_imdb": "https://www.imdb.com/title/tt0209163/",
@@ -1027,12 +934,12 @@
             {
               "formato": "2D REGULAR SUBTITULAD",
               "horarios": [
-                "17:45"
+                "16:45"
               ]
             }
           ],
           "horarios": [
-            "17:45"
+            "16:45"
           ]
         }
       ],
@@ -1091,7 +998,7 @@
       "clasificacion": "+14",
       "duracion": "130 min",
       "director": "Travis Knight",
-      "actores": "Peyton Elizabeth Lee, Carey Mulligan, Jacob Tremblay, Mahershala Ali, Angela Bassett, Awkwafina",
+      "actores": "Peyton Elizabeth Lee, Jacob Tremblay, Carey Mulligan, Mahershala Ali, Richard E. Grant, Angela Bassett",
       "estreno": "",
       "sinopsis": "Después de que su hermano bebé, Mac, es secuestrado por una parvada de cuervos, la decidida adolescente Prue McKeel (Peyton Elizabeth Lee) inicia una desesperada misión de rescate hacia el Bosque Impasable, un bosque encantado oculto justo más allá de Portland, Oregon. Acompañada por su torpe pero leal compañero de clase, Curtis Mehlberg (Jacob Tremblay), Prue navega un mundo de animales parlantes",
       "puntaje": "",
@@ -1126,8 +1033,8 @@
       "tmdb": {
         "tmdb_id": 791523,
         "titulo_tmdb": "Wildwood: El Bosque Salvaje",
-        "voto": 8.6,
-        "votos": 111,
+        "voto": 8.7,
+        "votos": 119,
         "url_tmdb": "https://www.themoviedb.org/movie/791523",
         "imdb_id": "tt2056785",
         "url_imdb": "https://www.imdb.com/title/tt2056785/",
@@ -1139,24 +1046,24 @@
             "personaje": "Prue McKeel (voice)"
           },
           {
-            "nombre": "Carey Mulligan",
-            "personaje": "Alexandra (voice)"
-          },
-          {
             "nombre": "Jacob Tremblay",
             "personaje": "Curtis Mehlberg (voice)"
+          },
+          {
+            "nombre": "Carey Mulligan",
+            "personaje": "Alexandra (voice)"
           },
           {
             "nombre": "Mahershala Ali",
             "personaje": "Brenden (voice)"
           },
           {
-            "nombre": "Angela Bassett",
-            "personaje": "The General (voice)"
+            "nombre": "Richard E. Grant",
+            "personaje": "Owl Rex (voice)"
           },
           {
-            "nombre": "Awkwafina",
-            "personaje": "Septima (voice)"
+            "nombre": "Angela Bassett",
+            "personaje": "The General (voice)"
           }
         ],
         "generos": [
@@ -1170,12 +1077,118 @@
         },
         "sinopsis_tmdb": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para rescatar al hermano bebé de Prue —secuestrado por una bandada de cuervos liderada por una misteriosa mujer llamada Alexandra—.",
         "estreno": "19 oct 2026",
-        "duracion_min": 140,
+        "duracion_min": 132,
         "paises": [
           "Estados Unidos"
         ],
         "idioma": "Inglés",
         "titulo_original": "Wildwood"
+      }
+    },
+    {
+      "titulo": "Street Fighter",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003064?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Acción",
+      "clasificacion": "+14",
+      "duracion": "120 min",
+      "director": "Kitao Sakurai",
+      "actores": "Andrew Koji, Noah Centineo, Callina Liang, David Dastmalchian, Andrew Schulz, Joe Anoa'i",
+      "estreno": "",
+      "sinopsis": "Ambientada en 1993, los distanciados Street Fighters Ryu (Andrew Koji) y Ken Masters (Noah Centineo) vuelven al combate cuando la misteriosa Chun-Li (Callina Liang) los recluta para el próximo Torneo Mundial de Guerreros: un brutal choque de puños, destino y furia. Pero detrás de esta batalla campal se esconde una conspiración mortal que los obliga a enfrentarse entre ellos y contra los demonios d",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://youtu.be/db-xQJgY_II",
+      "fuente_peli": "Cineplanet",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "15:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:50"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "22:00"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1153576,
+        "titulo_tmdb": "Street Fighter",
+        "voto": 6.3,
+        "votos": 208,
+        "url_tmdb": "https://www.themoviedb.org/movie/1153576",
+        "imdb_id": "tt27419420",
+        "url_imdb": "https://www.imdb.com/title/tt27419420/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
+        "director": "Kitao Sakurai",
+        "reparto": [
+          {
+            "nombre": "Andrew Koji",
+            "personaje": "Ryu"
+          },
+          {
+            "nombre": "Noah Centineo",
+            "personaje": "Ken Masters"
+          },
+          {
+            "nombre": "Callina Liang",
+            "personaje": "Chun-Li"
+          },
+          {
+            "nombre": "David Dastmalchian",
+            "personaje": "M. Bison"
+          },
+          {
+            "nombre": "Andrew Schulz",
+            "personaje": "Dan Hibiki"
+          },
+          {
+            "nombre": "Joe Anoa'i",
+            "personaje": "Akuma"
+          }
+        ],
+        "generos": [
+          "Acción",
+          "Fantasía"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=-MJAfIMUQ5s",
+          "embed_id": "-MJAfIMUQ5s"
+        },
+        "sinopsis_tmdb": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
+        "estreno": "13 oct 2026",
+        "duracion_min": 120,
+        "paises": [
+          "Japón",
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Street Fighter"
       }
     },
     {
@@ -1366,7 +1379,7 @@
         "tmdb_id": 1255833,
         "titulo_tmdb": "Whalefall",
         "voto": 6.6,
-        "votos": 126,
+        "votos": 129,
         "url_tmdb": "https://www.themoviedb.org/movie/1255833",
         "imdb_id": "tt28535715",
         "url_imdb": "https://www.imdb.com/title/tt28535715/",
@@ -1407,7 +1420,7 @@
         },
         "sinopsis_tmdb": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.",
         "estreno": "14 oct 2026",
-        "duracion_min": 98,
+        "duracion_min": 106,
         "paises": [
           "Estados Unidos"
         ],
@@ -1450,8 +1463,8 @@
       "tmdb": {
         "tmdb_id": 1400837,
         "titulo_tmdb": "La otra madre",
-        "voto": 5.9,
-        "votos": 172,
+        "voto": 5.8,
+        "votos": 175,
         "url_tmdb": "https://www.themoviedb.org/movie/1400837",
         "imdb_id": "tt36586020",
         "url_imdb": "https://www.imdb.com/title/tt36586020/",
@@ -1539,8 +1552,8 @@
       "tmdb": {
         "tmdb_id": 1244523,
         "titulo_tmdb": "Boiuna: La leyenda del Amazonas",
-        "voto": 6.3,
-        "votos": 11,
+        "voto": 6.2,
+        "votos": 12,
         "url_tmdb": "https://www.themoviedb.org/movie/1244523",
         "imdb_id": "tt10377864",
         "url_imdb": "https://www.imdb.com/title/tt10377864/",
@@ -1603,6 +1616,12 @@
           "clasificacion": "Todos",
           "formatos": [
             {
+              "formato": "",
+              "horarios": [
+                "12:30"
+              ]
+            },
+            {
               "formato": "Doblada",
               "horarios": [
                 "15:00",
@@ -1611,6 +1630,7 @@
             }
           ],
           "horarios": [
+            "12:30",
             "15:00",
             "17:30"
           ]
@@ -1643,12 +1663,36 @@
             {
               "formato": "",
               "horarios": [
-                "17:30"
+                "19:15"
               ]
             }
           ],
           "horarios": [
-            "17:30"
+            "19:15"
+          ]
+        },
+        {
+          "titulo": "El Gato Con Sombrero",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/10/el-gato-con-sombrero-48034-0.webp",
+          "genero": "Animado",
+          "clasificacion": "7 Años",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "12:40"
+              ]
+            },
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "14:55"
+              ]
+            }
+          ],
+          "horarios": [
+            "12:40",
+            "14:55"
           ]
         },
         {
@@ -1671,23 +1715,6 @@
           ]
         },
         {
-          "titulo": "Escuela De Monstruos",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/10/escuela-de-monstruos-47928-0.webp",
-          "genero": "Animado",
-          "clasificacion": "7 Años",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "15:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30"
-          ]
-        },
-        {
           "titulo": "Ekeko",
           "poster": "https://cdn.carteleracine.pe/cine/2026/8/ekeko-47706-0.webp",
           "genero": "Terror",
@@ -1696,12 +1723,12 @@
             {
               "formato": "",
               "horarios": [
-                "19:35"
+                "17:30"
               ]
             }
           ],
           "horarios": [
-            "19:35"
+            "17:30"
           ]
         },
         {
@@ -1775,12 +1802,12 @@
             {
               "formato": "2D REGULAR SUBTITULAD",
               "horarios": [
-                "17:45"
+                "16:45"
               ]
             }
           ],
           "horarios": [
-            "17:45"
+            "16:45"
           ]
         },
         {
@@ -1792,14 +1819,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:40",
-                "21:50"
+                "20:50"
               ]
             }
           ],
           "horarios": [
-            "14:40",
-            "21:50"
+            "20:50"
           ]
         },
         {
@@ -1811,14 +1836,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:50",
-                "22:10"
+                "21:10"
               ]
             }
           ],
           "horarios": [
-            "14:50",
-            "22:10"
+            "21:10"
           ]
         },
         {
