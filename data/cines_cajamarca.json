@@ -2,8 +2,8 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-11-01 20:27",
-  "fecha_objetivo": "2026-11-01",
+  "actualizado": "2026-11-02 16:40",
+  "fecha_objetivo": "2026-11-02",
   "peliculas": [
     {
       "titulo": "Wildwood: El Bosque Salvaje",
@@ -15,23 +15,14 @@
           "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
             {
-              "formato": "",
-              "horarios": [
-                "12:30"
-              ]
-            },
-            {
               "formato": "Doblada",
               "horarios": [
-                "15:00",
-                "17:30"
+                "15:00"
               ]
             }
           ],
           "horarios": [
-            "12:30",
-            "15:00",
-            "17:30"
+            "15:00"
           ]
         },
         {
@@ -68,8 +59,8 @@
       "tmdb": {
         "tmdb_id": 791523,
         "titulo_tmdb": "Wildwood: El Bosque Salvaje",
-        "voto": 8.7,
-        "votos": 134,
+        "voto": 8.6,
+        "votos": 157,
         "url_tmdb": "https://www.themoviedb.org/movie/791523",
         "imdb_id": "tt2056785",
         "url_imdb": "https://www.imdb.com/title/tt2056785/",
@@ -132,14 +123,14 @@
             {
               "formato": "",
               "horarios": [
-                "20:00",
-                "21:45"
+                "19:35",
+                "21:20"
               ]
             }
           ],
           "horarios": [
-            "20:00",
-            "21:45"
+            "19:35",
+            "21:20"
           ]
         },
         {
@@ -153,12 +144,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:30",
+                "18:30",
                 "20:30",
                 "22:30"
               ]
             }
           ],
           "horarios": [
+            "16:30",
+            "18:30",
             "20:30",
             "22:30"
           ]
@@ -197,8 +192,8 @@
       "tmdb": {
         "tmdb_id": 1477712,
         "titulo_tmdb": "Dulce sabor a muerte",
-        "voto": 5.3,
-        "votos": 277,
+        "voto": 5.4,
+        "votos": 286,
         "url_tmdb": "https://www.themoviedb.org/movie/1477712",
         "imdb_id": "tt36893729",
         "url_imdb": "https://www.imdb.com/title/tt36893729/",
@@ -264,12 +259,12 @@
             {
               "formato": "",
               "horarios": [
-                "19:15"
+                "17:30"
               ]
             }
           ],
           "horarios": [
-            "19:15"
+            "17:30"
           ]
         },
         {
@@ -283,12 +278,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "17:20",
                 "19:40",
                 "22:00"
               ]
             }
           ],
           "horarios": [
+            "17:20",
             "19:40",
             "22:00"
           ]
@@ -379,12 +376,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "17:10"
+                "17:00"
               ]
             }
           ],
           "horarios": [
-            "17:10"
+            "17:00"
           ]
         }
       ],
@@ -400,102 +397,6 @@
       "puntaje": ""
     },
     {
-      "titulo": "El Gato Con Sombrero",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/10/el-gato-con-sombrero-48034-0.webp",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "12:40"
-              ]
-            },
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "14:55"
-              ]
-            }
-          ],
-          "horarios": [
-            "12:40",
-            "14:55"
-          ]
-        }
-      ],
-      "genero": "Animado",
-      "duracion": "91 minutos",
-      "clasificacion": "7 Años",
-      "director": "Alessandro Carloni, Erica Rivinoja",
-      "actores": "Bill Hader, Xochitl Gomez y America Ferrera",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/el-gato-con-sombrero-12358_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=El%20Gato%20Con%20Sombrero%20trailer%20espanol",
-      "sinopsis": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1117898,
-        "titulo_tmdb": "El gato con sombrero",
-        "voto": 7.7,
-        "votos": 3,
-        "url_tmdb": "https://www.themoviedb.org/movie/1117898",
-        "imdb_id": "tt2321555",
-        "url_imdb": "https://www.imdb.com/title/tt2321555/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
-        "director": "Erica Rivinoja, Alessandro Carloni",
-        "reparto": [
-          {
-            "nombre": "Bill Hader",
-            "personaje": "The Cat in the Hat (voice)"
-          },
-          {
-            "nombre": "Xochitl Gomez",
-            "personaje": "Gabby (voice)"
-          },
-          {
-            "nombre": "Tiago Martinez",
-            "personaje": "Sebastian (voice)"
-          },
-          {
-            "nombre": "Matt Berry",
-            "personaje": "Waffles the Fish (voice)"
-          },
-          {
-            "nombre": "Quinta Brunson",
-            "personaje": "Sherrie (voice)"
-          },
-          {
-            "nombre": "Bowen Yang",
-            "personaje": "Gary (voice)"
-          }
-        ],
-        "generos": [
-          "Animación",
-          "Comedia",
-          "Aventura",
-          "Fantasía",
-          "Familia"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=bRMu8S6FQ9c",
-          "embed_id": "bRMu8S6FQ9c"
-        },
-        "sinopsis_tmdb": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
-        "estreno": "4 nov 2026",
-        "duracion_min": 108,
-        "paises": [
-          "Reino Unido",
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "The Cat in the Hat"
-      }
-    },
-    {
       "titulo": "Clayface",
       "poster": "https://cdn.carteleracine.pe/cine/2026/10/clayface-47962-0.webp",
       "cines": [
@@ -507,14 +408,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "19:25",
-                "21:35"
+                "21:00"
               ]
             }
           ],
           "horarios": [
-            "19:25",
-            "21:35"
+            "21:00"
           ]
         },
         {
@@ -528,12 +427,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "17:40",
                 "20:00",
                 "22:20"
               ]
             }
           ],
           "horarios": [
+            "17:40",
             "20:00",
             "22:20"
           ]
@@ -571,7 +472,7 @@
         "tmdb_id": 1400940,
         "titulo_tmdb": "Clayface",
         "voto": 7.5,
-        "votos": 326,
+        "votos": 343,
         "url_tmdb": "https://www.themoviedb.org/movie/1400940",
         "imdb_id": "tt34890576",
         "url_imdb": "https://www.imdb.com/title/tt34890576/",
@@ -623,6 +524,111 @@
       }
     },
     {
+      "titulo": "Street Fighter",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/10/street-fighter-47899-0.webp",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "17:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:30"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "22:00"
+          ]
+        }
+      ],
+      "genero": "Acción",
+      "duracion": "120 minutos",
+      "clasificacion": "12 Años",
+      "director": "Kitao Sakurai",
+      "actores": "David Dastmalchian, Jason Momoa, Noah Centineo, Olivier Richters, Joe Anoa'i, Andrew Koji, 50 Cent, Eric André, Mel Jarnson, Rayna Vallandingham, Kristy Best, C",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/street-fighter-12302_252",
+      "trailer_url": "https://youtu.be/db-xQJgY_II",
+      "sinopsis": "Ambientada en 1993, los distanciados Street Fighters Ryu (Andrew Koji) y Ken Masters (Noah Centineo) vuelven al combate cuando la misteriosa Chun-Li (Callina Liang) los recluta para el próximo Torneo Mundial de Guerreros: un brutal choque de puños, destino y furia. Pero detrás de esta batalla campal se esconde una conspiración mortal que los obliga a enfrentarse entre ellos y contra los demonios d",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1153576,
+        "titulo_tmdb": "Street Fighter",
+        "voto": 6.3,
+        "votos": 210,
+        "url_tmdb": "https://www.themoviedb.org/movie/1153576",
+        "imdb_id": "tt27419420",
+        "url_imdb": "https://www.imdb.com/title/tt27419420/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
+        "director": "Kitao Sakurai",
+        "reparto": [
+          {
+            "nombre": "Andrew Koji",
+            "personaje": "Ryu"
+          },
+          {
+            "nombre": "Noah Centineo",
+            "personaje": "Ken Masters"
+          },
+          {
+            "nombre": "Callina Liang",
+            "personaje": "Chun-Li"
+          },
+          {
+            "nombre": "David Dastmalchian",
+            "personaje": "M. Bison"
+          },
+          {
+            "nombre": "Andrew Schulz",
+            "personaje": "Dan Hibiki"
+          },
+          {
+            "nombre": "Joe Anoa'i",
+            "personaje": "Akuma"
+          }
+        ],
+        "generos": [
+          "Acción",
+          "Fantasía"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=-MJAfIMUQ5s",
+          "embed_id": "-MJAfIMUQ5s"
+        },
+        "sinopsis_tmdb": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
+        "estreno": "13 oct 2026",
+        "duracion_min": 120,
+        "paises": [
+          "Japón",
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Street Fighter"
+      }
+    },
+    {
       "titulo": "Ekeko",
       "poster": "https://cdn.carteleracine.pe/cine/2026/8/ekeko-47706-0.webp",
       "cines": [
@@ -634,12 +640,12 @@
             {
               "formato": "",
               "horarios": [
-                "17:30"
+                "19:15"
               ]
             }
           ],
           "horarios": [
-            "17:30"
+            "19:15"
           ]
         },
         {
@@ -725,188 +731,6 @@
       }
     },
     {
-      "titulo": "La Momia Regresa",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/10/la-momia-regresa-48012-0.webp",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "15:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:00"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "19:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:00"
-          ]
-        }
-      ],
-      "genero": "Acción",
-      "duracion": "130 minutos",
-      "clasificacion": "12 Años",
-      "director": "Stephen Sommers",
-      "actores": "Brendan Fraser, Rachel Weisz, John Hannah, עודד פהר, Arnold Vosloo, Patricia Velásquez",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/la-momia-regresa-12354_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=La%20Momia%20Regresa%20trailer%20espanol",
-      "sinopsis": "Han pasado diez años, Rick O'Connell se ha casado con Evelyn, y ambos son padres del pequeño Alex, de ocho años. Cuando, tras una serie de acontecimientos, la momia del antiguo sacerdote egipcio Im-Ho-Tep es resucitada por una extraña secta en el British Museum, y la maldición milenaria del Rey Escorpión -que seis mil años atrás traicionó al dios Anubis- lo devuelve a la vida, el choque entre ambas fuerzas malignas desencadenará el caos en el mundo... si Rick y Evelyn no consiguen evitarlo.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1734,
-        "titulo_tmdb": "El regreso de la momia",
-        "voto": 6.4,
-        "votos": 8000,
-        "url_tmdb": "https://www.themoviedb.org/movie/1734",
-        "imdb_id": "tt0209163",
-        "url_imdb": "https://www.imdb.com/title/tt0209163/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/t6u4IhUnFE6Po9XQWKjFsl1dAwH.jpg",
-        "director": "Stephen Sommers",
-        "reparto": [
-          {
-            "nombre": "Brendan Fraser",
-            "personaje": "Rick O'Connell"
-          },
-          {
-            "nombre": "Rachel Weisz",
-            "personaje": "Evelyn O'Connell / Nefertiri"
-          },
-          {
-            "nombre": "John Hannah",
-            "personaje": "Jonathan Carnahan"
-          },
-          {
-            "nombre": "עודד פהר",
-            "personaje": "Ardeth Bay"
-          },
-          {
-            "nombre": "Arnold Vosloo",
-            "personaje": "Imhotep"
-          },
-          {
-            "nombre": "Patricia Velásquez",
-            "personaje": "Meela / Anck-Su-Namun"
-          }
-        ],
-        "generos": [
-          "Aventura",
-          "Acción",
-          "Fantasía"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Han pasado diez años, Rick O'Connell se ha casado con Evelyn, y ambos son padres del pequeño Alex, de ocho años. Cuando, tras una serie de acontecimientos, la momia del antiguo sacerdote egipcio Im-Ho-Tep es resucitada por una extraña secta en el British Museum, y la maldición milenaria del Rey Escorpión -que seis mil años atrás traicionó al dios Anubis- lo devuelve a la vida, el choque entre ambas fuerzas malignas desencadenará el caos en el mundo... si Rick y Evelyn no consiguen evitarlo.",
-        "estreno": "4 may 2001",
-        "duracion_min": 129,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "The Mummy Returns"
-      }
-    },
-    {
-      "titulo": "Estación Zombie",
-      "poster": "https://cdn.carteleracine.pe/cine/2016/11/estacion-zombie-39949-0.webp",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "21:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "21:20"
-          ]
-        }
-      ],
-      "genero": "Acción",
-      "duracion": "118 minutos",
-      "clasificacion": "12 Años",
-      "director": "Yeon Sang-ho",
-      "actores": "Yoo Gong, Dong-seok Ma, Kyung-mi Jung, Ahn So-hee, Kim Soo-ahn, Jung Yu-mi",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/estacion-zombie-6014_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Estaci%C3%B3n%20Zombie%20trailer%20espanol",
-      "sinopsis": "Los ciudadanos del lujoso barrio de Gangnam, en Seúl, comienzan a experimentar síntomas inusuales y aterradores, convirtiéndose en criaturas inhumanas, y sólo unos pocos supervivientes tienen la posibilidad de salir con vida.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 996525,
-        "titulo_tmdb": "Gangnam Zombie",
-        "voto": 5.4,
-        "votos": 106,
-        "url_tmdb": "https://www.themoviedb.org/movie/996525",
-        "imdb_id": "tt21109552",
-        "url_imdb": "https://www.imdb.com/title/tt21109552/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/wj2ktqf6hSgZG0MwIrkAarKGRBV.jpg",
-        "director": "이수성",
-        "reparto": [
-          {
-            "nombre": "지일주",
-            "personaje": "Hyeon-suk"
-          },
-          {
-            "nombre": "박지연",
-            "personaje": "Min-jung"
-          },
-          {
-            "nombre": "탁트인",
-            "personaje": "Dae-yeong"
-          },
-          {
-            "nombre": "조경훈",
-            "personaje": "Wang-i"
-          },
-          {
-            "nombre": "Jung Yi-joo",
-            "personaje": ""
-          },
-          {
-            "nombre": "정창환",
-            "personaje": "Zombie Chang-hwan"
-          }
-        ],
-        "generos": [
-          "Terror",
-          "Drama",
-          "Acción"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Los ciudadanos del lujoso barrio de Gangnam, en Seúl, comienzan a experimentar síntomas inusuales y aterradores, convirtiéndose en criaturas inhumanas, y sólo unos pocos supervivientes tienen la posibilidad de salir con vida.",
-        "estreno": "5 ene 2023",
-        "duracion_min": 81,
-        "paises": [
-          "Corea del Sur"
-        ],
-        "idioma": "Coreano",
-        "titulo_original": "강남좀비"
-      }
-    },
-    {
       "titulo": "El bosque salvaje Wildwood",
       "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003108?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "genero": "Animación",
@@ -932,11 +756,15 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:10",
+                "18:50",
                 "21:30"
               ]
             }
           ],
           "horarios": [
+            "16:10",
+            "18:50",
             "21:30"
           ]
         }
@@ -944,8 +772,8 @@
       "tmdb": {
         "tmdb_id": 791523,
         "titulo_tmdb": "Wildwood: El Bosque Salvaje",
-        "voto": 8.7,
-        "votos": 135,
+        "voto": 8.6,
+        "votos": 157,
         "url_tmdb": "https://www.themoviedb.org/movie/791523",
         "imdb_id": "tt2056785",
         "url_imdb": "https://www.imdb.com/title/tt2056785/",
@@ -1184,7 +1012,7 @@
         "tmdb_id": 1255833,
         "titulo_tmdb": "Whalefall",
         "voto": 6.6,
-        "votos": 132,
+        "votos": 133,
         "url_tmdb": "https://www.themoviedb.org/movie/1255833",
         "imdb_id": "tt28535715",
         "url_imdb": "https://www.imdb.com/title/tt28535715/",
@@ -1234,6 +1062,39 @@
       }
     },
     {
+      "titulo": "La Momia Regresa (Reestreno)",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/HO00009884.jpg",
+      "genero": "Accion",
+      "clasificacion": "Mayores de 14",
+      "duracion": "02:10",
+      "sinopsis": "Han Pasado Diez Años, Rick O'connell (Brendan Fraser) Se Ha Casado Con Evelyn (Rachel Weisz), y Ambos Son Padres del Pequeño Alex (Freddie Boath) de Ocho Años. Tras una Serie de Acontecimientos, la Momia del Antiguo Sacerdote Egipcio Imhotep Es Resucitada Por una Extraña Secta en el British Museum, y la Maldición Milenaria del Rey Escorpión -Que Seis Mil Años Atrás Traicionó Al Dios Anubis- Lo Dev",
+      "director": "",
+      "actores": "",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "19:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:00"
+          ]
+        }
+      ]
+    },
+    {
       "titulo": "Madre Siniestra",
       "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/other_mommy-415529498-large.jpg",
       "genero": "Terror",
@@ -1269,7 +1130,7 @@
         "tmdb_id": 1400837,
         "titulo_tmdb": "La otra madre",
         "voto": 5.8,
-        "votos": 182,
+        "votos": 183,
         "url_tmdb": "https://www.themoviedb.org/movie/1400837",
         "imdb_id": "tt36586020",
         "url_imdb": "https://www.imdb.com/title/tt36586020/",
@@ -1319,93 +1180,6 @@
       }
     },
     {
-      "titulo": "Street Fighter",
-      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/street_fighter-871613292-large.jpg",
-      "genero": "Accion",
-      "clasificacion": "Mayores de 14",
-      "duracion": "01:25",
-      "sinopsis": "Basada en la Saga de Videojuegos 'Street Fighter' y Ambientada en 1993, los Alejados Street Fighters Ryu y Ken Masters Son Lanzados de Nuevo Al Combate Cuando la Misteriosa Chun-li los Recluta Para el Próximo Torneo Mundial de Guerreros: Un Brutal Choque de Puños, Destino y Furia. Pero Detrás de Esta Batalla Se Esconde una Conspiración Mortal Que los Obliga a Enfrentarse Entre Ellos y a los Demoni",
-      "director": "Kitao Sakurai",
-      "actores": "Andrew Koji, Noah Centineo, Callina Liang, David Dastmalchian, Andrew Schulz, Joe Anoa'i",
-      "estreno": "",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=-MJAfIMUQ5s",
-      "fuente_peli": "Cinerama",
-      "cines": [
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "22:00"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1153576,
-        "titulo_tmdb": "Street Fighter",
-        "voto": 6.3,
-        "votos": 209,
-        "url_tmdb": "https://www.themoviedb.org/movie/1153576",
-        "imdb_id": "tt27419420",
-        "url_imdb": "https://www.imdb.com/title/tt27419420/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-        "director": "Kitao Sakurai",
-        "reparto": [
-          {
-            "nombre": "Andrew Koji",
-            "personaje": "Ryu"
-          },
-          {
-            "nombre": "Noah Centineo",
-            "personaje": "Ken Masters"
-          },
-          {
-            "nombre": "Callina Liang",
-            "personaje": "Chun-Li"
-          },
-          {
-            "nombre": "David Dastmalchian",
-            "personaje": "M. Bison"
-          },
-          {
-            "nombre": "Andrew Schulz",
-            "personaje": "Dan Hibiki"
-          },
-          {
-            "nombre": "Joe Anoa'i",
-            "personaje": "Akuma"
-          }
-        ],
-        "generos": [
-          "Acción",
-          "Fantasía"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=-MJAfIMUQ5s",
-          "embed_id": "-MJAfIMUQ5s"
-        },
-        "sinopsis_tmdb": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-        "estreno": "13 oct 2026",
-        "duracion_min": 120,
-        "paises": [
-          "Japón",
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Street Fighter"
-      }
-    },
-    {
       "titulo": "Terror en el Amazonas",
       "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/HO00009733.jpg",
       "genero": "Terror",
@@ -1444,8 +1218,8 @@
       "tmdb": {
         "tmdb_id": 1244523,
         "titulo_tmdb": "Boiuna: La leyenda del Amazonas",
-        "voto": 6.2,
-        "votos": 12,
+        "voto": 6.4,
+        "votos": 14,
         "url_tmdb": "https://www.themoviedb.org/movie/1244523",
         "imdb_id": "tt10377864",
         "url_imdb": "https://www.imdb.com/title/tt10377864/",
@@ -1508,145 +1282,6 @@
           "clasificacion": "Todos",
           "formatos": [
             {
-              "formato": "",
-              "horarios": [
-                "12:30"
-              ]
-            },
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "15:00",
-                "17:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "12:30",
-            "15:00",
-            "17:30"
-          ]
-        },
-        {
-          "titulo": "El Heladero: Dulce Sabor A Muerte",
-          "poster": "",
-          "genero": "Terror",
-          "clasificacion": "18 Años",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "20:00",
-                "21:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "20:00",
-            "21:45"
-          ]
-        },
-        {
-          "titulo": "El Pintor de los Milagros",
-          "poster": "",
-          "genero": "Drama",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "19:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:15"
-          ]
-        },
-        {
-          "titulo": "Desaparecidos en Altamar",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/10/desaparecidos-en-altamar-48010-1.jpg",
-          "genero": "Suspenso",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "17:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:10"
-          ]
-        },
-        {
-          "titulo": "El Gato Con Sombrero",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/10/el-gato-con-sombrero-48034-0.webp",
-          "genero": "Animado",
-          "clasificacion": "7 Años",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "12:40"
-              ]
-            },
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "14:55"
-              ]
-            }
-          ],
-          "horarios": [
-            "12:40",
-            "14:55"
-          ]
-        },
-        {
-          "titulo": "Clayface",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/10/clayface-47962-0.webp",
-          "genero": "Terror",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "19:25",
-                "21:35"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:25",
-            "21:35"
-          ]
-        },
-        {
-          "titulo": "Ekeko",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/ekeko-47706-0.webp",
-          "genero": "Terror",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "17:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:30"
-          ]
-        },
-        {
-          "titulo": "La Momia Regresa",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/10/la-momia-regresa-48012-0.webp",
-          "genero": "Acción",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
               "formato": "Doblada",
               "horarios": [
                 "15:00"
@@ -1658,20 +1293,90 @@
           ]
         },
         {
-          "titulo": "Estación Zombie",
-          "poster": "https://cdn.carteleracine.pe/cine/2016/11/estacion-zombie-39949-0.webp",
-          "genero": "Acción",
-          "clasificacion": "12 Años",
+          "titulo": "El Heladero: Dulce Sabor A Muerte",
+          "poster": "",
+          "genero": "Terror",
+          "clasificacion": "18 Años",
           "formatos": [
             {
               "formato": "",
               "horarios": [
+                "19:35",
                 "21:20"
               ]
             }
           ],
           "horarios": [
+            "19:35",
             "21:20"
+          ]
+        },
+        {
+          "titulo": "El Pintor de los Milagros",
+          "poster": "",
+          "genero": "Drama",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "17:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:30"
+          ]
+        },
+        {
+          "titulo": "Desaparecidos en Altamar",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/10/desaparecidos-en-altamar-48010-1.jpg",
+          "genero": "Suspenso",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "17:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:00"
+          ]
+        },
+        {
+          "titulo": "Clayface",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/10/clayface-47962-0.webp",
+          "genero": "Terror",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:00"
+          ]
+        },
+        {
+          "titulo": "Ekeko",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/8/ekeko-47706-0.webp",
+          "genero": "Terror",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "19:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:15"
           ]
         }
       ],
@@ -1694,12 +1399,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "17:40",
                 "20:00",
                 "22:20"
               ]
             }
           ],
           "horarios": [
+            "17:40",
             "20:00",
             "22:20"
           ]
@@ -1732,11 +1439,15 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:10",
+                "18:50",
                 "21:30"
               ]
             }
           ],
           "horarios": [
+            "16:10",
+            "18:50",
             "21:30"
           ]
         },
@@ -1749,12 +1460,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:30",
+                "18:30",
                 "20:30",
                 "22:30"
               ]
             }
           ],
           "horarios": [
+            "16:30",
+            "18:30",
             "20:30",
             "22:30"
           ]
@@ -1768,14 +1483,33 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "17:20",
                 "19:40",
                 "22:00"
               ]
             }
           ],
           "horarios": [
+            "17:20",
             "19:40",
             "22:00"
+          ]
+        },
+        {
+          "titulo": "Street Fighter",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003064?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "17:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:30"
           ]
         }
       ],
@@ -1943,7 +1677,7 @@
           ]
         },
         {
-          "titulo": "La Momia Regresa",
+          "titulo": "La Momia Regresa (Reestreno)",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/HO00009884.jpg",
           "genero": "Accion",
           "clasificacion": "Mayores de 14",
