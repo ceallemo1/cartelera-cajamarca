@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-11-04 14:41",
+  "actualizado": "2026-11-04 21:17",
   "fecha_objetivo": "2026-11-04",
   "peliculas": [
     {
@@ -60,7 +60,7 @@
         "tmdb_id": 791523,
         "titulo_tmdb": "Wildwood: El Bosque Salvaje",
         "voto": 8.5,
-        "votos": 183,
+        "votos": 189,
         "url_tmdb": "https://www.themoviedb.org/movie/791523",
         "imdb_id": "tt2056785",
         "url_imdb": "https://www.imdb.com/title/tt2056785/",
@@ -144,18 +144,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:30",
-                "16:30",
-                "18:30",
                 "20:30",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "14:30",
-            "16:30",
-            "18:30",
             "20:30",
             "22:30"
           ]
@@ -194,8 +188,8 @@
       "tmdb": {
         "tmdb_id": 1477712,
         "titulo_tmdb": "Dulce sabor a muerte",
-        "voto": 5.4,
-        "votos": 300,
+        "voto": 5.3,
+        "votos": 302,
         "url_tmdb": "https://www.themoviedb.org/movie/1477712",
         "imdb_id": "tt36893729",
         "url_imdb": "https://www.imdb.com/title/tt36893729/",
@@ -280,17 +274,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:00",
-                "17:20",
-                "19:40",
                 "22:00"
               ]
             }
           ],
           "horarios": [
-            "15:00",
-            "17:20",
-            "19:40",
             "22:00"
           ]
         },
@@ -439,16 +427,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:20",
-                "17:40",
                 "20:00",
                 "22:20"
               ]
             }
           ],
           "horarios": [
-            "15:20",
-            "17:40",
             "20:00",
             "22:20"
           ]
@@ -486,7 +470,7 @@
         "tmdb_id": 1400940,
         "titulo_tmdb": "Clayface",
         "voto": 7.4,
-        "votos": 377,
+        "votos": 382,
         "url_tmdb": "https://www.themoviedb.org/movie/1400940",
         "imdb_id": "tt34890576",
         "url_imdb": "https://www.imdb.com/title/tt34890576/",
@@ -535,113 +519,6 @@
         ],
         "idioma": "Inglés",
         "titulo_original": "Clayface"
-      }
-    },
-    {
-      "titulo": "Street Fighter",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/10/street-fighter-47899-0.webp",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "14:50",
-                "17:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:50",
-            "17:30"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "22:00"
-          ]
-        }
-      ],
-      "genero": "Acción",
-      "duracion": "120 minutos",
-      "clasificacion": "12 Años",
-      "director": "Kitao Sakurai",
-      "actores": "David Dastmalchian, Jason Momoa, Noah Centineo, Olivier Richters, Joe Anoa'i, Andrew Koji, 50 Cent, Eric André, Mel Jarnson, Rayna Vallandingham, Kristy Best, C",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/street-fighter-12302_252",
-      "trailer_url": "https://youtu.be/db-xQJgY_II",
-      "sinopsis": "Ambientada en 1993, los distanciados Street Fighters Ryu (Andrew Koji) y Ken Masters (Noah Centineo) vuelven al combate cuando la misteriosa Chun-Li (Callina Liang) los recluta para el próximo Torneo Mundial de Guerreros: un brutal choque de puños, destino y furia. Pero detrás de esta batalla campal se esconde una conspiración mortal que los obliga a enfrentarse entre ellos y contra los demonios d",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1153576,
-        "titulo_tmdb": "Street Fighter",
-        "voto": 6.3,
-        "votos": 214,
-        "url_tmdb": "https://www.themoviedb.org/movie/1153576",
-        "imdb_id": "tt27419420",
-        "url_imdb": "https://www.imdb.com/title/tt27419420/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-        "director": "Kitao Sakurai",
-        "reparto": [
-          {
-            "nombre": "Andrew Koji",
-            "personaje": "Ryu"
-          },
-          {
-            "nombre": "Noah Centineo",
-            "personaje": "Ken Masters"
-          },
-          {
-            "nombre": "Callina Liang",
-            "personaje": "Chun-Li"
-          },
-          {
-            "nombre": "David Dastmalchian",
-            "personaje": "M. Bison"
-          },
-          {
-            "nombre": "Andrew Schulz",
-            "personaje": "Dan Hibiki"
-          },
-          {
-            "nombre": "Joe Anoa'i",
-            "personaje": "Akuma"
-          }
-        ],
-        "generos": [
-          "Acción",
-          "Fantasía"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=-MJAfIMUQ5s",
-          "embed_id": "-MJAfIMUQ5s"
-        },
-        "sinopsis_tmdb": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-        "estreno": "13 oct 2026",
-        "duracion_min": 120,
-        "paises": [
-          "Japón",
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Street Fighter"
       }
     },
     {
@@ -771,15 +648,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:10",
-                "18:50",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "16:10",
-            "18:50",
             "21:30"
           ]
         }
@@ -788,7 +661,7 @@
         "tmdb_id": 791523,
         "titulo_tmdb": "Wildwood: El Bosque Salvaje",
         "voto": 8.5,
-        "votos": 184,
+        "votos": 189,
         "url_tmdb": "https://www.themoviedb.org/movie/791523",
         "imdb_id": "tt2056785",
         "url_imdb": "https://www.imdb.com/title/tt2056785/",
@@ -1145,7 +1018,7 @@
         "tmdb_id": 1400837,
         "titulo_tmdb": "La otra madre",
         "voto": 5.8,
-        "votos": 190,
+        "votos": 191,
         "url_tmdb": "https://www.themoviedb.org/movie/1400837",
         "imdb_id": "tt36586020",
         "url_imdb": "https://www.imdb.com/title/tt36586020/",
@@ -1195,6 +1068,93 @@
       }
     },
     {
+      "titulo": "Street Fighter",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/street_fighter-871613292-large.jpg",
+      "genero": "Accion",
+      "clasificacion": "Mayores de 14",
+      "duracion": "01:25",
+      "sinopsis": "Basada en la Saga de Videojuegos 'Street Fighter' y Ambientada en 1993, los Alejados Street Fighters Ryu y Ken Masters Son Lanzados de Nuevo Al Combate Cuando la Misteriosa Chun-li los Recluta Para el Próximo Torneo Mundial de Guerreros: Un Brutal Choque de Puños, Destino y Furia. Pero Detrás de Esta Batalla Se Esconde una Conspiración Mortal Que los Obliga a Enfrentarse Entre Ellos y a los Demoni",
+      "director": "Kitao Sakurai",
+      "actores": "Andrew Koji, Noah Centineo, Callina Liang, David Dastmalchian, Andrew Schulz, Joe Anoa'i",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=-MJAfIMUQ5s",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "22:00"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1153576,
+        "titulo_tmdb": "Street Fighter",
+        "voto": 6.3,
+        "votos": 215,
+        "url_tmdb": "https://www.themoviedb.org/movie/1153576",
+        "imdb_id": "tt27419420",
+        "url_imdb": "https://www.imdb.com/title/tt27419420/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
+        "director": "Kitao Sakurai",
+        "reparto": [
+          {
+            "nombre": "Andrew Koji",
+            "personaje": "Ryu"
+          },
+          {
+            "nombre": "Noah Centineo",
+            "personaje": "Ken Masters"
+          },
+          {
+            "nombre": "Callina Liang",
+            "personaje": "Chun-Li"
+          },
+          {
+            "nombre": "David Dastmalchian",
+            "personaje": "M. Bison"
+          },
+          {
+            "nombre": "Andrew Schulz",
+            "personaje": "Dan Hibiki"
+          },
+          {
+            "nombre": "Joe Anoa'i",
+            "personaje": "Akuma"
+          }
+        ],
+        "generos": [
+          "Acción",
+          "Fantasía"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=-MJAfIMUQ5s",
+          "embed_id": "-MJAfIMUQ5s"
+        },
+        "sinopsis_tmdb": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
+        "estreno": "13 oct 2026",
+        "duracion_min": 120,
+        "paises": [
+          "Japón",
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Street Fighter"
+      }
+    },
+    {
       "titulo": "Terror en el Amazonas",
       "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/HO00009733.jpg",
       "genero": "Terror",
@@ -1233,8 +1193,8 @@
       "tmdb": {
         "tmdb_id": 1244523,
         "titulo_tmdb": "Boiuna: La leyenda del Amazonas",
-        "voto": 6.4,
-        "votos": 26,
+        "voto": 6.3,
+        "votos": 29,
         "url_tmdb": "https://www.themoviedb.org/movie/1244523",
         "imdb_id": "tt10377864",
         "url_imdb": "https://www.imdb.com/title/tt10377864/",
@@ -1415,16 +1375,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:20",
-                "17:40",
                 "20:00",
                 "22:20"
               ]
             }
           ],
           "horarios": [
-            "15:20",
-            "17:40",
             "20:00",
             "22:20"
           ]
@@ -1457,15 +1413,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:10",
-                "18:50",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "16:10",
-            "18:50",
             "21:30"
           ]
         },
@@ -1478,18 +1430,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:30",
-                "16:30",
-                "18:30",
                 "20:30",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "14:30",
-            "16:30",
-            "18:30",
             "20:30",
             "22:30"
           ]
@@ -1503,37 +1449,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:00",
-                "17:20",
-                "19:40",
                 "22:00"
               ]
             }
           ],
           "horarios": [
-            "15:00",
-            "17:20",
-            "19:40",
             "22:00"
-          ]
-        },
-        {
-          "titulo": "Street Fighter",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003064?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Acción",
-          "clasificacion": "+14",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "14:50",
-                "17:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:50",
-            "17:30"
           ]
         }
       ],
