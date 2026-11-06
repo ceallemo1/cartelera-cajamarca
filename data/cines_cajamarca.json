@@ -2,8 +2,8 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-11-05 21:17",
-  "fecha_objetivo": "2026-11-05",
+  "actualizado": "2026-11-06 14:16",
+  "fecha_objetivo": "2026-11-06",
   "peliculas": [
     {
       "titulo": "Godzilla Minus Zero",
@@ -40,12 +40,20 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "14:00",
+                "16:50",
+                "18:30",
+                "19:40",
                 "21:40",
                 "22:30"
               ]
             }
           ],
           "horarios": [
+            "14:00",
+            "16:50",
+            "18:30",
+            "19:40",
             "21:40",
             "22:30"
           ]
@@ -84,8 +92,8 @@
       "tmdb": {
         "tmdb_id": 1381071,
         "titulo_tmdb": "Godzilla Minus Zero",
-        "voto": 8.3,
-        "votos": 35,
+        "voto": 8.0,
+        "votos": 41,
         "url_tmdb": "https://www.themoviedb.org/movie/1381071",
         "imdb_id": "tt34384661",
         "url_imdb": "https://www.imdb.com/title/tt34384661/",
@@ -110,7 +118,7 @@
           },
           {
             "nombre": "Jun Kunimura",
-            "personaje": ""
+            "personaje": "Dr. Ogata"
           },
           {
             "nombre": "Mio Tanaka",
@@ -164,11 +172,15 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:50",
+                "18:20",
                 "20:50"
               ]
             }
           ],
           "horarios": [
+            "15:50",
+            "18:20",
             "20:50"
           ]
         },
@@ -207,7 +219,7 @@
         "tmdb_id": 1117898,
         "titulo_tmdb": "El gato con sombrero",
         "voto": 7.1,
-        "votos": 10,
+        "votos": 11,
         "url_tmdb": "https://www.themoviedb.org/movie/1117898",
         "imdb_id": "tt2321555",
         "url_imdb": "https://www.imdb.com/title/tt2321555/",
@@ -242,9 +254,9 @@
         "generos": [
           "Animación",
           "Fantasía",
-          "Comedia",
           "Aventura",
-          "Familia"
+          "Familia",
+          "Comedia"
         ],
         "trailer": {
           "url": "https://www.youtube.com/watch?v=bRMu8S6FQ9c",
@@ -294,11 +306,15 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "14:10",
+                "18:10",
                 "22:10"
               ]
             }
           ],
           "horarios": [
+            "14:10",
+            "18:10",
             "22:10"
           ]
         },
@@ -421,11 +437,13 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:00",
                 "21:20"
               ]
             }
           ],
           "horarios": [
+            "16:00",
             "21:20"
           ]
         }
@@ -444,7 +462,7 @@
         "tmdb_id": 1400940,
         "titulo_tmdb": "Clayface",
         "voto": 7.4,
-        "votos": 396,
+        "votos": 397,
         "url_tmdb": "https://www.themoviedb.org/movie/1400940",
         "imdb_id": "tt34890576",
         "url_imdb": "https://www.imdb.com/title/tt34890576/",
@@ -530,7 +548,7 @@
         "tmdb_id": 791523,
         "titulo_tmdb": "Wildwood: El Bosque Salvaje",
         "voto": 8.5,
-        "votos": 195,
+        "votos": 200,
         "url_tmdb": "https://www.themoviedb.org/movie/791523",
         "imdb_id": "tt2056785",
         "url_imdb": "https://www.imdb.com/title/tt2056785/",
@@ -614,11 +632,13 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:10",
                 "20:10"
               ]
             }
           ],
           "horarios": [
+            "16:10",
             "20:10"
           ]
         },
@@ -659,7 +679,7 @@
         "tmdb_id": 1477712,
         "titulo_tmdb": "Dulce sabor a muerte",
         "voto": 5.3,
-        "votos": 302,
+        "votos": 303,
         "url_tmdb": "https://www.themoviedb.org/movie/1477712",
         "imdb_id": "tt36893729",
         "url_imdb": "https://www.imdb.com/title/tt36893729/",
@@ -791,6 +811,98 @@
         ],
         "idioma": "Español",
         "titulo_original": "Ekeko: el muñeco de la suerte"
+      }
+    },
+    {
+      "titulo": "El bosque salvaje Wildwood",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003108?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Animación",
+      "clasificacion": "+14",
+      "duracion": "130 min",
+      "director": "Travis Knight",
+      "actores": "Peyton Elizabeth Lee, Jacob Tremblay, Carey Mulligan, Mahershala Ali, Richard E. Grant, Angela Bassett",
+      "estreno": "",
+      "sinopsis": "Después de que su hermano bebé, Mac, es secuestrado por una parvada de cuervos, la decidida adolescente Prue McKeel (Peyton Elizabeth Lee) inicia una desesperada misión de rescate hacia el Bosque Impasable, un bosque encantado oculto justo más allá de Portland, Oregon. Acompañada por su torpe pero leal compañero de clase, Curtis Mehlberg (Jacob Tremblay), Prue navega un mundo de animales parlantes",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=d-pcACsvl10",
+      "fuente_peli": "Cineplanet",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:20",
+                "19:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:20",
+            "19:00"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 791523,
+        "titulo_tmdb": "Wildwood: El Bosque Salvaje",
+        "voto": 8.5,
+        "votos": 199,
+        "url_tmdb": "https://www.themoviedb.org/movie/791523",
+        "imdb_id": "tt2056785",
+        "url_imdb": "https://www.imdb.com/title/tt2056785/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
+        "director": "Travis Knight",
+        "reparto": [
+          {
+            "nombre": "Peyton Elizabeth Lee",
+            "personaje": "Prue McKeel (voice)"
+          },
+          {
+            "nombre": "Jacob Tremblay",
+            "personaje": "Curtis Mehlberg (voice)"
+          },
+          {
+            "nombre": "Carey Mulligan",
+            "personaje": "Alexandra (voice)"
+          },
+          {
+            "nombre": "Mahershala Ali",
+            "personaje": "Brenden (voice)"
+          },
+          {
+            "nombre": "Richard E. Grant",
+            "personaje": "Owl Rex (voice)"
+          },
+          {
+            "nombre": "Angela Bassett",
+            "personaje": "The General (voice)"
+          }
+        ],
+        "generos": [
+          "Animación",
+          "Aventura",
+          "Fantasía"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=qWX1ba0f-Qg",
+          "embed_id": "qWX1ba0f-Qg"
+        },
+        "sinopsis_tmdb": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para rescatar al hermano bebé de Prue —secuestrado por una bandada de cuervos liderada por una misteriosa mujer llamada Alexandra—.",
+        "estreno": "19 oct 2026",
+        "duracion_min": 132,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Wildwood"
       }
     },
     {
@@ -945,8 +1057,8 @@
       "tmdb": {
         "tmdb_id": 1244523,
         "titulo_tmdb": "Boiuna: La leyenda del Amazonas",
-        "voto": 6.3,
-        "votos": 34,
+        "voto": 6.2,
+        "votos": 35,
         "url_tmdb": "https://www.themoviedb.org/movie/1244523",
         "imdb_id": "tt10377864",
         "url_imdb": "https://www.imdb.com/title/tt10377864/",
@@ -1150,12 +1262,33 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:00",
                 "21:20"
               ]
             }
           ],
           "horarios": [
+            "16:00",
             "21:20"
+          ]
+        },
+        {
+          "titulo": "El bosque salvaje Wildwood",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003108?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Animación",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:20",
+                "19:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:20",
+            "19:00"
           ]
         },
         {
@@ -1167,11 +1300,15 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:50",
+                "18:20",
                 "20:50"
               ]
             }
           ],
           "horarios": [
+            "15:50",
+            "18:20",
             "20:50"
           ]
         },
@@ -1184,11 +1321,13 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:10",
                 "20:10"
               ]
             }
           ],
           "horarios": [
+            "16:10",
             "20:10"
           ]
         },
@@ -1201,12 +1340,20 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "14:00",
+                "16:50",
+                "18:30",
+                "19:40",
                 "21:40",
                 "22:30"
               ]
             }
           ],
           "horarios": [
+            "14:00",
+            "16:50",
+            "18:30",
+            "19:40",
             "21:40",
             "22:30"
           ]
@@ -1220,11 +1367,15 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "14:10",
+                "18:10",
                 "22:10"
               ]
             }
           ],
           "horarios": [
+            "14:10",
+            "18:10",
             "22:10"
           ]
         }
