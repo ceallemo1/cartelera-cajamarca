@@ -2,39 +2,13 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-11-05 14:52",
+  "actualizado": "2026-11-05 21:17",
   "fecha_objetivo": "2026-11-05",
   "peliculas": [
     {
       "titulo": "Godzilla Minus Zero",
-      "poster": "",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003060?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
-          "formatos": [
-            {
-              "formato": "2D - Doblada",
-              "horarios": [
-                "14:00",
-                "16:50",
-                "18:30",
-                "19:40",
-                "21:40",
-                "22:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:00",
-            "16:50",
-            "18:30",
-            "19:40",
-            "21:40",
-            "22:30"
-          ]
-        },
         {
           "cine": "Movie Time Cajamarca",
           "cine_slug": "movietime-cajamarca-cajamarca-s448",
@@ -54,6 +28,47 @@
             "19:00",
             "21:35"
           ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "21:40",
+                "22:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:40",
+            "22:30"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:30",
+                "19:00",
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:30",
+            "19:00",
+            "21:30"
+          ]
         }
       ],
       "genero": "Acción",
@@ -63,8 +78,8 @@
       "actores": "Minami Hamabe, Jun Kunimura, Masami Nagasawa, Ryûnosuke Kamiki.",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/godzilla-minus-zero-12311_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Godzilla%20Minus%20Zero%20trailer%20espanol",
-      "sinopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
+      "trailer_url": "https://www.youtube.com/watch?v=KSPi8XLeBRg",
+      "sinopsis": "En el Japón de la posguerra, un país devastado intenta reconstruirse desde las cenizas. Sin embargo, una nueva amenaza emerge desde el océano: Godzilla. Mientras la nación lucha por sobrevivir, la aparición de esta fuerza destructiva lleva a la humanidad al límite absoluto, enfrentándola no solo a la destrucción, sino también a su propia fragilidad.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1381071,
@@ -120,26 +135,61 @@
     },
     {
       "titulo": "El Gato Con Sombrero",
-      "poster": "",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003089?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "cines": [
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "Doblada",
               "horarios": [
-                "15:50",
-                "18:20",
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30"
+          ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
                 "20:50"
               ]
             }
           ],
           "horarios": [
-            "15:50",
-            "18:20",
             "20:50"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "17:15",
+                "19:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:15",
+            "19:30"
           ]
         }
       ],
@@ -150,14 +200,14 @@
       "actores": "Bill Hader, Xochitl Gomez y America Ferrera",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-gato-con-sombrero-12358_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=El%20Gato%20Con%20Sombrero%20trailer%20espanol",
-      "sinopsis": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+      "trailer_url": "https://youtu.be/O64eGC9l9Ig?si=rIXFgVkukXdxj0xT",
+      "sinopsis": "Haciendo lo que mejor sabe hacer, el Gato difunde alegría a los niños de una manera divertida, icónica y singularmente irreverente, llevándolos a ellos y a la audiencia en un viaje fantástico por un mundo que nunca han visto antes. En la película, nuestro héroe enfrenta su tarea más difícil hasta ahora para el I.I.I.I. (Instituto para la Institución de Imaginación e Inspiración, LLC): animar a Gab",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1117898,
         "titulo_tmdb": "El gato con sombrero",
-        "voto": 6.8,
-        "votos": 9,
+        "voto": 7.1,
+        "votos": 10,
         "url_tmdb": "https://www.themoviedb.org/movie/1117898",
         "imdb_id": "tt2321555",
         "url_imdb": "https://www.imdb.com/title/tt2321555/",
@@ -192,14 +242,16 @@
         "generos": [
           "Animación",
           "Fantasía",
-          "Comedia"
+          "Comedia",
+          "Aventura",
+          "Familia"
         ],
         "trailer": {
           "url": "https://www.youtube.com/watch?v=bRMu8S6FQ9c",
           "embed_id": "bRMu8S6FQ9c"
         },
         "sinopsis_tmdb": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
-        "estreno": "4 nov 2026",
+        "estreno": "31 oct 2026",
         "duracion_min": 108,
         "paises": [
           "Reino Unido",
@@ -213,26 +265,6 @@
       "titulo": "Pinocho: Sin Cuerdas",
       "poster": "https://cdn.carteleracine.pe/cine/2026/11/pinocho-sin-cuerdas-48040-1.jpg",
       "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
-          "formatos": [
-            {
-              "formato": "2D - Doblada",
-              "horarios": [
-                "14:10",
-                "18:10",
-                "22:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:10",
-            "18:10",
-            "22:10"
-          ]
-        },
         {
           "cine": "Movie Time Cajamarca",
           "cine_slug": "movietime-cajamarca-cajamarca-s448",
@@ -250,6 +282,47 @@
             "19:45",
             "21:25"
           ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "22:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "22:10"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:45",
+                "17:30",
+                "19:15",
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:45",
+            "17:30",
+            "19:15",
+            "21:00"
+          ]
         }
       ],
       "genero": "Terror",
@@ -260,7 +333,7 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/pinocho-sin-cuerdas-12364_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Pinocho%3A%20Sin%20Cuerdas%20trailer%20espanol",
-      "sinopsis": "Gepetto le regala para el cumple de su nieto James un titere llamado Pinocho, aunque no sabian que estaria desquiciado, donde buscaria matar a quien fuera junto con su consciencia llamada Pepe Grillo para convertirse en un niño de verdad",
+      "sinopsis": "Una macabra reimaginación del clásico Pinocho, ambientada en el Twisted Childhood Universe. Cuando Geppetto le regala a su nieto James un muñeco mágico llamado Pinocho, ambos entablan una entrañable amistad. Sin embargo, al introducirlo en el mundo real, James despierta sin saberlo la naturaleza siniestra de la marioneta, que emprende una aterradora cruzada para eliminar todo lo que considera malo",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1232569,
@@ -322,24 +395,6 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/10/clayface-47962-0.webp",
       "cines": [
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
-          "formatos": [
-            {
-              "formato": "2D - Doblada",
-              "horarios": [
-                "16:00",
-                "21:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "21:20"
-          ]
-        },
-        {
           "cine": "Movie Time Cajamarca",
           "cine_slug": "movietime-cajamarca-cajamarca-s448",
           "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
@@ -354,6 +409,25 @@
           "horarios": [
             "17:45"
           ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "21:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:20"
+          ]
         }
       ],
       "genero": "Terror",
@@ -363,14 +437,14 @@
       "actores": "Tom Rhys Harries, Max Minghella y Naomi Ackie",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/clayface-12326_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Clayface%20trailer%20espanol",
-      "sinopsis": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
+      "trailer_url": "https://youtu.be/EVYL3zS8HKA?si=e--1Nfl4B99Yxm_o",
+      "sinopsis": "Relata el horroroso descenso de un hombre: de ser una estrella en ascenso en Hollywood a convertirse en un monstruo sediento de venganza, en una historia que explora la pérdida de la identidad y la humanidad, el amor corrosivo y el lado oscuro de la ambición científica.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1400940,
         "titulo_tmdb": "Clayface",
         "voto": 7.4,
-        "votos": 393,
+        "votos": 396,
         "url_tmdb": "https://www.themoviedb.org/movie/1400940",
         "imdb_id": "tt34890576",
         "url_imdb": "https://www.imdb.com/title/tt34890576/",
@@ -425,24 +499,6 @@
       "titulo": "Wildwood: El Bosque Salvaje",
       "poster": "https://cdn.carteleracine.pe/cine/2026/10/wildwood-el-bosque-salvaje-48024-0.webp",
       "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
-          "formatos": [
-            {
-              "formato": "2D - Doblada",
-              "horarios": [
-                "16:20",
-                "19:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:20",
-            "19:00"
-          ]
-        },
         {
           "cine": "Movie Time Cajamarca",
           "cine_slug": "movietime-cajamarca-cajamarca-s448",
@@ -530,24 +586,6 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/8/el-heladero-dulce-sabor-a-muerte-47733-0.webp",
       "cines": [
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-          "direccion": "Av. Vía de Evitamiento Norte",
-          "formatos": [
-            {
-              "formato": "2D - Doblada",
-              "horarios": [
-                "16:10",
-                "20:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:10",
-            "20:10"
-          ]
-        },
-        {
           "cine": "Movie Time Cajamarca",
           "cine_slug": "movietime-cajamarca-cajamarca-s448",
           "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
@@ -564,6 +602,47 @@
             "19:55",
             "21:40"
           ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "20:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "20:10"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:15",
+                "18:15",
+                "20:15",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:15",
+            "18:15",
+            "20:15",
+            "22:00"
+          ]
         }
       ],
       "genero": "Terror",
@@ -573,8 +652,8 @@
       "actores": "Ari Millen, Charlie Zeltzer, Shiloh O’Reilly, Kiori Mirza Waldman, Sarah Abbott, Benjamin Byron Davis",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-heladero-dulce-sabor-a-muerte-12245_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=El%20Heladero%3A%20Dulce%20Sabor%20A%20Muerte%20trailer%20espanol",
-      "sinopsis": "Lo que comienza siendo un verano idílico, en un pequeño y tranquilo pueblo vacacional, se convierte en una auténtica pesadilla cuando los más pequeños comienzan a mostrar instintos asesinos y deseos insaciables por acabar con todos los adultos. Son víctimas de una curiosa maldición provocada por los helados que comen que afecta a todos, menos a tres niños que tendrán que intentar escapar y salvar a todo el pueblo.",
+      "trailer_url": "https://youtu.be/rRjtjH1PVPo?si=KvF58JI_Codup4Qj",
+      "sinopsis": "Un pueblo veraniego ideal cae en la locura cuando un heladero sirve a los niños dulces delicias con resultados terroríficos.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1477712,
@@ -830,143 +909,95 @@
         "idioma": "Inglés",
         "titulo_original": "Avengers: Doomsday"
       }
-    }
-  ],
-  "cines": [
+    },
     {
-      "cine": "CinePlanet Cajamarca Real Plaza",
-      "cine_slug": "cineplanet-cajamarca-cajamarca-s406",
-      "direccion": "Av. Vía de Evitamiento Norte",
-      "peliculas": [
+      "titulo": "Terror en el Amazonas",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/HO00009733.jpg",
+      "genero": "Terror",
+      "clasificacion": "Mayores de 16",
+      "duracion": "01:44",
+      "sinopsis": "Río Curuçá, Brasil. Cuando un Equipo de Jóvenes Médicos Inicia una Misión Humanitaria Local en un Barco Por la Selva Amazónica, Pronto Queda Claro Que No Todo en la Selva Se Alegra de Verlos. Tras un Repentino y Fatal Accidente, la Expedición Médica Se Ve Obligada a Volver Río Arriba. En un Entorno Ya de Por Sí Hostil, Su Llegada No Deseada También Ha Despertado a un Depredador Primigenio y de Pro",
+      "director": "Mike P. Nelson",
+      "actores": "Kiana Madeira, Jessica Rothe, Will Close, Juan Pablo Shuk, Logan Marshall-Green, Jaime Newball",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "",
+      "fuente_peli": "Cinerama",
+      "cines": [
         {
-          "titulo": "Godzilla Minus Zero",
-          "poster": "",
-          "genero": "Acción",
-          "clasificacion": "12 Años",
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
           "formatos": [
             {
-              "formato": "2D - Doblada",
+              "formato": "",
               "horarios": [
-                "14:00",
-                "16:50",
-                "18:30",
-                "19:40",
-                "21:40",
-                "22:30"
+                "21:45"
               ]
             }
           ],
           "horarios": [
-            "14:00",
-            "16:50",
-            "18:30",
-            "19:40",
-            "21:40",
-            "22:30"
-          ]
-        },
-        {
-          "titulo": "El Gato Con Sombrero",
-          "poster": "",
-          "genero": "Animado",
-          "clasificacion": "7 Años",
-          "formatos": [
-            {
-              "formato": "2D - Doblada",
-              "horarios": [
-                "15:50",
-                "18:20",
-                "20:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:50",
-            "18:20",
-            "20:50"
-          ]
-        },
-        {
-          "titulo": "Pinocho: Sin Cuerdas",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/11/pinocho-sin-cuerdas-48040-1.jpg",
-          "genero": "Terror",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "2D - Doblada",
-              "horarios": [
-                "14:10",
-                "18:10",
-                "22:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:10",
-            "18:10",
-            "22:10"
-          ]
-        },
-        {
-          "titulo": "Clayface",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/10/clayface-47962-0.webp",
-          "genero": "Terror",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "2D - Doblada",
-              "horarios": [
-                "16:00",
-                "21:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "21:20"
-          ]
-        },
-        {
-          "titulo": "Wildwood: El Bosque Salvaje",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/10/wildwood-el-bosque-salvaje-48024-0.webp",
-          "genero": "Animado",
-          "clasificacion": "Todos",
-          "formatos": [
-            {
-              "formato": "2D - Doblada",
-              "horarios": [
-                "16:20",
-                "19:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:20",
-            "19:00"
-          ]
-        },
-        {
-          "titulo": "El Heladero: Dulce Sabor A Muerte",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/el-heladero-dulce-sabor-a-muerte-47733-0.webp",
-          "genero": "Terror",
-          "clasificacion": "18 Años",
-          "formatos": [
-            {
-              "formato": "2D - Doblada",
-              "horarios": [
-                "16:10",
-                "20:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:10",
-            "20:10"
+            "21:45"
           ]
         }
       ],
-      "cine_original": "CAJAMARCA - CINEPLANET"
-    },
+      "tmdb": {
+        "tmdb_id": 1244523,
+        "titulo_tmdb": "Boiuna: La leyenda del Amazonas",
+        "voto": 6.3,
+        "votos": 34,
+        "url_tmdb": "https://www.themoviedb.org/movie/1244523",
+        "imdb_id": "tt10377864",
+        "url_imdb": "https://www.imdb.com/title/tt10377864/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/hClFn5adaXOgmxrZyxixoKiBHEZ.jpg",
+        "director": "Mike P. Nelson",
+        "reparto": [
+          {
+            "nombre": "Kiana Madeira",
+            "personaje": "Lena"
+          },
+          {
+            "nombre": "Jessica Rothe",
+            "personaje": "Alli"
+          },
+          {
+            "nombre": "Will Close",
+            "personaje": "Callum"
+          },
+          {
+            "nombre": "Juan Pablo Shuk",
+            "personaje": "Miguel"
+          },
+          {
+            "nombre": "Logan Marshall-Green",
+            "personaje": "Brennan"
+          },
+          {
+            "nombre": "Jaime Newball",
+            "personaje": "Raúl"
+          }
+        ],
+        "generos": [
+          "Terror",
+          "Suspense",
+          "Acción"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Un equipo de médicos se embarca en una misión local en la selva amazónica, pero pronto queda claro que no todo el mundo, ni todo, está contento de verlos. Su repentina aparición llama la atención de un depredador animal, el «Boiúna».",
+        "estreno": "1 oct 2026",
+        "duracion_min": 104,
+        "paises": [
+          "Estados Unidos",
+          "Alemania",
+          "Colombia"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Beware Boiúna"
+      }
+    }
+  ],
+  "cines": [
     {
       "cine": "Movie Time Cajamarca",
       "cine_slug": "movietime-cajamarca-cajamarca-s448",
@@ -991,6 +1022,23 @@
             "16:25",
             "19:00",
             "21:35"
+          ]
+        },
+        {
+          "titulo": "El Gato Con Sombrero",
+          "poster": "",
+          "genero": "Animado",
+          "clasificacion": "7 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "15:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30"
           ]
         },
         {
@@ -1086,6 +1134,104 @@
       "cine_original": "CAJAMARCA - MOVIE TIME"
     },
     {
+      "cine": "CinePlanet Cajamarca Real Plaza",
+      "cine_slug": "cp-cajamarca",
+      "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+      "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+      "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+      "fuente_cine": "Cineplanet",
+      "peliculas": [
+        {
+          "titulo": "Clayface",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003078?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Suspenso",
+          "clasificacion": "+14 DNI",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "21:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:20"
+          ]
+        },
+        {
+          "titulo": "El Gato Con Sombrero",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003089?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Animación",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "20:50"
+              ]
+            }
+          ],
+          "horarios": [
+            "20:50"
+          ]
+        },
+        {
+          "titulo": "El Heladero: Dulce Sabor A Muerte",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003140?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Terror",
+          "clasificacion": "+14 DNI",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "20:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "20:10"
+          ]
+        },
+        {
+          "titulo": "Godzilla Minus Zero",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003060?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "21:40",
+                "22:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:40",
+            "22:30"
+          ]
+        },
+        {
+          "titulo": "Pinocho: Sin Cuerdas",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003099?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Terror",
+          "clasificacion": "+14 DNI",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "22:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "22:10"
+          ]
+        }
+      ],
+      "cine_original": "CP Cajamarca"
+    },
+    {
       "cine": "Cinerama Cajamarca MegaPlaza",
       "cine_slug": "cinerama-cajamarca-megaplaza",
       "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
@@ -1140,12 +1286,128 @@
             "22:30",
             "23:00"
           ]
+        },
+        {
+          "titulo": "El Gato Con Sombrero",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/images2026.jpg",
+          "genero": "Dibujos",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:47",
+          "sinopsis": "Un Astuto Gato Lleva el Caos Con Sus Travesuras a la Vida de un Par de Hermanos Que Lidian Con Su Mudanza a una Nueva Ciudad.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "17:15",
+                "19:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:15",
+            "19:30"
+          ]
+        },
+        {
+          "titulo": "El Heladero: Dulce Sabor A Muerte",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/ice_cream_man-698541952-large.jpg",
+          "genero": "Terror",
+          "clasificacion": "Mayores de 14",
+          "duracion": "01:30",
+          "sinopsis": "Lo Que Comienza Siendo un Verano Idílico, en un Pequeño y Tranquilo Pueblo Vacacional, Se Convierte en una Auténtica Pesadilla Cuando los Más Pequeños Comienzan a Mostrar Instintos Asesinos y Deseos Insaciables Por Acabar Con Todos los Adultos. Son Víctimas de una Curiosa Maldición Provocada Por los Helados Que Comen Que Afecta a Todos, Menos a Tres Niños Que Tendrán Que Intentar Escapar y Salvar ",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:15",
+                "18:15",
+                "20:15",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:15",
+            "18:15",
+            "20:15",
+            "22:00"
+          ]
+        },
+        {
+          "titulo": "Godzilla Minus Zero",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/gojira_mainasu_zero-757830996-large.jpg",
+          "genero": "Accion",
+          "clasificacion": "Mayores de 16",
+          "duracion": "02:15",
+          "sinopsis": "Secuela de 'Godzilla Minus One' (2023). La Guerra Dejó a Japón en la Ruina. Godzilla Lo Hundió Aún Más. Han Pasado Dos Años Desde Entonces y el País Sigue Luchando Por Reconstruirse y Volver, Por Fin, a la Normalidad. Cuando la Humanidad Apenas Empezaba a Recuperar la Paz, una Nueva Amenaza Irrumpe y Hace Añicos Toda Esperanza en un Instante. No Habrá una Tercera Oportunidad. Aquí Termina Todo.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:30",
+                "19:00",
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:30",
+            "19:00",
+            "21:30"
+          ]
+        },
+        {
+          "titulo": "Pinocho: Sin Cuerdas",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/HO00009919.jpg",
+          "genero": "Terror",
+          "clasificacion": "Mayores de 16",
+          "duracion": "01:28",
+          "sinopsis": "Reimaginación Macabra de 'Pinocho' Dentro del Twisted Childhood Universe. Geppetto Presenta a Su Nieto James un Muñeco Mágico Llamado Pinocho, Con el Que Entabla una Amistad. Sin Embargo, Sin Ser Consciente de la Ingenuidad de Pinocho, James Lo Introduce en el Mundo, Lo Que Provoca Que el Muñeco Emprenda una Cruzada Para Eliminar Todo Lo Malo.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:45",
+                "17:30",
+                "19:15",
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:45",
+            "17:30",
+            "19:15",
+            "21:00"
+          ]
+        },
+        {
+          "titulo": "Terror en el Amazonas",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/HO00009733.jpg",
+          "genero": "Terror",
+          "clasificacion": "Mayores de 16",
+          "duracion": "01:44",
+          "sinopsis": "Río Curuçá, Brasil. Cuando un Equipo de Jóvenes Médicos Inicia una Misión Humanitaria Local en un Barco Por la Selva Amazónica, Pronto Queda Claro Que No Todo en la Selva Se Alegra de Verlos. Tras un Repentino y Fatal Accidente, la Expedición Médica Se Ve Obligada a Volver Río Arriba. En un Entorno Ya de Por Sí Hostil, Su Llegada No Deseada También Ha Despertado a un Depredador Primigenio y de Pro",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:45"
+          ]
         }
       ]
     }
   ],
   "estado": "ok",
   "fuentes_extra": [
+    "Cineplanet",
     "Cinerama"
   ]
 }
