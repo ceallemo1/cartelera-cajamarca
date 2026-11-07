@@ -2,8 +2,8 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-11-06 14:16",
-  "fecha_objetivo": "2026-11-06",
+  "actualizado": "2026-11-07 12:43",
+  "fecha_objetivo": "2026-11-07",
   "peliculas": [
     {
       "titulo": "Godzilla Minus Zero",
@@ -42,9 +42,8 @@
               "horarios": [
                 "14:00",
                 "16:50",
-                "18:30",
                 "19:40",
-                "21:40",
+                "20:50",
                 "22:30"
               ]
             }
@@ -52,9 +51,8 @@
           "horarios": [
             "14:00",
             "16:50",
-            "18:30",
             "19:40",
-            "21:40",
+            "20:50",
             "22:30"
           ]
         },
@@ -92,12 +90,12 @@
       "tmdb": {
         "tmdb_id": 1381071,
         "titulo_tmdb": "Godzilla Minus Zero",
-        "voto": 8.0,
-        "votos": 41,
+        "voto": 8.1,
+        "votos": 64,
         "url_tmdb": "https://www.themoviedb.org/movie/1381071",
         "imdb_id": "tt34384661",
         "url_imdb": "https://www.imdb.com/title/tt34384661/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/taoPyKQTXh0FSwO5rin8Djrt20C.jpg",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
         "director": "Takashi Yamazaki",
         "reparto": [
           {
@@ -151,6 +149,12 @@
           "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
             {
+              "formato": "",
+              "horarios": [
+                "13:15"
+              ]
+            },
+            {
               "formato": "Doblada",
               "horarios": [
                 "15:30"
@@ -158,6 +162,7 @@
             }
           ],
           "horarios": [
+            "13:15",
             "15:30"
           ]
         },
@@ -172,16 +177,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:50",
-                "18:20",
-                "20:50"
+                "15:40",
+                "16:40",
+                "18:20"
               ]
             }
           ],
           "horarios": [
-            "15:50",
-            "18:20",
-            "20:50"
+            "15:40",
+            "16:40",
+            "18:20"
           ]
         },
         {
@@ -218,8 +223,8 @@
       "tmdb": {
         "tmdb_id": 1117898,
         "titulo_tmdb": "El gato con sombrero",
-        "voto": 7.1,
-        "votos": 11,
+        "voto": 7.0,
+        "votos": 13,
         "url_tmdb": "https://www.themoviedb.org/movie/1117898",
         "imdb_id": "tt2321555",
         "url_imdb": "https://www.imdb.com/title/tt2321555/",
@@ -306,16 +311,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:10",
-                "18:10",
-                "22:10"
+                "14:40",
+                "21:20"
               ]
             }
           ],
           "horarios": [
-            "14:10",
-            "18:10",
-            "22:10"
+            "14:40",
+            "21:20"
           ]
         },
         {
@@ -354,8 +357,8 @@
       "tmdb": {
         "tmdb_id": 1232569,
         "titulo_tmdb": "Pinocho: Desatado",
-        "voto": 6.5,
-        "votos": 159,
+        "voto": 6.4,
+        "votos": 161,
         "url_tmdb": "https://www.themoviedb.org/movie/1232569",
         "imdb_id": "tt30887701",
         "url_imdb": "https://www.imdb.com/title/tt30887701/",
@@ -437,14 +440,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
-                "21:20"
+                "19:10",
+                "21:30"
               ]
             }
           ],
           "horarios": [
-            "16:00",
-            "21:20"
+            "19:10",
+            "21:30"
           ]
         }
       ],
@@ -462,7 +465,7 @@
         "tmdb_id": 1400940,
         "titulo_tmdb": "Clayface",
         "voto": 7.4,
-        "votos": 397,
+        "votos": 400,
         "url_tmdb": "https://www.themoviedb.org/movie/1400940",
         "imdb_id": "tt34890576",
         "url_imdb": "https://www.imdb.com/title/tt34890576/",
@@ -548,7 +551,7 @@
         "tmdb_id": 791523,
         "titulo_tmdb": "Wildwood: El Bosque Salvaje",
         "voto": 8.5,
-        "votos": 200,
+        "votos": 214,
         "url_tmdb": "https://www.themoviedb.org/movie/791523",
         "imdb_id": "tt2056785",
         "url_imdb": "https://www.imdb.com/title/tt2056785/",
@@ -632,14 +635,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:10",
-                "20:10"
+                "14:10",
+                "21:50"
               ]
             }
           ],
           "horarios": [
-            "16:10",
-            "20:10"
+            "14:10",
+            "21:50"
           ]
         },
         {
@@ -678,8 +681,8 @@
       "tmdb": {
         "tmdb_id": 1477712,
         "titulo_tmdb": "Dulce sabor a muerte",
-        "voto": 5.3,
-        "votos": 303,
+        "voto": 5.4,
+        "votos": 310,
         "url_tmdb": "https://www.themoviedb.org/movie/1477712",
         "imdb_id": "tt36893729",
         "url_imdb": "https://www.imdb.com/title/tt36893729/",
@@ -839,13 +842,13 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:20",
+                "16:10",
                 "19:00"
               ]
             }
           ],
           "horarios": [
-            "16:20",
+            "16:10",
             "19:00"
           ]
         }
@@ -854,7 +857,7 @@
         "tmdb_id": 791523,
         "titulo_tmdb": "Wildwood: El Bosque Salvaje",
         "voto": 8.5,
-        "votos": 199,
+        "votos": 208,
         "url_tmdb": "https://www.themoviedb.org/movie/791523",
         "imdb_id": "tt2056785",
         "url_imdb": "https://www.imdb.com/title/tt2056785/",
@@ -903,6 +906,66 @@
         ],
         "idioma": "Inglés",
         "titulo_original": "Wildwood"
+      }
+    },
+    {
+      "titulo": "Stray Kids World Tour <RUN IT> LIVE VIEWING",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003148?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Concierto",
+      "clasificacion": "+14",
+      "duracion": "195 min",
+      "director": "",
+      "actores": "",
+      "estreno": "",
+      "sinopsis": "Por primera vez, Stray Kids presenta una transmisión especial en vivo de «Stray Kids World Tour » desde el Tokyo Dome en cines de todo el mundo.\r\n\r\nFiel al título de la gira,  refleja el impulso del grupo por adentrarse en mundos más grandes y subir a escenarios más audaces. Los ocho miembros (Bang Chan, Lee Know, Changbin, Hyunjin, HAN, Felix, Seungmin e I.N) desatan una energía imparable a travé",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/shorts/Gu5oJmJMKyc",
+      "fuente_peli": "Cineplanet",
+      "cines": [
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR SUBTITULAD",
+              "horarios": [
+                "13:00",
+                "17:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "13:00",
+            "17:15"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1795555,
+        "titulo_tmdb": "Stray Kids World Tour 'RUN IT' LIVE VIEWING",
+        "voto": null,
+        "votos": 0,
+        "url_tmdb": "https://www.themoviedb.org/movie/1795555",
+        "imdb_id": "tt48391060",
+        "url_imdb": "https://www.imdb.com/title/tt48391060/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/sxtdpz8uVWRbqOZNsWAHXvlBFpU.jpg",
+        "director": "",
+        "reparto": [],
+        "generos": [
+          "Música"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "",
+        "estreno": "7 nov 2026",
+        "duracion_min": null,
+        "paises": [],
+        "idioma": "Coreano",
+        "titulo_original": "Stray Kids World Tour 'RUN IT' LIVE VIEWING"
       }
     },
     {
@@ -1058,7 +1121,7 @@
         "tmdb_id": 1244523,
         "titulo_tmdb": "Boiuna: La leyenda del Amazonas",
         "voto": 6.2,
-        "votos": 35,
+        "votos": 42,
         "url_tmdb": "https://www.themoviedb.org/movie/1244523",
         "imdb_id": "tt10377864",
         "url_imdb": "https://www.imdb.com/title/tt10377864/",
@@ -1143,6 +1206,12 @@
           "clasificacion": "7 Años",
           "formatos": [
             {
+              "formato": "",
+              "horarios": [
+                "13:15"
+              ]
+            },
+            {
               "formato": "Doblada",
               "horarios": [
                 "15:30"
@@ -1150,6 +1219,7 @@
             }
           ],
           "horarios": [
+            "13:15",
             "15:30"
           ]
         },
@@ -1262,14 +1332,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
-                "21:20"
+                "19:10",
+                "21:30"
               ]
             }
           ],
           "horarios": [
-            "16:00",
-            "21:20"
+            "19:10",
+            "21:30"
           ]
         },
         {
@@ -1281,13 +1351,13 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:20",
+                "16:10",
                 "19:00"
               ]
             }
           ],
           "horarios": [
-            "16:20",
+            "16:10",
             "19:00"
           ]
         },
@@ -1300,16 +1370,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:50",
-                "18:20",
-                "20:50"
+                "15:40",
+                "16:40",
+                "18:20"
               ]
             }
           ],
           "horarios": [
-            "15:50",
-            "18:20",
-            "20:50"
+            "15:40",
+            "16:40",
+            "18:20"
           ]
         },
         {
@@ -1321,14 +1391,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:10",
-                "20:10"
+                "14:10",
+                "21:50"
               ]
             }
           ],
           "horarios": [
-            "16:10",
-            "20:10"
+            "14:10",
+            "21:50"
           ]
         },
         {
@@ -1342,9 +1412,8 @@
               "horarios": [
                 "14:00",
                 "16:50",
-                "18:30",
                 "19:40",
-                "21:40",
+                "20:50",
                 "22:30"
               ]
             }
@@ -1352,9 +1421,8 @@
           "horarios": [
             "14:00",
             "16:50",
-            "18:30",
             "19:40",
-            "21:40",
+            "20:50",
             "22:30"
           ]
         },
@@ -1367,16 +1435,33 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:10",
-                "18:10",
-                "22:10"
+                "14:40",
+                "21:20"
               ]
             }
           ],
           "horarios": [
-            "14:10",
-            "18:10",
-            "22:10"
+            "14:40",
+            "21:20"
+          ]
+        },
+        {
+          "titulo": "Stray Kids World Tour <RUN IT> LIVE VIEWING",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003148?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Concierto",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR SUBTITULAD",
+              "horarios": [
+                "13:00",
+                "17:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "13:00",
+            "17:15"
           ]
         }
       ],
