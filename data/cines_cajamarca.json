@@ -2,8 +2,8 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-11-08 12:53",
-  "fecha_objetivo": "2026-11-08",
+  "actualizado": "2026-11-09 17:15",
+  "fecha_objetivo": "2026-11-09",
   "peliculas": [
     {
       "titulo": "Godzilla Minus Zero",
@@ -17,16 +17,16 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "16:25",
-                "19:00",
-                "21:35"
+                "16:30",
+                "19:05",
+                "21:40"
               ]
             }
           ],
           "horarios": [
-            "16:25",
-            "19:00",
-            "21:35"
+            "16:30",
+            "19:05",
+            "21:40"
           ]
         },
         {
@@ -40,8 +40,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:00",
-                "15:30",
                 "16:50",
                 "19:40",
                 "21:40",
@@ -50,8 +48,6 @@
             }
           ],
           "horarios": [
-            "14:00",
-            "15:30",
             "16:50",
             "19:40",
             "21:40",
@@ -92,8 +88,8 @@
       "tmdb": {
         "tmdb_id": 1381071,
         "titulo_tmdb": "Godzilla Minus Zero",
-        "voto": 8.1,
-        "votos": 84,
+        "voto": 7.9,
+        "votos": 114,
         "url_tmdb": "https://www.themoviedb.org/movie/1381071",
         "imdb_id": "tt34384661",
         "url_imdb": "https://www.imdb.com/title/tt34384661/",
@@ -145,29 +141,6 @@
       "titulo": "El Gato Con Sombrero",
       "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003089?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "13:15"
-              ]
-            },
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "15:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "13:15",
-            "15:30"
-          ]
-        },
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
@@ -225,8 +198,8 @@
       "tmdb": {
         "tmdb_id": 1117898,
         "titulo_tmdb": "El gato con sombrero",
-        "voto": 7.1,
-        "votos": 15,
+        "voto": 7.0,
+        "votos": 18,
         "url_tmdb": "https://www.themoviedb.org/movie/1117898",
         "imdb_id": "tt2321555",
         "url_imdb": "https://www.imdb.com/title/tt2321555/",
@@ -292,14 +265,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "19:45",
-                "21:25"
+                "19:00"
               ]
             }
           ],
           "horarios": [
-            "19:45",
-            "21:25"
+            "19:00"
           ]
         },
         {
@@ -313,14 +284,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:10",
                 "18:10",
                 "22:10"
               ]
             }
           ],
           "horarios": [
-            "14:10",
             "18:10",
             "22:10"
           ]
@@ -362,7 +331,7 @@
         "tmdb_id": 1232569,
         "titulo_tmdb": "Pinocho: Desatado",
         "voto": 6.4,
-        "votos": 164,
+        "votos": 166,
         "url_tmdb": "https://www.themoviedb.org/movie/1232569",
         "imdb_id": "tt30887701",
         "url_imdb": "https://www.imdb.com/title/tt30887701/",
@@ -425,12 +394,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "17:45"
+                "20:45"
               ]
             }
           ],
           "horarios": [
-            "17:45"
+            "20:45"
           ]
         },
         {
@@ -444,14 +413,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:20",
                 "19:10",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "14:20",
             "19:10",
             "21:30"
           ]
@@ -471,7 +438,7 @@
         "tmdb_id": 1400940,
         "titulo_tmdb": "Clayface",
         "voto": 7.4,
-        "votos": 404,
+        "votos": 410,
         "url_tmdb": "https://www.themoviedb.org/movie/1400940",
         "imdb_id": "tt34890576",
         "url_imdb": "https://www.imdb.com/title/tt34890576/",
@@ -534,12 +501,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "15:30"
+                "16:30"
               ]
             }
           ],
           "horarios": [
-            "15:30"
+            "16:30"
           ]
         }
       ],
@@ -557,7 +524,7 @@
         "tmdb_id": 791523,
         "titulo_tmdb": "Wildwood: El Bosque Salvaje",
         "voto": 8.5,
-        "votos": 224,
+        "votos": 239,
         "url_tmdb": "https://www.themoviedb.org/movie/791523",
         "imdb_id": "tt2056785",
         "url_imdb": "https://www.imdb.com/title/tt2056785/",
@@ -613,24 +580,6 @@
       "poster": "https://cdn.carteleracine.pe/cine/2026/8/el-heladero-dulce-sabor-a-muerte-47733-0.webp",
       "cines": [
         {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "19:55",
-                "21:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:55",
-            "21:40"
-          ]
-        },
-        {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
           "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
@@ -641,13 +590,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:10",
                 "20:10"
               ]
             }
           ],
           "horarios": [
-            "16:10",
             "20:10"
           ]
         },
@@ -687,8 +634,8 @@
       "tmdb": {
         "tmdb_id": 1477712,
         "titulo_tmdb": "Dulce sabor a muerte",
-        "voto": 5.3,
-        "votos": 314,
+        "voto": 5.4,
+        "votos": 322,
         "url_tmdb": "https://www.themoviedb.org/movie/1477712",
         "imdb_id": "tt36893729",
         "url_imdb": "https://www.imdb.com/title/tt36893729/",
@@ -743,86 +690,6 @@
       }
     },
     {
-      "titulo": "Ekeko",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/8/ekeko-47706-0.webp",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "18:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:00"
-          ]
-        }
-      ],
-      "genero": "Terror",
-      "duracion": "80 minutos",
-      "clasificacion": "12 Años",
-      "director": "Rafael Gutiérrez Sánchez",
-      "actores": "Santiago Magill, Devora Merino, Carlos Casella, Sylvia Majo y Mirella Villalobos",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/ekeko-12234_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Ekeko%20trailer%20espanol",
-      "sinopsis": "Un misterioso Ekeko llega a las vidas de Aníbal, Ofelia y Koko para cumplir sus deseos más profundos. Lo que comienza como una promesa de abundancia pronto se convierte en una pesadilla, revelando que detrás de cada deseo existe un oscuro precio por pagar.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1744855,
-        "titulo_tmdb": "Ekeko: el muñeco de la suerte",
-        "voto": null,
-        "votos": 0,
-        "url_tmdb": "https://www.themoviedb.org/movie/1744855",
-        "imdb_id": "",
-        "url_imdb": "",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/siDehQDrCJMY52LV9mNBBuGGztG.jpg",
-        "director": "Rafael Gutiérrez Sánchez",
-        "reparto": [
-          {
-            "nombre": "Santiago Magill",
-            "personaje": ""
-          },
-          {
-            "nombre": "Carlos Casella",
-            "personaje": ""
-          },
-          {
-            "nombre": "Sylvia Majo",
-            "personaje": ""
-          },
-          {
-            "nombre": "Devora Merino",
-            "personaje": ""
-          },
-          {
-            "nombre": "Mirella Villalobos",
-            "personaje": ""
-          }
-        ],
-        "generos": [
-          "Terror"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=xQOWyUAteu8",
-          "embed_id": "xQOWyUAteu8"
-        },
-        "sinopsis_tmdb": "Un misterioso Ekeko llega a las vidas de Aníbal, Ofelia y Koko para cumplir sus deseos más profundos. Lo que comienza como una promesa de abundancia pronto se convierte en una pesadilla, revelando que detrás de cada deseo existe un oscuro precio por pagar.",
-        "estreno": "22 oct 2026",
-        "duracion_min": 80,
-        "paises": [
-          "Perú"
-        ],
-        "idioma": "Español",
-        "titulo_original": "Ekeko: el muñeco de la suerte"
-      }
-    },
-    {
       "titulo": "El bosque salvaje Wildwood",
       "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003108?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "genero": "Animación",
@@ -863,7 +730,7 @@
         "tmdb_id": 791523,
         "titulo_tmdb": "Wildwood: El Bosque Salvaje",
         "voto": 8.5,
-        "votos": 224,
+        "votos": 239,
         "url_tmdb": "https://www.themoviedb.org/movie/791523",
         "imdb_id": "tt2056785",
         "url_imdb": "https://www.imdb.com/title/tt2056785/",
@@ -1067,7 +934,7 @@
         "tmdb_id": 1244523,
         "titulo_tmdb": "Boiuna: La leyenda del Amazonas",
         "voto": 6.2,
-        "votos": 44,
+        "votos": 46,
         "url_tmdb": "https://www.themoviedb.org/movie/1244523",
         "imdb_id": "tt10377864",
         "url_imdb": "https://www.imdb.com/title/tt10377864/",
@@ -1133,40 +1000,16 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "16:25",
-                "19:00",
-                "21:35"
+                "16:30",
+                "19:05",
+                "21:40"
               ]
             }
           ],
           "horarios": [
-            "16:25",
-            "19:00",
-            "21:35"
-          ]
-        },
-        {
-          "titulo": "El Gato Con Sombrero",
-          "poster": "",
-          "genero": "Animado",
-          "clasificacion": "7 Años",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "13:15"
-              ]
-            },
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "15:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "13:15",
-            "15:30"
+            "16:30",
+            "19:05",
+            "21:40"
           ]
         },
         {
@@ -1178,14 +1021,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "19:45",
-                "21:25"
+                "19:00"
               ]
             }
           ],
           "horarios": [
-            "19:45",
-            "21:25"
+            "19:00"
           ]
         },
         {
@@ -1197,12 +1038,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "17:45"
+                "20:45"
               ]
             }
           ],
           "horarios": [
-            "17:45"
+            "20:45"
           ]
         },
         {
@@ -1214,48 +1055,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "15:30"
+                "16:30"
               ]
             }
           ],
           "horarios": [
-            "15:30"
-          ]
-        },
-        {
-          "titulo": "El Heladero: Dulce Sabor A Muerte",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/el-heladero-dulce-sabor-a-muerte-47733-0.webp",
-          "genero": "Terror",
-          "clasificacion": "18 Años",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "19:55",
-                "21:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:55",
-            "21:40"
-          ]
-        },
-        {
-          "titulo": "Ekeko",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/ekeko-47706-0.webp",
-          "genero": "Terror",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "18:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:00"
+            "16:30"
           ]
         }
       ],
@@ -1278,14 +1083,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:20",
                 "19:10",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "14:20",
             "19:10",
             "21:30"
           ]
@@ -1339,13 +1142,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:10",
                 "20:10"
               ]
             }
           ],
           "horarios": [
-            "16:10",
             "20:10"
           ]
         },
@@ -1358,8 +1159,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:00",
-                "15:30",
                 "16:50",
                 "19:40",
                 "21:40",
@@ -1368,8 +1167,6 @@
             }
           ],
           "horarios": [
-            "14:00",
-            "15:30",
             "16:50",
             "19:40",
             "21:40",
@@ -1385,14 +1182,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:10",
                 "18:10",
                 "22:10"
               ]
             }
           ],
           "horarios": [
-            "14:10",
             "18:10",
             "22:10"
           ]
