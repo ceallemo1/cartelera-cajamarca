@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-11-10 03:19",
+  "actualizado": "2026-11-10 14:38",
   "fecha_objetivo": "2026-11-10",
   "peliculas": [
     {
@@ -57,6 +57,26 @@
             "21:40",
             "22:30"
           ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:30",
+                "19:00",
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:30",
+            "19:00",
+            "21:30"
+          ]
         }
       ],
       "genero": "Acción",
@@ -73,7 +93,7 @@
         "tmdb_id": 1381071,
         "titulo_tmdb": "Godzilla Minus Zero",
         "voto": 8.0,
-        "votos": 124,
+        "votos": 126,
         "url_tmdb": "https://www.themoviedb.org/movie/1381071",
         "imdb_id": "tt34384661",
         "url_imdb": "https://www.imdb.com/title/tt34384661/",
@@ -162,6 +182,26 @@
             "16:40",
             "18:20",
             "20:50"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "17:15",
+                "19:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:15",
+            "19:30"
           ]
         }
       ],
@@ -276,6 +316,28 @@
             "14:10",
             "18:10",
             "22:10"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:45",
+                "17:30",
+                "19:15",
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:45",
+            "17:30",
+            "19:15",
+            "21:00"
           ]
         }
       ],
@@ -402,7 +464,7 @@
         "tmdb_id": 1400940,
         "titulo_tmdb": "Clayface",
         "voto": 7.4,
-        "votos": 413,
+        "votos": 417,
         "url_tmdb": "https://www.themoviedb.org/movie/1400940",
         "imdb_id": "tt34890576",
         "url_imdb": "https://www.imdb.com/title/tt34890576/",
@@ -488,7 +550,7 @@
         "tmdb_id": 791523,
         "titulo_tmdb": "Wildwood: El Bosque Salvaje",
         "voto": 8.5,
-        "votos": 242,
+        "votos": 246,
         "url_tmdb": "https://www.themoviedb.org/movie/791523",
         "imdb_id": "tt2056785",
         "url_imdb": "https://www.imdb.com/title/tt2056785/",
@@ -540,6 +602,93 @@
       }
     },
     {
+      "titulo": "Escuela De Monstruos",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/10/escuela-de-monstruos-47928-0.webp",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "10:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "10:00"
+          ]
+        }
+      ],
+      "genero": "Animado",
+      "duracion": "80 minutos",
+      "clasificacion": "7 Años",
+      "director": "Verena Fels",
+      "actores": "Verena Altenberger, Armin Assinger, Dunja Bernatzky",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/escuela-de-monstruos-12316_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Escuela%20De%20Monstruos%20trailer%20espanol",
+      "sinopsis": "Un inteligente estudiante de secundaria de 15 años es trasladado inesperadamente a un internado donde abre un portal de monstruos de otra dimensión.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 627661,
+        "titulo_tmdb": "Academia Cranston: Escuela de Monstruos",
+        "voto": 6.0,
+        "votos": 110,
+        "url_tmdb": "https://www.themoviedb.org/movie/627661",
+        "imdb_id": "tt8524650",
+        "url_imdb": "https://www.imdb.com/title/tt8524650/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/oEGs9e5O42grRG2boT9BhjEAYT0.jpg",
+        "director": "Leopoldo Aguilar",
+        "reparto": [
+          {
+            "nombre": "Jamie Bell",
+            "personaje": "Danny (Voice)"
+          },
+          {
+            "nombre": "Ruby Rose",
+            "personaje": "Liz (Voice)"
+          },
+          {
+            "nombre": "Idzi Dutkiewicz",
+            "personaje": "Mothman"
+          },
+          {
+            "nombre": "Ellie Piercy",
+            "personaje": "Ms. Evans"
+          },
+          {
+            "nombre": "Terry Mynott",
+            "personaje": "Professor Stern"
+          },
+          {
+            "nombre": "Ryan Samson",
+            "personaje": ""
+          }
+        ],
+        "generos": [
+          "Animación",
+          "Aventura",
+          "Ciencia ficción",
+          "Fantasía",
+          "Terror"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Un inteligente estudiante de secundaria de 15 años es trasladado inesperadamente a un internado donde abre un portal de monstruos de otra dimensión.",
+        "estreno": "29 abr 2020",
+        "duracion_min": 80,
+        "paises": [
+          "México",
+          "Reino Unido",
+          "Canadá"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Cranston Academy: Monster Zone"
+      }
+    },
+    {
       "titulo": "El Heladero: Dulce Sabor A Muerte",
       "poster": "https://cdn.carteleracine.pe/cine/2026/8/el-heladero-dulce-sabor-a-muerte-47733-0.webp",
       "cines": [
@@ -581,6 +730,28 @@
             "16:10",
             "20:10"
           ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:15",
+                "18:15",
+                "20:15",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:15",
+            "18:15",
+            "20:15",
+            "22:00"
+          ]
         }
       ],
       "genero": "Terror",
@@ -597,7 +768,7 @@
         "tmdb_id": 1477712,
         "titulo_tmdb": "Dulce sabor a muerte",
         "voto": 5.3,
-        "votos": 323,
+        "votos": 324,
         "url_tmdb": "https://www.themoviedb.org/movie/1477712",
         "imdb_id": "tt36893729",
         "url_imdb": "https://www.imdb.com/title/tt36893729/",
@@ -772,7 +943,7 @@
         "tmdb_id": 791523,
         "titulo_tmdb": "Wildwood: El Bosque Salvaje",
         "voto": 8.5,
-        "votos": 242,
+        "votos": 246,
         "url_tmdb": "https://www.themoviedb.org/movie/791523",
         "imdb_id": "tt2056785",
         "url_imdb": "https://www.imdb.com/title/tt2056785/",
@@ -821,6 +992,209 @@
         ],
         "idioma": "Inglés",
         "titulo_original": "Wildwood"
+      }
+    },
+    {
+      "titulo": "Avengers: Doomsday(preventa)",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/3d963823a9ed8dd4d81b637127f265bd.jpg",
+      "genero": "Accion",
+      "clasificacion": "Mayores de 14",
+      "duracion": "02:45",
+      "sinopsis": "Héroes Icónicos de Tres Universos Diferentes Se Encuentran en un Curso de Colisión Mortal y Enfrentan una Amenaza Existencial Como Nunca Antes Han Visto.",
+      "director": "Joe Russo, Anthony Russo",
+      "actores": "Robert Downey Jr., Chris Evans, Chris Hemsworth, Pedro Pascal, Paul Rudd, Anthony Mackie",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=gcjnEYJ4OB8",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "14:00",
+                "15:00",
+                "15:30",
+                "16:00",
+                "16:30",
+                "17:00",
+                "18:00",
+                "18:30",
+                "19:00",
+                "19:30",
+                "20:00",
+                "21:00",
+                "21:30",
+                "22:00",
+                "22:30",
+                "23:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:00",
+            "15:00",
+            "15:30",
+            "16:00",
+            "16:30",
+            "17:00",
+            "18:00",
+            "18:30",
+            "19:00",
+            "19:30",
+            "20:00",
+            "21:00",
+            "21:30",
+            "22:00",
+            "22:30",
+            "23:00"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1003596,
+        "titulo_tmdb": "Vengadores: Doomsday",
+        "voto": null,
+        "votos": 0,
+        "url_tmdb": "https://www.themoviedb.org/movie/1003596",
+        "imdb_id": "tt21357150",
+        "url_imdb": "https://www.imdb.com/title/tt21357150/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/7bQczUMnjz8iwxNP9YrmLkfI8od.jpg",
+        "director": "Joe Russo, Anthony Russo",
+        "reparto": [
+          {
+            "nombre": "Robert Downey Jr.",
+            "personaje": "Victor von Doom  / Doctor Doom"
+          },
+          {
+            "nombre": "Chris Evans",
+            "personaje": "Steve Rogers"
+          },
+          {
+            "nombre": "Chris Hemsworth",
+            "personaje": "Thor"
+          },
+          {
+            "nombre": "Pedro Pascal",
+            "personaje": "Reed Richards / Mister Fantastic"
+          },
+          {
+            "nombre": "Paul Rudd",
+            "personaje": "Scott Lang / Ant-Man"
+          },
+          {
+            "nombre": "Anthony Mackie",
+            "personaje": "Sam Wilson / Captain America"
+          }
+        ],
+        "generos": [
+          "Ciencia ficción",
+          "Acción",
+          "Aventura"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=gcjnEYJ4OB8",
+          "embed_id": "gcjnEYJ4OB8"
+        },
+        "sinopsis_tmdb": "Quinta entrega de la saga 'Vengadores' incluida en el Universo Cinematográfico Marvel (UCM). Sinopsis desconocido.",
+        "estreno": "16 dic 2026",
+        "duracion_min": 165,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Avengers: Doomsday"
+      }
+    },
+    {
+      "titulo": "Terror en el Amazonas",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/HO00009733.jpg",
+      "genero": "Terror",
+      "clasificacion": "Mayores de 16",
+      "duracion": "01:44",
+      "sinopsis": "Río Curuçá, Brasil. Cuando un Equipo de Jóvenes Médicos Inicia una Misión Humanitaria Local en un Barco Por la Selva Amazónica, Pronto Queda Claro Que No Todo en la Selva Se Alegra de Verlos. Tras un Repentino y Fatal Accidente, la Expedición Médica Se Ve Obligada a Volver Río Arriba. En un Entorno Ya de Por Sí Hostil, Su Llegada No Deseada También Ha Despertado a un Depredador Primigenio y de Pro",
+      "director": "Mike P. Nelson",
+      "actores": "Kiana Madeira, Jessica Rothe, Will Close, Juan Pablo Shuk, Logan Marshall-Green, Jaime Newball",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:45"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1244523,
+        "titulo_tmdb": "Boiuna: La leyenda del Amazonas",
+        "voto": 6.2,
+        "votos": 48,
+        "url_tmdb": "https://www.themoviedb.org/movie/1244523",
+        "imdb_id": "tt10377864",
+        "url_imdb": "https://www.imdb.com/title/tt10377864/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/hClFn5adaXOgmxrZyxixoKiBHEZ.jpg",
+        "director": "Mike P. Nelson",
+        "reparto": [
+          {
+            "nombre": "Kiana Madeira",
+            "personaje": "Lena"
+          },
+          {
+            "nombre": "Jessica Rothe",
+            "personaje": "Alli"
+          },
+          {
+            "nombre": "Will Close",
+            "personaje": "Callum"
+          },
+          {
+            "nombre": "Juan Pablo Shuk",
+            "personaje": "Miguel"
+          },
+          {
+            "nombre": "Logan Marshall-Green",
+            "personaje": "Brennan"
+          },
+          {
+            "nombre": "Jaime Newball",
+            "personaje": "Raúl"
+          }
+        ],
+        "generos": [
+          "Terror",
+          "Suspense",
+          "Acción"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Un equipo de médicos se embarca en una misión local en la selva amazónica, pero pronto queda claro que no todo el mundo, ni todo, está contento de verlos. Su repentina aparición llama la atención de un depredador animal, el «Boiúna».",
+        "estreno": "1 oct 2026",
+        "duracion_min": 104,
+        "paises": [
+          "Estados Unidos",
+          "Alemania",
+          "Colombia"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Beware Boiúna"
       }
     }
   ],
@@ -919,6 +1293,23 @@
           ],
           "horarios": [
             "15:30"
+          ]
+        },
+        {
+          "titulo": "Escuela De Monstruos",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/10/escuela-de-monstruos-47928-0.webp",
+          "genero": "Animado",
+          "clasificacion": "7 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "10:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "10:00"
           ]
         },
         {
@@ -1101,21 +1492,181 @@
     },
     {
       "cine": "Cinerama Cajamarca MegaPlaza",
-      "cine_slug": "cinerama-cajamarca-megaplaza-cajamarca-s471",
-      "direccion": "",
-      "peliculas": [],
-      "sin_programacion": true,
-      "nota": "No se pudo consultar su cartelera. Suele tener funciones a diario.",
-      "no_consultado": true,
+      "cine_slug": "cinerama-cajamarca-megaplaza",
+      "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
       "url": "https://www.cinerama.com.pe/cines",
-      "cine_original": "Cajamarca Megaplaza (Cinerama)"
+      "fuente_cine": "Cinerama",
+      "peliculas": [
+        {
+          "titulo": "Avengers: Doomsday(preventa)",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/3d963823a9ed8dd4d81b637127f265bd.jpg",
+          "genero": "Accion",
+          "clasificacion": "Mayores de 14",
+          "duracion": "02:45",
+          "sinopsis": "Héroes Icónicos de Tres Universos Diferentes Se Encuentran en un Curso de Colisión Mortal y Enfrentan una Amenaza Existencial Como Nunca Antes Han Visto.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "14:00",
+                "15:00",
+                "15:30",
+                "16:00",
+                "16:30",
+                "17:00",
+                "18:00",
+                "18:30",
+                "19:00",
+                "19:30",
+                "20:00",
+                "21:00",
+                "21:30",
+                "22:00",
+                "22:30",
+                "23:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:00",
+            "15:00",
+            "15:30",
+            "16:00",
+            "16:30",
+            "17:00",
+            "18:00",
+            "18:30",
+            "19:00",
+            "19:30",
+            "20:00",
+            "21:00",
+            "21:30",
+            "22:00",
+            "22:30",
+            "23:00"
+          ]
+        },
+        {
+          "titulo": "El Gato Con Sombrero",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/images2026.jpg",
+          "genero": "Dibujos",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:47",
+          "sinopsis": "Un Astuto Gato Lleva el Caos Con Sus Travesuras a la Vida de un Par de Hermanos Que Lidian Con Su Mudanza a una Nueva Ciudad.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "17:15",
+                "19:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "17:15",
+            "19:30"
+          ]
+        },
+        {
+          "titulo": "El Heladero: Dulce Sabor A Muerte",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/ice_cream_man-698541952-large.jpg",
+          "genero": "Terror",
+          "clasificacion": "Mayores de 14",
+          "duracion": "01:30",
+          "sinopsis": "Lo Que Comienza Siendo un Verano Idílico, en un Pequeño y Tranquilo Pueblo Vacacional, Se Convierte en una Auténtica Pesadilla Cuando los Más Pequeños Comienzan a Mostrar Instintos Asesinos y Deseos Insaciables Por Acabar Con Todos los Adultos. Son Víctimas de una Curiosa Maldición Provocada Por los Helados Que Comen Que Afecta a Todos, Menos a Tres Niños Que Tendrán Que Intentar Escapar y Salvar ",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:15",
+                "18:15",
+                "20:15",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:15",
+            "18:15",
+            "20:15",
+            "22:00"
+          ]
+        },
+        {
+          "titulo": "Godzilla Minus Zero",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/gojira_mainasu_zero-757830996-large.jpg",
+          "genero": "Accion",
+          "clasificacion": "Mayores de 16",
+          "duracion": "02:15",
+          "sinopsis": "Secuela de 'Godzilla Minus One' (2023). La Guerra Dejó a Japón en la Ruina. Godzilla Lo Hundió Aún Más. Han Pasado Dos Años Desde Entonces y el País Sigue Luchando Por Reconstruirse y Volver, Por Fin, a la Normalidad. Cuando la Humanidad Apenas Empezaba a Recuperar la Paz, una Nueva Amenaza Irrumpe y Hace Añicos Toda Esperanza en un Instante. No Habrá una Tercera Oportunidad. Aquí Termina Todo.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:30",
+                "19:00",
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:30",
+            "19:00",
+            "21:30"
+          ]
+        },
+        {
+          "titulo": "Pinocho: Sin Cuerdas",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/HO00009919.jpg",
+          "genero": "Terror",
+          "clasificacion": "Mayores de 16",
+          "duracion": "01:28",
+          "sinopsis": "Reimaginación Macabra de 'Pinocho' Dentro del Twisted Childhood Universe. Geppetto Presenta a Su Nieto James un Muñeco Mágico Llamado Pinocho, Con el Que Entabla una Amistad. Sin Embargo, Sin Ser Consciente de la Ingenuidad de Pinocho, James Lo Introduce en el Mundo, Lo Que Provoca Que el Muñeco Emprenda una Cruzada Para Eliminar Todo Lo Malo.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:45",
+                "17:30",
+                "19:15",
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:45",
+            "17:30",
+            "19:15",
+            "21:00"
+          ]
+        },
+        {
+          "titulo": "Terror en el Amazonas",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/HO00009733.jpg",
+          "genero": "Terror",
+          "clasificacion": "Mayores de 16",
+          "duracion": "01:44",
+          "sinopsis": "Río Curuçá, Brasil. Cuando un Equipo de Jóvenes Médicos Inicia una Misión Humanitaria Local en un Barco Por la Selva Amazónica, Pronto Queda Claro Que No Todo en la Selva Se Alegra de Verlos. Tras un Repentino y Fatal Accidente, la Expedición Médica Se Ve Obligada a Volver Río Arriba. En un Entorno Ya de Por Sí Hostil, Su Llegada No Deseada También Ha Despertado a un Depredador Primigenio y de Pro",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:45"
+          ]
+        }
+      ]
     }
   ],
   "estado": "ok",
   "fuentes_extra": [
-    "Cineplanet"
-  ],
-  "notas": [
-    "Cinerama: NO_CONSULTADO: HTTPError: HTTP Error 500: Internal Server Error"
+    "Cineplanet",
+    "Cinerama"
   ]
 }
