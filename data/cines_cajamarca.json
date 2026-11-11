@@ -2,8 +2,8 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-11-10 14:38",
-  "fecha_objetivo": "2026-11-10",
+  "actualizado": "2026-11-11 14:31",
+  "fecha_objetivo": "2026-11-11",
   "peliculas": [
     {
       "titulo": "Godzilla Minus Zero",
@@ -17,16 +17,16 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "16:25",
-                "19:00",
-                "21:35"
+                "16:30",
+                "19:05",
+                "21:40"
               ]
             }
           ],
           "horarios": [
-            "16:25",
-            "19:00",
-            "21:35"
+            "16:30",
+            "19:05",
+            "21:40"
           ]
         },
         {
@@ -92,8 +92,8 @@
       "tmdb": {
         "tmdb_id": 1381071,
         "titulo_tmdb": "Godzilla Minus Zero",
-        "voto": 8.0,
-        "votos": 126,
+        "voto": 7.8,
+        "votos": 148,
         "url_tmdb": "https://www.themoviedb.org/movie/1381071",
         "imdb_id": "tt34384661",
         "url_imdb": "https://www.imdb.com/title/tt34384661/",
@@ -145,22 +145,6 @@
       "titulo": "El Gato Con Sombrero",
       "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003089?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "15:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30"
-          ]
-        },
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
@@ -218,8 +202,8 @@
       "tmdb": {
         "tmdb_id": 1117898,
         "titulo_tmdb": "El gato con sombrero",
-        "voto": 7.0,
-        "votos": 18,
+        "voto": 7.3,
+        "votos": 21,
         "url_tmdb": "https://www.themoviedb.org/movie/1117898",
         "imdb_id": "tt2321555",
         "url_imdb": "https://www.imdb.com/title/tt2321555/",
@@ -285,14 +269,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "19:45",
-                "21:25"
+                "19:00"
               ]
             }
           ],
           "horarios": [
-            "19:45",
-            "21:25"
+            "19:00"
           ]
         },
         {
@@ -418,12 +400,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "17:45"
+                "20:45"
               ]
             }
           ],
           "horarios": [
-            "17:45"
+            "20:45"
           ]
         },
         {
@@ -464,7 +446,7 @@
         "tmdb_id": 1400940,
         "titulo_tmdb": "Clayface",
         "voto": 7.4,
-        "votos": 417,
+        "votos": 427,
         "url_tmdb": "https://www.themoviedb.org/movie/1400940",
         "imdb_id": "tt34890576",
         "url_imdb": "https://www.imdb.com/title/tt34890576/",
@@ -527,12 +509,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "15:30"
+                "16:30"
               ]
             }
           ],
           "horarios": [
-            "15:30"
+            "16:30"
           ]
         }
       ],
@@ -550,7 +532,7 @@
         "tmdb_id": 791523,
         "titulo_tmdb": "Wildwood: El Bosque Salvaje",
         "voto": 8.5,
-        "votos": 246,
+        "votos": 252,
         "url_tmdb": "https://www.themoviedb.org/movie/791523",
         "imdb_id": "tt2056785",
         "url_imdb": "https://www.imdb.com/title/tt2056785/",
@@ -602,114 +584,9 @@
       }
     },
     {
-      "titulo": "Escuela De Monstruos",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/10/escuela-de-monstruos-47928-0.webp",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "10:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "10:00"
-          ]
-        }
-      ],
-      "genero": "Animado",
-      "duracion": "80 minutos",
-      "clasificacion": "7 Años",
-      "director": "Verena Fels",
-      "actores": "Verena Altenberger, Armin Assinger, Dunja Bernatzky",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/escuela-de-monstruos-12316_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Escuela%20De%20Monstruos%20trailer%20espanol",
-      "sinopsis": "Un inteligente estudiante de secundaria de 15 años es trasladado inesperadamente a un internado donde abre un portal de monstruos de otra dimensión.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 627661,
-        "titulo_tmdb": "Academia Cranston: Escuela de Monstruos",
-        "voto": 6.0,
-        "votos": 110,
-        "url_tmdb": "https://www.themoviedb.org/movie/627661",
-        "imdb_id": "tt8524650",
-        "url_imdb": "https://www.imdb.com/title/tt8524650/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/oEGs9e5O42grRG2boT9BhjEAYT0.jpg",
-        "director": "Leopoldo Aguilar",
-        "reparto": [
-          {
-            "nombre": "Jamie Bell",
-            "personaje": "Danny (Voice)"
-          },
-          {
-            "nombre": "Ruby Rose",
-            "personaje": "Liz (Voice)"
-          },
-          {
-            "nombre": "Idzi Dutkiewicz",
-            "personaje": "Mothman"
-          },
-          {
-            "nombre": "Ellie Piercy",
-            "personaje": "Ms. Evans"
-          },
-          {
-            "nombre": "Terry Mynott",
-            "personaje": "Professor Stern"
-          },
-          {
-            "nombre": "Ryan Samson",
-            "personaje": ""
-          }
-        ],
-        "generos": [
-          "Animación",
-          "Aventura",
-          "Ciencia ficción",
-          "Fantasía",
-          "Terror"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Un inteligente estudiante de secundaria de 15 años es trasladado inesperadamente a un internado donde abre un portal de monstruos de otra dimensión.",
-        "estreno": "29 abr 2020",
-        "duracion_min": 80,
-        "paises": [
-          "México",
-          "Reino Unido",
-          "Canadá"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Cranston Academy: Monster Zone"
-      }
-    },
-    {
       "titulo": "El Heladero: Dulce Sabor A Muerte",
       "poster": "https://cdn.carteleracine.pe/cine/2026/8/el-heladero-dulce-sabor-a-muerte-47733-0.webp",
       "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "19:55",
-                "21:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:55",
-            "21:40"
-          ]
-        },
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
@@ -768,7 +645,7 @@
         "tmdb_id": 1477712,
         "titulo_tmdb": "Dulce sabor a muerte",
         "voto": 5.3,
-        "votos": 324,
+        "votos": 327,
         "url_tmdb": "https://www.themoviedb.org/movie/1477712",
         "imdb_id": "tt36893729",
         "url_imdb": "https://www.imdb.com/title/tt36893729/",
@@ -823,86 +700,6 @@
       }
     },
     {
-      "titulo": "Ekeko",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/8/ekeko-47706-0.webp",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "18:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:00"
-          ]
-        }
-      ],
-      "genero": "Terror",
-      "duracion": "80 minutos",
-      "clasificacion": "12 Años",
-      "director": "Rafael Gutiérrez Sánchez",
-      "actores": "Santiago Magill, Devora Merino, Carlos Casella, Sylvia Majo y Mirella Villalobos",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/ekeko-12234_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Ekeko%20trailer%20espanol",
-      "sinopsis": "Un misterioso Ekeko llega a las vidas de Aníbal, Ofelia y Koko para cumplir sus deseos más profundos. Lo que comienza como una promesa de abundancia pronto se convierte en una pesadilla, revelando que detrás de cada deseo existe un oscuro precio por pagar.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1744855,
-        "titulo_tmdb": "Ekeko: el muñeco de la suerte",
-        "voto": null,
-        "votos": 0,
-        "url_tmdb": "https://www.themoviedb.org/movie/1744855",
-        "imdb_id": "",
-        "url_imdb": "",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/siDehQDrCJMY52LV9mNBBuGGztG.jpg",
-        "director": "Rafael Gutiérrez Sánchez",
-        "reparto": [
-          {
-            "nombre": "Santiago Magill",
-            "personaje": ""
-          },
-          {
-            "nombre": "Carlos Casella",
-            "personaje": ""
-          },
-          {
-            "nombre": "Sylvia Majo",
-            "personaje": ""
-          },
-          {
-            "nombre": "Devora Merino",
-            "personaje": ""
-          },
-          {
-            "nombre": "Mirella Villalobos",
-            "personaje": ""
-          }
-        ],
-        "generos": [
-          "Terror"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=xQOWyUAteu8",
-          "embed_id": "xQOWyUAteu8"
-        },
-        "sinopsis_tmdb": "Un misterioso Ekeko llega a las vidas de Aníbal, Ofelia y Koko para cumplir sus deseos más profundos. Lo que comienza como una promesa de abundancia pronto se convierte en una pesadilla, revelando que detrás de cada deseo existe un oscuro precio por pagar.",
-        "estreno": "22 oct 2026",
-        "duracion_min": 80,
-        "paises": [
-          "Perú"
-        ],
-        "idioma": "Español",
-        "titulo_original": "Ekeko: el muñeco de la suerte"
-      }
-    },
-    {
       "titulo": "El bosque salvaje Wildwood",
       "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003108?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "genero": "Animación",
@@ -943,7 +740,7 @@
         "tmdb_id": 791523,
         "titulo_tmdb": "Wildwood: El Bosque Salvaje",
         "voto": 8.5,
-        "votos": 246,
+        "votos": 252,
         "url_tmdb": "https://www.themoviedb.org/movie/791523",
         "imdb_id": "tt2056785",
         "url_imdb": "https://www.imdb.com/title/tt2056785/",
@@ -1147,7 +944,7 @@
         "tmdb_id": 1244523,
         "titulo_tmdb": "Boiuna: La leyenda del Amazonas",
         "voto": 6.2,
-        "votos": 48,
+        "votos": 50,
         "url_tmdb": "https://www.themoviedb.org/movie/1244523",
         "imdb_id": "tt10377864",
         "url_imdb": "https://www.imdb.com/title/tt10377864/",
@@ -1213,33 +1010,16 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "16:25",
-                "19:00",
-                "21:35"
+                "16:30",
+                "19:05",
+                "21:40"
               ]
             }
           ],
           "horarios": [
-            "16:25",
-            "19:00",
-            "21:35"
-          ]
-        },
-        {
-          "titulo": "El Gato Con Sombrero",
-          "poster": "",
-          "genero": "Animado",
-          "clasificacion": "7 Años",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "15:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30"
+            "16:30",
+            "19:05",
+            "21:40"
           ]
         },
         {
@@ -1251,14 +1031,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "19:45",
-                "21:25"
+                "19:00"
               ]
             }
           ],
           "horarios": [
-            "19:45",
-            "21:25"
+            "19:00"
           ]
         },
         {
@@ -1270,12 +1048,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "17:45"
+                "20:45"
               ]
             }
           ],
           "horarios": [
-            "17:45"
+            "20:45"
           ]
         },
         {
@@ -1287,65 +1065,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "15:30"
+                "16:30"
               ]
             }
           ],
           "horarios": [
-            "15:30"
-          ]
-        },
-        {
-          "titulo": "Escuela De Monstruos",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/10/escuela-de-monstruos-47928-0.webp",
-          "genero": "Animado",
-          "clasificacion": "7 Años",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "10:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "10:00"
-          ]
-        },
-        {
-          "titulo": "El Heladero: Dulce Sabor A Muerte",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/el-heladero-dulce-sabor-a-muerte-47733-0.webp",
-          "genero": "Terror",
-          "clasificacion": "18 Años",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "19:55",
-                "21:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:55",
-            "21:40"
-          ]
-        },
-        {
-          "titulo": "Ekeko",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/8/ekeko-47706-0.webp",
-          "genero": "Terror",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "18:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:00"
+            "16:30"
           ]
         }
       ],
