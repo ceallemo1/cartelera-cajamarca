@@ -2,12 +2,12 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-11-11 14:31",
-  "fecha_objetivo": "2026-11-11",
+  "actualizado": "2026-11-12 14:49",
+  "fecha_objetivo": "2026-11-12",
   "peliculas": [
     {
-      "titulo": "Godzilla Minus Zero",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003060?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "titulo": "Ebenezer",
+      "poster": "",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
@@ -17,16 +17,104 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "16:30",
-                "19:05",
-                "21:40"
+                "17:15",
+                "19:30"
               ]
             }
           ],
           "horarios": [
-            "16:30",
-            "19:05",
-            "21:40"
+            "17:15",
+            "19:30"
+          ]
+        }
+      ],
+      "genero": "Comedia",
+      "duracion": "115 minutos",
+      "clasificacion": "7 Años",
+      "director": "Ti West",
+      "actores": "Johnny Depp, Rupert Grint, Daisy Ridley, Tramell Tillman, Ian McKellen, Andrea Riseborough",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/ebenezer-12371_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Ebenezer%20trailer%20espanol",
+      "sinopsis": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1567605,
+        "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
+        "voto": 8.3,
+        "votos": 20,
+        "url_tmdb": "https://www.themoviedb.org/movie/1567605",
+        "imdb_id": "tt38773219",
+        "url_imdb": "https://www.imdb.com/title/tt38773219/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+        "director": "Ti West",
+        "reparto": [
+          {
+            "nombre": "Johnny Depp",
+            "personaje": "Ebenezer Scrooge"
+          },
+          {
+            "nombre": "Rupert Grint",
+            "personaje": "Bob Cratchit"
+          },
+          {
+            "nombre": "Daisy Ridley",
+            "personaje": "Emily Cratchit"
+          },
+          {
+            "nombre": "Tramell Tillman",
+            "personaje": "Ghost of Christmas Present"
+          },
+          {
+            "nombre": "Ian McKellen",
+            "personaje": "Jacob Marley"
+          },
+          {
+            "nombre": "Andrea Riseborough",
+            "personaje": "Ghost of Christmas Past"
+          }
+        ],
+        "generos": [
+          "Fantasía",
+          "Comedia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=H8awcDUhl84",
+          "embed_id": "H8awcDUhl84"
+        },
+        "sinopsis_tmdb": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
+        "estreno": "11 nov 2026",
+        "duracion_min": 115,
+        "paises": [
+          "Estados Unidos",
+          "Reino Unido"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Ebenezer"
+      }
+    },
+    {
+      "titulo": "La Gran Sangre: Ojo X Ojo",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003061?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:35",
+                "19:00",
+                "21:25"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:35",
+            "19:00",
+            "21:25"
           ]
         },
         {
@@ -40,22 +128,218 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:00",
-                "15:30",
-                "16:50",
-                "19:40",
-                "21:40",
+                "14:30",
+                "16:10",
+                "17:10",
+                "18:50",
+                "19:50",
+                "21:30",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "14:00",
-            "15:30",
-            "16:50",
-            "19:40",
-            "21:40",
+            "14:30",
+            "16:10",
+            "17:10",
+            "18:50",
+            "19:50",
+            "21:30",
             "22:30"
+          ]
+        }
+      ],
+      "genero": "Acción",
+      "duracion": "126 minutos",
+      "clasificacion": "12 Años",
+      "director": "Jorge Carmona",
+      "actores": "Carlos Alcántara, Aldo Miyashiro, Pietro Sibille, Lucho Cáceres, Joel Ezeta, Pablo Saldarriaga, Milett Figueroa, Salvador del Solar, Gabriela Velásquez, Julián ",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/la-gran-sangre-ojo-x-ojo-12369_252",
+      "trailer_url": "https://www.youtube.com/watch?v=LyyQMZ3KxTE",
+      "sinopsis": "La legendaria banda “La Gran Sangre” debe activar su violenta justicia al margen de la ley para desmantelas la red de sicariato y extorsión que ha puesto a Lima bajo un perpetuo estado de miedo. El expolicía Dragón (Carlos Alcántara), Mandril (Pietro Sibille) y Tony Blades (Aldo Miyashiro) salen de la cárcel y encuentran una Lima sumida en la crisis de seguridad: el crimen organizado, la extorsión",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1747585,
+        "titulo_tmdb": "La Gran Sangre: ojo x ojo",
+        "voto": null,
+        "votos": 0,
+        "url_tmdb": "https://www.themoviedb.org/movie/1747585",
+        "imdb_id": "",
+        "url_imdb": "",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/23HthTIgBSXV2lYpXMHt6bvNwRt.jpg",
+        "director": "Jorge Carmona",
+        "reparto": [
+          {
+            "nombre": "Carlos Alcántara",
+            "personaje": "El Dragón"
+          },
+          {
+            "nombre": "Aldo Miyashiro",
+            "personaje": "Tony Blades"
+          },
+          {
+            "nombre": "Pietro Sibille",
+            "personaje": "Mandril"
+          },
+          {
+            "nombre": "Lucho Cáceres",
+            "personaje": "Cobra"
+          },
+          {
+            "nombre": "Salvador del Solar",
+            "personaje": ""
+          },
+          {
+            "nombre": "Milett Figueroa",
+            "personaje": "Maria"
+          }
+        ],
+        "generos": [
+          "Acción",
+          "Comedia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=8YKQiSOswJs",
+          "embed_id": "8YKQiSOswJs"
+        },
+        "sinopsis_tmdb": "La legendaria banda “La Gran Sangre” debe activar su violenta justicia al margen de la ley para desmantelar las redes criminales que han puesto a Lima bajo un perpetuo estado de miedo. El expolicía Dragón (Carlos Alcántara), Mandril (Pietro Sibille) y Tony Blades (Aldo Miyashiro) salen de la cárcel y encuentran una Lima sumida en la crisis de seguridad: el crimen organizado, la extorsión y el sicariato han colapsado la fe en las instituciones. Con la policía superada y la justicia secuestrada, el trío de justicieros debe reformar su Pacto de Sangre y convertirse en la única esperanza radical para una sociedad que exige castigo. Su misión: la Justicia de Sangre contra los nuevos amos del terror en la capital.",
+        "estreno": "12 nov 2026",
+        "duracion_min": 100,
+        "paises": [
+          "Perú"
+        ],
+        "idioma": "Español",
+        "titulo_original": "La Gran Sangre: ojo x ojo"
+      }
+    },
+    {
+      "titulo": "Monstruo Infernal",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/11/monstruo-infernal-48068-1.jpg",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "17:05"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:05"
+          ]
+        }
+      ],
+      "genero": "Terror",
+      "duracion": "95 minutos",
+      "clasificacion": "12 Años",
+      "director": "Chalit Krileadmongkon, Pakphum Wonjinda",
+      "actores": "Joaquín Cordero, Armando Calvo, Rosa de Castilla, Irma Dorantes, Andrés Soler, Pedro de Aguillón García",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/monstruo-infernal-12373_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Monstruo%20Infernal%20trailer%20espanol",
+      "sinopsis": "Esta joya escrita por Carlos Enrique Taboda en conjunto con Alfredo Ruanova fue hecha como un conjunto de cortometrajes (debido a problemas con el sindicato) y consta de 4 episodios.  El criminal Jaime Rojas es dado de alta de prision quien mas tarde ayuda a su compañero de celda el Dr. Frankenstein a escapar. El cientifico ha creado una criatura llamada \"Orlak\", la cual necesita sangre humana para funcionar. En honor a la ayuda que Jaime le brindo, el Dr. Frankenstein crea a Orlak a semejanza de su amigo. Jaime comienza a utilizar al monstruo para vengarse de sus enemigos...",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 3413,
+        "titulo_tmdb": "Orlak, el infierno de Frankenstein",
+        "voto": 7.1,
+        "votos": 13,
+        "url_tmdb": "https://www.themoviedb.org/movie/3413",
+        "imdb_id": "tt0054148",
+        "url_imdb": "https://www.imdb.com/title/tt0054148/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/2nYgaEAxYGiYnIZKuTpTikN5H5a.jpg",
+        "director": "Rafael Baledón",
+        "reparto": [
+          {
+            "nombre": "Joaquín Cordero",
+            "personaje": "Jaime Rojas / Orlak"
+          },
+          {
+            "nombre": "Armando Calvo",
+            "personaje": "Insp. Santos"
+          },
+          {
+            "nombre": "Rosa de Castilla",
+            "personaje": "Estela"
+          },
+          {
+            "nombre": "Irma Dorantes",
+            "personaje": "Elvira Davalos"
+          },
+          {
+            "nombre": "Andrés Soler",
+            "personaje": "Prof. Frankenstein"
+          },
+          {
+            "nombre": "Pedro de Aguillón García",
+            "personaje": "Det. Vidal"
+          }
+        ],
+        "generos": [
+          "Terror",
+          "Ciencia ficción"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Esta joya escrita por Carlos Enrique Taboda en conjunto con Alfredo Ruanova fue hecha como un conjunto de cortometrajes (debido a problemas con el sindicato) y consta de 4 episodios.  El criminal Jaime Rojas es dado de alta de prision quien mas tarde ayuda a su compañero de celda el Dr. Frankenstein a escapar. El cientifico ha creado una criatura llamada \"Orlak\", la cual necesita sangre humana para funcionar. En honor a la ayuda que Jaime le brindo, el Dr. Frankenstein crea a Orlak a semejanza de su amigo. Jaime comienza a utilizar al monstruo para vengarse de sus enemigos...",
+        "estreno": "8 dic 1960",
+        "duracion_min": 103,
+        "paises": [
+          "México"
+        ],
+        "idioma": "Español",
+        "titulo_original": "Orlak, el infierno de Frankenstein"
+      }
+    },
+    {
+      "titulo": "Godzilla Minus Zero",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/10/godzilla-minus-zero-47908-0.webp",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "19:00",
+                "21:35"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:00",
+            "21:35"
+          ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:20",
+                "19:10",
+                "21:00",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:20",
+            "19:10",
+            "21:00",
+            "22:00"
           ]
         },
         {
@@ -66,16 +350,16 @@
             {
               "formato": "",
               "horarios": [
-                "16:30",
-                "19:00",
-                "21:30"
+                "15:30",
+                "18:00",
+                "20:30"
               ]
             }
           ],
           "horarios": [
-            "16:30",
-            "19:00",
-            "21:30"
+            "15:30",
+            "18:00",
+            "20:30"
           ]
         }
       ],
@@ -93,7 +377,7 @@
         "tmdb_id": 1381071,
         "titulo_tmdb": "Godzilla Minus Zero",
         "voto": 7.8,
-        "votos": 148,
+        "votos": 157,
         "url_tmdb": "https://www.themoviedb.org/movie/1381071",
         "imdb_id": "tt34384661",
         "url_imdb": "https://www.imdb.com/title/tt34384661/",
@@ -102,27 +386,27 @@
         "reparto": [
           {
             "nombre": "Ryunosuke Kamiki",
-            "personaje": "Koichi Shikishima"
+            "personaje": "Kōichi Shikishima"
           },
           {
             "nombre": "浜辺美波",
             "personaje": "Noriko Shikishima"
           },
           {
+            "nombre": "田中泯",
+            "personaje": "Kanji Murakami"
+          },
+          {
+            "nombre": "吉岡秀隆",
+            "personaje": "Kenji Noda"
+          },
+          {
+            "nombre": "Masami Nagasawa",
+            "personaje": "Makoto Aoyama"
+          },
+          {
             "nombre": "山田裕貴",
             "personaje": "Shiro Mizushima"
-          },
-          {
-            "nombre": "Kuranosuke Sasaki",
-            "personaje": "Seiji Akitsu"
-          },
-          {
-            "nombre": "Jun Kunimura",
-            "personaje": "Dr. Ogata"
-          },
-          {
-            "nombre": "Mio Tanaka",
-            "personaje": "Captain Tatsuo Hotta"
           }
         ],
         "generos": [
@@ -143,8 +427,24 @@
     },
     {
       "titulo": "El Gato Con Sombrero",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003089?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/10/el-gato-con-sombrero-48034-0.webp",
       "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "15:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00"
+          ]
+        },
         {
           "cine": "CinePlanet Cajamarca Real Plaza",
           "cine_slug": "cp-cajamarca",
@@ -156,16 +456,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:40",
-                "18:20",
-                "20:50"
+                "16:00",
+                "18:30"
               ]
             }
           ],
           "horarios": [
-            "16:40",
-            "18:20",
-            "20:50"
+            "16:00",
+            "18:30"
           ]
         },
         {
@@ -177,15 +475,13 @@
               "formato": "",
               "horarios": [
                 "15:00",
-                "17:15",
-                "19:30"
+                "17:15"
               ]
             }
           ],
           "horarios": [
             "15:00",
-            "17:15",
-            "19:30"
+            "17:15"
           ]
         }
       ],
@@ -202,8 +498,8 @@
       "tmdb": {
         "tmdb_id": 1117898,
         "titulo_tmdb": "El gato con sombrero",
-        "voto": 7.3,
-        "votos": 21,
+        "voto": 7.2,
+        "votos": 22,
         "url_tmdb": "https://www.themoviedb.org/movie/1117898",
         "imdb_id": "tt2321555",
         "url_imdb": "https://www.imdb.com/title/tt2321555/",
@@ -259,7 +555,7 @@
     },
     {
       "titulo": "Pinocho: Sin Cuerdas",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/11/pinocho-sin-cuerdas-48040-1.jpg",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/11/pinocho-sin-cuerdas-48040-0.webp",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
@@ -269,57 +565,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "19:00"
+                "21:45"
               ]
             }
           ],
           "horarios": [
-            "19:00"
-          ]
-        },
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "14:10",
-                "18:10",
-                "22:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:10",
-            "18:10",
-            "22:10"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:45",
-                "17:30",
-                "19:15",
-                "21:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:45",
-            "17:30",
-            "19:15",
-            "21:00"
+            "21:45"
           ]
         }
       ],
@@ -331,13 +582,13 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/pinocho-sin-cuerdas-12364_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Pinocho%3A%20Sin%20Cuerdas%20trailer%20espanol",
-      "sinopsis": "Una macabra reimaginación del clásico Pinocho, ambientada en el Twisted Childhood Universe. Cuando Geppetto le regala a su nieto James un muñeco mágico llamado Pinocho, ambos entablan una entrañable amistad. Sin embargo, al introducirlo en el mundo real, James despierta sin saberlo la naturaleza siniestra de la marioneta, que emprende una aterradora cruzada para eliminar todo lo que considera malo",
+      "sinopsis": "Gepetto le regala para el cumple de su nieto James un titere llamado Pinocho, aunque no sabian que estaria desquiciado, donde buscaria matar a quien fuera junto con su consciencia llamada Pepe Grillo para convertirse en un niño de verdad",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1232569,
         "titulo_tmdb": "Pinocho: Desatado",
         "voto": 6.4,
-        "votos": 167,
+        "votos": 168,
         "url_tmdb": "https://www.themoviedb.org/movie/1232569",
         "imdb_id": "tt30887701",
         "url_imdb": "https://www.imdb.com/title/tt30887701/",
@@ -389,329 +640,18 @@
       }
     },
     {
-      "titulo": "Clayface",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/10/clayface-47962-0.webp",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "20:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "20:45"
-          ]
-        },
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "14:20",
-                "19:10",
-                "21:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:20",
-            "19:10",
-            "21:30"
-          ]
-        }
-      ],
-      "genero": "Terror",
-      "duracion": "108 minutos",
-      "clasificacion": "12 Años",
-      "director": "James Watkins",
-      "actores": "Tom Rhys Harries, Max Minghella y Naomi Ackie",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/clayface-12326_252",
-      "trailer_url": "https://youtu.be/EVYL3zS8HKA?si=e--1Nfl4B99Yxm_o",
-      "sinopsis": "Relata el horroroso descenso de un hombre: de ser una estrella en ascenso en Hollywood a convertirse en un monstruo sediento de venganza, en una historia que explora la pérdida de la identidad y la humanidad, el amor corrosivo y el lado oscuro de la ambición científica.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1400940,
-        "titulo_tmdb": "Clayface",
-        "voto": 7.4,
-        "votos": 427,
-        "url_tmdb": "https://www.themoviedb.org/movie/1400940",
-        "imdb_id": "tt34890576",
-        "url_imdb": "https://www.imdb.com/title/tt34890576/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
-        "director": "James Watkins",
-        "reparto": [
-          {
-            "nombre": "Tom Rhys Harries",
-            "personaje": "Matt Hagen / Clayface"
-          },
-          {
-            "nombre": "Naomi Ackie",
-            "personaje": "Caitlyn Corr"
-          },
-          {
-            "nombre": "Eddie Marsan",
-            "personaje": "Frank Fitzpatrick"
-          },
-          {
-            "nombre": "Max Minghella",
-            "personaje": "John Borrelli"
-          },
-          {
-            "nombre": "David Dencik",
-            "personaje": "Markos Szabo"
-          },
-          {
-            "nombre": "Francesca Corney",
-            "personaje": "Rosie"
-          }
-        ],
-        "generos": [
-          "Terror",
-          "Suspense",
-          "Ciencia ficción"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=WGOv9Pzh9cE",
-          "embed_id": "WGOv9Pzh9cE"
-        },
-        "sinopsis_tmdb": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
-        "estreno": "19 oct 2026",
-        "duracion_min": 109,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Clayface"
-      }
-    },
-    {
-      "titulo": "Wildwood: El Bosque Salvaje",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/10/wildwood-el-bosque-salvaje-48024-0.webp",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "16:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:30"
-          ]
-        }
-      ],
-      "genero": "Animado",
-      "duracion": "140 minutos",
-      "clasificacion": "Todos",
-      "director": "Travis Knight",
-      "actores": "Peyton Elizabeth Lee, Jacob Tremblay, Carey Mulligan, Mahershala Ali, Richard E. Grant, Angela Bassett",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/wildwood-el-bosque-salvaje-12357_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Wildwood%3A%20El%20Bosque%20Salvaje%20trailer%20espanol",
-      "sinopsis": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para rescatar al hermano bebé de Prue —secuestrado por una bandada de cuervos liderada por una misteriosa mujer llamada Alexandra—.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 791523,
-        "titulo_tmdb": "Wildwood: El Bosque Salvaje",
-        "voto": 8.5,
-        "votos": 252,
-        "url_tmdb": "https://www.themoviedb.org/movie/791523",
-        "imdb_id": "tt2056785",
-        "url_imdb": "https://www.imdb.com/title/tt2056785/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
-        "director": "Travis Knight",
-        "reparto": [
-          {
-            "nombre": "Peyton Elizabeth Lee",
-            "personaje": "Prue McKeel (voice)"
-          },
-          {
-            "nombre": "Jacob Tremblay",
-            "personaje": "Curtis Mehlberg (voice)"
-          },
-          {
-            "nombre": "Carey Mulligan",
-            "personaje": "Alexandra (voice)"
-          },
-          {
-            "nombre": "Mahershala Ali",
-            "personaje": "Brenden (voice)"
-          },
-          {
-            "nombre": "Richard E. Grant",
-            "personaje": "Owl Rex (voice)"
-          },
-          {
-            "nombre": "Angela Bassett",
-            "personaje": "The General (voice)"
-          }
-        ],
-        "generos": [
-          "Animación",
-          "Aventura",
-          "Fantasía"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=qWX1ba0f-Qg",
-          "embed_id": "qWX1ba0f-Qg"
-        },
-        "sinopsis_tmdb": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para rescatar al hermano bebé de Prue —secuestrado por una bandada de cuervos liderada por una misteriosa mujer llamada Alexandra—.",
-        "estreno": "19 oct 2026",
-        "duracion_min": 132,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Wildwood"
-      }
-    },
-    {
-      "titulo": "El Heladero: Dulce Sabor A Muerte",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/8/el-heladero-dulce-sabor-a-muerte-47733-0.webp",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "16:10",
-                "20:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:10",
-            "20:10"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:15",
-                "18:15",
-                "20:15",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:15",
-            "18:15",
-            "20:15",
-            "22:00"
-          ]
-        }
-      ],
-      "genero": "Terror",
-      "duracion": "85 minutos",
-      "clasificacion": "18 Años",
-      "director": "Eli Roth",
-      "actores": "Ari Millen, Charlie Zeltzer, Shiloh O’Reilly, Kiori Mirza Waldman, Sarah Abbott, Benjamin Byron Davis",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/el-heladero-dulce-sabor-a-muerte-12245_252",
-      "trailer_url": "https://youtu.be/rRjtjH1PVPo?si=KvF58JI_Codup4Qj",
-      "sinopsis": "Un pueblo veraniego ideal cae en la locura cuando un heladero sirve a los niños dulces delicias con resultados terroríficos.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1477712,
-        "titulo_tmdb": "Dulce sabor a muerte",
-        "voto": 5.3,
-        "votos": 327,
-        "url_tmdb": "https://www.themoviedb.org/movie/1477712",
-        "imdb_id": "tt36893729",
-        "url_imdb": "https://www.imdb.com/title/tt36893729/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/uVuP2ZTYLn5hdL1aUOe4BiFD6d3.jpg",
-        "director": "Eli Roth",
-        "reparto": [
-          {
-            "nombre": "Ari Millen",
-            "personaje": "The Ice Cream Man / Jonathan Smiley"
-          },
-          {
-            "nombre": "Charlie Zeltzer",
-            "personaje": "Jared"
-          },
-          {
-            "nombre": "Shiloh O’Reilly",
-            "personaje": "Tommy"
-          },
-          {
-            "nombre": "Kiori Mirza Waldman",
-            "personaje": "Mia"
-          },
-          {
-            "nombre": "Sarah Abbott",
-            "personaje": "Lizzie"
-          },
-          {
-            "nombre": "Benjamin Byron Davis",
-            "personaje": "The Priest"
-          }
-        ],
-        "generos": [
-          "Terror",
-          "Comedia",
-          "Suspense"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=zYC5iij2DTg",
-          "embed_id": "zYC5iij2DTg"
-        },
-        "sinopsis_tmdb": "Lo que comienza siendo un verano idílico, en un pequeño y tranquilo pueblo vacacional, se convierte en una auténtica pesadilla cuando los más pequeños comienzan a mostrar instintos asesinos y deseos insaciables por acabar con todos los adultos. Son víctimas de una curiosa maldición provocada por los helados que comen que afecta a todos, menos a tres niños que tendrán que intentar escapar y salvar a todo el pueblo.",
-        "estreno": "3 ago 2026",
-        "duracion_min": 86,
-        "paises": [
-          "Estados Unidos",
-          "Reino Unido",
-          "Francia",
-          "Japón"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Ice Cream Man"
-      }
-    },
-    {
-      "titulo": "El bosque salvaje Wildwood",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003108?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Animación",
+      "titulo": "Ebenezer Los Fantasmas de la Navidad",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003070?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Drama",
       "clasificacion": "+14",
-      "duracion": "130 min",
-      "director": "Travis Knight",
-      "actores": "Peyton Elizabeth Lee, Jacob Tremblay, Carey Mulligan, Mahershala Ali, Richard E. Grant, Angela Bassett",
+      "duracion": "116 min",
+      "director": "Ti West",
+      "actores": "Johnny Depp, Rupert Grint, Daisy Ridley, Tramell Tillman, Ian McKellen, Andrea Riseborough",
       "estreno": "",
-      "sinopsis": "Después de que su hermano bebé, Mac, es secuestrado por una parvada de cuervos, la decidida adolescente Prue McKeel (Peyton Elizabeth Lee) inicia una desesperada misión de rescate hacia el Bosque Impasable, un bosque encantado oculto justo más allá de Portland, Oregon. Acompañada por su torpe pero leal compañero de clase, Curtis Mehlberg (Jacob Tremblay), Prue navega un mundo de animales parlantes",
+      "sinopsis": "Este noviembre, Johnny Depp es Ebenezer Scrooge. El nombre que conoces, la historia que no. De Ti West, EBENEZER también cuenta con Rupert Grint, Andrea Riseborough, Sam Claflin, Daisy Ridley, Arthur Conti, Ellie Bamber, Henry Lloyd-Hughes, Charlie Murphy, con Tramell Tillman e Ian McKellen.",
       "puntaje": "",
       "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=d-pcACsvl10",
+      "trailer_url": "https://youtu.be/YXqlzdxm4Ko?si=RwJJEBUsfWXZuzCF",
       "fuente_peli": "Cineplanet",
       "cines": [
         {
@@ -725,70 +665,158 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:20",
-                "19:00"
+                "15:40",
+                "18:10",
+                "20:40"
               ]
             }
           ],
           "horarios": [
-            "16:20",
-            "19:00"
+            "15:40",
+            "18:10",
+            "20:40"
           ]
         }
       ],
       "tmdb": {
-        "tmdb_id": 791523,
-        "titulo_tmdb": "Wildwood: El Bosque Salvaje",
-        "voto": 8.5,
-        "votos": 252,
-        "url_tmdb": "https://www.themoviedb.org/movie/791523",
-        "imdb_id": "tt2056785",
-        "url_imdb": "https://www.imdb.com/title/tt2056785/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
-        "director": "Travis Knight",
+        "tmdb_id": 1567605,
+        "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
+        "voto": 8.3,
+        "votos": 20,
+        "url_tmdb": "https://www.themoviedb.org/movie/1567605",
+        "imdb_id": "tt38773219",
+        "url_imdb": "https://www.imdb.com/title/tt38773219/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+        "director": "Ti West",
         "reparto": [
           {
-            "nombre": "Peyton Elizabeth Lee",
-            "personaje": "Prue McKeel (voice)"
+            "nombre": "Johnny Depp",
+            "personaje": "Ebenezer Scrooge"
           },
           {
-            "nombre": "Jacob Tremblay",
-            "personaje": "Curtis Mehlberg (voice)"
+            "nombre": "Rupert Grint",
+            "personaje": "Bob Cratchit"
           },
           {
-            "nombre": "Carey Mulligan",
-            "personaje": "Alexandra (voice)"
+            "nombre": "Daisy Ridley",
+            "personaje": "Emily Cratchit"
           },
           {
-            "nombre": "Mahershala Ali",
-            "personaje": "Brenden (voice)"
+            "nombre": "Tramell Tillman",
+            "personaje": "Ghost of Christmas Present"
           },
           {
-            "nombre": "Richard E. Grant",
-            "personaje": "Owl Rex (voice)"
+            "nombre": "Ian McKellen",
+            "personaje": "Jacob Marley"
           },
           {
-            "nombre": "Angela Bassett",
-            "personaje": "The General (voice)"
+            "nombre": "Andrea Riseborough",
+            "personaje": "Ghost of Christmas Past"
           }
         ],
         "generos": [
-          "Animación",
-          "Aventura",
-          "Fantasía"
+          "Fantasía",
+          "Comedia"
         ],
         "trailer": {
-          "url": "https://www.youtube.com/watch?v=qWX1ba0f-Qg",
-          "embed_id": "qWX1ba0f-Qg"
+          "url": "https://www.youtube.com/watch?v=H8awcDUhl84",
+          "embed_id": "H8awcDUhl84"
         },
-        "sinopsis_tmdb": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para rescatar al hermano bebé de Prue —secuestrado por una bandada de cuervos liderada por una misteriosa mujer llamada Alexandra—.",
-        "estreno": "19 oct 2026",
-        "duracion_min": 132,
+        "sinopsis_tmdb": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
+        "estreno": "11 nov 2026",
+        "duracion_min": 115,
+        "paises": [
+          "Estados Unidos",
+          "Reino Unido"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Ebenezer"
+      }
+    },
+    {
+      "titulo": "Aniquilacion",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/onslaught-956757231-large.jpg",
+      "genero": "Accion",
+      "clasificacion": "Mayores de 14",
+      "duracion": "01:32",
+      "sinopsis": "Celeste, una Francotiradora del Ejército Retirada del Servicio, Deberá Utilizar de Nuevo Sus Habilidades Para Proteger a Su Hija Daisy. La Tranquila y Aislada Comunidad en la Que Vive Se Ha Convertido en el Objetivo de Unos Soldados Modificados Genéticamente Para Ser Más Fuertes y Violentos, Que No Dudarán en Atacar a Sus Habitantes Sin Piedad.",
+      "director": "Adam Wingard",
+      "actores": "Adria Arjona, Dan Stevens, Eric Wareheim, Reginald VelJohnson, Michael Biehn, Blake Kennedy",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "19:30",
+                "21:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:30",
+            "21:15"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1284046,
+        "titulo_tmdb": "Aniquilación",
+        "voto": 5.5,
+        "votos": 146,
+        "url_tmdb": "https://www.themoviedb.org/movie/1284046",
+        "imdb_id": "tt32268691",
+        "url_imdb": "https://www.imdb.com/title/tt32268691/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/bKq74yT1Gca4JCd7E6IAHPLWBg0.jpg",
+        "director": "Adam Wingard",
+        "reparto": [
+          {
+            "nombre": "Adria Arjona",
+            "personaje": "Celeste"
+          },
+          {
+            "nombre": "Dan Stevens",
+            "personaje": "Hans Kammler"
+          },
+          {
+            "nombre": "Eric Wareheim",
+            "personaje": "Kovacks"
+          },
+          {
+            "nombre": "Reginald VelJohnson",
+            "personaje": "Josiah"
+          },
+          {
+            "nombre": "Michael Biehn",
+            "personaje": "Baylor"
+          },
+          {
+            "nombre": "Blake Kennedy",
+            "personaje": "Daisy"
+          }
+        ],
+        "generos": [
+          "Acción",
+          "Suspense",
+          "Terror"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Una francotiradora del ejército utiliza sus habilidades para proteger a su hija de un escuadrón de máquinas asesinas que escapó de una base militar secreta, mientras unos mercenarios intentan contenerla.",
+        "estreno": "2 sep 2026",
+        "duracion_min": 92,
         "paises": [
           "Estados Unidos"
         ],
         "idioma": "Inglés",
-        "titulo_original": "Wildwood"
+        "titulo_original": "Onslaught"
       }
     },
     {
@@ -909,18 +937,18 @@
       }
     },
     {
-      "titulo": "Terror en el Amazonas",
-      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/HO00009733.jpg",
-      "genero": "Terror",
-      "clasificacion": "Mayores de 16",
-      "duracion": "01:44",
-      "sinopsis": "Río Curuçá, Brasil. Cuando un Equipo de Jóvenes Médicos Inicia una Misión Humanitaria Local en un Barco Por la Selva Amazónica, Pronto Queda Claro Que No Todo en la Selva Se Alegra de Verlos. Tras un Repentino y Fatal Accidente, la Expedición Médica Se Ve Obligada a Volver Río Arriba. En un Entorno Ya de Por Sí Hostil, Su Llegada No Deseada También Ha Despertado a un Depredador Primigenio y de Pro",
-      "director": "Mike P. Nelson",
-      "actores": "Kiana Madeira, Jessica Rothe, Will Close, Juan Pablo Shuk, Logan Marshall-Green, Jaime Newball",
+      "titulo": "Como Robar un Banco",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/how_to_rob_a_bank-400118344-large.jpg",
+      "genero": "Accion",
+      "clasificacion": "Mayores de 14",
+      "duracion": "02:05",
+      "sinopsis": "Un Hombre Desesperado Planea un Elaborado Atraco Contra el Corrupto Sistema Financiero Que Arruinó Su Vida, Con un Grupo Que Documenta Sus Actos en Redes Sociales.",
+      "director": "David Leitch",
+      "actores": "Nicholas Hoult, Zoë Kravitz, Anna Sawai, Rhenzy Feliz, Pete Davidson, John C. Reilly",
       "estreno": "",
       "puntaje": "",
       "ficha": "",
-      "trailer_url": "",
+      "trailer_url": "https://www.youtube.com/watch?v=tKtg0S1rm2M",
       "fuente_peli": "Cinerama",
       "cines": [
         {
@@ -931,67 +959,257 @@
             {
               "formato": "",
               "horarios": [
-                "21:45"
+                "16:30",
+                "18:45",
+                "21:00"
               ]
             }
           ],
           "horarios": [
-            "21:45"
+            "16:30",
+            "18:45",
+            "21:00"
           ]
         }
       ],
       "tmdb": {
-        "tmdb_id": 1244523,
-        "titulo_tmdb": "Boiuna: La leyenda del Amazonas",
-        "voto": 6.2,
-        "votos": 50,
-        "url_tmdb": "https://www.themoviedb.org/movie/1244523",
-        "imdb_id": "tt10377864",
-        "url_imdb": "https://www.imdb.com/title/tt10377864/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/hClFn5adaXOgmxrZyxixoKiBHEZ.jpg",
-        "director": "Mike P. Nelson",
+        "tmdb_id": 1437511,
+        "titulo_tmdb": "Como robar un banco",
+        "voto": 6.9,
+        "votos": 6,
+        "url_tmdb": "https://www.themoviedb.org/movie/1437511",
+        "imdb_id": "tt35866986",
+        "url_imdb": "https://www.imdb.com/title/tt35866986/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
+        "director": "David Leitch",
         "reparto": [
           {
-            "nombre": "Kiana Madeira",
-            "personaje": "Lena"
+            "nombre": "Nicholas Hoult",
+            "personaje": "Ryan"
           },
           {
-            "nombre": "Jessica Rothe",
-            "personaje": "Alli"
+            "nombre": "Zoë Kravitz",
+            "personaje": "Reagan Gardner"
           },
           {
-            "nombre": "Will Close",
-            "personaje": "Callum"
+            "nombre": "Anna Sawai",
+            "personaje": "Emi"
           },
           {
-            "nombre": "Juan Pablo Shuk",
-            "personaje": "Miguel"
+            "nombre": "Rhenzy Feliz",
+            "personaje": "Hugo"
           },
           {
-            "nombre": "Logan Marshall-Green",
-            "personaje": "Brennan"
+            "nombre": "Pete Davidson",
+            "personaje": "Vince"
           },
           {
-            "nombre": "Jaime Newball",
-            "personaje": "Raúl"
+            "nombre": "John C. Reilly",
+            "personaje": "Agent West"
           }
         ],
         "generos": [
-          "Terror",
-          "Suspense",
-          "Acción"
+          "Acción",
+          "Crimen",
+          "Suspense"
         ],
-        "trailer": {},
-        "sinopsis_tmdb": "Un equipo de médicos se embarca en una misión local en la selva amazónica, pero pronto queda claro que no todo el mundo, ni todo, está contento de verlos. Su repentina aparición llama la atención de un depredador animal, el «Boiúna».",
-        "estreno": "1 oct 2026",
-        "duracion_min": 104,
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=tKtg0S1rm2M",
+          "embed_id": "tKtg0S1rm2M"
+        },
+        "sinopsis_tmdb": "Un hombre desesperado planea un elaborado atraco contra el corrupto sistema financiero que arruinó su vida, con un grupo que documenta sus actos en redes sociales.",
+        "estreno": "10 nov 2026",
+        "duracion_min": 122,
         "paises": [
-          "Estados Unidos",
-          "Alemania",
-          "Colombia"
+          "Estados Unidos"
         ],
         "idioma": "Inglés",
-        "titulo_original": "Beware Boiúna"
+        "titulo_original": "How to Rob a Bank"
+      }
+    },
+    {
+      "titulo": "Ebenezer: Los Fantasmas de Navidad",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/ebenezer-321560689-large.jpg",
+      "genero": "Comedia",
+      "clasificacion": "Mayores de 14",
+      "duracion": "01:57",
+      "sinopsis": "Reimaginación del Clásico Literario, una Historia de Fantasmas Ambientada en el Londres de Dickens Que Sigue el Viaje Sobrenatural de un Hombre Para Enfrentarse a Su Pasado, Presente y Futuro y Luchar Por una Segunda Oportunidad.",
+      "director": "Ti West",
+      "actores": "Johnny Depp, Rupert Grint, Daisy Ridley, Tramell Tillman, Ian McKellen, Andrea Riseborough",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=H8awcDUhl84",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:15",
+                "17:30",
+                "19:45",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:15",
+            "17:30",
+            "19:45",
+            "22:00"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1567605,
+        "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
+        "voto": 8.3,
+        "votos": 20,
+        "url_tmdb": "https://www.themoviedb.org/movie/1567605",
+        "imdb_id": "tt38773219",
+        "url_imdb": "https://www.imdb.com/title/tt38773219/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+        "director": "Ti West",
+        "reparto": [
+          {
+            "nombre": "Johnny Depp",
+            "personaje": "Ebenezer Scrooge"
+          },
+          {
+            "nombre": "Rupert Grint",
+            "personaje": "Bob Cratchit"
+          },
+          {
+            "nombre": "Daisy Ridley",
+            "personaje": "Emily Cratchit"
+          },
+          {
+            "nombre": "Tramell Tillman",
+            "personaje": "Ghost of Christmas Present"
+          },
+          {
+            "nombre": "Ian McKellen",
+            "personaje": "Jacob Marley"
+          },
+          {
+            "nombre": "Andrea Riseborough",
+            "personaje": "Ghost of Christmas Past"
+          }
+        ],
+        "generos": [
+          "Fantasía",
+          "Comedia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=H8awcDUhl84",
+          "embed_id": "H8awcDUhl84"
+        },
+        "sinopsis_tmdb": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
+        "estreno": "11 nov 2026",
+        "duracion_min": 115,
+        "paises": [
+          "Estados Unidos",
+          "Reino Unido"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Ebenezer"
+      }
+    },
+    {
+      "titulo": "La Gran Sangre: Ojo Por Ojo",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/la_gran_sangre_ojo_por_ojo-884714197-large.jpg",
+      "genero": "Accion",
+      "clasificacion": "Mayores de 14",
+      "duracion": "02:06",
+      "sinopsis": "La Legendaria Banda “La Gran Sangre” Debe Activar Su Violenta Justicia Al Margen de la Ley Para Desmantelar las Redes Criminales Que Han Puesto a Lima Bajo un Perpetuo Estado de Miedo. El Expolicía Dragón (Carlos Alcántara), Mandril (Pietro Sibille) y Tony Blades (Aldo Miyashiro) Salen de la Cárcel y Encuentran una Lima Sumida en la Crisis de Seguridad: El Crimen Organizado, la Extorsión y el Sica",
+      "director": "Jorge Carmona",
+      "actores": "Carlos Alcántara, Aldo Miyashiro, Pietro Sibille, Lucho Cáceres, Salvador del Solar, Milett Figueroa",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=8YKQiSOswJs",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:20",
+                "17:30",
+                "20:00",
+                "22:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:20",
+            "17:30",
+            "20:00",
+            "22:20"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1747585,
+        "titulo_tmdb": "La Gran Sangre: ojo x ojo",
+        "voto": null,
+        "votos": 0,
+        "url_tmdb": "https://www.themoviedb.org/movie/1747585",
+        "imdb_id": "",
+        "url_imdb": "",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/23HthTIgBSXV2lYpXMHt6bvNwRt.jpg",
+        "director": "Jorge Carmona",
+        "reparto": [
+          {
+            "nombre": "Carlos Alcántara",
+            "personaje": "El Dragón"
+          },
+          {
+            "nombre": "Aldo Miyashiro",
+            "personaje": "Tony Blades"
+          },
+          {
+            "nombre": "Pietro Sibille",
+            "personaje": "Mandril"
+          },
+          {
+            "nombre": "Lucho Cáceres",
+            "personaje": "Cobra"
+          },
+          {
+            "nombre": "Salvador del Solar",
+            "personaje": ""
+          },
+          {
+            "nombre": "Milett Figueroa",
+            "personaje": "Maria"
+          }
+        ],
+        "generos": [
+          "Acción",
+          "Comedia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=8YKQiSOswJs",
+          "embed_id": "8YKQiSOswJs"
+        },
+        "sinopsis_tmdb": "La legendaria banda “La Gran Sangre” debe activar su violenta justicia al margen de la ley para desmantelar las redes criminales que han puesto a Lima bajo un perpetuo estado de miedo. El expolicía Dragón (Carlos Alcántara), Mandril (Pietro Sibille) y Tony Blades (Aldo Miyashiro) salen de la cárcel y encuentran una Lima sumida en la crisis de seguridad: el crimen organizado, la extorsión y el sicariato han colapsado la fe en las instituciones. Con la policía superada y la justicia secuestrada, el trío de justicieros debe reformar su Pacto de Sangre y convertirse en la única esperanza radical para una sociedad que exige castigo. Su misión: la Justicia de Sangre contra los nuevos amos del terror en la capital.",
+        "estreno": "12 nov 2026",
+        "duracion_min": 100,
+        "paises": [
+          "Perú"
+        ],
+        "idioma": "Español",
+        "titulo_original": "La Gran Sangre: ojo x ojo"
       }
     }
   ],
@@ -1002,75 +1220,113 @@
       "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
       "peliculas": [
         {
-          "titulo": "Godzilla Minus Zero",
+          "titulo": "Ebenezer",
           "poster": "",
+          "genero": "Comedia",
+          "clasificacion": "7 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "17:15",
+                "19:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:15",
+            "19:30"
+          ]
+        },
+        {
+          "titulo": "La Gran Sangre: Ojo X Ojo",
+          "poster": "",
+          "genero": "Acción",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:35",
+                "19:00",
+                "21:25"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:35",
+            "19:00",
+            "21:25"
+          ]
+        },
+        {
+          "titulo": "Monstruo Infernal",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/11/monstruo-infernal-48068-1.jpg",
+          "genero": "Terror",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "17:05"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:05"
+          ]
+        },
+        {
+          "titulo": "Godzilla Minus Zero",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/10/godzilla-minus-zero-47908-0.webp",
           "genero": "Acción",
           "clasificacion": "12 Años",
           "formatos": [
             {
               "formato": "Doblada",
               "horarios": [
-                "16:30",
-                "19:05",
-                "21:40"
+                "19:00",
+                "21:35"
               ]
             }
           ],
           "horarios": [
-            "16:30",
-            "19:05",
-            "21:40"
+            "19:00",
+            "21:35"
+          ]
+        },
+        {
+          "titulo": "El Gato Con Sombrero",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/10/el-gato-con-sombrero-48034-0.webp",
+          "genero": "Animado",
+          "clasificacion": "7 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "15:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00"
           ]
         },
         {
           "titulo": "Pinocho: Sin Cuerdas",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/11/pinocho-sin-cuerdas-48040-1.jpg",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/11/pinocho-sin-cuerdas-48040-0.webp",
           "genero": "Terror",
           "clasificacion": "12 Años",
           "formatos": [
             {
               "formato": "Doblada",
               "horarios": [
-                "19:00"
+                "21:45"
               ]
             }
           ],
           "horarios": [
-            "19:00"
-          ]
-        },
-        {
-          "titulo": "Clayface",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/10/clayface-47962-0.webp",
-          "genero": "Terror",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "20:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "20:45"
-          ]
-        },
-        {
-          "titulo": "Wildwood: El Bosque Salvaje",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/10/wildwood-el-bosque-salvaje-48024-0.webp",
-          "genero": "Animado",
-          "clasificacion": "Todos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "16:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:30"
+            "21:45"
           ]
         }
       ],
@@ -1085,43 +1341,24 @@
       "fuente_cine": "Cineplanet",
       "peliculas": [
         {
-          "titulo": "Clayface",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003078?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Suspenso",
-          "clasificacion": "+14 DNI",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "14:20",
-                "19:10",
-                "21:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:20",
-            "19:10",
-            "21:30"
-          ]
-        },
-        {
-          "titulo": "El bosque salvaje Wildwood",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003108?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Animación",
+          "titulo": "Ebenezer Los Fantasmas de la Navidad",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003070?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Drama",
           "clasificacion": "+14",
           "formatos": [
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:20",
-                "19:00"
+                "15:40",
+                "18:10",
+                "20:40"
               ]
             }
           ],
           "horarios": [
-            "16:20",
-            "19:00"
+            "15:40",
+            "18:10",
+            "20:40"
           ]
         },
         {
@@ -1133,35 +1370,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:40",
-                "18:20",
-                "20:50"
+                "16:00",
+                "18:30"
               ]
             }
           ],
           "horarios": [
-            "16:40",
-            "18:20",
-            "20:50"
-          ]
-        },
-        {
-          "titulo": "El Heladero: Dulce Sabor A Muerte",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003140?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Terror",
-          "clasificacion": "+14 DNI",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "16:10",
-                "20:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:10",
-            "20:10"
+            "16:00",
+            "18:30"
           ]
         },
         {
@@ -1173,43 +1389,47 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:00",
-                "15:30",
-                "16:50",
-                "19:40",
-                "21:40",
+                "16:20",
+                "19:10",
+                "21:00",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:20",
+            "19:10",
+            "21:00",
+            "22:00"
+          ]
+        },
+        {
+          "titulo": "La Gran Sangre: Ojo X Ojo",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003061?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:30",
+                "16:10",
+                "17:10",
+                "18:50",
+                "19:50",
+                "21:30",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "14:00",
-            "15:30",
-            "16:50",
-            "19:40",
-            "21:40",
+            "14:30",
+            "16:10",
+            "17:10",
+            "18:50",
+            "19:50",
+            "21:30",
             "22:30"
-          ]
-        },
-        {
-          "titulo": "Pinocho: Sin Cuerdas",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003099?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Terror",
-          "clasificacion": "+14 DNI",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "14:10",
-                "18:10",
-                "22:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:10",
-            "18:10",
-            "22:10"
           ]
         }
       ],
@@ -1222,6 +1442,27 @@
       "url": "https://www.cinerama.com.pe/cines",
       "fuente_cine": "Cinerama",
       "peliculas": [
+        {
+          "titulo": "Aniquilacion",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/onslaught-956757231-large.jpg",
+          "genero": "Accion",
+          "clasificacion": "Mayores de 14",
+          "duracion": "01:32",
+          "sinopsis": "Celeste, una Francotiradora del Ejército Retirada del Servicio, Deberá Utilizar de Nuevo Sus Habilidades Para Proteger a Su Hija Daisy. La Tranquila y Aislada Comunidad en la Que Vive Se Ha Convertido en el Objetivo de Unos Soldados Modificados Genéticamente Para Ser Más Fuertes y Violentos, Que No Dudarán en Atacar a Sus Habitantes Sin Piedad.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "19:30",
+                "21:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "19:30",
+            "21:15"
+          ]
+        },
         {
           "titulo": "Avengers: Doomsday(preventa)",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/3d963823a9ed8dd4d81b637127f265bd.jpg",
@@ -1272,6 +1513,54 @@
           ]
         },
         {
+          "titulo": "Como Robar un Banco",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/how_to_rob_a_bank-400118344-large.jpg",
+          "genero": "Accion",
+          "clasificacion": "Mayores de 14",
+          "duracion": "02:05",
+          "sinopsis": "Un Hombre Desesperado Planea un Elaborado Atraco Contra el Corrupto Sistema Financiero Que Arruinó Su Vida, Con un Grupo Que Documenta Sus Actos en Redes Sociales.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "16:30",
+                "18:45",
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:30",
+            "18:45",
+            "21:00"
+          ]
+        },
+        {
+          "titulo": "Ebenezer: Los Fantasmas de Navidad",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/ebenezer-321560689-large.jpg",
+          "genero": "Comedia",
+          "clasificacion": "Mayores de 14",
+          "duracion": "01:57",
+          "sinopsis": "Reimaginación del Clásico Literario, una Historia de Fantasmas Ambientada en el Londres de Dickens Que Sigue el Viaje Sobrenatural de un Hombre Para Enfrentarse a Su Pasado, Presente y Futuro y Luchar Por una Segunda Oportunidad.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:15",
+                "17:30",
+                "19:45",
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:15",
+            "17:30",
+            "19:45",
+            "22:00"
+          ]
+        },
+        {
           "titulo": "El Gato Con Sombrero",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/images2026.jpg",
           "genero": "Dibujos",
@@ -1283,40 +1572,13 @@
               "formato": "",
               "horarios": [
                 "15:00",
-                "17:15",
-                "19:30"
+                "17:15"
               ]
             }
           ],
           "horarios": [
             "15:00",
-            "17:15",
-            "19:30"
-          ]
-        },
-        {
-          "titulo": "El Heladero: Dulce Sabor A Muerte",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/ice_cream_man-698541952-large.jpg",
-          "genero": "Terror",
-          "clasificacion": "Mayores de 14",
-          "duracion": "01:30",
-          "sinopsis": "Lo Que Comienza Siendo un Verano Idílico, en un Pequeño y Tranquilo Pueblo Vacacional, Se Convierte en una Auténtica Pesadilla Cuando los Más Pequeños Comienzan a Mostrar Instintos Asesinos y Deseos Insaciables Por Acabar Con Todos los Adultos. Son Víctimas de una Curiosa Maldición Provocada Por los Helados Que Comen Que Afecta a Todos, Menos a Tres Niños Que Tendrán Que Intentar Escapar y Salvar ",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "16:15",
-                "18:15",
-                "20:15",
-                "22:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:15",
-            "18:15",
-            "20:15",
-            "22:00"
+            "17:15"
           ]
         },
         {
@@ -1330,60 +1592,41 @@
             {
               "formato": "",
               "horarios": [
-                "16:30",
-                "19:00",
-                "21:30"
+                "15:30",
+                "18:00",
+                "20:30"
               ]
             }
           ],
           "horarios": [
-            "16:30",
-            "19:00",
-            "21:30"
+            "15:30",
+            "18:00",
+            "20:30"
           ]
         },
         {
-          "titulo": "Pinocho: Sin Cuerdas",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/HO00009919.jpg",
-          "genero": "Terror",
-          "clasificacion": "Mayores de 16",
-          "duracion": "01:28",
-          "sinopsis": "Reimaginación Macabra de 'Pinocho' Dentro del Twisted Childhood Universe. Geppetto Presenta a Su Nieto James un Muñeco Mágico Llamado Pinocho, Con el Que Entabla una Amistad. Sin Embargo, Sin Ser Consciente de la Ingenuidad de Pinocho, James Lo Introduce en el Mundo, Lo Que Provoca Que el Muñeco Emprenda una Cruzada Para Eliminar Todo Lo Malo.",
+          "titulo": "La Gran Sangre: Ojo Por Ojo",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/la_gran_sangre_ojo_por_ojo-884714197-large.jpg",
+          "genero": "Accion",
+          "clasificacion": "Mayores de 14",
+          "duracion": "02:06",
+          "sinopsis": "La Legendaria Banda “La Gran Sangre” Debe Activar Su Violenta Justicia Al Margen de la Ley Para Desmantelar las Redes Criminales Que Han Puesto a Lima Bajo un Perpetuo Estado de Miedo. El Expolicía Dragón (Carlos Alcántara), Mandril (Pietro Sibille) y Tony Blades (Aldo Miyashiro) Salen de la Cárcel y Encuentran una Lima Sumida en la Crisis de Seguridad: El Crimen Organizado, la Extorsión y el Sica",
           "formatos": [
             {
               "formato": "",
               "horarios": [
-                "15:45",
+                "15:20",
                 "17:30",
-                "19:15",
-                "21:00"
+                "20:00",
+                "22:20"
               ]
             }
           ],
           "horarios": [
-            "15:45",
+            "15:20",
             "17:30",
-            "19:15",
-            "21:00"
-          ]
-        },
-        {
-          "titulo": "Terror en el Amazonas",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/HO00009733.jpg",
-          "genero": "Terror",
-          "clasificacion": "Mayores de 16",
-          "duracion": "01:44",
-          "sinopsis": "Río Curuçá, Brasil. Cuando un Equipo de Jóvenes Médicos Inicia una Misión Humanitaria Local en un Barco Por la Selva Amazónica, Pronto Queda Claro Que No Todo en la Selva Se Alegra de Verlos. Tras un Repentino y Fatal Accidente, la Expedición Médica Se Ve Obligada a Volver Río Arriba. En un Entorno Ya de Por Sí Hostil, Su Llegada No Deseada También Ha Despertado a un Depredador Primigenio y de Pro",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "21:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "21:45"
+            "20:00",
+            "22:20"
           ]
         }
       ]
