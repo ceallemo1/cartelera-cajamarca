@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-11-12 14:49",
+  "actualizado": "2026-11-12 21:33",
   "fecha_objetivo": "2026-11-12",
   "peliculas": [
     {
@@ -95,7 +95,7 @@
     },
     {
       "titulo": "La Gran Sangre: Ojo X Ojo",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003061?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/11/la-gran-sangre-ojo-x-ojo-48063-1.jpg",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
@@ -128,8 +128,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:30",
-                "16:10",
                 "17:10",
                 "18:50",
                 "19:50",
@@ -139,8 +137,6 @@
             }
           ],
           "horarios": [
-            "14:30",
-            "16:10",
             "17:10",
             "18:50",
             "19:50",
@@ -162,8 +158,8 @@
       "tmdb": {
         "tmdb_id": 1747585,
         "titulo_tmdb": "La Gran Sangre: ojo x ojo",
-        "voto": null,
-        "votos": 0,
+        "voto": 6.0,
+        "votos": 1,
         "url_tmdb": "https://www.themoviedb.org/movie/1747585",
         "imdb_id": "",
         "url_imdb": "",
@@ -214,88 +210,6 @@
       }
     },
     {
-      "titulo": "Monstruo Infernal",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/11/monstruo-infernal-48068-1.jpg",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "17:05"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:05"
-          ]
-        }
-      ],
-      "genero": "Terror",
-      "duracion": "95 minutos",
-      "clasificacion": "12 Años",
-      "director": "Chalit Krileadmongkon, Pakphum Wonjinda",
-      "actores": "Joaquín Cordero, Armando Calvo, Rosa de Castilla, Irma Dorantes, Andrés Soler, Pedro de Aguillón García",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/monstruo-infernal-12373_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Monstruo%20Infernal%20trailer%20espanol",
-      "sinopsis": "Esta joya escrita por Carlos Enrique Taboda en conjunto con Alfredo Ruanova fue hecha como un conjunto de cortometrajes (debido a problemas con el sindicato) y consta de 4 episodios.  El criminal Jaime Rojas es dado de alta de prision quien mas tarde ayuda a su compañero de celda el Dr. Frankenstein a escapar. El cientifico ha creado una criatura llamada \"Orlak\", la cual necesita sangre humana para funcionar. En honor a la ayuda que Jaime le brindo, el Dr. Frankenstein crea a Orlak a semejanza de su amigo. Jaime comienza a utilizar al monstruo para vengarse de sus enemigos...",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 3413,
-        "titulo_tmdb": "Orlak, el infierno de Frankenstein",
-        "voto": 7.1,
-        "votos": 13,
-        "url_tmdb": "https://www.themoviedb.org/movie/3413",
-        "imdb_id": "tt0054148",
-        "url_imdb": "https://www.imdb.com/title/tt0054148/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/2nYgaEAxYGiYnIZKuTpTikN5H5a.jpg",
-        "director": "Rafael Baledón",
-        "reparto": [
-          {
-            "nombre": "Joaquín Cordero",
-            "personaje": "Jaime Rojas / Orlak"
-          },
-          {
-            "nombre": "Armando Calvo",
-            "personaje": "Insp. Santos"
-          },
-          {
-            "nombre": "Rosa de Castilla",
-            "personaje": "Estela"
-          },
-          {
-            "nombre": "Irma Dorantes",
-            "personaje": "Elvira Davalos"
-          },
-          {
-            "nombre": "Andrés Soler",
-            "personaje": "Prof. Frankenstein"
-          },
-          {
-            "nombre": "Pedro de Aguillón García",
-            "personaje": "Det. Vidal"
-          }
-        ],
-        "generos": [
-          "Terror",
-          "Ciencia ficción"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Esta joya escrita por Carlos Enrique Taboda en conjunto con Alfredo Ruanova fue hecha como un conjunto de cortometrajes (debido a problemas con el sindicato) y consta de 4 episodios.  El criminal Jaime Rojas es dado de alta de prision quien mas tarde ayuda a su compañero de celda el Dr. Frankenstein a escapar. El cientifico ha creado una criatura llamada \"Orlak\", la cual necesita sangre humana para funcionar. En honor a la ayuda que Jaime le brindo, el Dr. Frankenstein crea a Orlak a semejanza de su amigo. Jaime comienza a utilizar al monstruo para vengarse de sus enemigos...",
-        "estreno": "8 dic 1960",
-        "duracion_min": 103,
-        "paises": [
-          "México"
-        ],
-        "idioma": "Español",
-        "titulo_original": "Orlak, el infierno de Frankenstein"
-      }
-    },
-    {
       "titulo": "Godzilla Minus Zero",
       "poster": "https://cdn.carteleracine.pe/cine/2026/10/godzilla-minus-zero-47908-0.webp",
       "cines": [
@@ -328,7 +242,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:20",
                 "19:10",
                 "21:00",
                 "22:00"
@@ -336,7 +249,6 @@
             }
           ],
           "horarios": [
-            "16:20",
             "19:10",
             "21:00",
             "22:00"
@@ -456,13 +368,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
                 "18:30"
               ]
             }
           ],
           "horarios": [
-            "16:00",
             "18:30"
           ]
         },
@@ -554,6 +464,88 @@
       }
     },
     {
+      "titulo": "Monstruo Infernal",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/11/monstruo-infernal-48068-0.webp",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "17:05"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:05"
+          ]
+        }
+      ],
+      "genero": "Terror",
+      "duracion": "95 minutos",
+      "clasificacion": "12 Años",
+      "director": "Chalit Krileadmongkon, Pakphum Wonjinda",
+      "actores": "Joaquín Cordero, Armando Calvo, Rosa de Castilla, Irma Dorantes, Andrés Soler, Pedro de Aguillón García",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/monstruo-infernal-12373_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Monstruo%20Infernal%20trailer%20espanol",
+      "sinopsis": "Esta joya escrita por Carlos Enrique Taboda en conjunto con Alfredo Ruanova fue hecha como un conjunto de cortometrajes (debido a problemas con el sindicato) y consta de 4 episodios.  El criminal Jaime Rojas es dado de alta de prision quien mas tarde ayuda a su compañero de celda el Dr. Frankenstein a escapar. El cientifico ha creado una criatura llamada \"Orlak\", la cual necesita sangre humana para funcionar. En honor a la ayuda que Jaime le brindo, el Dr. Frankenstein crea a Orlak a semejanza de su amigo. Jaime comienza a utilizar al monstruo para vengarse de sus enemigos...",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 3413,
+        "titulo_tmdb": "Orlak, el infierno de Frankenstein",
+        "voto": 7.1,
+        "votos": 13,
+        "url_tmdb": "https://www.themoviedb.org/movie/3413",
+        "imdb_id": "tt0054148",
+        "url_imdb": "https://www.imdb.com/title/tt0054148/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/2nYgaEAxYGiYnIZKuTpTikN5H5a.jpg",
+        "director": "Rafael Baledón",
+        "reparto": [
+          {
+            "nombre": "Joaquín Cordero",
+            "personaje": "Jaime Rojas / Orlak"
+          },
+          {
+            "nombre": "Armando Calvo",
+            "personaje": "Insp. Santos"
+          },
+          {
+            "nombre": "Rosa de Castilla",
+            "personaje": "Estela"
+          },
+          {
+            "nombre": "Irma Dorantes",
+            "personaje": "Elvira Davalos"
+          },
+          {
+            "nombre": "Andrés Soler",
+            "personaje": "Prof. Frankenstein"
+          },
+          {
+            "nombre": "Pedro de Aguillón García",
+            "personaje": "Det. Vidal"
+          }
+        ],
+        "generos": [
+          "Terror",
+          "Ciencia ficción"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Esta joya escrita por Carlos Enrique Taboda en conjunto con Alfredo Ruanova fue hecha como un conjunto de cortometrajes (debido a problemas con el sindicato) y consta de 4 episodios.  El criminal Jaime Rojas es dado de alta de prision quien mas tarde ayuda a su compañero de celda el Dr. Frankenstein a escapar. El cientifico ha creado una criatura llamada \"Orlak\", la cual necesita sangre humana para funcionar. En honor a la ayuda que Jaime le brindo, el Dr. Frankenstein crea a Orlak a semejanza de su amigo. Jaime comienza a utilizar al monstruo para vengarse de sus enemigos...",
+        "estreno": "8 dic 1960",
+        "duracion_min": 103,
+        "paises": [
+          "México"
+        ],
+        "idioma": "Español",
+        "titulo_original": "Orlak, el infierno de Frankenstein"
+      }
+    },
+    {
       "titulo": "Pinocho: Sin Cuerdas",
       "poster": "https://cdn.carteleracine.pe/cine/2026/11/pinocho-sin-cuerdas-48040-0.webp",
       "cines": [
@@ -588,7 +580,7 @@
         "tmdb_id": 1232569,
         "titulo_tmdb": "Pinocho: Desatado",
         "voto": 6.4,
-        "votos": 168,
+        "votos": 170,
         "url_tmdb": "https://www.themoviedb.org/movie/1232569",
         "imdb_id": "tt30887701",
         "url_imdb": "https://www.imdb.com/title/tt30887701/",
@@ -665,14 +657,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:40",
                 "18:10",
                 "20:40"
               ]
             }
           ],
           "horarios": [
-            "15:40",
             "18:10",
             "20:40"
           ]
@@ -1144,7 +1134,7 @@
               "formato": "",
               "horarios": [
                 "15:20",
-                "17:30",
+                "17:40",
                 "20:00",
                 "22:20"
               ]
@@ -1152,7 +1142,7 @@
           ],
           "horarios": [
             "15:20",
-            "17:30",
+            "17:40",
             "20:00",
             "22:20"
           ]
@@ -1240,7 +1230,7 @@
         },
         {
           "titulo": "La Gran Sangre: Ojo X Ojo",
-          "poster": "",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/11/la-gran-sangre-ojo-x-ojo-48063-1.jpg",
           "genero": "Acción",
           "clasificacion": "12 Años",
           "formatos": [
@@ -1257,23 +1247,6 @@
             "16:35",
             "19:00",
             "21:25"
-          ]
-        },
-        {
-          "titulo": "Monstruo Infernal",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/11/monstruo-infernal-48068-1.jpg",
-          "genero": "Terror",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "17:05"
-              ]
-            }
-          ],
-          "horarios": [
-            "17:05"
           ]
         },
         {
@@ -1313,6 +1286,23 @@
           ]
         },
         {
+          "titulo": "Monstruo Infernal",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/11/monstruo-infernal-48068-0.webp",
+          "genero": "Terror",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "17:05"
+              ]
+            }
+          ],
+          "horarios": [
+            "17:05"
+          ]
+        },
+        {
           "titulo": "Pinocho: Sin Cuerdas",
           "poster": "https://cdn.carteleracine.pe/cine/2026/11/pinocho-sin-cuerdas-48040-0.webp",
           "genero": "Terror",
@@ -1349,14 +1339,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:40",
                 "18:10",
                 "20:40"
               ]
             }
           ],
           "horarios": [
-            "15:40",
             "18:10",
             "20:40"
           ]
@@ -1370,13 +1358,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
                 "18:30"
               ]
             }
           ],
           "horarios": [
-            "16:00",
             "18:30"
           ]
         },
@@ -1389,7 +1375,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:20",
                 "19:10",
                 "21:00",
                 "22:00"
@@ -1397,7 +1382,6 @@
             }
           ],
           "horarios": [
-            "16:20",
             "19:10",
             "21:00",
             "22:00"
@@ -1412,8 +1396,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:30",
-                "16:10",
                 "17:10",
                 "18:50",
                 "19:50",
@@ -1423,8 +1405,6 @@
             }
           ],
           "horarios": [
-            "14:30",
-            "16:10",
             "17:10",
             "18:50",
             "19:50",
@@ -1616,7 +1596,7 @@
               "formato": "",
               "horarios": [
                 "15:20",
-                "17:30",
+                "17:40",
                 "20:00",
                 "22:20"
               ]
@@ -1624,7 +1604,7 @@
           ],
           "horarios": [
             "15:20",
-            "17:30",
+            "17:40",
             "20:00",
             "22:20"
           ]
