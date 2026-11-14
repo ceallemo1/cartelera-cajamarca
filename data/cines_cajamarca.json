@@ -2,8 +2,8 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-11-13 21:16",
-  "fecha_objetivo": "2026-11-13",
+  "actualizado": "2026-11-14 12:55",
+  "fecha_objetivo": "2026-11-14",
   "peliculas": [
     {
       "titulo": "Ebenezer",
@@ -41,8 +41,8 @@
       "tmdb": {
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
-        "voto": 8.0,
-        "votos": 38,
+        "voto": 7.9,
+        "votos": 50,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -128,6 +128,10 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "14:30",
+                "16:10",
+                "17:10",
+                "18:50",
                 "19:50",
                 "21:30",
                 "22:30"
@@ -135,6 +139,10 @@
             }
           ],
           "horarios": [
+            "14:30",
+            "16:10",
+            "17:10",
+            "18:50",
             "19:50",
             "21:30",
             "22:30"
@@ -238,12 +246,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:20",
+                "19:10",
                 "21:00",
                 "22:00"
               ]
             }
           ],
           "horarios": [
+            "16:20",
+            "19:10",
             "21:00",
             "22:00"
           ]
@@ -282,8 +294,8 @@
       "tmdb": {
         "tmdb_id": 1381071,
         "titulo_tmdb": "Godzilla Minus Zero",
-        "voto": 7.7,
-        "votos": 183,
+        "voto": 7.8,
+        "votos": 189,
         "url_tmdb": "https://www.themoviedb.org/movie/1381071",
         "imdb_id": "tt34384661",
         "url_imdb": "https://www.imdb.com/title/tt34384661/",
@@ -341,6 +353,12 @@
           "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
             {
+              "formato": "",
+              "horarios": [
+                "12:45"
+              ]
+            },
+            {
               "formato": "Doblada",
               "horarios": [
                 "15:00"
@@ -348,7 +366,29 @@
             }
           ],
           "horarios": [
+            "12:45",
             "15:00"
+          ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:00",
+                "18:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:30"
           ]
         },
         {
@@ -377,14 +417,14 @@
       "actores": "Bill Hader, Xochitl Gomez y America Ferrera",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-gato-con-sombrero-12358_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=El%20Gato%20Con%20Sombrero%20trailer%20espanol",
-      "sinopsis": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+      "trailer_url": "https://youtu.be/O64eGC9l9Ig?si=rIXFgVkukXdxj0xT",
+      "sinopsis": "Haciendo lo que mejor sabe hacer, el Gato difunde alegría a los niños de una manera divertida, icónica y singularmente irreverente, llevándolos a ellos y a la audiencia en un viaje fantástico por un mundo que nunca han visto antes. En la película, nuestro héroe enfrenta su tarea más difícil hasta ahora para el I.I.I.I. (Instituto para la Institución de Imaginación e Inspiración, LLC): animar a Gab",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1117898,
         "titulo_tmdb": "El gato con sombrero",
-        "voto": 7.1,
-        "votos": 23,
+        "voto": 6.9,
+        "votos": 25,
         "url_tmdb": "https://www.themoviedb.org/movie/1117898",
         "imdb_id": "tt2321555",
         "url_imdb": "https://www.imdb.com/title/tt2321555/",
@@ -463,61 +503,62 @@
       "duracion": "95 minutos",
       "clasificacion": "12 Años",
       "director": "Chalit Krileadmongkon, Pakphum Wonjinda",
-      "actores": "Joaquín Cordero, Armando Calvo, Rosa de Castilla, Irma Dorantes, Andrés Soler, Pedro de Aguillón García",
+      "actores": "นริลญา กุลมงคลเพชร, Daung, Hideki Nagayama, กีรติ ศิวะเกื้อ, Yasaka Chaisorn, Ohmi Ryota",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/monstruo-infernal-12373_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Monstruo%20Infernal%20trailer%20espanol",
-      "sinopsis": "Esta joya escrita por Carlos Enrique Taboda en conjunto con Alfredo Ruanova fue hecha como un conjunto de cortometrajes (debido a problemas con el sindicato) y consta de 4 episodios.  El criminal Jaime Rojas es dado de alta de prision quien mas tarde ayuda a su compañero de celda el Dr. Frankenstein a escapar. El cientifico ha creado una criatura llamada \"Orlak\", la cual necesita sangre humana para funcionar. En honor a la ayuda que Jaime le brindo, el Dr. Frankenstein crea a Orlak a semejanza de su amigo. Jaime comienza a utilizar al monstruo para vengarse de sus enemigos...",
+      "sinopsis": "Se desarrolla en una mina maldita durante la Segunda Guerra Mundial en Tailandia. Soldados japoneses y cautivos se enfrentan a un antiguo monstruo mientras las tensiones enemigas aumentan, creando una escalofriante experiencia de terror.",
       "puntaje": "",
       "tmdb": {
-        "tmdb_id": 3413,
-        "titulo_tmdb": "Orlak, el infierno de Frankenstein",
-        "voto": 7.1,
-        "votos": 13,
-        "url_tmdb": "https://www.themoviedb.org/movie/3413",
-        "imdb_id": "tt0054148",
-        "url_imdb": "https://www.imdb.com/title/tt0054148/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/2nYgaEAxYGiYnIZKuTpTikN5H5a.jpg",
-        "director": "Rafael Baledón",
+        "tmdb_id": 1254594,
+        "titulo_tmdb": "Omukade",
+        "voto": 4.8,
+        "votos": 6,
+        "url_tmdb": "https://www.themoviedb.org/movie/1254594",
+        "imdb_id": "tt38223449",
+        "url_imdb": "https://www.imdb.com/title/tt38223449/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/7RdzEmKj2yy3DttYkvZ6G5cCtoE.jpg",
+        "director": "ภาคภูมิ วงษ์จินดา, Chalit Krileadmongkon",
         "reparto": [
           {
-            "nombre": "Joaquín Cordero",
-            "personaje": "Jaime Rojas / Orlak"
+            "nombre": "นริลญา กุลมงคลเพชร",
+            "personaje": "Sanor"
           },
           {
-            "nombre": "Armando Calvo",
-            "personaje": "Insp. Santos"
+            "nombre": "Daung",
+            "personaje": "Renja"
           },
           {
-            "nombre": "Rosa de Castilla",
-            "personaje": "Estela"
+            "nombre": "Hideki Nagayama",
+            "personaje": "Akira"
           },
           {
-            "nombre": "Irma Dorantes",
-            "personaje": "Elvira Davalos"
+            "nombre": "กีรติ ศิวะเกื้อ",
+            "personaje": "Boonchu"
           },
           {
-            "nombre": "Andrés Soler",
-            "personaje": "Prof. Frankenstein"
+            "nombre": "Yasaka Chaisorn",
+            "personaje": "Notong"
           },
           {
-            "nombre": "Pedro de Aguillón García",
-            "personaje": "Det. Vidal"
+            "nombre": "Ohmi Ryota",
+            "personaje": "Tamura"
           }
         ],
         "generos": [
           "Terror",
-          "Ciencia ficción"
+          "Suspense",
+          "Bélica"
         ],
         "trailer": {},
-        "sinopsis_tmdb": "Esta joya escrita por Carlos Enrique Taboda en conjunto con Alfredo Ruanova fue hecha como un conjunto de cortometrajes (debido a problemas con el sindicato) y consta de 4 episodios.  El criminal Jaime Rojas es dado de alta de prision quien mas tarde ayuda a su compañero de celda el Dr. Frankenstein a escapar. El cientifico ha creado una criatura llamada \"Orlak\", la cual necesita sangre humana para funcionar. En honor a la ayuda que Jaime le brindo, el Dr. Frankenstein crea a Orlak a semejanza de su amigo. Jaime comienza a utilizar al monstruo para vengarse de sus enemigos...",
-        "estreno": "8 dic 1960",
-        "duracion_min": 103,
+        "sinopsis_tmdb": "Se desarrolla en una mina maldita durante la Segunda Guerra Mundial en Tailandia. Soldados japoneses y cautivos se enfrentan a un antiguo monstruo mientras las tensiones enemigas aumentan, creando una escalofriante experiencia de terror.",
+        "estreno": "22 ene 2026",
+        "duracion_min": 95,
         "paises": [
-          "México"
+          "Thailand"
         ],
-        "idioma": "Español",
-        "titulo_original": "Orlak, el infierno de Frankenstein"
+        "idioma": "TH",
+        "titulo_original": "โอมุคาเดะ"
       }
     },
     {
@@ -555,7 +596,7 @@
         "tmdb_id": 1232569,
         "titulo_tmdb": "Pinocho: Desatado",
         "voto": 6.4,
-        "votos": 170,
+        "votos": 171,
         "url_tmdb": "https://www.themoviedb.org/movie/1232569",
         "imdb_id": "tt30887701",
         "url_imdb": "https://www.imdb.com/title/tt30887701/",
@@ -632,11 +673,15 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:40",
+                "18:10",
                 "20:40"
               ]
             }
           ],
           "horarios": [
+            "15:40",
+            "18:10",
             "20:40"
           ]
         }
@@ -645,7 +690,7 @@
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
         "voto": 7.9,
-        "votos": 39,
+        "votos": 50,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -905,7 +950,7 @@
       "duracion": "02:05",
       "sinopsis": "Un Hombre Desesperado Planea un Elaborado Atraco Contra el Corrupto Sistema Financiero Que Arruinó Su Vida, Con un Grupo Que Documenta Sus Actos en Redes Sociales.",
       "director": "David Leitch",
-      "actores": "Nicholas Hoult, Zoë Kravitz, Anna Sawai, Rhenzy Feliz, Pete Davidson, John C. Reilly",
+      "actores": "Nicholas Hoult, Zoë Kravitz, Pete Davidson, John C. Reilly, Anna Sawai, Rhenzy Feliz",
       "estreno": "",
       "puntaje": "",
       "ficha": "",
@@ -936,8 +981,8 @@
       "tmdb": {
         "tmdb_id": 1437511,
         "titulo_tmdb": "Como robar un banco",
-        "voto": 7.1,
-        "votos": 11,
+        "voto": 6.3,
+        "votos": 19,
         "url_tmdb": "https://www.themoviedb.org/movie/1437511",
         "imdb_id": "tt35866986",
         "url_imdb": "https://www.imdb.com/title/tt35866986/",
@@ -953,20 +998,20 @@
             "personaje": "Reagan Gardner"
           },
           {
-            "nombre": "Anna Sawai",
-            "personaje": "Emi"
-          },
-          {
-            "nombre": "Rhenzy Feliz",
-            "personaje": "Hugo"
-          },
-          {
             "nombre": "Pete Davidson",
             "personaje": "Vince"
           },
           {
             "nombre": "John C. Reilly",
             "personaje": "Agent West"
+          },
+          {
+            "nombre": "Anna Sawai",
+            "personaje": "Emi"
+          },
+          {
+            "nombre": "Rhenzy Feliz",
+            "personaje": "Hugo"
           }
         ],
         "generos": [
@@ -1030,7 +1075,7 @@
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
         "voto": 7.9,
-        "votos": 39,
+        "votos": 46,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -1248,6 +1293,12 @@
           "clasificacion": "7 Años",
           "formatos": [
             {
+              "formato": "",
+              "horarios": [
+                "12:45"
+              ]
+            },
+            {
               "formato": "Doblada",
               "horarios": [
                 "15:00"
@@ -1255,6 +1306,7 @@
             }
           ],
           "horarios": [
+            "12:45",
             "15:00"
           ]
         },
@@ -1312,12 +1364,35 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:40",
+                "18:10",
                 "20:40"
               ]
             }
           ],
           "horarios": [
+            "15:40",
+            "18:10",
             "20:40"
+          ]
+        },
+        {
+          "titulo": "El Gato Con Sombrero",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003089?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Animación",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:00",
+                "18:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:30"
           ]
         },
         {
@@ -1329,12 +1404,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:20",
+                "19:10",
                 "21:00",
                 "22:00"
               ]
             }
           ],
           "horarios": [
+            "16:20",
+            "19:10",
             "21:00",
             "22:00"
           ]
@@ -1348,6 +1427,10 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "14:30",
+                "16:10",
+                "17:10",
+                "18:50",
                 "19:50",
                 "21:30",
                 "22:30"
@@ -1355,6 +1438,10 @@
             }
           ],
           "horarios": [
+            "14:30",
+            "16:10",
+            "17:10",
+            "18:50",
             "19:50",
             "21:30",
             "22:30"
