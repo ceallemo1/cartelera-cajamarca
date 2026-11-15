@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-11-14 12:55",
+  "actualizado": "2026-11-14 20:47",
   "fecha_objetivo": "2026-11-14",
   "peliculas": [
     {
@@ -32,7 +32,7 @@
       "duracion": "115 minutos",
       "clasificacion": "7 Años",
       "director": "Ti West",
-      "actores": "Johnny Depp, Rupert Grint, Daisy Ridley, Tramell Tillman, Ian McKellen, Andrea Riseborough",
+      "actores": "Johnny Depp, Rupert Grint, Ian McKellen, Andrea Riseborough, Tramell Tillman, Sam Claflin",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/ebenezer-12371_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Ebenezer%20trailer%20espanol",
@@ -58,20 +58,20 @@
             "personaje": "Bob Cratchit"
           },
           {
-            "nombre": "Daisy Ridley",
-            "personaje": "Clara"
-          },
-          {
-            "nombre": "Tramell Tillman",
-            "personaje": "Ghost of Christmas Present"
-          },
-          {
             "nombre": "Ian McKellen",
             "personaje": "Jacob Marley"
           },
           {
             "nombre": "Andrea Riseborough",
             "personaje": "Ghost of Christmas Past"
+          },
+          {
+            "nombre": "Tramell Tillman",
+            "personaje": "Ghost of Christmas Present"
+          },
+          {
+            "nombre": "Sam Claflin",
+            "personaje": "Fred"
           }
         ],
         "generos": [
@@ -128,8 +128,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:30",
-                "16:10",
                 "17:10",
                 "18:50",
                 "19:50",
@@ -139,8 +137,6 @@
             }
           ],
           "horarios": [
-            "14:30",
-            "16:10",
             "17:10",
             "18:50",
             "19:50",
@@ -246,7 +242,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:20",
                 "19:10",
                 "21:00",
                 "22:00"
@@ -254,7 +249,6 @@
             }
           ],
           "horarios": [
-            "16:20",
             "19:10",
             "21:00",
             "22:00"
@@ -295,7 +289,7 @@
         "tmdb_id": 1381071,
         "titulo_tmdb": "Godzilla Minus Zero",
         "voto": 7.8,
-        "votos": 189,
+        "votos": 197,
         "url_tmdb": "https://www.themoviedb.org/movie/1381071",
         "imdb_id": "tt34384661",
         "url_imdb": "https://www.imdb.com/title/tt34384661/",
@@ -381,13 +375,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
                 "18:30"
               ]
             }
           ],
           "horarios": [
-            "16:00",
             "18:30"
           ]
         },
@@ -424,7 +416,7 @@
         "tmdb_id": 1117898,
         "titulo_tmdb": "El gato con sombrero",
         "voto": 6.9,
-        "votos": 25,
+        "votos": 27,
         "url_tmdb": "https://www.themoviedb.org/movie/1117898",
         "imdb_id": "tt2321555",
         "url_imdb": "https://www.imdb.com/title/tt2321555/",
@@ -595,8 +587,8 @@
       "tmdb": {
         "tmdb_id": 1232569,
         "titulo_tmdb": "Pinocho: Desatado",
-        "voto": 6.4,
-        "votos": 171,
+        "voto": 6.3,
+        "votos": 172,
         "url_tmdb": "https://www.themoviedb.org/movie/1232569",
         "imdb_id": "tt30887701",
         "url_imdb": "https://www.imdb.com/title/tt30887701/",
@@ -654,7 +646,7 @@
       "clasificacion": "+14",
       "duracion": "116 min",
       "director": "Ti West",
-      "actores": "Johnny Depp, Rupert Grint, Daisy Ridley, Tramell Tillman, Ian McKellen, Andrea Riseborough",
+      "actores": "Johnny Depp, Rupert Grint, Ian McKellen, Andrea Riseborough, Tramell Tillman, Sam Claflin",
       "estreno": "",
       "sinopsis": "Este noviembre, Johnny Depp es Ebenezer Scrooge. El nombre que conoces, la historia que no. De Ti West, EBENEZER también cuenta con Rupert Grint, Andrea Riseborough, Sam Claflin, Daisy Ridley, Arthur Conti, Ellie Bamber, Henry Lloyd-Hughes, Charlie Murphy, con Tramell Tillman e Ian McKellen.",
       "puntaje": "",
@@ -673,14 +665,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:40",
                 "18:10",
                 "20:40"
               ]
             }
           ],
           "horarios": [
-            "15:40",
             "18:10",
             "20:40"
           ]
@@ -706,20 +696,20 @@
             "personaje": "Bob Cratchit"
           },
           {
-            "nombre": "Daisy Ridley",
-            "personaje": "Clara"
-          },
-          {
-            "nombre": "Tramell Tillman",
-            "personaje": "Ghost of Christmas Present"
-          },
-          {
             "nombre": "Ian McKellen",
             "personaje": "Jacob Marley"
           },
           {
             "nombre": "Andrea Riseborough",
             "personaje": "Ghost of Christmas Past"
+          },
+          {
+            "nombre": "Tramell Tillman",
+            "personaje": "Ghost of Christmas Present"
+          },
+          {
+            "nombre": "Sam Claflin",
+            "personaje": "Fred"
           }
         ],
         "generos": [
@@ -777,7 +767,7 @@
         "tmdb_id": 1284046,
         "titulo_tmdb": "Aniquilación",
         "voto": 5.6,
-        "votos": 147,
+        "votos": 148,
         "url_tmdb": "https://www.themoviedb.org/movie/1284046",
         "imdb_id": "tt32268691",
         "url_imdb": "https://www.imdb.com/title/tt32268691/",
@@ -981,8 +971,8 @@
       "tmdb": {
         "tmdb_id": 1437511,
         "titulo_tmdb": "Como robar un banco",
-        "voto": 6.3,
-        "votos": 19,
+        "voto": 6.6,
+        "votos": 23,
         "url_tmdb": "https://www.themoviedb.org/movie/1437511",
         "imdb_id": "tt35866986",
         "url_imdb": "https://www.imdb.com/title/tt35866986/",
@@ -1041,7 +1031,7 @@
       "duracion": "01:57",
       "sinopsis": "Reimaginación del Clásico Literario, una Historia de Fantasmas Ambientada en el Londres de Dickens Que Sigue el Viaje Sobrenatural de un Hombre Para Enfrentarse a Su Pasado, Presente y Futuro y Luchar Por una Segunda Oportunidad.",
       "director": "Ti West",
-      "actores": "Johnny Depp, Rupert Grint, Daisy Ridley, Tramell Tillman, Ian McKellen, Andrea Riseborough",
+      "actores": "Johnny Depp, Rupert Grint, Ian McKellen, Andrea Riseborough, Tramell Tillman, Sam Claflin",
       "estreno": "",
       "puntaje": "",
       "ficha": "",
@@ -1075,7 +1065,7 @@
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
         "voto": 7.9,
-        "votos": 46,
+        "votos": 56,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -1091,20 +1081,20 @@
             "personaje": "Bob Cratchit"
           },
           {
-            "nombre": "Daisy Ridley",
-            "personaje": "Clara"
-          },
-          {
-            "nombre": "Tramell Tillman",
-            "personaje": "Ghost of Christmas Present"
-          },
-          {
             "nombre": "Ian McKellen",
             "personaje": "Jacob Marley"
           },
           {
             "nombre": "Andrea Riseborough",
             "personaje": "Ghost of Christmas Past"
+          },
+          {
+            "nombre": "Tramell Tillman",
+            "personaje": "Ghost of Christmas Present"
+          },
+          {
+            "nombre": "Sam Claflin",
+            "personaje": "Fred"
           }
         ],
         "generos": [
@@ -1364,14 +1354,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:40",
                 "18:10",
                 "20:40"
               ]
             }
           ],
           "horarios": [
-            "15:40",
             "18:10",
             "20:40"
           ]
@@ -1385,13 +1373,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
                 "18:30"
               ]
             }
           ],
           "horarios": [
-            "16:00",
             "18:30"
           ]
         },
@@ -1404,7 +1390,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:20",
                 "19:10",
                 "21:00",
                 "22:00"
@@ -1412,7 +1397,6 @@
             }
           ],
           "horarios": [
-            "16:20",
             "19:10",
             "21:00",
             "22:00"
@@ -1427,8 +1411,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:30",
-                "16:10",
                 "17:10",
                 "18:50",
                 "19:50",
@@ -1438,8 +1420,6 @@
             }
           ],
           "horarios": [
-            "14:30",
-            "16:10",
             "17:10",
             "18:50",
             "19:50",
