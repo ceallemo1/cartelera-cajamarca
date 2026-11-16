@@ -2,8 +2,8 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-11-15 20:53",
-  "fecha_objetivo": "2026-11-15",
+  "actualizado": "2026-11-16 16:56",
+  "fecha_objetivo": "2026-11-16",
   "peliculas": [
     {
       "titulo": "Ebenezer",
@@ -32,7 +32,7 @@
       "duracion": "115 minutos",
       "clasificacion": "7 Años",
       "director": "Ti West",
-      "actores": "Johnny Depp, Rupert Grint, Daisy Ridley, Ian McKellen, Tramell Tillman, Andrea Riseborough",
+      "actores": "Johnny Depp, Rupert Grint, Ian McKellen, Andrea Riseborough, Sam Claflin, Daisy Ridley",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/ebenezer-12371_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Ebenezer%20trailer%20espanol",
@@ -41,8 +41,8 @@
       "tmdb": {
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
-        "voto": 7.6,
-        "votos": 72,
+        "voto": 7.7,
+        "votos": 79,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -58,20 +58,20 @@
             "personaje": "Bob Cratchit"
           },
           {
-            "nombre": "Daisy Ridley",
-            "personaje": "Clara"
-          },
-          {
             "nombre": "Ian McKellen",
             "personaje": "Jacob Marley"
           },
           {
-            "nombre": "Tramell Tillman",
-            "personaje": "Ghost of Christmas Present"
-          },
-          {
             "nombre": "Andrea Riseborough",
             "personaje": "Ghost of Christmas Past"
+          },
+          {
+            "nombre": "Sam Claflin",
+            "personaje": "Fred"
+          },
+          {
+            "nombre": "Daisy Ridley",
+            "personaje": "Clara"
           }
         ],
         "generos": [
@@ -128,6 +128,9 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:10",
+                "17:10",
+                "18:50",
                 "19:50",
                 "21:30",
                 "22:30"
@@ -135,6 +138,9 @@
             }
           ],
           "horarios": [
+            "16:10",
+            "17:10",
+            "18:50",
             "19:50",
             "21:30",
             "22:30"
@@ -238,12 +244,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:20",
+                "19:10",
                 "21:00",
                 "22:00"
               ]
             }
           ],
           "horarios": [
+            "16:20",
+            "19:10",
             "21:00",
             "22:00"
           ]
@@ -283,7 +293,7 @@
         "tmdb_id": 1381071,
         "titulo_tmdb": "Godzilla Minus Zero",
         "voto": 7.7,
-        "votos": 215,
+        "votos": 227,
         "url_tmdb": "https://www.themoviedb.org/movie/1381071",
         "imdb_id": "tt34384661",
         "url_imdb": "https://www.imdb.com/title/tt34384661/",
@@ -341,12 +351,6 @@
           "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
             {
-              "formato": "",
-              "horarios": [
-                "12:45"
-              ]
-            },
-            {
               "formato": "Doblada",
               "horarios": [
                 "15:00"
@@ -354,8 +358,28 @@
             }
           ],
           "horarios": [
-            "12:45",
             "15:00"
+          ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:00",
+                "18:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:30"
           ]
         },
         {
@@ -384,8 +408,8 @@
       "actores": "Bill Hader, Xochitl Gomez y America Ferrera",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-gato-con-sombrero-12358_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=El%20Gato%20Con%20Sombrero%20trailer%20espanol",
-      "sinopsis": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+      "trailer_url": "https://youtu.be/O64eGC9l9Ig?si=rIXFgVkukXdxj0xT",
+      "sinopsis": "Haciendo lo que mejor sabe hacer, el Gato difunde alegría a los niños de una manera divertida, icónica y singularmente irreverente, llevándolos a ellos y a la audiencia en un viaje fantástico por un mundo que nunca han visto antes. En la película, nuestro héroe enfrenta su tarea más difícil hasta ahora para el I.I.I.I. (Instituto para la Institución de Imaginación e Inspiración, LLC): animar a Gab",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1117898,
@@ -557,17 +581,17 @@
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/pinocho-sin-cuerdas-12364_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Pinocho%3A%20Sin%20Cuerdas%20trailer%20espanol",
-      "sinopsis": "Gepetto le regala para el cumple de su nieto James un titere llamado Pinocho, aunque no sabian que estaria desquiciado, donde buscaria matar a quien fuera junto con su consciencia llamada Pepe Grillo para convertirse en un niño de verdad",
+      "sinopsis": "Geppetto presenta a su nieto James a Pinocho, una marioneta mágica cuya visión inocente del mundo le impide comprender la complejidad de la naturaleza humana. Cuando James le muestra el mundo exterior, Pinocho interpreta la realidad de forma literal y extrema, convencido de que debe acabar con todo aquello que considera malo. Guiado por Cricket, una misteriosa figura que ejerce una poderosa influencia sobre él, inicia una sangrienta cruzada en la que la línea entre el bien y el mal se vuelve cada vez más difusa.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1232569,
         "titulo_tmdb": "Pinocho: Desatado",
         "voto": 6.3,
-        "votos": 172,
+        "votos": 173,
         "url_tmdb": "https://www.themoviedb.org/movie/1232569",
         "imdb_id": "tt30887701",
         "url_imdb": "https://www.imdb.com/title/tt30887701/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/gdR1YLb7697IQZMdmA1EIJYFm9h.jpg",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/p1Fe55BwH6VWAXjcYdGKNS1Dbkt.jpg",
         "director": "Rhys Frake-Waterfield",
         "reparto": [
           {
@@ -604,7 +628,7 @@
           "url": "https://www.youtube.com/watch?v=NPLgD0dNQ8c",
           "embed_id": "NPLgD0dNQ8c"
         },
-        "sinopsis_tmdb": "Gepetto le regala para el cumple de su nieto James un titere llamado Pinocho, aunque no sabian que estaria desquiciado, donde buscaria matar a quien fuera junto con su consciencia llamada Pepe Grillo para convertirse en un niño de verdad",
+        "sinopsis_tmdb": "Geppetto presenta a su nieto James a Pinocho, una marioneta mágica cuya visión inocente del mundo le impide comprender la complejidad de la naturaleza humana. Cuando James le muestra el mundo exterior, Pinocho interpreta la realidad de forma literal y extrema, convencido de que debe acabar con todo aquello que considera malo. Guiado por Cricket, una misteriosa figura que ejerce una poderosa influencia sobre él, inicia una sangrienta cruzada en la que la línea entre el bien y el mal se vuelve cada vez más difusa.",
         "estreno": "22 jul 2026",
         "duracion_min": 82,
         "paises": [
@@ -621,7 +645,7 @@
       "clasificacion": "+14",
       "duracion": "116 min",
       "director": "Ti West",
-      "actores": "Johnny Depp, Rupert Grint, Daisy Ridley, Ian McKellen, Tramell Tillman, Andrea Riseborough",
+      "actores": "Johnny Depp, Rupert Grint, Ian McKellen, Andrea Riseborough, Sam Claflin, Daisy Ridley",
       "estreno": "",
       "sinopsis": "Este noviembre, Johnny Depp es Ebenezer Scrooge. El nombre que conoces, la historia que no. De Ti West, EBENEZER también cuenta con Rupert Grint, Andrea Riseborough, Sam Claflin, Daisy Ridley, Arthur Conti, Ellie Bamber, Henry Lloyd-Hughes, Charlie Murphy, con Tramell Tillman e Ian McKellen.",
       "puntaje": "",
@@ -640,11 +664,15 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:40",
+                "18:10",
                 "20:40"
               ]
             }
           ],
           "horarios": [
+            "15:40",
+            "18:10",
             "20:40"
           ]
         }
@@ -653,7 +681,7 @@
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
         "voto": 7.7,
-        "votos": 69,
+        "votos": 82,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -669,20 +697,20 @@
             "personaje": "Bob Cratchit"
           },
           {
-            "nombre": "Daisy Ridley",
-            "personaje": "Clara"
-          },
-          {
             "nombre": "Ian McKellen",
             "personaje": "Jacob Marley"
           },
           {
-            "nombre": "Tramell Tillman",
-            "personaje": "Ghost of Christmas Present"
-          },
-          {
             "nombre": "Andrea Riseborough",
             "personaje": "Ghost of Christmas Past"
+          },
+          {
+            "nombre": "Sam Claflin",
+            "personaje": "Fred"
+          },
+          {
+            "nombre": "Daisy Ridley",
+            "personaje": "Clara"
           }
         ],
         "generos": [
@@ -944,8 +972,8 @@
       "tmdb": {
         "tmdb_id": 1437511,
         "titulo_tmdb": "Como robar un banco",
-        "voto": 6.5,
-        "votos": 29,
+        "voto": 6.4,
+        "votos": 31,
         "url_tmdb": "https://www.themoviedb.org/movie/1437511",
         "imdb_id": "tt35866986",
         "url_imdb": "https://www.imdb.com/title/tt35866986/",
@@ -1004,7 +1032,7 @@
       "duracion": "01:57",
       "sinopsis": "Reimaginación del Clásico Literario, una Historia de Fantasmas Ambientada en el Londres de Dickens Que Sigue el Viaje Sobrenatural de un Hombre Para Enfrentarse a Su Pasado, Presente y Futuro y Luchar Por una Segunda Oportunidad.",
       "director": "Ti West",
-      "actores": "Johnny Depp, Rupert Grint, Daisy Ridley, Ian McKellen, Tramell Tillman, Andrea Riseborough",
+      "actores": "Johnny Depp, Rupert Grint, Ian McKellen, Andrea Riseborough, Sam Claflin, Daisy Ridley",
       "estreno": "",
       "puntaje": "",
       "ficha": "",
@@ -1037,8 +1065,8 @@
       "tmdb": {
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
-        "voto": 7.6,
-        "votos": 73,
+        "voto": 7.7,
+        "votos": 82,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -1054,20 +1082,20 @@
             "personaje": "Bob Cratchit"
           },
           {
-            "nombre": "Daisy Ridley",
-            "personaje": "Clara"
-          },
-          {
             "nombre": "Ian McKellen",
             "personaje": "Jacob Marley"
           },
           {
-            "nombre": "Tramell Tillman",
-            "personaje": "Ghost of Christmas Present"
-          },
-          {
             "nombre": "Andrea Riseborough",
             "personaje": "Ghost of Christmas Past"
+          },
+          {
+            "nombre": "Sam Claflin",
+            "personaje": "Fred"
+          },
+          {
+            "nombre": "Daisy Ridley",
+            "personaje": "Clara"
           }
         ],
         "generos": [
@@ -1256,12 +1284,6 @@
           "clasificacion": "7 Años",
           "formatos": [
             {
-              "formato": "",
-              "horarios": [
-                "12:45"
-              ]
-            },
-            {
               "formato": "Doblada",
               "horarios": [
                 "15:00"
@@ -1269,7 +1291,6 @@
             }
           ],
           "horarios": [
-            "12:45",
             "15:00"
           ]
         },
@@ -1327,12 +1348,35 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:40",
+                "18:10",
                 "20:40"
               ]
             }
           ],
           "horarios": [
+            "15:40",
+            "18:10",
             "20:40"
+          ]
+        },
+        {
+          "titulo": "El Gato Con Sombrero",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003089?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Animación",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:00",
+                "18:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:00",
+            "18:30"
           ]
         },
         {
@@ -1344,12 +1388,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:20",
+                "19:10",
                 "21:00",
                 "22:00"
               ]
             }
           ],
           "horarios": [
+            "16:20",
+            "19:10",
             "21:00",
             "22:00"
           ]
@@ -1363,6 +1411,9 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:10",
+                "17:10",
+                "18:50",
                 "19:50",
                 "21:30",
                 "22:30"
@@ -1370,6 +1421,9 @@
             }
           ],
           "horarios": [
+            "16:10",
+            "17:10",
+            "18:50",
             "19:50",
             "21:30",
             "22:30"
