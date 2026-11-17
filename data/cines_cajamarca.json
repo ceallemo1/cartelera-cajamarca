@@ -2,8 +2,8 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-11-16 16:56",
-  "fecha_objetivo": "2026-11-16",
+  "actualizado": "2026-11-17 15:47",
+  "fecha_objetivo": "2026-11-17",
   "peliculas": [
     {
       "titulo": "Ebenezer",
@@ -32,7 +32,7 @@
       "duracion": "115 minutos",
       "clasificacion": "7 Años",
       "director": "Ti West",
-      "actores": "Johnny Depp, Rupert Grint, Ian McKellen, Andrea Riseborough, Sam Claflin, Daisy Ridley",
+      "actores": "Johnny Depp, Rupert Grint, Daisy Ridley, Ian McKellen, Andrea Riseborough, Sam Claflin",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/ebenezer-12371_252",
       "trailer_url": "https://www.youtube.com/results?search_query=Ebenezer%20trailer%20espanol",
@@ -41,8 +41,8 @@
       "tmdb": {
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
-        "voto": 7.7,
-        "votos": 79,
+        "voto": 7.6,
+        "votos": 93,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -58,6 +58,10 @@
             "personaje": "Bob Cratchit"
           },
           {
+            "nombre": "Daisy Ridley",
+            "personaje": "Clara"
+          },
+          {
             "nombre": "Ian McKellen",
             "personaje": "Jacob Marley"
           },
@@ -68,15 +72,12 @@
           {
             "nombre": "Sam Claflin",
             "personaje": "Fred"
-          },
-          {
-            "nombre": "Daisy Ridley",
-            "personaje": "Clara"
           }
         ],
         "generos": [
           "Fantasía",
-          "Comedia"
+          "Comedia",
+          "Terror"
         ],
         "trailer": {
           "url": "https://www.youtube.com/watch?v=H8awcDUhl84",
@@ -128,22 +129,18 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:10",
+                "14:30",
+                "15:10",
                 "17:10",
-                "18:50",
-                "19:50",
-                "21:30",
-                "22:30"
+                "19:50"
               ]
             }
           ],
           "horarios": [
-            "16:10",
+            "14:30",
+            "15:10",
             "17:10",
-            "18:50",
-            "19:50",
-            "21:30",
-            "22:30"
+            "19:50"
           ]
         }
       ],
@@ -245,17 +242,13 @@
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "16:20",
-                "19:10",
-                "21:00",
-                "22:00"
+                "19:10"
               ]
             }
           ],
           "horarios": [
             "16:20",
-            "19:10",
-            "21:00",
-            "22:00"
+            "19:10"
           ]
         },
         {
@@ -293,7 +286,7 @@
         "tmdb_id": 1381071,
         "titulo_tmdb": "Godzilla Minus Zero",
         "voto": 7.7,
-        "votos": 227,
+        "votos": 246,
         "url_tmdb": "https://www.themoviedb.org/movie/1381071",
         "imdb_id": "tt34384661",
         "url_imdb": "https://www.imdb.com/title/tt34384661/",
@@ -330,8 +323,11 @@
           "Terror",
           "Acción"
         ],
-        "trailer": {},
-        "sinopsis_tmdb": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=hmxKLaIp0cI",
+          "embed_id": "hmxKLaIp0cI"
+        },
+        "sinopsis_tmdb": "¿Buscas películas y series gratis? ¡Busca Vercineo.net en Google!  La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante. ver gratis in vercineo.net",
         "estreno": "3 nov 2026",
         "duracion_min": 135,
         "paises": [
@@ -414,8 +410,8 @@
       "tmdb": {
         "tmdb_id": 1117898,
         "titulo_tmdb": "El gato con sombrero",
-        "voto": 6.9,
-        "votos": 28,
+        "voto": 7.0,
+        "votos": 29,
         "url_tmdb": "https://www.themoviedb.org/movie/1117898",
         "imdb_id": "tt2321555",
         "url_imdb": "https://www.imdb.com/title/tt2321555/",
@@ -587,7 +583,7 @@
         "tmdb_id": 1232569,
         "titulo_tmdb": "Pinocho: Desatado",
         "voto": 6.3,
-        "votos": 173,
+        "votos": 174,
         "url_tmdb": "https://www.themoviedb.org/movie/1232569",
         "imdb_id": "tt30887701",
         "url_imdb": "https://www.imdb.com/title/tt30887701/",
@@ -645,7 +641,7 @@
       "clasificacion": "+14",
       "duracion": "116 min",
       "director": "Ti West",
-      "actores": "Johnny Depp, Rupert Grint, Ian McKellen, Andrea Riseborough, Sam Claflin, Daisy Ridley",
+      "actores": "Johnny Depp, Rupert Grint, Daisy Ridley, Ian McKellen, Andrea Riseborough, Sam Claflin",
       "estreno": "",
       "sinopsis": "Este noviembre, Johnny Depp es Ebenezer Scrooge. El nombre que conoces, la historia que no. De Ti West, EBENEZER también cuenta con Rupert Grint, Andrea Riseborough, Sam Claflin, Daisy Ridley, Arthur Conti, Ellie Bamber, Henry Lloyd-Hughes, Charlie Murphy, con Tramell Tillman e Ian McKellen.",
       "puntaje": "",
@@ -665,23 +661,23 @@
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "15:40",
-                "18:10",
-                "20:40"
+                "18:05",
+                "20:30"
               ]
             }
           ],
           "horarios": [
             "15:40",
-            "18:10",
-            "20:40"
+            "18:05",
+            "20:30"
           ]
         }
       ],
       "tmdb": {
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
-        "voto": 7.7,
-        "votos": 82,
+        "voto": 7.6,
+        "votos": 93,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -697,6 +693,10 @@
             "personaje": "Bob Cratchit"
           },
           {
+            "nombre": "Daisy Ridley",
+            "personaje": "Clara"
+          },
+          {
             "nombre": "Ian McKellen",
             "personaje": "Jacob Marley"
           },
@@ -707,15 +707,12 @@
           {
             "nombre": "Sam Claflin",
             "personaje": "Fred"
-          },
-          {
-            "nombre": "Daisy Ridley",
-            "personaje": "Clara"
           }
         ],
         "generos": [
           "Fantasía",
-          "Comedia"
+          "Comedia",
+          "Terror"
         ],
         "trailer": {
           "url": "https://www.youtube.com/watch?v=H8awcDUhl84",
@@ -768,7 +765,7 @@
         "tmdb_id": 1284046,
         "titulo_tmdb": "Aniquilación",
         "voto": 5.6,
-        "votos": 150,
+        "votos": 151,
         "url_tmdb": "https://www.themoviedb.org/movie/1284046",
         "imdb_id": "tt32268691",
         "url_imdb": "https://www.imdb.com/title/tt32268691/",
@@ -923,7 +920,7 @@
           "url": "https://www.youtube.com/watch?v=gcjnEYJ4OB8",
           "embed_id": "gcjnEYJ4OB8"
         },
-        "sinopsis_tmdb": "Quinta entrega de la saga 'Vengadores' incluida en el Universo Cinematográfico Marvel (UCM). Sinopsis desconocido.",
+        "sinopsis_tmdb": "Los héroes más queridos de tres universos distintos son abocados a una colisión catastrófica donde tendrán que hacer frente a la mayor amenaza a su existencia hasta la fecha.",
         "estreno": "16 dic 2026",
         "duracion_min": 165,
         "paises": [
@@ -972,8 +969,8 @@
       "tmdb": {
         "tmdb_id": 1437511,
         "titulo_tmdb": "Como robar un banco",
-        "voto": 6.4,
-        "votos": 31,
+        "voto": 6.1,
+        "votos": 35,
         "url_tmdb": "https://www.themoviedb.org/movie/1437511",
         "imdb_id": "tt35866986",
         "url_imdb": "https://www.imdb.com/title/tt35866986/",
@@ -1032,7 +1029,7 @@
       "duracion": "01:57",
       "sinopsis": "Reimaginación del Clásico Literario, una Historia de Fantasmas Ambientada en el Londres de Dickens Que Sigue el Viaje Sobrenatural de un Hombre Para Enfrentarse a Su Pasado, Presente y Futuro y Luchar Por una Segunda Oportunidad.",
       "director": "Ti West",
-      "actores": "Johnny Depp, Rupert Grint, Ian McKellen, Andrea Riseborough, Sam Claflin, Daisy Ridley",
+      "actores": "Johnny Depp, Rupert Grint, Daisy Ridley, Ian McKellen, Andrea Riseborough, Sam Claflin",
       "estreno": "",
       "puntaje": "",
       "ficha": "",
@@ -1065,8 +1062,8 @@
       "tmdb": {
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
-        "voto": 7.7,
-        "votos": 82,
+        "voto": 7.6,
+        "votos": 93,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -1082,6 +1079,10 @@
             "personaje": "Bob Cratchit"
           },
           {
+            "nombre": "Daisy Ridley",
+            "personaje": "Clara"
+          },
+          {
             "nombre": "Ian McKellen",
             "personaje": "Jacob Marley"
           },
@@ -1092,15 +1093,12 @@
           {
             "nombre": "Sam Claflin",
             "personaje": "Fred"
-          },
-          {
-            "nombre": "Daisy Ridley",
-            "personaje": "Clara"
           }
         ],
         "generos": [
           "Fantasía",
-          "Comedia"
+          "Comedia",
+          "Terror"
         ],
         "trailer": {
           "url": "https://www.youtube.com/watch?v=H8awcDUhl84",
@@ -1349,15 +1347,15 @@
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "15:40",
-                "18:10",
-                "20:40"
+                "18:05",
+                "20:30"
               ]
             }
           ],
           "horarios": [
             "15:40",
-            "18:10",
-            "20:40"
+            "18:05",
+            "20:30"
           ]
         },
         {
@@ -1389,17 +1387,13 @@
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "16:20",
-                "19:10",
-                "21:00",
-                "22:00"
+                "19:10"
               ]
             }
           ],
           "horarios": [
             "16:20",
-            "19:10",
-            "21:00",
-            "22:00"
+            "19:10"
           ]
         },
         {
@@ -1411,22 +1405,18 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:10",
+                "14:30",
+                "15:10",
                 "17:10",
-                "18:50",
-                "19:50",
-                "21:30",
-                "22:30"
+                "19:50"
               ]
             }
           ],
           "horarios": [
-            "16:10",
+            "14:30",
+            "15:10",
             "17:10",
-            "18:50",
-            "19:50",
-            "21:30",
-            "22:30"
+            "19:50"
           ]
         }
       ],
