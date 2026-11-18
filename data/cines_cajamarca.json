@@ -2,8 +2,8 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-11-17 15:47",
-  "fecha_objetivo": "2026-11-17",
+  "actualizado": "2026-11-18 15:24",
+  "fecha_objetivo": "2026-11-18",
   "peliculas": [
     {
       "titulo": "Ebenezer",
@@ -42,7 +42,7 @@
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
         "voto": 7.6,
-        "votos": 93,
+        "votos": 107,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -76,8 +76,7 @@
         ],
         "generos": [
           "Fantasía",
-          "Comedia",
-          "Terror"
+          "Comedia"
         ],
         "trailer": {
           "url": "https://www.youtube.com/watch?v=H8awcDUhl84",
@@ -106,16 +105,16 @@
             {
               "formato": "",
               "horarios": [
-                "16:35",
-                "19:00",
-                "21:25"
+                "16:10",
+                "18:35",
+                "21:45"
               ]
             }
           ],
           "horarios": [
-            "16:35",
-            "19:00",
-            "21:25"
+            "16:10",
+            "18:35",
+            "21:45"
           ]
         },
         {
@@ -130,17 +129,23 @@
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "14:30",
-                "15:10",
+                "16:00",
                 "17:10",
-                "19:50"
+                "18:40",
+                "19:50",
+                "21:20",
+                "22:30"
               ]
             }
           ],
           "horarios": [
             "14:30",
-            "15:10",
+            "16:00",
             "17:10",
-            "19:50"
+            "18:40",
+            "19:50",
+            "21:20",
+            "22:30"
           ]
         }
       ],
@@ -209,6 +214,114 @@
       }
     },
     {
+      "titulo": "Los Juegos Del Hambre: Amanecer En La Cosecha",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/9/los-juegos-del-hambre-amanecer-en-la-cosecha-47834-0.webp",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:00"
+          ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "21:00",
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:00",
+            "21:30"
+          ]
+        }
+      ],
+      "genero": "Acción",
+      "duracion": "150 minutos",
+      "clasificacion": "12 Años",
+      "director": "Francis Lawrence",
+      "actores": "Joseph Zada, Mckenna Grace, Ralph Fiennes, Jesse Plemons, Glenn Close, Whitney Peak",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/los-juegos-del-hambre-amanecer-en-la-cosecha-12283_252",
+      "trailer_url": "https://www.youtube.com/watch?v=pZQ4KJiW6VI",
+      "sinopsis": "Mucho antes de que Katniss Everdeen se ofreciera como tributo, existió otro sobreviviente. La historia nos lleva 24 años antes de los eventos de la saga original, al amanecer del día de la cosecha de los 50° Juegos del Hambre, conocidos como el Second Quarter Quell. En esta edición especial, el Capitolio impone una regla brutal: cada distrito deberá enviar el doble de tributos, convirtiendo la are",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1300968,
+        "titulo_tmdb": "Los Juegos del Hambre: Amanecer en la cosecha",
+        "voto": 7.5,
+        "votos": 25,
+        "url_tmdb": "https://www.themoviedb.org/movie/1300968",
+        "imdb_id": "tt32558705",
+        "url_imdb": "https://www.imdb.com/title/tt32558705/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
+        "director": "Francis Lawrence",
+        "reparto": [
+          {
+            "nombre": "Joseph Zada",
+            "personaje": "Haymitch Abernathy"
+          },
+          {
+            "nombre": "Mckenna Grace",
+            "personaje": "Maysilee Donner / Merrilee Donner"
+          },
+          {
+            "nombre": "Ralph Fiennes",
+            "personaje": "President Coriolanus Snow"
+          },
+          {
+            "nombre": "Jesse Plemons",
+            "personaje": "Plutarch Heavensbee"
+          },
+          {
+            "nombre": "Glenn Close",
+            "personaje": "Drusilla Sickle"
+          },
+          {
+            "nombre": "Whitney Peak",
+            "personaje": "Lenore Dove Baird"
+          }
+        ],
+        "generos": [
+          "Ciencia ficción",
+          "Acción",
+          "Aventura"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=71wxo7pAKVE",
+          "embed_id": "71wxo7pAKVE"
+        },
+        "sinopsis_tmdb": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la siega de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+        "estreno": "18 nov 2026",
+        "duracion_min": 159,
+        "paises": [
+          "Estados Unidos",
+          "Alemania"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "The Hunger Games: Sunrise on the Reaping"
+      }
+    },
+    {
       "titulo": "Godzilla Minus Zero",
       "poster": "https://cdn.carteleracine.pe/cine/2026/10/godzilla-minus-zero-47908-0.webp",
       "cines": [
@@ -241,14 +354,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:20",
-                "19:10"
+                "15:20",
+                "18:10",
+                "21:10"
               ]
             }
           ],
           "horarios": [
-            "16:20",
-            "19:10"
+            "15:20",
+            "18:10",
+            "21:10"
           ]
         },
         {
@@ -286,7 +401,7 @@
         "tmdb_id": 1381071,
         "titulo_tmdb": "Godzilla Minus Zero",
         "voto": 7.7,
-        "votos": 246,
+        "votos": 259,
         "url_tmdb": "https://www.themoviedb.org/movie/1381071",
         "imdb_id": "tt34384661",
         "url_imdb": "https://www.imdb.com/title/tt34384661/",
@@ -327,7 +442,7 @@
           "url": "https://www.youtube.com/watch?v=hmxKLaIp0cI",
           "embed_id": "hmxKLaIp0cI"
         },
-        "sinopsis_tmdb": "¿Buscas películas y series gratis? ¡Busca Vercineo.net en Google!  La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante. ver gratis in vercineo.net",
+        "sinopsis_tmdb": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
         "estreno": "3 nov 2026",
         "duracion_min": 135,
         "paises": [
@@ -368,13 +483,13 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
+                "15:50",
                 "18:30"
               ]
             }
           ],
           "horarios": [
-            "16:00",
+            "15:50",
             "18:30"
           ]
         },
@@ -549,92 +664,6 @@
       }
     },
     {
-      "titulo": "Pinocho: Sin Cuerdas",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/11/pinocho-sin-cuerdas-48040-0.webp",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "21:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "21:45"
-          ]
-        }
-      ],
-      "genero": "Terror",
-      "duracion": "82 minutos",
-      "clasificacion": "12 Años",
-      "director": "Rhys Frake-Waterfield, Scott Chambers",
-      "actores": "Richard Brake, Robert Englund, Peter DeSouza-Feighoney.",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/pinocho-sin-cuerdas-12364_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Pinocho%3A%20Sin%20Cuerdas%20trailer%20espanol",
-      "sinopsis": "Geppetto presenta a su nieto James a Pinocho, una marioneta mágica cuya visión inocente del mundo le impide comprender la complejidad de la naturaleza humana. Cuando James le muestra el mundo exterior, Pinocho interpreta la realidad de forma literal y extrema, convencido de que debe acabar con todo aquello que considera malo. Guiado por Cricket, una misteriosa figura que ejerce una poderosa influencia sobre él, inicia una sangrienta cruzada en la que la línea entre el bien y el mal se vuelve cada vez más difusa.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1232569,
-        "titulo_tmdb": "Pinocho: Desatado",
-        "voto": 6.3,
-        "votos": 174,
-        "url_tmdb": "https://www.themoviedb.org/movie/1232569",
-        "imdb_id": "tt30887701",
-        "url_imdb": "https://www.imdb.com/title/tt30887701/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/p1Fe55BwH6VWAXjcYdGKNS1Dbkt.jpg",
-        "director": "Rhys Frake-Waterfield",
-        "reparto": [
-          {
-            "nombre": "Jude Evan Lloyd",
-            "personaje": "Pinocchio (voice)"
-          },
-          {
-            "nombre": "Cameron Bell",
-            "personaje": "James"
-          },
-          {
-            "nombre": "Richard Brake",
-            "personaje": "Geppetto"
-          },
-          {
-            "nombre": "Jessica Balmer",
-            "personaje": "Mia"
-          },
-          {
-            "nombre": "Jack Art Gray",
-            "personaje": "Dudley"
-          },
-          {
-            "nombre": "Robert Englund",
-            "personaje": "Cricket (voice)"
-          }
-        ],
-        "generos": [
-          "Terror",
-          "Fantasía",
-          "Misterio"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=NPLgD0dNQ8c",
-          "embed_id": "NPLgD0dNQ8c"
-        },
-        "sinopsis_tmdb": "Geppetto presenta a su nieto James a Pinocho, una marioneta mágica cuya visión inocente del mundo le impide comprender la complejidad de la naturaleza humana. Cuando James le muestra el mundo exterior, Pinocho interpreta la realidad de forma literal y extrema, convencido de que debe acabar con todo aquello que considera malo. Guiado por Cricket, una misteriosa figura que ejerce una poderosa influencia sobre él, inicia una sangrienta cruzada en la que la línea entre el bien y el mal se vuelve cada vez más difusa.",
-        "estreno": "22 jul 2026",
-        "duracion_min": 82,
-        "paises": [
-          "Reino Unido"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Pinocchio: Unstrung"
-      }
-    },
-    {
       "titulo": "Ebenezer Los Fantasmas de la Navidad",
       "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003070?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "genero": "Drama",
@@ -660,16 +689,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:40",
-                "18:05",
-                "20:30"
+                "16:30",
+                "19:00"
               ]
             }
           ],
           "horarios": [
-            "15:40",
-            "18:05",
-            "20:30"
+            "16:30",
+            "19:00"
           ]
         }
       ],
@@ -677,7 +704,7 @@
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
         "voto": 7.6,
-        "votos": 93,
+        "votos": 108,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -711,8 +738,7 @@
         ],
         "generos": [
           "Fantasía",
-          "Comedia",
-          "Terror"
+          "Comedia"
         ],
         "trailer": {
           "url": "https://www.youtube.com/watch?v=H8awcDUhl84",
@@ -799,8 +825,8 @@
         ],
         "generos": [
           "Acción",
-          "Suspense",
-          "Terror"
+          "Terror",
+          "Suspense"
         ],
         "trailer": {},
         "sinopsis_tmdb": "Una francotiradora del ejército utiliza sus habilidades para proteger a su hija de un escuadrón de máquinas asesinas que escapó de una base militar secreta, mientras unos mercenarios intentan contenerla.",
@@ -969,8 +995,8 @@
       "tmdb": {
         "tmdb_id": 1437511,
         "titulo_tmdb": "Como robar un banco",
-        "voto": 6.1,
-        "votos": 35,
+        "voto": 6.2,
+        "votos": 42,
         "url_tmdb": "https://www.themoviedb.org/movie/1437511",
         "imdb_id": "tt35866986",
         "url_imdb": "https://www.imdb.com/title/tt35866986/",
@@ -1063,7 +1089,7 @@
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
         "voto": 7.6,
-        "votos": 93,
+        "votos": 107,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -1097,8 +1123,7 @@
         ],
         "generos": [
           "Fantasía",
-          "Comedia",
-          "Terror"
+          "Comedia"
         ],
         "trailer": {
           "url": "https://www.youtube.com/watch?v=H8awcDUhl84",
@@ -1244,16 +1269,33 @@
             {
               "formato": "",
               "horarios": [
-                "16:35",
-                "19:00",
-                "21:25"
+                "16:10",
+                "18:35",
+                "21:45"
               ]
             }
           ],
           "horarios": [
-            "16:35",
-            "19:00",
-            "21:25"
+            "16:10",
+            "18:35",
+            "21:45"
+          ]
+        },
+        {
+          "titulo": "Los Juegos Del Hambre: Amanecer En La Cosecha",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/9/los-juegos-del-hambre-amanecer-en-la-cosecha-47834-0.webp",
+          "genero": "Acción",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "21:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:00"
           ]
         },
         {
@@ -1308,23 +1350,6 @@
           "horarios": [
             "17:05"
           ]
-        },
-        {
-          "titulo": "Pinocho: Sin Cuerdas",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/11/pinocho-sin-cuerdas-48040-0.webp",
-          "genero": "Terror",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "21:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "21:45"
-          ]
         }
       ],
       "cine_original": "CAJAMARCA - MOVIE TIME"
@@ -1346,16 +1371,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:40",
-                "18:05",
-                "20:30"
+                "16:30",
+                "19:00"
               ]
             }
           ],
           "horarios": [
-            "15:40",
-            "18:05",
-            "20:30"
+            "16:30",
+            "19:00"
           ]
         },
         {
@@ -1367,13 +1390,13 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
+                "15:50",
                 "18:30"
               ]
             }
           ],
           "horarios": [
-            "16:00",
+            "15:50",
             "18:30"
           ]
         },
@@ -1386,14 +1409,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:20",
-                "19:10"
+                "15:20",
+                "18:10",
+                "21:10"
               ]
             }
           ],
           "horarios": [
-            "16:20",
-            "19:10"
+            "15:20",
+            "18:10",
+            "21:10"
           ]
         },
         {
@@ -1406,17 +1431,42 @@
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "14:30",
-                "15:10",
+                "16:00",
                 "17:10",
-                "19:50"
+                "18:40",
+                "19:50",
+                "21:20",
+                "22:30"
               ]
             }
           ],
           "horarios": [
             "14:30",
-            "15:10",
+            "16:00",
             "17:10",
-            "19:50"
+            "18:40",
+            "19:50",
+            "21:20",
+            "22:30"
+          ]
+        },
+        {
+          "titulo": "Los Juegos Del Hambre: Amanecer En La Cosecha",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002922?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "21:00",
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:00",
+            "21:30"
           ]
         }
       ],
