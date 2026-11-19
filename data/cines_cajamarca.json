@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-11-18 15:24",
+  "actualizado": "2026-11-18 22:14",
   "fecha_objetivo": "2026-11-18",
   "peliculas": [
     {
@@ -41,8 +41,8 @@
       "tmdb": {
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
-        "voto": 7.6,
-        "votos": 107,
+        "voto": 7.5,
+        "votos": 110,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -128,23 +128,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:30",
-                "16:00",
-                "17:10",
-                "18:40",
-                "19:50",
-                "21:20",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "14:30",
-            "16:00",
-            "17:10",
-            "18:40",
-            "19:50",
-            "21:20",
             "22:30"
           ]
         }
@@ -244,13 +232,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "21:00",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "21:00",
             "21:30"
           ]
         }
@@ -344,29 +330,6 @@
           ]
         },
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "15:20",
-                "18:10",
-                "21:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:20",
-            "18:10",
-            "21:10"
-          ]
-        },
-        {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
           "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
@@ -394,8 +357,8 @@
       "actores": "Minami Hamabe, Jun Kunimura, Masami Nagasawa, Ryûnosuke Kamiki.",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/godzilla-minus-zero-12311_252",
-      "trailer_url": "https://www.youtube.com/watch?v=KSPi8XLeBRg",
-      "sinopsis": "En el Japón de la posguerra, un país devastado intenta reconstruirse desde las cenizas. Sin embargo, una nueva amenaza emerge desde el océano: Godzilla. Mientras la nación lucha por sobrevivir, la aparición de esta fuerza destructiva lleva a la humanidad al límite absoluto, enfrentándola no solo a la destrucción, sino también a su propia fragilidad.",
+      "trailer_url": "https://www.youtube.com/results?search_query=Godzilla%20Minus%20Zero%20trailer%20espanol",
+      "sinopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1381071,
@@ -473,27 +436,6 @@
           ]
         },
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "15:50",
-                "18:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:50",
-            "18:30"
-          ]
-        },
-        {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
           "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
@@ -519,14 +461,14 @@
       "actores": "Bill Hader, Xochitl Gomez y America Ferrera",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-gato-con-sombrero-12358_252",
-      "trailer_url": "https://youtu.be/O64eGC9l9Ig?si=rIXFgVkukXdxj0xT",
-      "sinopsis": "Haciendo lo que mejor sabe hacer, el Gato difunde alegría a los niños de una manera divertida, icónica y singularmente irreverente, llevándolos a ellos y a la audiencia en un viaje fantástico por un mundo que nunca han visto antes. En la película, nuestro héroe enfrenta su tarea más difícil hasta ahora para el I.I.I.I. (Instituto para la Institución de Imaginación e Inspiración, LLC): animar a Gab",
+      "trailer_url": "https://www.youtube.com/results?search_query=El%20Gato%20Con%20Sombrero%20trailer%20espanol",
+      "sinopsis": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1117898,
         "titulo_tmdb": "El gato con sombrero",
-        "voto": 7.0,
-        "votos": 29,
+        "voto": 6.8,
+        "votos": 30,
         "url_tmdb": "https://www.themoviedb.org/movie/1117898",
         "imdb_id": "tt2321555",
         "url_imdb": "https://www.imdb.com/title/tt2321555/",
@@ -620,7 +562,7 @@
         "imdb_id": "tt38223449",
         "url_imdb": "https://www.imdb.com/title/tt38223449/",
         "poster_tmdb": "https://image.tmdb.org/t/p/w500/7RdzEmKj2yy3DttYkvZ6G5cCtoE.jpg",
-        "director": "Chalit Krileadmongkon, ภาคภูมิ วงษ์จินดา",
+        "director": "ภาคภูมิ วงษ์จินดา, Chalit Krileadmongkon",
         "reparto": [
           {
             "nombre": "นริลญา กุลมงคลเพชร",
@@ -664,95 +606,58 @@
       }
     },
     {
-      "titulo": "Ebenezer Los Fantasmas de la Navidad",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003070?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Drama",
-      "clasificacion": "+14",
-      "duracion": "116 min",
-      "director": "Ti West",
-      "actores": "Johnny Depp, Rupert Grint, Daisy Ridley, Ian McKellen, Andrea Riseborough, Sam Claflin",
-      "estreno": "",
-      "sinopsis": "Este noviembre, Johnny Depp es Ebenezer Scrooge. El nombre que conoces, la historia que no. De Ti West, EBENEZER también cuenta con Rupert Grint, Andrea Riseborough, Sam Claflin, Daisy Ridley, Arthur Conti, Ellie Bamber, Henry Lloyd-Hughes, Charlie Murphy, con Tramell Tillman e Ian McKellen.",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://youtu.be/YXqlzdxm4Ko?si=RwJJEBUsfWXZuzCF",
-      "fuente_peli": "Cineplanet",
+      "titulo": "Papá Oso",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/5/papa-oso-47407-0.webp",
       "cines": [
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
             {
-              "formato": "2D REGULAR DOBLADA",
+              "formato": "",
               "horarios": [
-                "16:30",
-                "19:00"
+                "10:00"
               ]
             }
           ],
           "horarios": [
-            "16:30",
-            "19:00"
+            "10:00"
           ]
         }
       ],
+      "genero": "Animado",
+      "duracion": "87 minutos",
+      "clasificacion": "Todos",
+      "director": "Vasiliy Rovenskiy",
+      "actores": "",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/papa-oso-12122_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Pap%C3%A1%20Oso%20trailer%20espanol",
+      "sinopsis": "Papá Oso vive por y para su hijo Xi Ha en un bosque rodeado de amigos. Pero cuando unos cazadores furtivos capturan al pequeño, el padre se embarca en una aventura en la gran ciudad para rescatarlo",
+      "puntaje": "",
       "tmdb": {
-        "tmdb_id": 1567605,
-        "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
-        "voto": 7.6,
-        "votos": 108,
-        "url_tmdb": "https://www.themoviedb.org/movie/1567605",
-        "imdb_id": "tt38773219",
-        "url_imdb": "https://www.imdb.com/title/tt38773219/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
-        "director": "Ti West",
-        "reparto": [
-          {
-            "nombre": "Johnny Depp",
-            "personaje": "Ebenezer Scrooge"
-          },
-          {
-            "nombre": "Rupert Grint",
-            "personaje": "Bob Cratchit"
-          },
-          {
-            "nombre": "Daisy Ridley",
-            "personaje": "Clara"
-          },
-          {
-            "nombre": "Ian McKellen",
-            "personaje": "Jacob Marley"
-          },
-          {
-            "nombre": "Andrea Riseborough",
-            "personaje": "Ghost of Christmas Past"
-          },
-          {
-            "nombre": "Sam Claflin",
-            "personaje": "Fred"
-          }
-        ],
+        "tmdb_id": 580461,
+        "titulo_tmdb": "Super papá oso",
+        "voto": 6.6,
+        "votos": 17,
+        "url_tmdb": "https://www.themoviedb.org/movie/580461",
+        "imdb_id": "tt9074406",
+        "url_imdb": "https://www.imdb.com/title/tt9074406/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/b3qzPvNTmBdecdg79sqUF3gg5w2.jpg",
+        "director": "Wang Qi",
+        "reparto": [],
         "generos": [
-          "Fantasía",
-          "Comedia"
+          "Animación",
+          "Familia"
         ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=H8awcDUhl84",
-          "embed_id": "H8awcDUhl84"
-        },
-        "sinopsis_tmdb": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-        "estreno": "11 nov 2026",
-        "duracion_min": 115,
-        "paises": [
-          "Estados Unidos",
-          "Reino Unido"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Ebenezer"
+        "trailer": {},
+        "sinopsis_tmdb": "Papá Oso vive por y para su hijo Xi Ha en un bosque rodeado de amigos. Pero cuando unos cazadores furtivos capturan al pequeño, el padre se embarca en una aventura en la gran ciudad para rescatarlo",
+        "estreno": "1 feb 2019",
+        "duracion_min": 72,
+        "paises": [],
+        "idioma": "Chino",
+        "titulo_original": "嘻哈英熊"
       }
     },
     {
@@ -791,7 +696,7 @@
         "tmdb_id": 1284046,
         "titulo_tmdb": "Aniquilación",
         "voto": 5.6,
-        "votos": 151,
+        "votos": 152,
         "url_tmdb": "https://www.themoviedb.org/movie/1284046",
         "imdb_id": "tt32268691",
         "url_imdb": "https://www.imdb.com/title/tt32268691/",
@@ -1088,8 +993,8 @@
       "tmdb": {
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
-        "voto": 7.6,
-        "votos": 107,
+        "voto": 7.5,
+        "votos": 110,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -1350,6 +1255,23 @@
           "horarios": [
             "17:05"
           ]
+        },
+        {
+          "titulo": "Papá Oso",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/5/papa-oso-47407-0.webp",
+          "genero": "Animado",
+          "clasificacion": "Todos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "10:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "10:00"
+          ]
         }
       ],
       "cine_original": "CAJAMARCA - MOVIE TIME"
@@ -1363,65 +1285,6 @@
       "fuente_cine": "Cineplanet",
       "peliculas": [
         {
-          "titulo": "Ebenezer Los Fantasmas de la Navidad",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003070?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Drama",
-          "clasificacion": "+14",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "16:30",
-                "19:00"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:30",
-            "19:00"
-          ]
-        },
-        {
-          "titulo": "El Gato Con Sombrero",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003089?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Animación",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "15:50",
-                "18:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:50",
-            "18:30"
-          ]
-        },
-        {
-          "titulo": "Godzilla Minus Zero",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003060?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Acción",
-          "clasificacion": "+14",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "15:20",
-                "18:10",
-                "21:10"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:20",
-            "18:10",
-            "21:10"
-          ]
-        },
-        {
           "titulo": "La Gran Sangre: Ojo X Ojo",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003061?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Acción",
@@ -1430,23 +1293,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:30",
-                "16:00",
-                "17:10",
-                "18:40",
-                "19:50",
-                "21:20",
                 "22:30"
               ]
             }
           ],
           "horarios": [
-            "14:30",
-            "16:00",
-            "17:10",
-            "18:40",
-            "19:50",
-            "21:20",
             "22:30"
           ]
         },
@@ -1459,13 +1310,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "21:00",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "21:00",
             "21:30"
           ]
         }
