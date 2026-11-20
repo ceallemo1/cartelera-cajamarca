@@ -2,8 +2,8 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-11-19 22:02",
-  "fecha_objetivo": "2026-11-19",
+  "actualizado": "2026-11-20 15:00",
+  "fecha_objetivo": "2026-11-20",
   "peliculas": [
     {
       "titulo": "Los Juegos Del Hambre: Amanecer En La Cosecha",
@@ -19,7 +19,6 @@
               "horarios": [
                 "15:30",
                 "18:30",
-                "19:20",
                 "21:30"
               ]
             }
@@ -27,7 +26,6 @@
           "horarios": [
             "15:30",
             "18:30",
-            "19:20",
             "21:30"
           ]
         },
@@ -42,6 +40,8 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:00",
+                "15:50",
                 "18:10",
                 "19:00",
                 "21:20",
@@ -50,6 +50,8 @@
             }
           ],
           "horarios": [
+            "15:00",
+            "15:50",
             "18:10",
             "19:00",
             "21:20",
@@ -96,12 +98,12 @@
       "tmdb": {
         "tmdb_id": 1300968,
         "titulo_tmdb": "Los Juegos del Hambre: Amanecer en la cosecha",
-        "voto": 7.5,
-        "votos": 50,
+        "voto": 7.3,
+        "votos": 99,
         "url_tmdb": "https://www.themoviedb.org/movie/1300968",
         "imdb_id": "tt32558705",
         "url_imdb": "https://www.imdb.com/title/tt32558705/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
         "director": "Francis Lawrence",
         "reparto": [
           {
@@ -138,7 +140,7 @@
           "url": "https://www.youtube.com/watch?v=71wxo7pAKVE",
           "embed_id": "71wxo7pAKVE"
         },
-        "sinopsis_tmdb": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la siega de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+        "sinopsis_tmdb": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
         "estreno": "18 nov 2026",
         "duracion_min": 159,
         "paises": [
@@ -161,13 +163,13 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "19:10",
+                "19:00",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "19:10",
+            "19:00",
             "21:30"
           ]
         },
@@ -202,14 +204,12 @@
             {
               "formato": "",
               "horarios": [
-                "17:00",
                 "19:30",
                 "21:50"
               ]
             }
           ],
           "horarios": [
-            "17:00",
             "19:30",
             "21:50"
           ]
@@ -229,7 +229,7 @@
         "tmdb_id": 1286656,
         "titulo_tmdb": "Yo soy Rocky",
         "voto": 8.5,
-        "votos": 51,
+        "votos": 50,
         "url_tmdb": "https://www.themoviedb.org/movie/1286656",
         "imdb_id": "tt11995650",
         "url_imdb": "https://www.imdb.com/title/tt11995650/",
@@ -301,6 +301,25 @@
           ]
         },
         {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:20"
+          ]
+        },
+        {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
           "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
@@ -308,12 +327,14 @@
             {
               "formato": "",
               "horarios": [
-                "15:30"
+                "15:30",
+                "17:15"
               ]
             }
           ],
           "horarios": [
-            "15:30"
+            "15:30",
+            "17:15"
           ]
         }
       ],
@@ -324,8 +345,8 @@
       "actores": "Pål Sverre Hagen, Sara Khorami, Vegard Strand Eide, Flo Fagerli, Jon Øigarden, Jakob Oftebro, Vivild Falk Berg, Charlotte Frogner y Jonis Josef.",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/ratoncitos-en-apuros-12379_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Ratoncitos%20en%20Apuros%20trailer%20espanol",
-      "sinopsis": "Una familia acude a la casa abandonada de su tía para celebrar la Navidad en el campo, sin saber que una familia de ratones ya habita la casa, y no les interesan las visitas. Así que sólo queda una cosa por hacer: poner trampas, estar atentos y defenderse.",
+      "trailer_url": "https://youtu.be/P2KCnUwLc0c?si=7MRNQTFBJDo4H0TL",
+      "sinopsis": "Una familia de humanos, cansada del ruido y el ritmo de la ciudad, decide buscar paz y tranquilidad en el campo. Pero al instalarse en una antigua casa aparentemente abandonada, invade accidentalmente el hogar de otra familia: ¡una familia de ratones! Los pequeños habitantes no están dispuestos a renunciar a su casa. Decididos a defender su territorio, pondrán en marcha todo tipo de ingeniosos pla",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1427833,
@@ -413,8 +434,8 @@
       "tmdb": {
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
-        "voto": 7.6,
-        "votos": 124,
+        "voto": 7.5,
+        "votos": 130,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -477,12 +498,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "16:58"
+                "16:45"
               ]
             }
           ],
           "horarios": [
-            "16:58"
+            "16:45"
           ]
         },
         {
@@ -535,7 +556,7 @@
         "tmdb_id": 1381071,
         "titulo_tmdb": "Godzilla Minus Zero",
         "voto": 7.7,
-        "votos": 269,
+        "votos": 272,
         "url_tmdb": "https://www.themoviedb.org/movie/1381071",
         "imdb_id": "tt34384661",
         "url_imdb": "https://www.imdb.com/title/tt34384661/",
@@ -598,12 +619,14 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "09:00"
+                "08:00",
+                "10:00"
               ]
             }
           ],
           "horarios": [
-            "09:00"
+            "08:00",
+            "10:00"
           ]
         }
       ],
@@ -687,11 +710,13 @@
             {
               "formato": "",
               "horarios": [
+                "19:20",
                 "21:45"
               ]
             }
           ],
           "horarios": [
+            "19:20",
             "21:45"
           ]
         },
@@ -706,12 +731,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:10",
                 "18:50",
                 "21:30"
               ]
             }
           ],
           "horarios": [
+            "16:10",
             "18:50",
             "21:30"
           ]
@@ -807,11 +834,13 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:00",
                 "21:40"
               ]
             }
           ],
           "horarios": [
+            "16:00",
             "21:40"
           ]
         }
@@ -820,7 +849,7 @@
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
         "voto": 7.5,
-        "votos": 129,
+        "votos": 134,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -1025,8 +1054,8 @@
       "tmdb": {
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
-        "voto": 7.6,
-        "votos": 120,
+        "voto": 7.5,
+        "votos": 134,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -1187,7 +1216,6 @@
               "horarios": [
                 "15:30",
                 "18:30",
-                "19:20",
                 "21:30"
               ]
             }
@@ -1195,7 +1223,6 @@
           "horarios": [
             "15:30",
             "18:30",
-            "19:20",
             "21:30"
           ]
         },
@@ -1208,13 +1235,13 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "19:10",
+                "19:00",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "19:10",
+            "19:00",
             "21:30"
           ]
         },
@@ -1261,12 +1288,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "16:58"
+                "16:45"
               ]
             }
           ],
           "horarios": [
-            "16:58"
+            "16:45"
           ]
         },
         {
@@ -1278,12 +1305,14 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "09:00"
+                "08:00",
+                "10:00"
               ]
             }
           ],
           "horarios": [
-            "09:00"
+            "08:00",
+            "10:00"
           ]
         },
         {
@@ -1295,11 +1324,13 @@
             {
               "formato": "",
               "horarios": [
+                "19:20",
                 "21:45"
               ]
             }
           ],
           "horarios": [
+            "19:20",
             "21:45"
           ]
         }
@@ -1323,11 +1354,13 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:00",
                 "21:40"
               ]
             }
           ],
           "horarios": [
+            "16:00",
             "21:40"
           ]
         },
@@ -1357,12 +1390,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "16:10",
                 "18:50",
                 "21:30"
               ]
             }
           ],
           "horarios": [
+            "16:10",
             "18:50",
             "21:30"
           ]
@@ -1376,6 +1411,8 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "15:00",
+                "15:50",
                 "18:10",
                 "19:00",
                 "21:20",
@@ -1384,10 +1421,29 @@
             }
           ],
           "horarios": [
+            "15:00",
+            "15:50",
             "18:10",
             "19:00",
             "21:20",
             "22:10"
+          ]
+        },
+        {
+          "titulo": "Ratoncitos en Apuros",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003120?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Familiar",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:20"
           ]
         },
         {
@@ -1575,12 +1631,14 @@
             {
               "formato": "",
               "horarios": [
-                "15:30"
+                "15:30",
+                "17:15"
               ]
             }
           ],
           "horarios": [
-            "15:30"
+            "15:30",
+            "17:15"
           ]
         },
         {
@@ -1594,14 +1652,12 @@
             {
               "formato": "",
               "horarios": [
-                "17:00",
                 "19:30",
                 "21:50"
               ]
             }
           ],
           "horarios": [
-            "17:00",
             "19:30",
             "21:50"
           ]
