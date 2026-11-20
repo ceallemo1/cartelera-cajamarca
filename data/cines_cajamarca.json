@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-11-19 15:27",
+  "actualizado": "2026-11-19 22:02",
   "fecha_objetivo": "2026-11-19",
   "peliculas": [
     {
@@ -19,6 +19,7 @@
               "horarios": [
                 "15:30",
                 "18:30",
+                "19:20",
                 "21:30"
               ]
             }
@@ -26,6 +27,7 @@
           "horarios": [
             "15:30",
             "18:30",
+            "19:20",
             "21:30"
           ]
         },
@@ -40,8 +42,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:00",
-                "15:50",
                 "18:10",
                 "19:00",
                 "21:20",
@@ -50,8 +50,6 @@
             }
           ],
           "horarios": [
-            "15:00",
-            "15:50",
             "18:10",
             "19:00",
             "21:20",
@@ -98,8 +96,8 @@
       "tmdb": {
         "tmdb_id": 1300968,
         "titulo_tmdb": "Los Juegos del Hambre: Amanecer en la cosecha",
-        "voto": 7.6,
-        "votos": 39,
+        "voto": 7.5,
+        "votos": 50,
         "url_tmdb": "https://www.themoviedb.org/movie/1300968",
         "imdb_id": "tt32558705",
         "url_imdb": "https://www.imdb.com/title/tt32558705/",
@@ -163,13 +161,13 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "19:00",
+                "19:10",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "19:00",
+            "19:10",
             "21:30"
           ]
         },
@@ -231,7 +229,7 @@
         "tmdb_id": 1286656,
         "titulo_tmdb": "Yo soy Rocky",
         "voto": 8.5,
-        "votos": 47,
+        "votos": 51,
         "url_tmdb": "https://www.themoviedb.org/movie/1286656",
         "imdb_id": "tt11995650",
         "url_imdb": "https://www.imdb.com/title/tt11995650/",
@@ -303,25 +301,6 @@
           ]
         },
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "14:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:20"
-          ]
-        },
-        {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
           "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
@@ -345,18 +324,18 @@
       "actores": "Pål Sverre Hagen, Sara Khorami, Vegard Strand Eide, Flo Fagerli, Jon Øigarden, Jakob Oftebro, Vivild Falk Berg, Charlotte Frogner y Jonis Josef.",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/ratoncitos-en-apuros-12379_252",
-      "trailer_url": "https://youtu.be/P2KCnUwLc0c?si=7MRNQTFBJDo4H0TL",
-      "sinopsis": "Una familia de humanos, cansada del ruido y el ritmo de la ciudad, decide buscar paz y tranquilidad en el campo. Pero al instalarse en una antigua casa aparentemente abandonada, invade accidentalmente el hogar de otra familia: ¡una familia de ratones! Los pequeños habitantes no están dispuestos a renunciar a su casa. Decididos a defender su territorio, pondrán en marcha todo tipo de ingeniosos pla",
+      "trailer_url": "https://www.youtube.com/results?search_query=Ratoncitos%20en%20Apuros%20trailer%20espanol",
+      "sinopsis": "Una familia acude a la casa abandonada de su tía para celebrar la Navidad en el campo, sin saber que una familia de ratones ya habita la casa, y no les interesan las visitas. Así que sólo queda una cosa por hacer: poner trampas, estar atentos y defenderse.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1427833,
-        "titulo_tmdb": "A Mouse Hunt for Christmas",
+        "titulo_tmdb": "Ratones al ataque: Operación Navidad",
         "voto": 6.5,
         "votos": 22,
         "url_tmdb": "https://www.themoviedb.org/movie/1427833",
         "imdb_id": "tt35727399",
         "url_imdb": "https://www.imdb.com/title/tt35727399/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/2LgEDVRubQNsWzgJaUfIV4DcW7S.jpg",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/tEpDFz33WclWa0c1rxLhqM2DNFE.jpg",
         "director": "Henrik Martin Dahlsbakken",
         "reparto": [
           {
@@ -435,7 +414,7 @@
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
         "voto": 7.6,
-        "votos": 116,
+        "votos": 124,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -498,12 +477,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "16:45"
+                "16:58"
               ]
             }
           ],
           "horarios": [
-            "16:45"
+            "16:58"
           ]
         },
         {
@@ -556,7 +535,7 @@
         "tmdb_id": 1381071,
         "titulo_tmdb": "Godzilla Minus Zero",
         "voto": 7.7,
-        "votos": 265,
+        "votos": 269,
         "url_tmdb": "https://www.themoviedb.org/movie/1381071",
         "imdb_id": "tt34384661",
         "url_imdb": "https://www.imdb.com/title/tt34384661/",
@@ -708,13 +687,11 @@
             {
               "formato": "",
               "horarios": [
-                "19:20",
                 "21:45"
               ]
             }
           ],
           "horarios": [
-            "19:20",
             "21:45"
           ]
         },
@@ -729,14 +706,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:10",
                 "18:50",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "16:10",
             "18:50",
             "21:30"
           ]
@@ -832,13 +807,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
                 "21:40"
               ]
             }
           ],
           "horarios": [
-            "16:00",
             "21:40"
           ]
         }
@@ -846,8 +819,8 @@
       "tmdb": {
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
-        "voto": 7.6,
-        "votos": 120,
+        "voto": 7.5,
+        "votos": 129,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -1214,6 +1187,7 @@
               "horarios": [
                 "15:30",
                 "18:30",
+                "19:20",
                 "21:30"
               ]
             }
@@ -1221,6 +1195,7 @@
           "horarios": [
             "15:30",
             "18:30",
+            "19:20",
             "21:30"
           ]
         },
@@ -1233,13 +1208,13 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "19:00",
+                "19:10",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "19:00",
+            "19:10",
             "21:30"
           ]
         },
@@ -1286,12 +1261,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "16:45"
+                "16:58"
               ]
             }
           ],
           "horarios": [
-            "16:45"
+            "16:58"
           ]
         },
         {
@@ -1320,13 +1295,11 @@
             {
               "formato": "",
               "horarios": [
-                "19:20",
                 "21:45"
               ]
             }
           ],
           "horarios": [
-            "19:20",
             "21:45"
           ]
         }
@@ -1350,13 +1323,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
                 "21:40"
               ]
             }
           ],
           "horarios": [
-            "16:00",
             "21:40"
           ]
         },
@@ -1386,14 +1357,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:10",
                 "18:50",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "16:10",
             "18:50",
             "21:30"
           ]
@@ -1407,8 +1376,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:00",
-                "15:50",
                 "18:10",
                 "19:00",
                 "21:20",
@@ -1417,29 +1384,10 @@
             }
           ],
           "horarios": [
-            "15:00",
-            "15:50",
             "18:10",
             "19:00",
             "21:20",
             "22:10"
-          ]
-        },
-        {
-          "titulo": "Ratoncitos en Apuros",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003120?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Familiar",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "14:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:20"
           ]
         },
         {
