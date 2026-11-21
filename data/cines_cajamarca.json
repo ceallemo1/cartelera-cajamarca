@@ -2,8 +2,8 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-11-20 22:07",
-  "fecha_objetivo": "2026-11-20",
+  "actualizado": "2026-11-21 14:05",
+  "fecha_objetivo": "2026-11-21",
   "peliculas": [
     {
       "titulo": "Los Juegos Del Hambre: Amanecer En La Cosecha",
@@ -40,18 +40,22 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "18:10",
-                "19:00",
-                "21:20",
-                "22:10"
+                "14:30",
+                "16:00",
+                "17:40",
+                "19:10",
+                "21:00",
+                "22:20"
               ]
             }
           ],
           "horarios": [
-            "18:10",
-            "19:00",
-            "21:20",
-            "22:10"
+            "14:30",
+            "16:00",
+            "17:40",
+            "19:10",
+            "21:00",
+            "22:20"
           ]
         },
         {
@@ -94,12 +98,12 @@
       "tmdb": {
         "tmdb_id": 1300968,
         "titulo_tmdb": "Los Juegos del Hambre: Amanecer en la cosecha",
-        "voto": 7.3,
-        "votos": 99,
+        "voto": 7.6,
+        "votos": 149,
         "url_tmdb": "https://www.themoviedb.org/movie/1300968",
         "imdb_id": "tt32558705",
         "url_imdb": "https://www.imdb.com/title/tt32558705/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/aGFIoSGOv5iJGCviwGQJEfnHXIv.jpg",
         "director": "Francis Lawrence",
         "reparto": [
           {
@@ -159,14 +163,14 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "19:00",
-                "21:30"
+                "16:30",
+                "19:00"
               ]
             }
           ],
           "horarios": [
-            "19:00",
-            "21:30"
+            "16:30",
+            "19:00"
           ]
         },
         {
@@ -180,16 +184,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:10",
-                "19:50",
-                "22:30"
+                "18:00",
+                "20:40",
+                "22:10"
               ]
             }
           ],
           "horarios": [
-            "17:10",
-            "19:50",
-            "22:30"
+            "18:00",
+            "20:40",
+            "22:10"
           ]
         },
         {
@@ -224,8 +228,8 @@
       "tmdb": {
         "tmdb_id": 1286656,
         "titulo_tmdb": "Yo soy Rocky",
-        "voto": 8.5,
-        "votos": 53,
+        "voto": 8.4,
+        "votos": 55,
         "url_tmdb": "https://www.themoviedb.org/movie/1286656",
         "imdb_id": "tt11995650",
         "url_imdb": "https://www.imdb.com/title/tt11995650/",
@@ -288,12 +292,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "15:05"
+                "14:50"
               ]
             }
           ],
           "horarios": [
-            "15:05"
+            "14:50"
           ]
         },
         {
@@ -378,8 +382,8 @@
       }
     },
     {
-      "titulo": "Ebenezer",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/11/ebenezer-48065-0.webp",
+      "titulo": "La Nueva Focker",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/11/la-nueva-focker-48095-0.webp",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
@@ -389,78 +393,77 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "16:45"
+                "21:30"
               ]
             }
           ],
           "horarios": [
-            "16:45"
+            "21:30"
           ]
         }
       ],
       "genero": "Comedia",
-      "duracion": "115 minutos",
-      "clasificacion": "7 Años",
-      "director": "Ti West",
-      "actores": "Johnny Depp, Rupert Grint, Daisy Ridley, Ian McKellen, Andrea Riseborough, Sam Claflin",
+      "duracion": "105 minutos",
+      "clasificacion": "12 Años",
+      "director": "John Hamburg",
+      "actores": "Robert De Niro, Ben Stiller, Ariana Grande, Skyler Gisondo, Beanie Feldstein, Owen Wilson, Blythe Danner, Teri Polo, Dustin Hoffman",
       "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/ebenezer-12371_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Ebenezer%20trailer%20espanol",
-      "sinopsis": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
+      "ficha": "https://www.carteleracine.pe/cajamarca/la-nueva-focker-12381_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=La%20Nueva%20Focker%20trailer%20espanol",
+      "sinopsis": "Henry, hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él.",
       "puntaje": "",
       "tmdb": {
-        "tmdb_id": 1567605,
-        "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
-        "voto": 7.5,
-        "votos": 135,
-        "url_tmdb": "https://www.themoviedb.org/movie/1567605",
-        "imdb_id": "tt38773219",
-        "url_imdb": "https://www.imdb.com/title/tt38773219/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
-        "director": "Ti West",
+        "tmdb_id": 1400336,
+        "titulo_tmdb": "Ahora los suegros son ellos",
+        "voto": 7.0,
+        "votos": 2,
+        "url_tmdb": "https://www.themoviedb.org/movie/1400336",
+        "imdb_id": "tt34966140",
+        "url_imdb": "https://www.imdb.com/title/tt34966140/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/iU2XxFhMxC5Z2gOPASkRmtuDjJQ.jpg",
+        "director": "John Hamburg",
         "reparto": [
           {
-            "nombre": "Johnny Depp",
-            "personaje": "Ebenezer Scrooge"
+            "nombre": "Ben Stiller",
+            "personaje": "Greg Focker"
           },
           {
-            "nombre": "Rupert Grint",
-            "personaje": "Bob Cratchit"
+            "nombre": "Robert De Niro",
+            "personaje": "Jack Byrnes"
           },
           {
-            "nombre": "Daisy Ridley",
-            "personaje": "Clara"
+            "nombre": "Ariana Grande",
+            "personaje": "Olivia Jones"
           },
           {
-            "nombre": "Ian McKellen",
-            "personaje": "Jacob Marley"
+            "nombre": "Skyler Gisondo",
+            "personaje": "Henry Focker"
           },
           {
-            "nombre": "Andrea Riseborough",
-            "personaje": "Ghost of Christmas Past"
+            "nombre": "Owen Wilson",
+            "personaje": "Kevin Rawley"
           },
           {
-            "nombre": "Sam Claflin",
-            "personaje": "Fred"
+            "nombre": "Blythe Danner",
+            "personaje": "Dina Byrnes"
           }
         ],
         "generos": [
-          "Fantasía",
-          "Comedia"
+          "Comedia",
+          "Romance"
         ],
         "trailer": {
-          "url": "https://www.youtube.com/watch?v=H8awcDUhl84",
-          "embed_id": "H8awcDUhl84"
+          "url": "https://www.youtube.com/watch?v=j0MROuSV-pA",
+          "embed_id": "j0MROuSV-pA"
         },
-        "sinopsis_tmdb": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-        "estreno": "11 nov 2026",
-        "duracion_min": 115,
+        "sinopsis_tmdb": "Henry, hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él.",
+        "estreno": "21 nov 2026",
+        "duracion_min": 105,
         "paises": [
-          "Estados Unidos",
-          "Reino Unido"
+          "Estados Unidos"
         ],
         "idioma": "Inglés",
-        "titulo_original": "Ebenezer"
+        "titulo_original": "Focker In-Law"
       }
     },
     {
@@ -494,12 +497,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "18:40"
+                "15:10"
               ]
             }
           ],
           "horarios": [
-            "18:40"
+            "15:10"
           ]
         },
         {
@@ -533,7 +536,7 @@
         "tmdb_id": 1381071,
         "titulo_tmdb": "Godzilla Minus Zero",
         "voto": 7.7,
-        "votos": 276,
+        "votos": 277,
         "url_tmdb": "https://www.themoviedb.org/movie/1381071",
         "imdb_id": "tt34384661",
         "url_imdb": "https://www.imdb.com/title/tt34384661/",
@@ -594,16 +597,14 @@
           "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
           "formatos": [
             {
-              "formato": "Doblada",
+              "formato": "",
               "horarios": [
-                "08:00",
-                "10:00"
+                "14:30"
               ]
             }
           ],
           "horarios": [
-            "08:00",
-            "10:00"
+            "14:30"
           ]
         }
       ],
@@ -708,14 +709,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "18:50",
-                "21:30"
+                "19:00",
+                "21:40"
               ]
             }
           ],
           "horarios": [
-            "18:50",
-            "21:30"
+            "19:00",
+            "21:40"
           ]
         }
       ],
@@ -784,177 +785,63 @@
       }
     },
     {
-      "titulo": "Toy Story 5",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/5/toy-story-5-47403-0.webp",
+      "titulo": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWIN",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003155?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "genero": "Concierto",
+      "clasificacion": "+14",
+      "duracion": "195 min",
+      "director": "Ha Jung-jae",
+      "actores": "",
+      "estreno": "",
+      "sinopsis": "El viaje que bate récords sigue adelante, ya que la gira de BTS por Asia, que está haciendo historia, llega a la pantalla grande.\r\n\r\nÚnete al rugido de la multitud en Kaohsiung este noviembre y disfruta de las impresionantes presentaciones y la energía electrizante de la gira de estadios de BTS.\r\n\r\nNo te pierdas la oportunidad de ver BTS WORLD TOUR 'ARIRANG' en todo su esplendor en los cines de to",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "https://www.youtube.com/watch?v=xzTFYPnoum8",
+      "fuente_peli": "Cineplanet",
       "cines": [
         {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
           "formatos": [
             {
-              "formato": "Doblada",
+              "formato": "2D REGULAR SUBTITULAD",
               "horarios": [
-                "09:30"
+                "14:00",
+                "18:15"
               ]
             }
           ],
           "horarios": [
-            "09:30"
+            "14:00",
+            "18:15"
           ]
         }
       ],
-      "genero": "Animado",
-      "duracion": "102 minutos",
-      "clasificacion": "Todos",
-      "director": "Andrew Stanton",
-      "actores": "Tom Hanks, Tim Allen, Joan Cusack, Greta Lee, Conan O'Brien, Tony Hale, Craig Robinson, Shelby Rabara, Scarlett Spears",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/toy-story-5-12119_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Toy%20Story%205%20trailer%20espanol",
-      "sinopsis": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "puntaje": "",
       "tmdb": {
-        "tmdb_id": 1084244,
-        "titulo_tmdb": "Toy Story 5",
-        "voto": 8.2,
-        "votos": 2907,
-        "url_tmdb": "https://www.themoviedb.org/movie/1084244",
-        "imdb_id": "tt29355505",
-        "url_imdb": "https://www.imdb.com/title/tt29355505/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-        "director": "Andrew Stanton",
-        "reparto": [
-          {
-            "nombre": "Joan Cusack",
-            "personaje": "Jessie (voice)"
-          },
-          {
-            "nombre": "Tom Hanks",
-            "personaje": "Woody (voice)"
-          },
-          {
-            "nombre": "Tim Allen",
-            "personaje": "Buzz Lightyear (voice)"
-          },
-          {
-            "nombre": "Conan O'Brien",
-            "personaje": "Smarty Pants (voice)"
-          },
-          {
-            "nombre": "Scarlett Spears",
-            "personaje": "Bonnie (voice)"
-          },
-          {
-            "nombre": "Greta Lee",
-            "personaje": "Lilypad (voice)"
-          }
-        ],
+        "tmdb_id": 1820083,
+        "titulo_tmdb": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING",
+        "voto": null,
+        "votos": 0,
+        "url_tmdb": "https://www.themoviedb.org/movie/1820083",
+        "imdb_id": "tt50486016",
+        "url_imdb": "https://www.imdb.com/title/tt50486016/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/kbwAR849GqMmZs01Uwm5MXL6CWd.jpg",
+        "director": "Ha Jung-jae",
+        "reparto": [],
         "generos": [
-          "Animación",
-          "Familia",
-          "Comedia",
-          "Aventura"
+          "Música"
         ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=9_reo5Jl1OM",
-          "embed_id": "9_reo5Jl1OM"
-        },
-        "sinopsis_tmdb": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-        "estreno": "17 jun 2026",
-        "duracion_min": 102,
-        "paises": [
-          "Estados Unidos"
-        ],
+        "trailer": {},
+        "sinopsis_tmdb": "",
+        "estreno": "21 nov 2026",
+        "duracion_min": 195,
+        "paises": [],
         "idioma": "Inglés",
-        "titulo_original": "Toy Story 5"
-      }
-    },
-    {
-      "titulo": "Madagascar",
-      "poster": "https://cdn.carteleracine.pe/cine/2006/2/madagascar-45946-0.webp",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "10:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "10:30"
-          ]
-        }
-      ],
-      "genero": "Animado",
-      "duracion": "86 minutos",
-      "clasificacion": "Todos",
-      "director": "Eric Darnell, Tom McGrath",
-      "actores": "Animación",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/madagascar-1403_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Madagascar%20trailer%20espanol",
-      "sinopsis": "Cuenta la historia de cuatro divertidos animales del zoo de Central Park, Nueva York, (Alex el león, Marty la cebra, Gloria la hipopótamo y Melman la jirafa). Llevan toda su vida encerrados en cautividad sin poder experiemtnar el sabor de la libertad y se han propuesto idear un plan para salir de allí juntos. Un día, una serie de casualidades les llevan a lograr lo que tanto ansiaban y huyen de aquel lugar. Terminan en plena naturaleza, concretamente en la idílica isla de Madagascar. Allí descubrirán, a base de apasionantes aventuras, que la vida salvaje es muy diferente a lo que ellos pensaban y que vivir en libertad no es tan fácil como imaginaban.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 953,
-        "titulo_tmdb": "Madagascar",
-        "voto": 6.9,
-        "votos": 12177,
-        "url_tmdb": "https://www.themoviedb.org/movie/953",
-        "imdb_id": "tt0351283",
-        "url_imdb": "https://www.imdb.com/title/tt0351283/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/zrV5GnfCcLWzyjrFgYTpjQPRMfl.jpg",
-        "director": "Eric Darnell, Tom McGrath",
-        "reparto": [
-          {
-            "nombre": "Ben Stiller",
-            "personaje": "Alex (voice)"
-          },
-          {
-            "nombre": "Chris Rock",
-            "personaje": "Marty (voice)"
-          },
-          {
-            "nombre": "David Schwimmer",
-            "personaje": "Melman (voice)"
-          },
-          {
-            "nombre": "Jada Pinkett Smith",
-            "personaje": "Gloria (voice)"
-          },
-          {
-            "nombre": "Sacha Baron Cohen",
-            "personaje": "King Julien (voice)"
-          },
-          {
-            "nombre": "Cedric the Entertainer",
-            "personaje": "Maurice (voice)"
-          }
-        ],
-        "generos": [
-          "Aventura",
-          "Animación",
-          "Comedia",
-          "Familia"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=RZFaaamXo8A",
-          "embed_id": "RZFaaamXo8A"
-        },
-        "sinopsis_tmdb": "Cuenta la historia de cuatro divertidos animales del zoo de Central Park, Nueva York, (Alex el león, Marty la cebra, Gloria la hipopótamo y Melman la jirafa). Llevan toda su vida encerrados en cautividad sin poder experiemtnar el sabor de la libertad y se han propuesto idear un plan para salir de allí juntos. Un día, una serie de casualidades les llevan a lograr lo que tanto ansiaban y huyen de aquel lugar. Terminan en plena naturaleza, concretamente en la idílica isla de Madagascar. Allí descubrirán, a base de apasionantes aventuras, que la vida salvaje es muy diferente a lo que ellos pensaban y que vivir en libertad no es tan fácil como imaginaban.",
-        "estreno": "25 may 2005",
-        "duracion_min": 85,
-        "paises": [
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Madagascar"
+        "titulo_original": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING"
       }
     },
     {
@@ -983,12 +870,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "21:40"
+                "14:00",
+                "16:30"
               ]
             }
           ],
           "horarios": [
-            "21:40"
+            "14:00",
+            "16:30"
           ]
         }
       ],
@@ -996,7 +885,7 @@
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
         "voto": 7.5,
-        "votos": 136,
+        "votos": 138,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -1202,7 +1091,7 @@
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
         "voto": 7.5,
-        "votos": 136,
+        "votos": 139,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -1382,14 +1271,14 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "19:00",
-                "21:30"
+                "16:30",
+                "19:00"
               ]
             }
           ],
           "horarios": [
-            "19:00",
-            "21:30"
+            "16:30",
+            "19:00"
           ]
         },
         {
@@ -1401,29 +1290,29 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "15:05"
+                "14:50"
               ]
             }
           ],
           "horarios": [
-            "15:05"
+            "14:50"
           ]
         },
         {
-          "titulo": "Ebenezer",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/11/ebenezer-48065-0.webp",
+          "titulo": "La Nueva Focker",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/11/la-nueva-focker-48095-0.webp",
           "genero": "Comedia",
-          "clasificacion": "7 Años",
+          "clasificacion": "12 Años",
           "formatos": [
             {
               "formato": "Doblada",
               "horarios": [
-                "16:45"
+                "21:30"
               ]
             }
           ],
           "horarios": [
-            "16:45"
+            "21:30"
           ]
         },
         {
@@ -1450,16 +1339,14 @@
           "clasificacion": "7 Años",
           "formatos": [
             {
-              "formato": "Doblada",
+              "formato": "",
               "horarios": [
-                "08:00",
-                "10:00"
+                "14:30"
               ]
             }
           ],
           "horarios": [
-            "08:00",
-            "10:00"
+            "14:30"
           ]
         },
         {
@@ -1480,40 +1367,6 @@
             "19:20",
             "21:45"
           ]
-        },
-        {
-          "titulo": "Toy Story 5",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/5/toy-story-5-47403-0.webp",
-          "genero": "Animado",
-          "clasificacion": "Todos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "09:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "09:30"
-          ]
-        },
-        {
-          "titulo": "Madagascar",
-          "poster": "https://cdn.carteleracine.pe/cine/2006/2/madagascar-45946-0.webp",
-          "genero": "Animado",
-          "clasificacion": "Todos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "10:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "10:30"
-          ]
         }
       ],
       "cine_original": "CAJAMARCA - MOVIE TIME"
@@ -1527,6 +1380,25 @@
       "fuente_cine": "Cineplanet",
       "peliculas": [
         {
+          "titulo": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWIN",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003155?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Concierto",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR SUBTITULAD",
+              "horarios": [
+                "14:00",
+                "18:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:00",
+            "18:15"
+          ]
+        },
+        {
           "titulo": "Ebenezer Los Fantasmas de la Navidad",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003070?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Drama",
@@ -1535,12 +1407,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "21:40"
+                "14:00",
+                "16:30"
               ]
             }
           ],
           "horarios": [
-            "21:40"
+            "14:00",
+            "16:30"
           ]
         },
         {
@@ -1552,12 +1426,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "18:40"
+                "15:10"
               ]
             }
           ],
           "horarios": [
-            "18:40"
+            "15:10"
           ]
         },
         {
@@ -1569,14 +1443,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "18:50",
-                "21:30"
+                "19:00",
+                "21:40"
               ]
             }
           ],
           "horarios": [
-            "18:50",
-            "21:30"
+            "19:00",
+            "21:40"
           ]
         },
         {
@@ -1588,18 +1462,22 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "18:10",
-                "19:00",
-                "21:20",
-                "22:10"
+                "14:30",
+                "16:00",
+                "17:40",
+                "19:10",
+                "21:00",
+                "22:20"
               ]
             }
           ],
           "horarios": [
-            "18:10",
-            "19:00",
-            "21:20",
-            "22:10"
+            "14:30",
+            "16:00",
+            "17:40",
+            "19:10",
+            "21:00",
+            "22:20"
           ]
         },
         {
@@ -1611,16 +1489,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:10",
-                "19:50",
-                "22:30"
+                "18:00",
+                "20:40",
+                "22:10"
               ]
             }
           ],
           "horarios": [
-            "17:10",
-            "19:50",
-            "22:30"
+            "18:00",
+            "20:40",
+            "22:10"
           ]
         }
       ],
