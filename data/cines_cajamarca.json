@@ -2,7 +2,7 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-11-20 15:00",
+  "actualizado": "2026-11-20 22:07",
   "fecha_objetivo": "2026-11-20",
   "peliculas": [
     {
@@ -40,8 +40,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:00",
-                "15:50",
                 "18:10",
                 "19:00",
                 "21:20",
@@ -50,8 +48,6 @@
             }
           ],
           "horarios": [
-            "15:00",
-            "15:50",
             "18:10",
             "19:00",
             "21:20",
@@ -112,11 +108,11 @@
           },
           {
             "nombre": "Mckenna Grace",
-            "personaje": "Maysilee Donner / Merrilee Donner"
+            "personaje": "Maysilee / Merrilee Donner"
           },
           {
             "nombre": "Ralph Fiennes",
-            "personaje": "President Coriolanus Snow"
+            "personaje": "President Snow"
           },
           {
             "nombre": "Jesse Plemons",
@@ -128,7 +124,7 @@
           },
           {
             "nombre": "Whitney Peak",
-            "personaje": "Lenore Dove Baird"
+            "personaje": "Lenore Dove"
           }
         ],
         "generos": [
@@ -229,7 +225,7 @@
         "tmdb_id": 1286656,
         "titulo_tmdb": "Yo soy Rocky",
         "voto": 8.5,
-        "votos": 50,
+        "votos": 53,
         "url_tmdb": "https://www.themoviedb.org/movie/1286656",
         "imdb_id": "tt11995650",
         "url_imdb": "https://www.imdb.com/title/tt11995650/",
@@ -301,25 +297,6 @@
           ]
         },
         {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "14:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:20"
-          ]
-        },
-        {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
           "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
@@ -345,8 +322,8 @@
       "actores": "Pål Sverre Hagen, Sara Khorami, Vegard Strand Eide, Flo Fagerli, Jon Øigarden, Jakob Oftebro, Vivild Falk Berg, Charlotte Frogner y Jonis Josef.",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/ratoncitos-en-apuros-12379_252",
-      "trailer_url": "https://youtu.be/P2KCnUwLc0c?si=7MRNQTFBJDo4H0TL",
-      "sinopsis": "Una familia de humanos, cansada del ruido y el ritmo de la ciudad, decide buscar paz y tranquilidad en el campo. Pero al instalarse en una antigua casa aparentemente abandonada, invade accidentalmente el hogar de otra familia: ¡una familia de ratones! Los pequeños habitantes no están dispuestos a renunciar a su casa. Decididos a defender su territorio, pondrán en marcha todo tipo de ingeniosos pla",
+      "trailer_url": "https://www.youtube.com/results?search_query=Ratoncitos%20en%20Apuros%20trailer%20espanol",
+      "sinopsis": "Una familia acude a la casa abandonada de su tía para celebrar la Navidad en el campo, sin saber que una familia de ratones ya habita la casa, y no les interesan las visitas. Así que sólo queda una cosa por hacer: poner trampas, estar atentos y defenderse.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1427833,
@@ -435,7 +412,7 @@
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
         "voto": 7.5,
-        "votos": 130,
+        "votos": 135,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -556,7 +533,7 @@
         "tmdb_id": 1381071,
         "titulo_tmdb": "Godzilla Minus Zero",
         "voto": 7.7,
-        "votos": 272,
+        "votos": 276,
         "url_tmdb": "https://www.themoviedb.org/movie/1381071",
         "imdb_id": "tt34384661",
         "url_imdb": "https://www.imdb.com/title/tt34384661/",
@@ -731,14 +708,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:10",
                 "18:50",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "16:10",
             "18:50",
             "21:30"
           ]
@@ -809,6 +784,180 @@
       }
     },
     {
+      "titulo": "Toy Story 5",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/5/toy-story-5-47403-0.webp",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "09:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "09:30"
+          ]
+        }
+      ],
+      "genero": "Animado",
+      "duracion": "102 minutos",
+      "clasificacion": "Todos",
+      "director": "Andrew Stanton",
+      "actores": "Tom Hanks, Tim Allen, Joan Cusack, Greta Lee, Conan O'Brien, Tony Hale, Craig Robinson, Shelby Rabara, Scarlett Spears",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/toy-story-5-12119_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Toy%20Story%205%20trailer%20espanol",
+      "sinopsis": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1084244,
+        "titulo_tmdb": "Toy Story 5",
+        "voto": 8.2,
+        "votos": 2907,
+        "url_tmdb": "https://www.themoviedb.org/movie/1084244",
+        "imdb_id": "tt29355505",
+        "url_imdb": "https://www.imdb.com/title/tt29355505/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
+        "director": "Andrew Stanton",
+        "reparto": [
+          {
+            "nombre": "Joan Cusack",
+            "personaje": "Jessie (voice)"
+          },
+          {
+            "nombre": "Tom Hanks",
+            "personaje": "Woody (voice)"
+          },
+          {
+            "nombre": "Tim Allen",
+            "personaje": "Buzz Lightyear (voice)"
+          },
+          {
+            "nombre": "Conan O'Brien",
+            "personaje": "Smarty Pants (voice)"
+          },
+          {
+            "nombre": "Scarlett Spears",
+            "personaje": "Bonnie (voice)"
+          },
+          {
+            "nombre": "Greta Lee",
+            "personaje": "Lilypad (voice)"
+          }
+        ],
+        "generos": [
+          "Animación",
+          "Familia",
+          "Comedia",
+          "Aventura"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=9_reo5Jl1OM",
+          "embed_id": "9_reo5Jl1OM"
+        },
+        "sinopsis_tmdb": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+        "estreno": "17 jun 2026",
+        "duracion_min": 102,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Toy Story 5"
+      }
+    },
+    {
+      "titulo": "Madagascar",
+      "poster": "https://cdn.carteleracine.pe/cine/2006/2/madagascar-45946-0.webp",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "10:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "10:30"
+          ]
+        }
+      ],
+      "genero": "Animado",
+      "duracion": "86 minutos",
+      "clasificacion": "Todos",
+      "director": "Eric Darnell, Tom McGrath",
+      "actores": "Animación",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/madagascar-1403_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Madagascar%20trailer%20espanol",
+      "sinopsis": "Cuenta la historia de cuatro divertidos animales del zoo de Central Park, Nueva York, (Alex el león, Marty la cebra, Gloria la hipopótamo y Melman la jirafa). Llevan toda su vida encerrados en cautividad sin poder experiemtnar el sabor de la libertad y se han propuesto idear un plan para salir de allí juntos. Un día, una serie de casualidades les llevan a lograr lo que tanto ansiaban y huyen de aquel lugar. Terminan en plena naturaleza, concretamente en la idílica isla de Madagascar. Allí descubrirán, a base de apasionantes aventuras, que la vida salvaje es muy diferente a lo que ellos pensaban y que vivir en libertad no es tan fácil como imaginaban.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 953,
+        "titulo_tmdb": "Madagascar",
+        "voto": 6.9,
+        "votos": 12177,
+        "url_tmdb": "https://www.themoviedb.org/movie/953",
+        "imdb_id": "tt0351283",
+        "url_imdb": "https://www.imdb.com/title/tt0351283/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/zrV5GnfCcLWzyjrFgYTpjQPRMfl.jpg",
+        "director": "Eric Darnell, Tom McGrath",
+        "reparto": [
+          {
+            "nombre": "Ben Stiller",
+            "personaje": "Alex (voice)"
+          },
+          {
+            "nombre": "Chris Rock",
+            "personaje": "Marty (voice)"
+          },
+          {
+            "nombre": "David Schwimmer",
+            "personaje": "Melman (voice)"
+          },
+          {
+            "nombre": "Jada Pinkett Smith",
+            "personaje": "Gloria (voice)"
+          },
+          {
+            "nombre": "Sacha Baron Cohen",
+            "personaje": "King Julien (voice)"
+          },
+          {
+            "nombre": "Cedric the Entertainer",
+            "personaje": "Maurice (voice)"
+          }
+        ],
+        "generos": [
+          "Aventura",
+          "Animación",
+          "Comedia",
+          "Familia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=RZFaaamXo8A",
+          "embed_id": "RZFaaamXo8A"
+        },
+        "sinopsis_tmdb": "Cuenta la historia de cuatro divertidos animales del zoo de Central Park, Nueva York, (Alex el león, Marty la cebra, Gloria la hipopótamo y Melman la jirafa). Llevan toda su vida encerrados en cautividad sin poder experiemtnar el sabor de la libertad y se han propuesto idear un plan para salir de allí juntos. Un día, una serie de casualidades les llevan a lograr lo que tanto ansiaban y huyen de aquel lugar. Terminan en plena naturaleza, concretamente en la idílica isla de Madagascar. Allí descubrirán, a base de apasionantes aventuras, que la vida salvaje es muy diferente a lo que ellos pensaban y que vivir en libertad no es tan fácil como imaginaban.",
+        "estreno": "25 may 2005",
+        "duracion_min": 85,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Madagascar"
+      }
+    },
+    {
       "titulo": "Ebenezer Los Fantasmas de la Navidad",
       "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003070?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "genero": "Drama",
@@ -834,13 +983,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
                 "21:40"
               ]
             }
           ],
           "horarios": [
-            "16:00",
             "21:40"
           ]
         }
@@ -849,7 +996,7 @@
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
         "voto": 7.5,
-        "votos": 134,
+        "votos": 136,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -1021,7 +1168,7 @@
       "titulo": "Ebenezer: Los Fantasmas de Navidad",
       "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/ebenezer-321560689-large.jpg",
       "genero": "Comedia",
-      "clasificacion": "Mayores de 14",
+      "clasificacion": "Todo Espectador",
       "duracion": "01:57",
       "sinopsis": "Reimaginación del Clásico Literario, una Historia de Fantasmas Ambientada en el Londres de Dickens Que Sigue el Viaje Sobrenatural de un Hombre Para Enfrentarse a Su Pasado, Presente y Futuro y Luchar Por una Segunda Oportunidad.",
       "director": "Ti West",
@@ -1055,7 +1202,7 @@
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
         "voto": 7.5,
-        "votos": 134,
+        "votos": 136,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -1333,6 +1480,40 @@
             "19:20",
             "21:45"
           ]
+        },
+        {
+          "titulo": "Toy Story 5",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/5/toy-story-5-47403-0.webp",
+          "genero": "Animado",
+          "clasificacion": "Todos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "09:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "09:30"
+          ]
+        },
+        {
+          "titulo": "Madagascar",
+          "poster": "https://cdn.carteleracine.pe/cine/2006/2/madagascar-45946-0.webp",
+          "genero": "Animado",
+          "clasificacion": "Todos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "10:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "10:30"
+          ]
         }
       ],
       "cine_original": "CAJAMARCA - MOVIE TIME"
@@ -1354,13 +1535,11 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
                 "21:40"
               ]
             }
           ],
           "horarios": [
-            "16:00",
             "21:40"
           ]
         },
@@ -1390,14 +1569,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:10",
                 "18:50",
                 "21:30"
               ]
             }
           ],
           "horarios": [
-            "16:10",
             "18:50",
             "21:30"
           ]
@@ -1411,8 +1588,6 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:00",
-                "15:50",
                 "18:10",
                 "19:00",
                 "21:20",
@@ -1421,29 +1596,10 @@
             }
           ],
           "horarios": [
-            "15:00",
-            "15:50",
             "18:10",
             "19:00",
             "21:20",
             "22:10"
-          ]
-        },
-        {
-          "titulo": "Ratoncitos en Apuros",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003120?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Familiar",
-          "clasificacion": "APT",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "14:20"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:20"
           ]
         },
         {
@@ -1530,7 +1686,7 @@
           "titulo": "Ebenezer: Los Fantasmas de Navidad",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/ebenezer-321560689-large.jpg",
           "genero": "Comedia",
-          "clasificacion": "Mayores de 14",
+          "clasificacion": "Todo Espectador",
           "duracion": "01:57",
           "sinopsis": "Reimaginación del Clásico Literario, una Historia de Fantasmas Ambientada en el Londres de Dickens Que Sigue el Viaje Sobrenatural de un Hombre Para Enfrentarse a Su Pasado, Presente y Futuro y Luchar Por una Segunda Oportunidad.",
           "formatos": [
@@ -1551,7 +1707,7 @@
           "titulo": "Godzilla Minus Zero",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/gojira_mainasu_zero-757830996-large.jpg",
           "genero": "Accion",
-          "clasificacion": "Mayores de 16",
+          "clasificacion": "Mayores de 14",
           "duracion": "02:15",
           "sinopsis": "Secuela de 'Godzilla Minus One' (2023). La Guerra Dejó a Japón en la Ruina. Godzilla Lo Hundió Aún Más. Han Pasado Dos Años Desde Entonces y el País Sigue Luchando Por Reconstruirse y Volver, Por Fin, a la Normalidad. Cuando la Humanidad Apenas Empezaba a Recuperar la Paz, una Nueva Amenaza Irrumpe y Hace Añicos Toda Esperanza en un Instante. No Habrá una Tercera Oportunidad. Aquí Termina Todo.",
           "formatos": [
@@ -1595,7 +1751,7 @@
           "titulo": "Los Juegos Del Hambre: Amanecer En La Cosecha",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/the_hunger_games_sunrise_on_the_reaping-898198562-large.jpg",
           "genero": "Accion",
-          "clasificacion": "Mayores de 16",
+          "clasificacion": "Todo Espectador",
           "duracion": "02:40",
           "sinopsis": "El Mundo de Panem 24 Años Antes de los Acontecimientos de la Primera Película, Comenzando en la Mañana de la Cosecha de los 50º Juegos del Hambre, También Denominados Como el Segundo Vasallaje de los Veinticinco. Allí Participa un Joven Haymitch Abernathy.",
           "formatos": [
@@ -1645,7 +1801,7 @@
           "titulo": "Yo Soy Rocky",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/i_play_rocky-183239464-large.jpg",
           "genero": "Drama",
-          "clasificacion": "Mayores de 16",
+          "clasificacion": "Mayores de 14",
           "duracion": "02:08",
           "sinopsis": "Sylvester Stallone (Ippolito) Sueña Con Ser Actor, Pero Creció en la Pobreza, Yendo de una Casa a Otra, E Incluso Llegó a Vivir en la Calle. Ahora, Con Veintitantos Años, Lo Más Cerca Que Ha Estado de la Gran Pantalla Es Actuando en una Película Porno y Trabajando Como Acomodador. Un Día, Viendo a Muhammad Ali Pelear Contra Chuck Wepner, Le Llega la Inspiración: En Unos Días de Frenética Actividad",
           "formatos": [
