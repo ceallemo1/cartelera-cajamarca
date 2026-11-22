@@ -2,8 +2,8 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-11-21 14:05",
-  "fecha_objetivo": "2026-11-21",
+  "actualizado": "2026-11-22 14:28",
+  "fecha_objetivo": "2026-11-22",
   "peliculas": [
     {
       "titulo": "Los Juegos Del Hambre: Amanecer En La Cosecha",
@@ -40,22 +40,22 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:30",
-                "16:00",
-                "17:40",
-                "19:10",
-                "21:00",
-                "22:20"
+                "15:00",
+                "15:50",
+                "18:10",
+                "19:00",
+                "21:20",
+                "22:10"
               ]
             }
           ],
           "horarios": [
-            "14:30",
-            "16:00",
-            "17:40",
-            "19:10",
-            "21:00",
-            "22:20"
+            "15:00",
+            "15:50",
+            "18:10",
+            "19:00",
+            "21:20",
+            "22:10"
           ]
         },
         {
@@ -89,7 +89,7 @@
       "duracion": "150 minutos",
       "clasificacion": "12 Años",
       "director": "Francis Lawrence",
-      "actores": "Joseph Zada, Mckenna Grace, Ralph Fiennes, Jesse Plemons, Glenn Close, Whitney Peak",
+      "actores": "Joseph Zada, Jesse Plemons, Ralph Fiennes, Glenn Close, Mckenna Grace, Whitney Peak",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/los-juegos-del-hambre-amanecer-en-la-cosecha-12283_252",
       "trailer_url": "https://www.youtube.com/watch?v=pZQ4KJiW6VI",
@@ -99,7 +99,7 @@
         "tmdb_id": 1300968,
         "titulo_tmdb": "Los Juegos del Hambre: Amanecer en la cosecha",
         "voto": 7.6,
-        "votos": 149,
+        "votos": 197,
         "url_tmdb": "https://www.themoviedb.org/movie/1300968",
         "imdb_id": "tt32558705",
         "url_imdb": "https://www.imdb.com/title/tt32558705/",
@@ -111,20 +111,20 @@
             "personaje": "Haymitch Abernathy"
           },
           {
-            "nombre": "Mckenna Grace",
-            "personaje": "Maysilee / Merrilee Donner"
+            "nombre": "Jesse Plemons",
+            "personaje": "Plutarch Heavensbee"
           },
           {
             "nombre": "Ralph Fiennes",
             "personaje": "President Snow"
           },
           {
-            "nombre": "Jesse Plemons",
-            "personaje": "Plutarch Heavensbee"
-          },
-          {
             "nombre": "Glenn Close",
             "personaje": "Drusilla Sickle"
+          },
+          {
+            "nombre": "Mckenna Grace",
+            "personaje": "Maysilee / Merrilee Donner"
           },
           {
             "nombre": "Whitney Peak",
@@ -184,16 +184,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "18:00",
-                "20:40",
-                "22:10"
+                "17:10",
+                "19:50",
+                "22:30"
               ]
             }
           ],
           "horarios": [
-            "18:00",
-            "20:40",
-            "22:10"
+            "17:10",
+            "19:50",
+            "22:30"
           ]
         },
         {
@@ -229,7 +229,7 @@
         "tmdb_id": 1286656,
         "titulo_tmdb": "Yo soy Rocky",
         "voto": 8.4,
-        "votos": 55,
+        "votos": 60,
         "url_tmdb": "https://www.themoviedb.org/movie/1286656",
         "imdb_id": "tt11995650",
         "url_imdb": "https://www.imdb.com/title/tt11995650/",
@@ -301,6 +301,25 @@
           ]
         },
         {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:20"
+          ]
+        },
+        {
           "cine": "Cinerama Cajamarca MegaPlaza",
           "cine_slug": "cinerama-cajamarca-megaplaza",
           "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
@@ -326,8 +345,8 @@
       "actores": "Pål Sverre Hagen, Sara Khorami, Vegard Strand Eide, Flo Fagerli, Jon Øigarden, Jakob Oftebro, Vivild Falk Berg, Charlotte Frogner y Jonis Josef.",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/ratoncitos-en-apuros-12379_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Ratoncitos%20en%20Apuros%20trailer%20espanol",
-      "sinopsis": "Una familia acude a la casa abandonada de su tía para celebrar la Navidad en el campo, sin saber que una familia de ratones ya habita la casa, y no les interesan las visitas. Así que sólo queda una cosa por hacer: poner trampas, estar atentos y defenderse.",
+      "trailer_url": "https://youtu.be/P2KCnUwLc0c?si=7MRNQTFBJDo4H0TL",
+      "sinopsis": "Una familia de humanos, cansada del ruido y el ritmo de la ciudad, decide buscar paz y tranquilidad en el campo. Pero al instalarse en una antigua casa aparentemente abandonada, invade accidentalmente el hogar de otra familia: ¡una familia de ratones! Los pequeños habitantes no están dispuestos a renunciar a su casa. Decididos a defender su territorio, pondrán en marcha todo tipo de ingeniosos pla",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1427833,
@@ -497,12 +516,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:10"
+                "18:40"
               ]
             }
           ],
           "horarios": [
-            "15:10"
+            "18:40"
           ]
         },
         {
@@ -536,7 +555,7 @@
         "tmdb_id": 1381071,
         "titulo_tmdb": "Godzilla Minus Zero",
         "voto": 7.7,
-        "votos": 277,
+        "votos": 286,
         "url_tmdb": "https://www.themoviedb.org/movie/1381071",
         "imdb_id": "tt34384661",
         "url_imdb": "https://www.imdb.com/title/tt34384661/",
@@ -552,12 +571,12 @@
             "personaje": "Noriko Shikishima"
           },
           {
-            "nombre": "田中泯",
-            "personaje": "Kanji Murakami"
-          },
-          {
             "nombre": "吉岡秀隆",
             "personaje": "Kenji Noda"
+          },
+          {
+            "nombre": "田中泯",
+            "personaje": "Kanji Murakami"
           },
           {
             "nombre": "Masami Nagasawa",
@@ -606,6 +625,25 @@
           "horarios": [
             "14:30"
           ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:40"
+          ]
         }
       ],
       "genero": "Animado",
@@ -615,14 +653,14 @@
       "actores": "Bill Hader, Xochitl Gomez y America Ferrera",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/el-gato-con-sombrero-12358_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=El%20Gato%20Con%20Sombrero%20trailer%20espanol",
-      "sinopsis": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+      "trailer_url": "https://youtu.be/O64eGC9l9Ig?si=rIXFgVkukXdxj0xT",
+      "sinopsis": "Haciendo lo que mejor sabe hacer, el Gato difunde alegría a los niños de una manera divertida, icónica y singularmente irreverente, llevándolos a ellos y a la audiencia en un viaje fantástico por un mundo que nunca han visto antes. En la película, nuestro héroe enfrenta su tarea más difícil hasta ahora para el I.I.I.I. (Instituto para la Institución de Imaginación e Inspiración, LLC): animar a Gab",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1117898,
         "titulo_tmdb": "El gato con sombrero",
-        "voto": 6.8,
-        "votos": 30,
+        "voto": 6.9,
+        "votos": 32,
         "url_tmdb": "https://www.themoviedb.org/movie/1117898",
         "imdb_id": "tt2321555",
         "url_imdb": "https://www.imdb.com/title/tt2321555/",
@@ -709,14 +747,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "19:00",
-                "21:40"
+                "16:10",
+                "18:50",
+                "21:30"
               ]
             }
           ],
           "horarios": [
-            "19:00",
-            "21:40"
+            "16:10",
+            "18:50",
+            "21:30"
           ]
         }
       ],
@@ -785,66 +825,6 @@
       }
     },
     {
-      "titulo": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWIN",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003155?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Concierto",
-      "clasificacion": "+14",
-      "duracion": "195 min",
-      "director": "Ha Jung-jae",
-      "actores": "",
-      "estreno": "",
-      "sinopsis": "El viaje que bate récords sigue adelante, ya que la gira de BTS por Asia, que está haciendo historia, llega a la pantalla grande.\r\n\r\nÚnete al rugido de la multitud en Kaohsiung este noviembre y disfruta de las impresionantes presentaciones y la energía electrizante de la gira de estadios de BTS.\r\n\r\nNo te pierdas la oportunidad de ver BTS WORLD TOUR 'ARIRANG' en todo su esplendor en los cines de to",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://www.youtube.com/watch?v=xzTFYPnoum8",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR SUBTITULAD",
-              "horarios": [
-                "14:00",
-                "18:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:00",
-            "18:15"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1820083,
-        "titulo_tmdb": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING",
-        "voto": null,
-        "votos": 0,
-        "url_tmdb": "https://www.themoviedb.org/movie/1820083",
-        "imdb_id": "tt50486016",
-        "url_imdb": "https://www.imdb.com/title/tt50486016/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/kbwAR849GqMmZs01Uwm5MXL6CWd.jpg",
-        "director": "Ha Jung-jae",
-        "reparto": [],
-        "generos": [
-          "Música"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "",
-        "estreno": "21 nov 2026",
-        "duracion_min": 195,
-        "paises": [],
-        "idioma": "Inglés",
-        "titulo_original": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING"
-      }
-    },
-    {
       "titulo": "Ebenezer Los Fantasmas de la Navidad",
       "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003070?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "genero": "Drama",
@@ -870,14 +850,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:00",
-                "16:30"
+                "16:00",
+                "21:40"
               ]
             }
           ],
           "horarios": [
-            "14:00",
-            "16:30"
+            "16:00",
+            "21:40"
           ]
         }
       ],
@@ -885,7 +865,7 @@
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
         "voto": 7.5,
-        "votos": 138,
+        "votos": 158,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -919,7 +899,8 @@
         ],
         "generos": [
           "Fantasía",
-          "Comedia"
+          "Drama",
+          "Terror"
         ],
         "trailer": {
           "url": "https://www.youtube.com/watch?v=H8awcDUhl84",
@@ -1091,7 +1072,7 @@
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
         "voto": 7.5,
-        "votos": 139,
+        "votos": 156,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -1125,7 +1106,8 @@
         ],
         "generos": [
           "Fantasía",
-          "Comedia"
+          "Drama",
+          "Terror"
         ],
         "trailer": {
           "url": "https://www.youtube.com/watch?v=H8awcDUhl84",
@@ -1380,25 +1362,6 @@
       "fuente_cine": "Cineplanet",
       "peliculas": [
         {
-          "titulo": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWIN",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003155?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Concierto",
-          "clasificacion": "+14",
-          "formatos": [
-            {
-              "formato": "2D REGULAR SUBTITULAD",
-              "horarios": [
-                "14:00",
-                "18:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:00",
-            "18:15"
-          ]
-        },
-        {
           "titulo": "Ebenezer Los Fantasmas de la Navidad",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003070?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Drama",
@@ -1407,14 +1370,31 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:00",
-                "16:30"
+                "16:00",
+                "21:40"
               ]
             }
           ],
           "horarios": [
-            "14:00",
-            "16:30"
+            "16:00",
+            "21:40"
+          ]
+        },
+        {
+          "titulo": "El Gato Con Sombrero",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003089?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Animación",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:40"
           ]
         },
         {
@@ -1426,12 +1406,12 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "15:10"
+                "18:40"
               ]
             }
           ],
           "horarios": [
-            "15:10"
+            "18:40"
           ]
         },
         {
@@ -1443,14 +1423,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "19:00",
-                "21:40"
+                "16:10",
+                "18:50",
+                "21:30"
               ]
             }
           ],
           "horarios": [
-            "19:00",
-            "21:40"
+            "16:10",
+            "18:50",
+            "21:30"
           ]
         },
         {
@@ -1462,22 +1444,39 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "14:30",
-                "16:00",
-                "17:40",
-                "19:10",
-                "21:00",
-                "22:20"
+                "15:00",
+                "15:50",
+                "18:10",
+                "19:00",
+                "21:20",
+                "22:10"
               ]
             }
           ],
           "horarios": [
-            "14:30",
-            "16:00",
-            "17:40",
-            "19:10",
-            "21:00",
-            "22:20"
+            "15:00",
+            "15:50",
+            "18:10",
+            "19:00",
+            "21:20",
+            "22:10"
+          ]
+        },
+        {
+          "titulo": "Ratoncitos en Apuros",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003120?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Familiar",
+          "clasificacion": "APT",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "14:20"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:20"
           ]
         },
         {
@@ -1489,16 +1488,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "18:00",
-                "20:40",
-                "22:10"
+                "17:10",
+                "19:50",
+                "22:30"
               ]
             }
           ],
           "horarios": [
-            "18:00",
-            "20:40",
-            "22:10"
+            "17:10",
+            "19:50",
+            "22:30"
           ]
         }
       ],
