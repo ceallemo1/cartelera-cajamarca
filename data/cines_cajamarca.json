@@ -2,8 +2,8 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-11-22 21:33",
-  "fecha_objetivo": "2026-11-22",
+  "actualizado": "2026-11-23 18:47",
+  "fecha_objetivo": "2026-11-23",
   "peliculas": [
     {
       "titulo": "Los Juegos Del Hambre: Amanecer En La Cosecha",
@@ -40,12 +40,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "18:10",
+                "19:00",
                 "21:20",
                 "22:10"
               ]
             }
           ],
           "horarios": [
+            "18:10",
+            "19:00",
             "21:20",
             "22:10"
           ]
@@ -91,7 +95,7 @@
         "tmdb_id": 1300968,
         "titulo_tmdb": "Los Juegos del Hambre: Amanecer en la cosecha",
         "voto": 7.8,
-        "votos": 221,
+        "votos": 267,
         "url_tmdb": "https://www.themoviedb.org/movie/1300968",
         "imdb_id": "tt32558705",
         "url_imdb": "https://www.imdb.com/title/tt32558705/",
@@ -155,14 +159,14 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "16:30",
-                "19:00"
+                "19:00",
+                "21:30"
               ]
             }
           ],
           "horarios": [
-            "16:30",
-            "19:00"
+            "19:00",
+            "21:30"
           ]
         },
         {
@@ -176,11 +180,15 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "17:10",
+                "19:50",
                 "22:30"
               ]
             }
           ],
           "horarios": [
+            "17:10",
+            "19:50",
             "22:30"
           ]
         },
@@ -217,7 +225,7 @@
         "tmdb_id": 1286656,
         "titulo_tmdb": "Yo soy Rocky",
         "voto": 8.4,
-        "votos": 63,
+        "votos": 66,
         "url_tmdb": "https://www.themoviedb.org/movie/1286656",
         "imdb_id": "tt11995650",
         "url_imdb": "https://www.imdb.com/title/tt11995650/",
@@ -280,12 +288,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "14:50"
+                "15:05"
               ]
             }
           ],
           "horarios": [
-            "14:50"
+            "15:05"
           ]
         },
         {
@@ -370,8 +378,8 @@
       }
     },
     {
-      "titulo": "La Nueva Focker",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/11/la-nueva-focker-48095-0.webp",
+      "titulo": "Ebenezer",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/11/ebenezer-48065-0.webp",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
@@ -381,77 +389,79 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "21:30"
+                "16:45"
               ]
             }
           ],
           "horarios": [
-            "21:30"
+            "16:45"
           ]
         }
       ],
       "genero": "Comedia",
-      "duracion": "105 minutos",
-      "clasificacion": "12 Años",
-      "director": "John Hamburg",
-      "actores": "Robert De Niro, Ben Stiller, Ariana Grande, Skyler Gisondo, Beanie Feldstein, Owen Wilson, Blythe Danner, Teri Polo, Dustin Hoffman",
+      "duracion": "115 minutos",
+      "clasificacion": "7 Años",
+      "director": "Ti West",
+      "actores": "Johnny Depp, Rupert Grint, Daisy Ridley, Ian McKellen, Andrea Riseborough, Sam Claflin",
       "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/la-nueva-focker-12381_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=La%20Nueva%20Focker%20trailer%20espanol",
-      "sinopsis": "Henry, hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él.",
+      "ficha": "https://www.carteleracine.pe/cajamarca/ebenezer-12371_252",
+      "trailer_url": "https://www.youtube.com/results?search_query=Ebenezer%20trailer%20espanol",
+      "sinopsis": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
       "puntaje": "",
       "tmdb": {
-        "tmdb_id": 1400336,
-        "titulo_tmdb": "Ahora los suegros son ellos",
-        "voto": 7.3,
-        "votos": 3,
-        "url_tmdb": "https://www.themoviedb.org/movie/1400336",
-        "imdb_id": "tt34966140",
-        "url_imdb": "https://www.imdb.com/title/tt34966140/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/iU2XxFhMxC5Z2gOPASkRmtuDjJQ.jpg",
-        "director": "John Hamburg",
+        "tmdb_id": 1567605,
+        "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
+        "voto": 7.5,
+        "votos": 174,
+        "url_tmdb": "https://www.themoviedb.org/movie/1567605",
+        "imdb_id": "tt38773219",
+        "url_imdb": "https://www.imdb.com/title/tt38773219/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+        "director": "Ti West",
         "reparto": [
           {
-            "nombre": "Ben Stiller",
-            "personaje": "Greg Focker"
+            "nombre": "Johnny Depp",
+            "personaje": "Ebenezer Scrooge"
           },
           {
-            "nombre": "Robert De Niro",
-            "personaje": "Jack Byrnes"
+            "nombre": "Rupert Grint",
+            "personaje": "Bob Cratchit"
           },
           {
-            "nombre": "Ariana Grande",
-            "personaje": "Olivia Jones"
+            "nombre": "Daisy Ridley",
+            "personaje": "Clara"
           },
           {
-            "nombre": "Skyler Gisondo",
-            "personaje": "Henry Focker"
+            "nombre": "Ian McKellen",
+            "personaje": "Jacob Marley"
           },
           {
-            "nombre": "Owen Wilson",
-            "personaje": "Kevin Rawley"
+            "nombre": "Andrea Riseborough",
+            "personaje": "Ghost of Christmas Past"
           },
           {
-            "nombre": "Blythe Danner",
-            "personaje": "Dina Byrnes"
+            "nombre": "Sam Claflin",
+            "personaje": "Fred"
           }
         ],
         "generos": [
-          "Comedia",
-          "Romance"
+          "Fantasía",
+          "Drama",
+          "Terror"
         ],
         "trailer": {
-          "url": "https://www.youtube.com/watch?v=j0MROuSV-pA",
-          "embed_id": "j0MROuSV-pA"
+          "url": "https://www.youtube.com/watch?v=H8awcDUhl84",
+          "embed_id": "H8awcDUhl84"
         },
-        "sinopsis_tmdb": "Henry, hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él.",
-        "estreno": "21 nov 2026",
-        "duracion_min": 105,
+        "sinopsis_tmdb": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
+        "estreno": "11 nov 2026",
+        "duracion_min": 115,
         "paises": [
-          "Estados Unidos"
+          "Estados Unidos",
+          "Reino Unido"
         ],
         "idioma": "Inglés",
-        "titulo_original": "Focker In-Law"
+        "titulo_original": "Ebenezer"
       }
     },
     {
@@ -472,6 +482,25 @@
           ],
           "horarios": [
             "16:45"
+          ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "18:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:40"
           ]
         },
         {
@@ -498,14 +527,14 @@
       "actores": "Minami Hamabe, Jun Kunimura, Masami Nagasawa, Ryûnosuke Kamiki.",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/godzilla-minus-zero-12311_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Godzilla%20Minus%20Zero%20trailer%20espanol",
-      "sinopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
+      "trailer_url": "https://www.youtube.com/watch?v=KSPi8XLeBRg",
+      "sinopsis": "En el Japón de la posguerra, un país devastado intenta reconstruirse desde las cenizas. Sin embargo, una nueva amenaza emerge desde el océano: Godzilla. Mientras la nación lucha por sobrevivir, la aparición de esta fuerza destructiva lleva a la humanidad al límite absoluto, enfrentándola no solo a la destrucción, sino también a su propia fragilidad.",
       "puntaje": "",
       "tmdb": {
         "tmdb_id": 1381071,
         "titulo_tmdb": "Godzilla Minus Zero",
         "voto": 7.7,
-        "votos": 286,
+        "votos": 295,
         "url_tmdb": "https://www.themoviedb.org/movie/1381071",
         "imdb_id": "tt34384661",
         "url_imdb": "https://www.imdb.com/title/tt34384661/",
@@ -542,10 +571,7 @@
           "Terror",
           "Acción"
         ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=hmxKLaIp0cI",
-          "embed_id": "hmxKLaIp0cI"
-        },
+        "trailer": {},
         "sinopsis_tmdb": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
         "estreno": "3 nov 2026",
         "duracion_min": 135,
@@ -554,95 +580,6 @@
         ],
         "idioma": "Japonés",
         "titulo_original": "ゴジラ-0.0"
-      }
-    },
-    {
-      "titulo": "El Gato Con Sombrero",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/10/el-gato-con-sombrero-48034-0.webp",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "14:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:30"
-          ]
-        }
-      ],
-      "genero": "Animado",
-      "duracion": "91 minutos",
-      "clasificacion": "7 Años",
-      "director": "Alessandro Carloni, Erica Rivinoja",
-      "actores": "Bill Hader, Xochitl Gomez y America Ferrera",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/el-gato-con-sombrero-12358_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=El%20Gato%20Con%20Sombrero%20trailer%20espanol",
-      "sinopsis": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1117898,
-        "titulo_tmdb": "El gato con sombrero",
-        "voto": 6.9,
-        "votos": 32,
-        "url_tmdb": "https://www.themoviedb.org/movie/1117898",
-        "imdb_id": "tt2321555",
-        "url_imdb": "https://www.imdb.com/title/tt2321555/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
-        "director": "Erica Rivinoja, Alessandro Carloni",
-        "reparto": [
-          {
-            "nombre": "Bill Hader",
-            "personaje": "The Cat in the Hat (voice)"
-          },
-          {
-            "nombre": "Xochitl Gomez",
-            "personaje": "Gabby (voice)"
-          },
-          {
-            "nombre": "Tiago Martinez",
-            "personaje": "Sebastian (voice)"
-          },
-          {
-            "nombre": "Matt Berry",
-            "personaje": "Waffles (voice)"
-          },
-          {
-            "nombre": "Quinta Brunson",
-            "personaje": "Sherrie from HR (voice)"
-          },
-          {
-            "nombre": "Bowen Yang",
-            "personaje": "Gary (voice)"
-          }
-        ],
-        "generos": [
-          "Animación",
-          "Fantasía",
-          "Aventura",
-          "Familia",
-          "Comedia"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=bRMu8S6FQ9c",
-          "embed_id": "bRMu8S6FQ9c"
-        },
-        "sinopsis_tmdb": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
-        "estreno": "31 oct 2026",
-        "duracion_min": 108,
-        "paises": [
-          "Reino Unido",
-          "Estados Unidos"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "The Cat in the Hat"
       }
     },
     {
@@ -678,11 +615,13 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "18:50",
                 "21:30"
               ]
             }
           ],
           "horarios": [
+            "18:50",
             "21:30"
           ]
         }
@@ -700,8 +639,8 @@
       "tmdb": {
         "tmdb_id": 1747585,
         "titulo_tmdb": "La Gran Sangre: ojo x ojo",
-        "voto": 6.0,
-        "votos": 1,
+        "voto": 6.5,
+        "votos": 2,
         "url_tmdb": "https://www.themoviedb.org/movie/1747585",
         "imdb_id": "",
         "url_imdb": "",
@@ -790,7 +729,7 @@
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
         "voto": 7.5,
-        "votos": 166,
+        "votos": 174,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -997,7 +936,7 @@
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
         "voto": 7.5,
-        "votos": 163,
+        "votos": 174,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -1090,8 +1029,8 @@
       "tmdb": {
         "tmdb_id": 1747585,
         "titulo_tmdb": "La Gran Sangre: ojo x ojo",
-        "voto": 6.0,
-        "votos": 1,
+        "voto": 6.5,
+        "votos": 2,
         "url_tmdb": "https://www.themoviedb.org/movie/1747585",
         "imdb_id": "",
         "url_imdb": "",
@@ -1178,14 +1117,14 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "16:30",
-                "19:00"
+                "19:00",
+                "21:30"
               ]
             }
           ],
           "horarios": [
-            "16:30",
-            "19:00"
+            "19:00",
+            "21:30"
           ]
         },
         {
@@ -1197,29 +1136,29 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "14:50"
+                "15:05"
               ]
             }
           ],
           "horarios": [
-            "14:50"
+            "15:05"
           ]
         },
         {
-          "titulo": "La Nueva Focker",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/11/la-nueva-focker-48095-0.webp",
+          "titulo": "Ebenezer",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/11/ebenezer-48065-0.webp",
           "genero": "Comedia",
-          "clasificacion": "12 Años",
+          "clasificacion": "7 Años",
           "formatos": [
             {
               "formato": "Doblada",
               "horarios": [
-                "21:30"
+                "16:45"
               ]
             }
           ],
           "horarios": [
-            "21:30"
+            "16:45"
           ]
         },
         {
@@ -1237,23 +1176,6 @@
           ],
           "horarios": [
             "16:45"
-          ]
-        },
-        {
-          "titulo": "El Gato Con Sombrero",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/10/el-gato-con-sombrero-48034-0.webp",
-          "genero": "Animado",
-          "clasificacion": "7 Años",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "14:30"
-              ]
-            }
-          ],
-          "horarios": [
-            "14:30"
           ]
         },
         {
@@ -1304,6 +1226,23 @@
           ]
         },
         {
+          "titulo": "Godzilla Minus Zero",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003060?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Acción",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "18:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:40"
+          ]
+        },
+        {
           "titulo": "La Gran Sangre: Ojo X Ojo",
           "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003061?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Acción",
@@ -1312,11 +1251,13 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "18:50",
                 "21:30"
               ]
             }
           ],
           "horarios": [
+            "18:50",
             "21:30"
           ]
         },
@@ -1329,12 +1270,16 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "18:10",
+                "19:00",
                 "21:20",
                 "22:10"
               ]
             }
           ],
           "horarios": [
+            "18:10",
+            "19:00",
             "21:20",
             "22:10"
           ]
@@ -1348,11 +1293,15 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
+                "17:10",
+                "19:50",
                 "22:30"
               ]
             }
           ],
           "horarios": [
+            "17:10",
+            "19:50",
             "22:30"
           ]
         }
