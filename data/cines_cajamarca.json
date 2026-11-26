@@ -2,12 +2,12 @@
   "ciudad": "cajamarca",
   "titulo": "Cines en Cajamarca",
   "fuente": "https://www.carteleracine.pe/cartelera/cajamarca-c252",
-  "actualizado": "2026-11-25 16:35",
-  "fecha_objetivo": "2026-11-25",
+  "actualizado": "2026-11-26 16:24",
+  "fecha_objetivo": "2026-11-26",
   "peliculas": [
     {
-      "titulo": "Los Juegos Del Hambre: Amanecer En La Cosecha",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002922?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "titulo": "La Nueva Focker",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003079?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
@@ -17,16 +17,401 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "15:30",
-                "18:30",
-                "21:30"
+                "22:00"
               ]
             }
           ],
           "horarios": [
-            "15:30",
+            "22:00"
+          ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "18:10",
+                "22:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:10",
+            "22:30"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:45",
+                "17:45",
+                "19:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:45",
+            "17:45",
+            "19:45"
+          ]
+        }
+      ],
+      "genero": "Comedia",
+      "duracion": "105 minutos",
+      "clasificacion": "12 Años",
+      "director": "John Hamburg",
+      "actores": "Robert De Niro, Ben Stiller, Ariana Grande, Skyler Gisondo, Beanie Feldstein, Owen Wilson, Blythe Danner, Teri Polo, Dustin Hoffman",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/la-nueva-focker-12381_252",
+      "trailer_url": "https://youtu.be/hdO981PbkCY",
+      "sinopsis": "El círculo de confianza acaba de crecer. El ícono de la comedia y ganador del Emmy Ben Stiller y el dos veces ganador del Oscar (r) Robert De Niro se reúnen, junto a la ganadora del Grammy y nominada al Oscar (r) Ariana Grande, en un nuevo capítulo de la exitosa franquicia de Los Fockers.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1400336,
+        "titulo_tmdb": "Ahora los suegros son ellos",
+        "voto": 7.1,
+        "votos": 15,
+        "url_tmdb": "https://www.themoviedb.org/movie/1400336",
+        "imdb_id": "tt34966140",
+        "url_imdb": "https://www.imdb.com/title/tt34966140/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/iU2XxFhMxC5Z2gOPASkRmtuDjJQ.jpg",
+        "director": "John Hamburg",
+        "reparto": [
+          {
+            "nombre": "Ben Stiller",
+            "personaje": "Greg Focker"
+          },
+          {
+            "nombre": "Robert De Niro",
+            "personaje": "Jack Byrnes"
+          },
+          {
+            "nombre": "Ariana Grande",
+            "personaje": "Olivia Jones"
+          },
+          {
+            "nombre": "Skyler Gisondo",
+            "personaje": "Henry Focker"
+          },
+          {
+            "nombre": "Owen Wilson",
+            "personaje": "Kevin Rawley"
+          },
+          {
+            "nombre": "Blythe Danner",
+            "personaje": "Dina Byrnes"
+          }
+        ],
+        "generos": [
+          "Comedia",
+          "Romance"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=j0MROuSV-pA",
+          "embed_id": "j0MROuSV-pA"
+        },
+        "sinopsis_tmdb": "Henry, hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él.",
+        "estreno": "21 nov 2026",
+        "duracion_min": 105,
+        "paises": [
+          "Estados Unidos"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Focker In-Law"
+      }
+    },
+    {
+      "titulo": "Hechizo: Bienvenidos A Hexe",
+      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002982?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "14:05",
+                "15:00",
+                "17:05",
+                "19:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:05",
+            "15:00",
+            "17:05",
+            "19:10"
+          ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:50",
+                "19:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:50",
+            "19:10"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:15",
+                "17:15",
+                "19:15",
+                "21:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:15",
+            "17:15",
+            "19:15",
+            "21:15"
+          ]
+        }
+      ],
+      "genero": "Animado",
+      "duracion": "109 minutos",
+      "clasificacion": "7 Años",
+      "director": "Jason Hand, Fawn Veerasunthorn",
+      "actores": "Tracey Ullman, Walton Goggins, Hailee Steinfeld, Alan Tudyk & Jodie Foster.",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/hechizo-bienvenidos-a-hexe-12389_252",
+      "trailer_url": "https://youtu.be/9NpBMpYzZaw",
+      "sinopsis": "Billie descubre habilidades mágicas secretas que, una vez develadas, la conducen fuera de los suburbios y hacia un reino mágico llamado Hexe, donde es recibida por Ms. Quill y Elias Quill A lo largo de su asombroso viaje, Billie descubre misterios familiares que podrían cambiar para siempre el mundo mágico de las brujas.",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1538497,
+        "titulo_tmdb": "Hechizo: Bienvenidos a Hexe",
+        "voto": 5.7,
+        "votos": 21,
+        "url_tmdb": "https://www.themoviedb.org/movie/1538497",
+        "imdb_id": "tt38077943",
+        "url_imdb": "https://www.imdb.com/title/tt38077943/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/zPaypaMulDEVhuTCN1hPN1Hg4DI.jpg",
+        "director": "Jason Hand, ฝน วีระสุนทร",
+        "reparto": [
+          {
+            "nombre": "Hailee Steinfeld",
+            "personaje": "Billie Doe (voice)"
+          },
+          {
+            "nombre": "Rashida Jones",
+            "personaje": "Alice Doe (voice)"
+          },
+          {
+            "nombre": "Jodie Foster",
+            "personaje": "Queen Celeste (voice)"
+          },
+          {
+            "nombre": "Walton Goggins",
+            "personaje": "Beef Roger Crummchuk (voice)"
+          },
+          {
+            "nombre": "Henry Winkler",
+            "personaje": "Nigel (voice)"
+          },
+          {
+            "nombre": "Dan Stevens",
+            "personaje": "Hieronymous / Crystal Ball Greeter (voice)"
+          }
+        ],
+        "generos": [
+          "Aventura",
+          "Animación",
+          "Familia",
+          "Fantasía",
+          "Comedia"
+        ],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=wkr5TpxKOTw",
+          "embed_id": "wkr5TpxKOTw"
+        },
+        "sinopsis_tmdb": "Billie, una adolescente impulsiva y poco convencional, desata accidentalmente unos poderes mágicos secretos y sale disparada de los suburbios hacia un reino mágico llamado Hexe, donde la reciben Ms. Quill y Elias Quire. A medida que se desarrolla el viaje de Billie, descubre misterios familiares que podrían cambiar para siempre el mundo mágico de las brujas.",
+        "estreno": "25 nov 2026",
+        "duracion_min": 103,
+        "paises": [
+          "Estados Unidos",
+          "Canadá"
+        ],
+        "idioma": "Inglés",
+        "titulo_original": "Hexed"
+      }
+    },
+    {
+      "titulo": "Coquito: La Película",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/11/coquito-la-pelicula-48125-1.jpg",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "16:45",
+                "18:30",
+                "20:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "16:45",
             "18:30",
-            "21:30"
+            "20:15"
+          ]
+        },
+        {
+          "cine": "CinePlanet Cajamarca Real Plaza",
+          "cine_slug": "cp-cajamarca",
+          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
+          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
+          "fuente_cine": "Cineplanet",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "16:10",
+                "20:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "16:10",
+            "20:30"
+          ]
+        },
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "16:40",
+                "18:20",
+                "20:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "16:40",
+            "18:20",
+            "20:00"
+          ]
+        }
+      ],
+      "genero": "Familiar",
+      "duracion": "85 minutos",
+      "clasificacion": "Todos",
+      "director": "Eduardo Guillot",
+      "actores": "Elisa Costa, Liliana Alegría, Lucas Mamani, Luis José Ocampo",
+      "estreno": "",
+      "ficha": "https://www.carteleracine.pe/cajamarca/coquito-la-pelicula-12393_252",
+      "trailer_url": "https://www.youtube.com/watch?v=q8XkzDQDySg",
+      "sinopsis": "En los años 50, Everardo, un joven maestro recién graduado, llega a Punta de Bombón, Arequipa, para fundar una escuela en un país marcado por el analfabetismo. Al comprobar que el método oficial para enseñar a leer no da resultados, crea uno propio y desafía a las autoridades para defenderlo. En el pueblo conoce a Coquito, un niño que sueña con reencontrarse con su madre enferma. Mientras ambos fo",
+      "puntaje": "",
+      "tmdb": {
+        "tmdb_id": 1740215,
+        "titulo_tmdb": "Coquito: la película",
+        "voto": null,
+        "votos": 0,
+        "url_tmdb": "https://www.themoviedb.org/movie/1740215",
+        "imdb_id": "",
+        "url_imdb": "",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/5Hu5ttcKuyHOqvVpCCOJkhFJE5I.jpg",
+        "director": "Eduardo Guillot",
+        "reparto": [
+          {
+            "nombre": "Elisa Costa",
+            "personaje": ""
+          },
+          {
+            "nombre": "Liliana Alegría",
+            "personaje": ""
+          },
+          {
+            "nombre": "Lucas Mamani",
+            "personaje": ""
+          },
+          {
+            "nombre": "Luis José Ocampo",
+            "personaje": "Everardo Zapata Santillana"
+          }
+        ],
+        "generos": [],
+        "trailer": {
+          "url": "https://www.youtube.com/watch?v=HnEaosk9Ktw",
+          "embed_id": "HnEaosk9Ktw"
+        },
+        "sinopsis_tmdb": "En los años 50, Everardo, un joven maestro recién graduado, llega a Punta de Bombón, Arequipa, para fundar una escuela en un país marcado por el analfabetismo. Al comprobar que el método oficial para enseñar a leer no da resultados, crea uno propio y desafía a las autoridades para defenderlo. En el pueblo conoce a Coquito, un niño que sueña con reencontrarse con su madre enferma. Mientras ambos forjan una profunda amistad, Everardo lucha por demostrar el valor de su método. Inspirada en la vida de Everardo Zapata, Coquito celebra el poder transformador de la educación.",
+        "estreno": "26 nov 2026",
+        "duracion_min": 90,
+        "paises": [
+          "Perú"
+        ],
+        "idioma": "Español",
+        "titulo_original": "Coquito: la película"
+      }
+    },
+    {
+      "titulo": "Los Juegos Del Hambre: Amanecer En La Cosecha",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/9/los-juegos-del-hambre-amanecer-en-la-cosecha-47834-0.webp",
+      "cines": [
+        {
+          "cine": "Movie Time Cajamarca",
+          "cine_slug": "movietime-cajamarca-cajamarca-s448",
+          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "18:40",
+                "21:40"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:40",
+            "21:40"
           ]
         },
         {
@@ -41,18 +426,18 @@
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "15:50",
-                "18:10",
+                "18:00",
                 "19:00",
-                "21:20",
+                "21:10",
                 "22:10"
               ]
             }
           ],
           "horarios": [
             "15:50",
-            "18:10",
+            "18:00",
             "19:00",
-            "21:20",
+            "21:10",
             "22:10"
           ]
         },
@@ -64,21 +449,15 @@
             {
               "formato": "",
               "horarios": [
-                "15:00",
                 "16:00",
-                "18:00",
                 "19:00",
-                "21:00",
                 "22:00"
               ]
             }
           ],
           "horarios": [
-            "15:00",
             "16:00",
-            "18:00",
             "19:00",
-            "21:00",
             "22:00"
           ]
         }
@@ -87,7 +466,7 @@
       "duracion": "150 minutos",
       "clasificacion": "12 Años",
       "director": "Francis Lawrence",
-      "actores": "Joseph Zada, Jesse Plemons, Ralph Fiennes, Glenn Close, Mckenna Grace, Whitney Peak",
+      "actores": "Joseph Zada, Mckenna Grace, Jesse Plemons, Ralph Fiennes, Glenn Close, Whitney Peak",
       "estreno": "",
       "ficha": "https://www.carteleracine.pe/cajamarca/los-juegos-del-hambre-amanecer-en-la-cosecha-12283_252",
       "trailer_url": "https://www.youtube.com/watch?v=pZQ4KJiW6VI",
@@ -97,7 +476,7 @@
         "tmdb_id": 1300968,
         "titulo_tmdb": "Los juegos del hambre: Amanecer en la cosecha",
         "voto": 7.8,
-        "votos": 346,
+        "votos": 373,
         "url_tmdb": "https://www.themoviedb.org/movie/1300968",
         "imdb_id": "tt32558705",
         "url_imdb": "https://www.imdb.com/title/tt32558705/",
@@ -107,6 +486,10 @@
           {
             "nombre": "Joseph Zada",
             "personaje": "Haymitch Abernathy"
+          },
+          {
+            "nombre": "Mckenna Grace",
+            "personaje": "Maysilee / Merrilee Donner"
           },
           {
             "nombre": "Jesse Plemons",
@@ -119,10 +502,6 @@
           {
             "nombre": "Glenn Close",
             "personaje": "Drusilla Sickle"
-          },
-          {
-            "nombre": "Mckenna Grace",
-            "personaje": "Maysilee / Merrilee Donner"
           },
           {
             "nombre": "Whitney Peak",
@@ -151,7 +530,7 @@
     },
     {
       "titulo": "Yo Soy Rocky",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003143?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "poster": "https://cdn.carteleracine.pe/cine/2026/11/yo-soy-rocky-48066-0.webp",
       "cines": [
         {
           "cine": "Movie Time Cajamarca",
@@ -161,14 +540,12 @@
             {
               "formato": "Doblada",
               "horarios": [
-                "19:00",
-                "21:30"
+                "16:10"
               ]
             }
           ],
           "horarios": [
-            "19:00",
-            "21:30"
+            "16:10"
           ]
         },
         {
@@ -182,34 +559,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:10",
-                "19:50",
-                "22:30"
+                "18:20",
+                "21:30"
               ]
             }
           ],
           "horarios": [
-            "17:10",
-            "19:50",
-            "22:30"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "19:30",
-                "21:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:30",
-            "21:50"
+            "18:20",
+            "21:30"
           ]
         }
       ],
@@ -227,11 +584,11 @@
         "tmdb_id": 1286656,
         "titulo_tmdb": "Yo soy Rocky",
         "voto": 8.3,
-        "votos": 76,
+        "votos": 79,
         "url_tmdb": "https://www.themoviedb.org/movie/1286656",
         "imdb_id": "tt11995650",
         "url_imdb": "https://www.imdb.com/title/tt11995650/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/e4hlLl4bbuWyqsjp7EunRcqDkRm.jpg",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/n8Nfb2jIUCOIVHjF0u89TIQ5ZfY.jpg",
         "director": "Peter Farrelly",
         "reparto": [
           {
@@ -279,311 +636,6 @@
       }
     },
     {
-      "titulo": "Ratoncitos en Apuros",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/11/ratoncitos-en-apuros-48093-1.jpg",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "15:05"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:05"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "15:30",
-                "17:15"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:30",
-            "17:15"
-          ]
-        }
-      ],
-      "genero": "Comedia",
-      "duracion": "80 minutos",
-      "clasificacion": "Todos",
-      "director": "Henrik Martin Dahlsbakken",
-      "actores": "Pål Sverre Hagen, Sara Khorami, Vegard Strand Eide, Flo Fagerli, Jon Øigarden, Jakob Oftebro, Vivild Falk Berg, Charlotte Frogner y Jonis Josef.",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/ratoncitos-en-apuros-12379_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Ratoncitos%20en%20Apuros%20trailer%20espanol",
-      "sinopsis": "Una familia acude a la casa abandonada de su tía para celebrar la Navidad en el campo, sin saber que una familia de ratones ya habita la casa, y no les interesan las visitas. Así que sólo queda una cosa por hacer: poner trampas, estar atentos y defenderse.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1427833,
-        "titulo_tmdb": "Ratones al ataque: Operación Navidad",
-        "voto": 6.8,
-        "votos": 24,
-        "url_tmdb": "https://www.themoviedb.org/movie/1427833",
-        "imdb_id": "tt35727399",
-        "url_imdb": "https://www.imdb.com/title/tt35727399/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/tEpDFz33WclWa0c1rxLhqM2DNFE.jpg",
-        "director": "Henrik Martin Dahlsbakken",
-        "reparto": [
-          {
-            "nombre": "Pål Sverre Hagen",
-            "personaje": "Peter"
-          },
-          {
-            "nombre": "Sara Khorami",
-            "personaje": "Sara"
-          },
-          {
-            "nombre": "Flo Fagerli",
-            "personaje": "Daughter"
-          },
-          {
-            "nombre": "Vegard Strand Eide",
-            "personaje": "Mikkel"
-          },
-          {
-            "nombre": "Jon Øigarden",
-            "personaje": "Skadedyrutrydder"
-          },
-          {
-            "nombre": "Jakob Oftebro",
-            "personaje": "Rasmus"
-          }
-        ],
-        "generos": [
-          "Familia",
-          "Animación",
-          "Comedia"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "Una familia acude a la casa abandonada de su tía para celebrar la Navidad en el campo, sin saber que una familia de ratones ya habita la casa, y no les interesan las visitas. Así que sólo queda una cosa por hacer: poner trampas, estar atentos y defenderse.",
-        "estreno": "6 nov 2025",
-        "duracion_min": 80,
-        "paises": [
-          "Norway"
-        ],
-        "idioma": "NO",
-        "titulo_original": "Hvis ingen går i fella"
-      }
-    },
-    {
-      "titulo": "Ebenezer",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/11/ebenezer-48065-0.webp",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "16:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:45"
-          ]
-        }
-      ],
-      "genero": "Comedia",
-      "duracion": "115 minutos",
-      "clasificacion": "7 Años",
-      "director": "Ti West",
-      "actores": "Johnny Depp, Rupert Grint, Daisy Ridley, Ian McKellen, Andrea Riseborough, Sam Claflin",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/ebenezer-12371_252",
-      "trailer_url": "https://www.youtube.com/results?search_query=Ebenezer%20trailer%20espanol",
-      "sinopsis": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1567605,
-        "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
-        "voto": 7.5,
-        "votos": 193,
-        "url_tmdb": "https://www.themoviedb.org/movie/1567605",
-        "imdb_id": "tt38773219",
-        "url_imdb": "https://www.imdb.com/title/tt38773219/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
-        "director": "Ti West",
-        "reparto": [
-          {
-            "nombre": "Johnny Depp",
-            "personaje": "Ebenezer Scrooge"
-          },
-          {
-            "nombre": "Rupert Grint",
-            "personaje": "Bob Cratchit"
-          },
-          {
-            "nombre": "Daisy Ridley",
-            "personaje": "Clara"
-          },
-          {
-            "nombre": "Ian McKellen",
-            "personaje": "Jacob Marley"
-          },
-          {
-            "nombre": "Andrea Riseborough",
-            "personaje": "Ghost of Christmas Past"
-          },
-          {
-            "nombre": "Sam Claflin",
-            "personaje": "Fred"
-          }
-        ],
-        "generos": [
-          "Fantasía",
-          "Comedia"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=H8awcDUhl84",
-          "embed_id": "H8awcDUhl84"
-        },
-        "sinopsis_tmdb": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-        "estreno": "11 nov 2026",
-        "duracion_min": 115,
-        "paises": [
-          "Estados Unidos",
-          "Reino Unido"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Ebenezer"
-      }
-    },
-    {
-      "titulo": "Godzilla Minus Zero",
-      "poster": "https://cdn.carteleracine.pe/cine/2026/10/godzilla-minus-zero-47908-0.webp",
-      "cines": [
-        {
-          "cine": "Movie Time Cajamarca",
-          "cine_slug": "movietime-cajamarca-cajamarca-s448",
-          "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "16:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:45"
-          ]
-        },
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "18:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:40"
-          ]
-        },
-        {
-          "cine": "Cinerama Cajamarca MegaPlaza",
-          "cine_slug": "cinerama-cajamarca-megaplaza",
-          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "18:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:45"
-          ]
-        }
-      ],
-      "genero": "Acción",
-      "duracion": "135 minutos",
-      "clasificacion": "12 Años",
-      "director": "Takashi Yamazaki",
-      "actores": "Minami Hamabe, Jun Kunimura, Masami Nagasawa, Ryûnosuke Kamiki.",
-      "estreno": "",
-      "ficha": "https://www.carteleracine.pe/cajamarca/godzilla-minus-zero-12311_252",
-      "trailer_url": "https://www.youtube.com/watch?v=KSPi8XLeBRg",
-      "sinopsis": "En el Japón de la posguerra, un país devastado intenta reconstruirse desde las cenizas. Sin embargo, una nueva amenaza emerge desde el océano: Godzilla. Mientras la nación lucha por sobrevivir, la aparición de esta fuerza destructiva lleva a la humanidad al límite absoluto, enfrentándola no solo a la destrucción, sino también a su propia fragilidad.",
-      "puntaje": "",
-      "tmdb": {
-        "tmdb_id": 1381071,
-        "titulo_tmdb": "Godzilla Minus Zero",
-        "voto": 7.7,
-        "votos": 306,
-        "url_tmdb": "https://www.themoviedb.org/movie/1381071",
-        "imdb_id": "tt34384661",
-        "url_imdb": "https://www.imdb.com/title/tt34384661/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
-        "director": "Takashi Yamazaki",
-        "reparto": [
-          {
-            "nombre": "Ryunosuke Kamiki",
-            "personaje": "Kōichi Shikishima"
-          },
-          {
-            "nombre": "Minami Hamabe",
-            "personaje": "Noriko Shikishima"
-          },
-          {
-            "nombre": "吉岡秀隆",
-            "personaje": "Kenji Noda"
-          },
-          {
-            "nombre": "田中泯",
-            "personaje": "Kanji Murakami"
-          },
-          {
-            "nombre": "Masami Nagasawa",
-            "personaje": "Makoto Aoyama"
-          },
-          {
-            "nombre": "山田裕貴",
-            "personaje": "Shiro Mizushima"
-          }
-        ],
-        "generos": [
-          "Ciencia ficción",
-          "Terror",
-          "Acción"
-        ],
-        "trailer": {},
-        "sinopsis_tmdb": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
-        "estreno": "3 nov 2026",
-        "duracion_min": 135,
-        "paises": [
-          "Japón"
-        ],
-        "idioma": "Japonés",
-        "titulo_original": "ゴジラ-0.0"
-      }
-    },
-    {
       "titulo": "La Gran Sangre: Ojo X Ojo",
       "poster": "https://cdn.carteleracine.pe/cine/2026/11/la-gran-sangre-ojo-x-ojo-48063-0.webp",
       "cines": [
@@ -595,14 +647,12 @@
             {
               "formato": "",
               "horarios": [
-                "19:20",
-                "21:45"
+                "21:15"
               ]
             }
           ],
           "horarios": [
-            "19:20",
-            "21:45"
+            "21:15"
           ]
         },
         {
@@ -616,16 +666,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:10",
-                "18:50",
-                "21:30"
+                "15:40",
+                "21:00"
               ]
             }
           ],
           "horarios": [
-            "16:10",
-            "18:50",
-            "21:30"
+            "15:40",
+            "21:00"
           ]
         }
       ],
@@ -691,98 +739,6 @@
         ],
         "idioma": "Español",
         "titulo_original": "La Gran Sangre: ojo x ojo"
-      }
-    },
-    {
-      "titulo": "Ebenezer Los Fantasmas de la Navidad",
-      "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003070?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "genero": "Drama",
-      "clasificacion": "+14",
-      "duracion": "116 min",
-      "director": "Ti West",
-      "actores": "Johnny Depp, Rupert Grint, Daisy Ridley, Ian McKellen, Andrea Riseborough, Sam Claflin",
-      "estreno": "",
-      "sinopsis": "Este noviembre, Johnny Depp es Ebenezer Scrooge. El nombre que conoces, la historia que no. De Ti West, EBENEZER también cuenta con Rupert Grint, Andrea Riseborough, Sam Claflin, Daisy Ridley, Arthur Conti, Ellie Bamber, Henry Lloyd-Hughes, Charlie Murphy, con Tramell Tillman e Ian McKellen.",
-      "puntaje": "",
-      "ficha": "",
-      "trailer_url": "https://youtu.be/YXqlzdxm4Ko?si=RwJJEBUsfWXZuzCF",
-      "fuente_peli": "Cineplanet",
-      "cines": [
-        {
-          "cine": "CinePlanet Cajamarca Real Plaza",
-          "cine_slug": "cp-cajamarca",
-          "direccion": "Av. Vía de Evitamiento Norte, Cajamarca",
-          "url": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "comprar": "https://www.cineplanet.com.pe/cinemas/cp-cajamarca",
-          "fuente_cine": "Cineplanet",
-          "formatos": [
-            {
-              "formato": "2D REGULAR DOBLADA",
-              "horarios": [
-                "16:00",
-                "21:40"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:00",
-            "21:40"
-          ]
-        }
-      ],
-      "tmdb": {
-        "tmdb_id": 1567605,
-        "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
-        "voto": 7.5,
-        "votos": 193,
-        "url_tmdb": "https://www.themoviedb.org/movie/1567605",
-        "imdb_id": "tt38773219",
-        "url_imdb": "https://www.imdb.com/title/tt38773219/",
-        "poster_tmdb": "https://image.tmdb.org/t/p/w500/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
-        "director": "Ti West",
-        "reparto": [
-          {
-            "nombre": "Johnny Depp",
-            "personaje": "Ebenezer Scrooge"
-          },
-          {
-            "nombre": "Rupert Grint",
-            "personaje": "Bob Cratchit"
-          },
-          {
-            "nombre": "Daisy Ridley",
-            "personaje": "Clara"
-          },
-          {
-            "nombre": "Ian McKellen",
-            "personaje": "Jacob Marley"
-          },
-          {
-            "nombre": "Andrea Riseborough",
-            "personaje": "Ghost of Christmas Past"
-          },
-          {
-            "nombre": "Sam Claflin",
-            "personaje": "Fred"
-          }
-        ],
-        "generos": [
-          "Fantasía",
-          "Comedia"
-        ],
-        "trailer": {
-          "url": "https://www.youtube.com/watch?v=H8awcDUhl84",
-          "embed_id": "H8awcDUhl84"
-        },
-        "sinopsis_tmdb": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-        "estreno": "11 nov 2026",
-        "duracion_min": 115,
-        "paises": [
-          "Estados Unidos",
-          "Reino Unido"
-        ],
-        "idioma": "Inglés",
-        "titulo_original": "Ebenezer"
       }
     },
     {
@@ -925,14 +881,12 @@
             {
               "formato": "",
               "horarios": [
-                "16:30",
-                "21:15"
+                "21:45"
               ]
             }
           ],
           "horarios": [
-            "16:30",
-            "21:15"
+            "21:45"
           ]
         }
       ],
@@ -940,7 +894,7 @@
         "tmdb_id": 1567605,
         "titulo_tmdb": "Scrooge y los fantasmas de la Navidad",
         "voto": 7.5,
-        "votos": 193,
+        "votos": 201,
         "url_tmdb": "https://www.themoviedb.org/movie/1567605",
         "imdb_id": "tt38773219",
         "url_imdb": "https://www.imdb.com/title/tt38773219/",
@@ -992,6 +946,41 @@
       }
     },
     {
+      "titulo": "El Ramayala: El Nacimiento de una Leyenda",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/ramayana-718005306-large.jpg",
+      "genero": "Drama",
+      "clasificacion": "Mayores de 14",
+      "duracion": "02:45",
+      "sinopsis": "Rama Es el Más Grande de Todos los Tiempos Porque Vivió una Vida en la Que las Decisiones Que Tomó Fueron Siempre en Beneficio del Bien Mayor, del Deber Por Encima del Deseo y del Sacrificio Por Encima del Yo. Su Legado Sigue Mejorando y Fortaleciendo a la Humanidad a Lo Largo del Tiempo y Aportando la Creencia en la Bondad del Espíritu Humano Para Resolver Todos los Conflictos y Traer la Paz Al M",
+      "director": "",
+      "actores": "",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "18:30",
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:30",
+            "21:30"
+          ]
+        }
+      ]
+    },
+    {
       "titulo": "La Gran Sangre: Ojo Por Ojo",
       "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/la_gran_sangre_ojo_por_ojo-884714197-large.jpg",
       "genero": "Accion",
@@ -1014,18 +1003,12 @@
             {
               "formato": "",
               "horarios": [
-                "15:15",
-                "17:30",
-                "19:45",
-                "22:15"
+                "21:40"
               ]
             }
           ],
           "horarios": [
-            "15:15",
-            "17:30",
-            "19:45",
-            "22:15"
+            "21:40"
           ]
         }
       ],
@@ -1082,6 +1065,92 @@
         "idioma": "Español",
         "titulo_original": "La Gran Sangre: ojo x ojo"
       }
+    },
+    {
+      "titulo": "Ratoncitos en Apuros",
+      "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/hvis_ingen_gar_i_fella-604226142-large.jpg",
+      "genero": "Dibujos",
+      "clasificacion": "Todo Espectador",
+      "duracion": "01:20",
+      "sinopsis": "Una Familia Acude a la Casa Abandonada de Su Tía Para Celebrar la Navidad en el Campo, Sin Saber Que una Familia de Ratones Ya Habita la Casa, y No Les Interesan las Visitas. Así Que Sólo Queda una Cosa Por Hacer: Poner Trampas, Estar Atentos y Defenderse.",
+      "director": "Henrik Martin Dahlsbakken",
+      "actores": "Pål Sverre Hagen, Sara Khorami, Flo Fagerli, Vegard Strand Eide, Jon Øigarden, Jakob Oftebro",
+      "estreno": "",
+      "puntaje": "",
+      "ficha": "",
+      "trailer_url": "",
+      "fuente_peli": "Cinerama",
+      "cines": [
+        {
+          "cine": "Cinerama Cajamarca MegaPlaza",
+          "cine_slug": "cinerama-cajamarca-megaplaza",
+          "direccion": "Jr. Sor Manuela Gil 151, CC MegaPlaza Cajamarca",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:30",
+                "17:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:30",
+            "17:00"
+          ]
+        }
+      ],
+      "tmdb": {
+        "tmdb_id": 1427833,
+        "titulo_tmdb": "Ratones al ataque: Operación Navidad",
+        "voto": 6.8,
+        "votos": 25,
+        "url_tmdb": "https://www.themoviedb.org/movie/1427833",
+        "imdb_id": "tt35727399",
+        "url_imdb": "https://www.imdb.com/title/tt35727399/",
+        "poster_tmdb": "https://image.tmdb.org/t/p/w500/tEpDFz33WclWa0c1rxLhqM2DNFE.jpg",
+        "director": "Henrik Martin Dahlsbakken",
+        "reparto": [
+          {
+            "nombre": "Pål Sverre Hagen",
+            "personaje": "Peter"
+          },
+          {
+            "nombre": "Sara Khorami",
+            "personaje": "Sara"
+          },
+          {
+            "nombre": "Flo Fagerli",
+            "personaje": "Daughter"
+          },
+          {
+            "nombre": "Vegard Strand Eide",
+            "personaje": "Mikkel"
+          },
+          {
+            "nombre": "Jon Øigarden",
+            "personaje": "Skadedyrutrydder"
+          },
+          {
+            "nombre": "Jakob Oftebro",
+            "personaje": "Rasmus"
+          }
+        ],
+        "generos": [
+          "Familia",
+          "Animación",
+          "Comedia"
+        ],
+        "trailer": {},
+        "sinopsis_tmdb": "Una familia acude a la casa abandonada de su tía para celebrar la Navidad en el campo, sin saber que una familia de ratones ya habita la casa, y no les interesan las visitas. Así que sólo queda una cosa por hacer: poner trampas, estar atentos y defenderse.",
+        "estreno": "6 nov 2025",
+        "duracion_min": 80,
+        "paises": [
+          "Norway"
+        ],
+        "idioma": "NO",
+        "titulo_original": "Hvis ingen går i fella"
+      }
     }
   ],
   "cines": [
@@ -1091,94 +1160,102 @@
       "direccion": "Av. Vía Evitamiento Norte S/N Urb Horacio Zevallos",
       "peliculas": [
         {
-          "titulo": "Los Juegos Del Hambre: Amanecer En La Cosecha",
+          "titulo": "La Nueva Focker",
           "poster": "",
+          "genero": "Comedia",
+          "clasificacion": "12 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "22:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "22:00"
+          ]
+        },
+        {
+          "titulo": "Hechizo: Bienvenidos A Hexe",
+          "poster": "",
+          "genero": "Animado",
+          "clasificacion": "7 Años",
+          "formatos": [
+            {
+              "formato": "Doblada",
+              "horarios": [
+                "14:05",
+                "15:00",
+                "17:05",
+                "19:10"
+              ]
+            }
+          ],
+          "horarios": [
+            "14:05",
+            "15:00",
+            "17:05",
+            "19:10"
+          ]
+        },
+        {
+          "titulo": "Coquito: La Película",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/11/coquito-la-pelicula-48125-1.jpg",
+          "genero": "Familiar",
+          "clasificacion": "Todos",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "16:45",
+                "18:30",
+                "20:15"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "16:45",
+            "18:30",
+            "20:15"
+          ]
+        },
+        {
+          "titulo": "Los Juegos Del Hambre: Amanecer En La Cosecha",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/9/los-juegos-del-hambre-amanecer-en-la-cosecha-47834-0.webp",
           "genero": "Acción",
           "clasificacion": "12 Años",
           "formatos": [
             {
               "formato": "Doblada",
               "horarios": [
-                "15:30",
-                "18:30",
-                "21:30"
+                "18:40",
+                "21:40"
               ]
             }
           ],
           "horarios": [
-            "15:30",
-            "18:30",
-            "21:30"
+            "18:40",
+            "21:40"
           ]
         },
         {
           "titulo": "Yo Soy Rocky",
-          "poster": "",
+          "poster": "https://cdn.carteleracine.pe/cine/2026/11/yo-soy-rocky-48066-0.webp",
           "genero": "Drama",
           "clasificacion": "12 Años",
           "formatos": [
             {
               "formato": "Doblada",
               "horarios": [
-                "19:00",
-                "21:30"
+                "16:10"
               ]
             }
           ],
           "horarios": [
-            "19:00",
-            "21:30"
-          ]
-        },
-        {
-          "titulo": "Ratoncitos en Apuros",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/11/ratoncitos-en-apuros-48093-1.jpg",
-          "genero": "Comedia",
-          "clasificacion": "Todos",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "15:05"
-              ]
-            }
-          ],
-          "horarios": [
-            "15:05"
-          ]
-        },
-        {
-          "titulo": "Ebenezer",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/11/ebenezer-48065-0.webp",
-          "genero": "Comedia",
-          "clasificacion": "7 Años",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "16:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:45"
-          ]
-        },
-        {
-          "titulo": "Godzilla Minus Zero",
-          "poster": "https://cdn.carteleracine.pe/cine/2026/10/godzilla-minus-zero-47908-0.webp",
-          "genero": "Acción",
-          "clasificacion": "12 Años",
-          "formatos": [
-            {
-              "formato": "Doblada",
-              "horarios": [
-                "16:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "16:45"
+            "16:10"
           ]
         },
         {
@@ -1190,14 +1267,12 @@
             {
               "formato": "",
               "horarios": [
-                "19:20",
-                "21:45"
+                "21:15"
               ]
             }
           ],
           "horarios": [
-            "19:20",
-            "21:45"
+            "21:15"
           ]
         }
       ],
@@ -1212,39 +1287,41 @@
       "fuente_cine": "Cineplanet",
       "peliculas": [
         {
-          "titulo": "Ebenezer Los Fantasmas de la Navidad",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003070?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "titulo": "Coquito: La Película",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003128?referenceScheme=HeadOffice&allowPlaceHolder=true",
           "genero": "Drama",
-          "clasificacion": "+14",
+          "clasificacion": "APT",
           "formatos": [
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:00",
-                "21:40"
+                "16:10",
+                "20:30"
               ]
             }
           ],
           "horarios": [
-            "16:00",
-            "21:40"
+            "16:10",
+            "20:30"
           ]
         },
         {
-          "titulo": "Godzilla Minus Zero",
-          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003060?referenceScheme=HeadOffice&allowPlaceHolder=true",
-          "genero": "Acción",
-          "clasificacion": "+14",
+          "titulo": "Hechizo: Bienvenidos A Hexe",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002982?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Animación",
+          "clasificacion": "APT",
           "formatos": [
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "18:40"
+                "16:50",
+                "19:10"
               ]
             }
           ],
           "horarios": [
-            "18:40"
+            "16:50",
+            "19:10"
           ]
         },
         {
@@ -1256,16 +1333,33 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "16:10",
-                "18:50",
-                "21:30"
+                "15:40",
+                "21:00"
               ]
             }
           ],
           "horarios": [
-            "16:10",
-            "18:50",
-            "21:30"
+            "15:40",
+            "21:00"
+          ]
+        },
+        {
+          "titulo": "La Nueva Focker",
+          "poster": "https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00003079?referenceScheme=HeadOffice&allowPlaceHolder=true",
+          "genero": "Comedia",
+          "clasificacion": "+14",
+          "formatos": [
+            {
+              "formato": "2D REGULAR DOBLADA",
+              "horarios": [
+                "18:10",
+                "22:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:10",
+            "22:30"
           ]
         },
         {
@@ -1278,18 +1372,18 @@
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
                 "15:50",
-                "18:10",
+                "18:00",
                 "19:00",
-                "21:20",
+                "21:10",
                 "22:10"
               ]
             }
           ],
           "horarios": [
             "15:50",
-            "18:10",
+            "18:00",
             "19:00",
-            "21:20",
+            "21:10",
             "22:10"
           ]
         },
@@ -1302,16 +1396,14 @@
             {
               "formato": "2D REGULAR DOBLADA",
               "horarios": [
-                "17:10",
-                "19:50",
-                "22:30"
+                "18:20",
+                "21:30"
               ]
             }
           ],
           "horarios": [
-            "17:10",
-            "19:50",
-            "22:30"
+            "18:20",
+            "21:30"
           ]
         }
       ],
@@ -1374,6 +1466,31 @@
           ]
         },
         {
+          "titulo": "Coquito: La Película",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/coquito_la_pelicula-182912914-large.jpg",
+          "genero": "Familiar",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:25",
+          "sinopsis": "En los Años 50, Everardo, un Joven Maestro Recién Graduado, Llega a Punta de Bombón, Arequipa, Para Fundar una Escuela en un País Marcado Por el Analfabetismo. Al Comprobar Que el Método Oficial Para Enseñar a Leer No Da Resultados, Crea Uno Propio y Desafía a las Autoridades Para Defenderlo. En el Pueblo Conoce a Coquito, un Niño Que Sueña Con Reencontrarse Con Su Madre Enferma. Mientras Ambos Fo",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:00",
+                "16:40",
+                "18:20",
+                "20:00"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:00",
+            "16:40",
+            "18:20",
+            "20:00"
+          ]
+        },
+        {
           "titulo": "Ebenezer: Los Fantasmas de Navidad",
           "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/ebenezer-321560689-large.jpg",
           "genero": "Comedia",
@@ -1384,33 +1501,58 @@
             {
               "formato": "",
               "horarios": [
-                "16:30",
+                "21:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "21:45"
+          ]
+        },
+        {
+          "titulo": "El Ramayala: El Nacimiento de una Leyenda",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/ramayana-718005306-large.jpg",
+          "genero": "Drama",
+          "clasificacion": "Mayores de 14",
+          "duracion": "02:45",
+          "sinopsis": "Rama Es el Más Grande de Todos los Tiempos Porque Vivió una Vida en la Que las Decisiones Que Tomó Fueron Siempre en Beneficio del Bien Mayor, del Deber Por Encima del Deseo y del Sacrificio Por Encima del Yo. Su Legado Sigue Mejorando y Fortaleciendo a la Humanidad a Lo Largo del Tiempo y Aportando la Creencia en la Bondad del Espíritu Humano Para Resolver Todos los Conflictos y Traer la Paz Al M",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "18:30",
+                "21:30"
+              ]
+            }
+          ],
+          "horarios": [
+            "18:30",
+            "21:30"
+          ]
+        },
+        {
+          "titulo": "Hechizo: Bienvenidos A Hexe",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/hexed-580955074-large.jpg",
+          "genero": "Dibujos",
+          "clasificacion": "Todo Espectador",
+          "duracion": "01:46",
+          "sinopsis": "Billie, una Adolescente Impulsiva y Poco Convencional, Desata Accidentalmente Unos Poderes Mágicos Secretos y Sale Disparada de los Suburbios Hacia un Reino Mágico Llamado Hexe, Donde la Reciben Ms. Quill y Elias Quire. A Medida Que Se Desarrolla el Viaje de Billie, Descubre Misterios Familiares Que Podrían Cambiar Para Siempre el Mundo Mágico de las Brujas.",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:15",
+                "17:15",
+                "19:15",
                 "21:15"
               ]
             }
           ],
           "horarios": [
-            "16:30",
+            "15:15",
+            "17:15",
+            "19:15",
             "21:15"
-          ]
-        },
-        {
-          "titulo": "Godzilla Minus Zero",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/gojira_mainasu_zero-757830996-large.jpg",
-          "genero": "Accion",
-          "clasificacion": "Mayores de 14",
-          "duracion": "02:15",
-          "sinopsis": "Secuela de 'Godzilla Minus One' (2023). La Guerra Dejó a Japón en la Ruina. Godzilla Lo Hundió Aún Más. Han Pasado Dos Años Desde Entonces y el País Sigue Luchando Por Reconstruirse y Volver, Por Fin, a la Normalidad. Cuando la Humanidad Apenas Empezaba a Recuperar la Paz, una Nueva Amenaza Irrumpe y Hace Añicos Toda Esperanza en un Instante. No Habrá una Tercera Oportunidad. Aquí Termina Todo.",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "18:45"
-              ]
-            }
-          ],
-          "horarios": [
-            "18:45"
           ]
         },
         {
@@ -1424,18 +1566,35 @@
             {
               "formato": "",
               "horarios": [
-                "15:15",
-                "17:30",
-                "19:45",
-                "22:15"
+                "21:40"
               ]
             }
           ],
           "horarios": [
-            "15:15",
-            "17:30",
-            "19:45",
-            "22:15"
+            "21:40"
+          ]
+        },
+        {
+          "titulo": "La Nueva Focker",
+          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/focker_in_law-118921931-large.jpg",
+          "genero": "Comedia",
+          "clasificacion": "Mayores de 14",
+          "duracion": "01:46",
+          "sinopsis": "Diez Años Después de los Últimos Eventos, los Papeles Se Invierten y Greg Focker (Ben Stiller) Se Enfrenta a Su Mayor Reto: Ser el Suegro. Cuando Su Hijo Henry Anuncia Su Compromiso, Greg Intenta Ser el Patriarca Comprensivo Que Nunca Tuvo, Pero la Presión Hace Que Afloren en Él Inseguridades y Termina Recurriendo a las Tácticas de Espionaje y Paranoia Que Aprendió del Mismísimo Jack Byrnes (Rober",
+          "formatos": [
+            {
+              "formato": "",
+              "horarios": [
+                "15:45",
+                "17:45",
+                "19:45"
+              ]
+            }
+          ],
+          "horarios": [
+            "15:45",
+            "17:45",
+            "19:45"
           ]
         },
         {
@@ -1449,21 +1608,15 @@
             {
               "formato": "",
               "horarios": [
-                "15:00",
                 "16:00",
-                "18:00",
                 "19:00",
-                "21:00",
                 "22:00"
               ]
             }
           ],
           "horarios": [
-            "15:00",
             "16:00",
-            "18:00",
             "19:00",
-            "21:00",
             "22:00"
           ]
         },
@@ -1479,34 +1632,13 @@
               "formato": "",
               "horarios": [
                 "15:30",
-                "17:15"
+                "17:00"
               ]
             }
           ],
           "horarios": [
             "15:30",
-            "17:15"
-          ]
-        },
-        {
-          "titulo": "Yo Soy Rocky",
-          "poster": "https://www.cinerama.com.pe/_admin/assets/images/peliculas/i_play_rocky-183239464-large.jpg",
-          "genero": "Drama",
-          "clasificacion": "Mayores de 14",
-          "duracion": "02:08",
-          "sinopsis": "Sylvester Stallone (Ippolito) Sueña Con Ser Actor, Pero Creció en la Pobreza, Yendo de una Casa a Otra, E Incluso Llegó a Vivir en la Calle. Ahora, Con Veintitantos Años, Lo Más Cerca Que Ha Estado de la Gran Pantalla Es Actuando en una Película Porno y Trabajando Como Acomodador. Un Día, Viendo a Muhammad Ali Pelear Contra Chuck Wepner, Le Llega la Inspiración: En Unos Días de Frenética Actividad",
-          "formatos": [
-            {
-              "formato": "",
-              "horarios": [
-                "19:30",
-                "21:50"
-              ]
-            }
-          ],
-          "horarios": [
-            "19:30",
-            "21:50"
+            "17:00"
           ]
         }
       ]
